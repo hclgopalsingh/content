@@ -1,0 +1,62 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="548px" height="404px" viewBox="0 0 548 404">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="42.2" y1="-167.15" x2="42.2" y2="-3.1500000000000057" spreadMethod="pad">
+<stop  offset="0%" stop-color="#D7D7D7"/>
+
+<stop  offset="100%" stop-color="#FFFFFF"/>
+</linearGradient>
+
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#000000" flood-opacity="1" in="SourceGraphic" result="result1"/>
+
+<feComposite in2="SourceGraphic" in="result1" operator="in" result="result2"/>
+
+<feGaussianBlur in="result2" stdDeviation="3,3" result="result3"/>
+
+<feOffset dx="0" dy="0" in="result3" result="result4"/>
+
+<feComposite in2="result4" in="SourceGraphic" operator="over" result="result5"/>
+</filter>
+
+<g id="Symbol_11_0_Layer0_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 277.45 -135.2
+Q 277.45 -149.5 267.3 -159.65 257.2 -169.75 242.9 -169.75
+L -176.05 -169.75
+Q -190.35 -169.75 -200.5 -159.65 -210.6 -149.5 -210.6 -135.2
+L -210.6 150.9
+Q -210.6 165.2 -200.5 175.3 -190.35 185.45 -176.05 185.45
+L 242.9 185.45
+Q 257.2 185.45 267.3 175.3 277.45 165.2 277.45 150.9
+L 277.45 -135.2 Z"/>
+</g>
+
+<path id="Symbol_12_copy_2_0_Layer0_0_1_STROKES" stroke="#38519A" stroke-width="8" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M -176.05 -169.75
+L 242.9 -169.75
+Q 257.2 -169.75 267.3 -159.65 277.45 -149.5 277.45 -135.2
+L 277.45 150.9
+Q 277.45 165.2 267.3 175.3 257.2 185.45 242.9 185.45
+L -176.05 185.45
+Q -190.35 185.45 -200.5 175.3 -210.6 165.2 -210.6 150.9
+L -210.6 -135.2
+Q -210.6 -149.5 -200.5 -159.65 -190.35 -169.75 -176.05 -169.75 Z"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 274,202) ">
+<g transform="matrix( 1.082763671875, 0, 0, 1.082763671875, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, -33.4,-7.85) ">
+<use xlink:href="#Symbol_11_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g filter="url(#Filter_1)" transform="matrix( 1, 0, 0, 1, -274,-202) ">
+<g transform="matrix( 1.082763671875, 0, 0, 1.082763671875, 274,202) ">
+<g transform="matrix( 1, 0, 0, 1, -33.4,-7.85) ">
+<use xlink:href="#Symbol_12_copy_2_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

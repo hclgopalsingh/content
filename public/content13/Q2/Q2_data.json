@@ -1,0 +1,34 @@
+{
+					"isFirstQues":false,
+					"id": "Q003",
+					"imgCount":"2",
+					"common_assets":{
+						
+						"bg":{"url":"assets/images/template_common_bg.jpg","location":"assets"},
+						"peechey_jayein" :{"url":"assets/images/peechey.svg","location":"assets"},
+						"peechey_jayein_original":{"url":"assets/images/peechey.svg","location":"assets"},
+						"aagey_badhein_hover":{"url":"assets/images/aageyHover.svg","location":"assets"},
+						"aagey_badhein" :{"url":"assets/images/aagey.svg","location":"assets"},
+						"aagey_badhein_original" :{"url":"assets/images/aagey.svg","location":"assets"},
+						"peechey_jayein_hover":{"url":"assets/images/peecheyHover.svg","location":"assets"},
+						"aagey_badhein_blink" : {"url":"assets/images/aageyBlink.svg","location":"assets"},
+						"playerBase": {"url":"assets/images/content13/playerBase.svg","location":"assets"},
+						"imgCount":"3"
+						
+					},
+					"ques": {
+						"text": {"url":"txt2.svg","location":"content"},
+						"record": {"url":"assets/images/content13/recordBtnInactive.svg","location":"assets"},
+						"recordActive": {"url":"assets/images/content13/recordBtnActive.svg","location":"assets"},
+						"stop": {"url":"assets/images/content13/stopBtnInactive.svg","location":"assets"},
+						"stopActive": {"url":"assets/images/content13/stopBtnActive.svg","location":"assets"},
+						"playpause": {"url":"assets/images/content13/playBtnInactive.svg","location":"assets"},
+						"help": {"url":"assets/images/help.svg","location":"assets"},
+						"helpOriginal": {"url":"assets/images/help.svg","location":"assets"},
+						"helphover": {"url":"assets/images/helpHover.svg","location":"assets"},
+						"helpsound": {"url":"Instruction.ogg","location":"content"}
+					}
+					
+					
+					
+}

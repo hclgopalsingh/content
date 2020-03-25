@@ -1,0 +1,49 @@
+{
+	"version": "1.0",
+	"cuePoints": [
+		{
+			"time": "00:00:08",
+			"speaker_btn": false,
+			"sound": "",
+			"speaker_btn_rollover": false,
+			"mouse_over_sound": "",
+			"button": "nextbtn_graphic",
+			"style_class": ""
+		}
+	],
+	"assets": {
+		"play_graphic": {
+			"url": "assets/images/videoactivity/play.svg",
+			"location": "assets"
+		},
+		"pause_graphic": {
+			"url": "assets/images/videoactivity/pause.svg",
+			"location": "assets"
+		},
+		"volume_graphic": {
+			"url": "assets/images/videoactivity/volume.svg",
+			"location": "assets"
+		},
+		"nextbtn_graphic": {
+			"url": "assets/images/zaariRakhein.svg",
+			"location": "assets"
+		},
+		"nextbtn_graphic_original": {
+			"url": "assets/images/zaariRakhein.svg",
+			"location": "assets"
+		},
+		"nextbtn_graphic_hover": {
+			"url": "assets/images/zaariRakhein_hover.svg",
+			"location": "assets"
+		},
+		"mute_graphic": {
+			"url": "assets/images/videoactivity/mute.svg",
+			"location": "assets"
+		},
+		"video": {
+			"urlOgv": "video.ogg",
+			"urlMP4": "video.mp4",
+			"location": "content"
+          }
+	}
+}

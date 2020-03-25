@@ -1,0 +1,88 @@
+{
+					"isFirstQues":true,
+					"imgCount":"8",
+					"id": "Q001",
+					"common_assets":{
+						"burst":{"url":"assets/images/temp2/burst.gif","location":"assets"},
+						"bg":{"url":"assets/images/template_common_bg.jpg","location":"assets"},
+						"peechey_jayein" :{"url":"assets/images/peechey.svg","location":"assets"},
+						"peechey_jayein_original":{"url":"assets/images/peechey.svg","location":"assets"},
+						"aagey_badhein_hover":{"url":"assets/images/aageyHover.svg","location":"assets"},
+						"aagey_badhein" :{"url":"assets/images/aagey.svg","location":"assets"},
+						"aagey_badhein_original" :{"url":"assets/images/aagey.svg","location":"assets"},
+						"peechey_jayein_hover":{"url":"assets/images/peecheyHover.svg","location":"assets"},
+						"aagey_badhein_blink" : {"url":"assets/images/aageyBlink.svg","location":"assets"},
+						"purple_bg": {"url":"ansBase1.svg","location":"content"},
+						"yellow_bg": {"url":"ansBase2.svg","location":"content"},
+						"brown_bg": {"url":"ansBase3.svg","location":"content"}
+					},
+					"ques": {
+						"text": "",
+						"narrator_voice": {"url":"Q1.ogg","location":"content"},
+						"help": {"url":"assets/images/temp2/help.svg","location":"assets"},
+						"helpOriginal": {"url":"assets/images/temp2/help.svg","location":"assets"},
+						"helphover": {"url":"assets/images/temp2/helpHover.svg","location":"assets"},
+						"helpsound": {"url":"Instruction.ogg","location":"content"}
+					},
+					"speaker":{
+						"enabled":"",
+						"imgsrc": {"url":"assets/images/temp2/speaker1.svg","location":"assets"},
+						"sound": {"url":"Speaker_Q1.ogg","location":"content"}
+					},
+			
+					"options": [{
+							"id": "001",
+							"text": "",
+							"image":  {"url":"ansBase1.svg","location":"content"},
+							"imgsrc": {"url":"ques1opt1.svg","location":"content"},
+							"image_original":  {"url":"ansBase1.svg","location":"content"},
+							"image_hover": {"url":"ansBase1hover.svg","location":"content"},
+							"option_bg":"purple_bg"
+							
+						},
+						{
+							"id": "002",
+							"text": "",
+							"image": {"url":"ansBase2.svg","location":"content"},
+							"imgsrc": {"url":"ques1opt2.svg","location":"content"},
+							"image_original": {"url":"ansBase2.svg","location":"content"},
+							"image_hover": {"url":"ansBase2hover.svg","location":"content"},
+							"option_bg": "yellow_bg"
+							
+						},
+
+						{
+							"id": "003",
+							"text": "",
+							"image": {"url":"ansBase3.svg","location":"content"},
+							"imgsrc": {"url":"ques1opt3.svg","location":"content"},
+							"image_original": {"url":"ansBase3.svg","location":"content"},
+							"image_hover": {"url":"ansBase3hover.svg","location":"content"},
+							"option_bg": "brown_bg"
+							
+						}
+					],
+					"feedback": {
+						"correct_ans_index": "002",
+						"write_ans_popup": {
+							"enabled": false,
+							"text": "",
+							"image": {"url":"correctAnsPopup1.svg","location":"content"}
+							
+						},
+						"wrong_ans_popup": {
+							"enabled": false,
+							"text": "",
+							"image_bg": ""
+							
+						},
+						"write_ans_sound": {
+							"enabled": true,
+							"path": {"url":"clap.ogg","location":"content"}
+						},
+						"wrong_ans_sound": {
+							"enabled": true,
+							"path": {"url":"shake.ogg","location":"content"}
+						}
+					}
+				}

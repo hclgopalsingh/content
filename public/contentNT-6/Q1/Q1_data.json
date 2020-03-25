@@ -1,0 +1,741 @@
+{
+    "commonassets": {
+        "instruction_img": {
+            "url": "instructionBar.png",
+            "location": "content"
+        },
+        "instruction_vo": {
+            "url": "ques_vo.ogg",
+            "location": "content"
+        },
+        "speaker": {
+            "url": "speaker.png",
+            "location": "content"
+        },
+        "speaker_vo": {
+            "url": "question.ogg",
+            "location": "content"
+        },
+        "optionBase": {
+            "url": "optionBase.png",
+            "location": "content"
+        },
+        "background": {
+            "url": "bg_1.svg",
+            "location": "content"
+        },
+        "ques_control": {
+            "aagey_badhein": {
+                "url": "aagey.svg",
+                "location": "content"
+            },
+            "aagey_badhein_original": {
+                "url": "aagey.svg",
+                "location": "content"
+            },
+            "aagey_badhein_hover": {
+                "url": "aageyHover.svg",
+                "location": "content"
+            },
+            "blink_btn1": {
+                "url": "blink_btn1.svg",
+                "location": "content"
+            },
+            "blink_btn2": {
+                "url": "blink_btn2.svg",
+                "location": "content"
+            },
+            "peechey_jayein": {
+                "url": "peechey.svg",
+                "location": "content"
+            },
+            "peechey_jayein_original": {
+                "url": "peechey.svg",
+                "location": "content"
+            },
+            "peechey_jayein_hover": {
+                "url": "peecheyHover.svg",
+                "location": "content"
+            },
+            "uttar_dikhayein": {
+                "url": "uttarBtn.svg",
+                "location": "content"
+            },
+            "uttar_dikhayein_original": {
+                "url": "uttarBtn.svg",
+                "location": "content"
+            },
+            "uttar_dikhayein_hover": {
+                "url": "uttarBtnHover.svg",
+                "location": "content"
+            },
+            "replay_btn": {
+                "url": "video_btn.png",
+                "location": "content"
+            },
+            "replay_btn_hover": {
+                "url": "video_stream_btn.png",
+                "location": "content"
+            },
+            "replay_btn_original": {
+                "url": "video_btn.png",
+                "location": "content"
+            },
+            "quesTabs": [
+                {
+                    "ques_tab": {
+                        "tabbody": {
+                            "url": "tab1Body.png",
+                            "location": "content"
+                        },
+                        "tabL": {
+                            "url": "tab1L.png",
+                            "location": "content"
+                        },
+                        "tabR": {
+                            "url": "tab1R.png",
+                            "location": "content"
+                        },
+                        "tabbodyAct": {
+                            "url": "tab1BodyAct.png",
+                            "location": "content"
+                        },
+                        "tabLAct": {
+                            "url": "tab1LAct.png",
+                            "location": "content"
+                        },
+                        "tabRAct": {
+                            "url": "tab1RAct.png",
+                            "location": "content"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
+                            "location": "content"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "tabbody": {
+                            "url": "tab2Body.png",
+                            "location": "content"
+                        },
+                        "tabL": {
+                            "url": "tab2L.png",
+                            "location": "content"
+                        },
+                        "tabR": {
+                            "url": "tab2R.png",
+                            "location": "content"
+                        },
+                        "tabbodyAct": {
+                            "url": "tab2BodyAct.png",
+                            "location": "content"
+                        },
+                        "tabLAct": {
+                            "url": "tab2LAct.png",
+                            "location": "content"
+                        },
+                        "tabRAct": {
+                            "url": "tab2RAct.png",
+                            "location": "content"
+                        },
+                        "tabIdx": {
+                            "url": "tab2Idx.svg",
+                            "location": "content"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "tabbody": {
+                            "url": "tab3Body.png",
+                            "location": "content"
+                        },
+                        "tabL": {
+                            "url": "tab3L.png",
+                            "location": "content"
+                        },
+                        "tabR": {
+                            "url": "tab3R.png",
+                            "location": "content"
+                        },
+                        "tabbodyAct": {
+                            "url": "tab3BodyAct.png",
+                            "location": "content"
+                        },
+                        "tabLAct": {
+                            "url": "tab3LAct.png",
+                            "location": "content"
+                        },
+                        "tabRAct": {
+                            "url": "tab3RAct.png",
+                            "location": "content"
+                        },
+                        "tabIdx": {
+                            "url": "tab3Idx.svg",
+                            "location": "content"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "tabbody": {
+                            "url": "tab4Body.png",
+                            "location": "content"
+                        },
+                        "tabL": {
+                            "url": "tab4L.png",
+                            "location": "content"
+                        },
+                        "tabR": {
+                            "url": "tab4R.png",
+                            "location": "content"
+                        },
+                        "tabbodyAct": {
+                            "url": "tab4BodyAct.png",
+                            "location": "content"
+                        },
+                        "tabLAct": {
+                            "url": "tab4LAct.png",
+                            "location": "content"
+                        },
+                        "tabRAct": {
+                            "url": "tab4RAct.png",
+                            "location": "content"
+                        },
+                        "tabIdx": {
+                            "url": "tab4Idx.svg",
+                            "location": "content"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "tabbody": {
+                            "url": "tab5Body.png",
+                            "location": "content"
+                        },
+                        "tabL": {
+                            "url": "tab5L.png",
+                            "location": "content"
+                        },
+                        "tabR": {
+                            "url": "tab5R.png",
+                            "location": "content"
+                        },
+                        "tabbodyAct": {
+                            "url": "tab5BodyAct.png",
+                            "location": "content"
+                        },
+                        "tabLAct": {
+                            "url": "tab5LAct.png",
+                            "location": "content"
+                        },
+                        "tabRAct": {
+                            "url": "tab5RAct.png",
+                            "location": "content"
+                        },
+                        "tabIdx": {
+                            "url": "tab5Idx.svg",
+                            "location": "content"
+                        }
+                    }
+                }
+            ],
+            "nav_base": {
+                "url": "navBase.svg",
+                "location": "content"
+            },
+            "ques_nav_base": {
+                "url": "quesNavBase.svg",
+                "location": "content"
+            }
+        },
+        "animation": {
+            "img": {
+                "url": "happyFixedAnimation.webp"
+            },
+            "audio": {
+                "url": "clap.ogg"
+            },
+            "location": "content",
+            "timeout": 5000
+        },
+        "wrongAnimationAssts": {
+            "img": {
+                "url": "sadFixedAnimation.gif"
+            },
+            "audio": {
+                "url": "shake.ogg"
+            },
+            "location": "content",
+            "timeout": 5000
+        },
+        "isFirstQues": true,
+        "imgCount": 2
+    },
+    "option_common_assets": {
+        "option_base": {
+            "url": "optBase.svg",
+            "location": "content"
+        },
+        "option_base_hover": {
+            "url": "optBaseHover.svg",
+            "location": "content"
+        },
+        "option_base_original": {
+            "url": "optBase.svg",
+            "location": "content"
+        }
+    },
+    "optionsObj": [
+        {
+            "optionID": "M11",
+            "imgrightfeedback_audio": {
+                "url": "rightFeedbackAudio1.ogg",
+                "location": "content"
+            },
+            "imgwrongfeedback_audio": {
+                "url": "wrongFeedbackAudio1.ogg",
+                "location": "content"
+            },
+            "showAnswerfeedback_audio": {
+                "url": "rightFeedbackAudio1.ogg",
+                "location": "content"
+            }
+        },
+        {
+            "optionID": "M8",
+            "imgrightfeedback_audio": {
+                "url": "rightFeedbackAudio2.ogg",
+                "location": "content"
+            },
+            "imgwrongfeedback_audio": {
+                "url": "wrongFeedbackAudio2.ogg",
+                "location": "content"
+            },
+            "showAnswerfeedback_audio": {
+                "url": "rightFeedbackAudio2.ogg",
+                "location": "content"
+            }
+        },
+        {
+            "optionID": "M1",
+            "imgrightfeedback_audio": {
+                "url": "rightFeedbackAudio3.ogg",
+                "location": "content"
+            },
+            "imgwrongfeedback_audio": {
+                "url": "wrongFeedbackAudio3.ogg",
+                "location": "content"
+            },
+            "showAnswerfeedback_audio": {
+                "url": "rightFeedbackAudio3.ogg",
+                "location": "content"
+            }
+        },
+        {
+            "optionID": "M3",
+            "imgrightfeedback_audio": {
+                "url": "rightFeedbackAudio4.ogg",
+                "location": "content"
+            },
+            "imgwrongfeedback_audio": {
+                "url": "wrongFeedbackAudio4.ogg",
+                "location": "content"
+            },
+            "showAnswerfeedback_audio": {
+                "url": "rightFeedbackAudio4.ogg",
+                "location": "content"
+            }
+        },
+        {
+            "optionID": "M6",
+            "imgrightfeedback_audio": {
+                "url": "rightFeedbackAudio5.ogg",
+                "location": "content"
+            },
+            "imgwrongfeedback_audio": {
+                "url": "wrongFeedbackAudio5.ogg",
+                "location": "content"
+            },
+            "showAnswerfeedback_audio": {
+                "url": "rightFeedbackAudio5.ogg",
+                "location": "content"
+            }
+        }
+    ],
+     "AnswerObj": [
+        {
+            "AnswerArr": [
+                {
+                    "id": "001",
+                    "imgsrc": {
+                        "url": "T.png",
+                        "location": "content"
+                    }
+                },
+                {
+                    "id": "002",
+                    "imgsrc": {
+                        "url": "L.png",
+                        "location": "content"
+                    }
+                },
+                {
+                    "id": "003",
+                    "imgsrc": {
+                        "url": "K.png",
+                        "location": "content"
+                    }
+                },
+                {
+                    "id": "004",
+                    "imgsrc": {
+                        "url": "A.png",
+                        "location": "content"
+                    }
+                },
+                {
+                    "id": "005",
+                    "imgsrc": {
+                        "url": "H.png",
+                        "location": "content"
+                    }
+                }
+            ]
+        }
+    ],
+
+    "refQuesObj": {
+            "LetterConfig": [
+            ],
+      "quesIdConfig": [ "L25", "L49", "L56", "L74" ]
+    },
+    "optionInitPosObj": [
+        {
+            "optionInitPosArr": [
+                {
+                    "leftPos": "10",
+                    "rightPos": "61.17"
+                },
+                {
+                    "leftPos": "29",
+                    "rightPos": "61.17"
+                },
+                {
+                    "leftPos": "48",
+                    "rightPos": "61.17"
+                },
+                {
+                    "leftPos": "67.5",
+                    "rightPos": "61.17"
+                },
+                {
+                    "leftPos": "86.5",
+                    "rightPos": "61.17"
+                }
+            ]
+        }
+    ],
+
+    "quesObj": {
+        "quesVideo": {
+            "urlOgv": "video.ogg",
+            "urlMP4": "video.mp4",
+            "location": "content",
+            "autoPlay": true
+        },
+
+        "quesInstruction": {
+            "url": "ques_vo.ogg",
+            "location": "content",
+            "autoPlay": true
+        },
+        "quesPlayPause": {
+            "url": "pause.svg",
+            "location": "content"
+        },
+        "quesPlay": {
+            "url": "play.svg",
+            "location": "content"
+        },
+        "quesPause": {
+            "url": "pause.svg",
+            "location": "content"
+        },
+        "quesSkip": {
+            "urlOgv": "SkipButton.svg",                
+            "location": "content"
+        },
+        "quesSkipOrigenal": {
+            "urlOgv": "SkipButton.svg",                
+            "location": "content"
+        },
+        "quesSkipHover": {                
+            "urlOgv": "SkipButtonHover.svg",
+            "location": "content"
+        },
+        "`quesImg": {
+            "url": "",
+            "location": ""
+        },
+        "quesImgHover": {
+            "url": "",
+            "location": ""
+        },
+        "quesImgOriginal": {
+            "url": "",
+            "location": ""
+        }
+    },
+
+    "show_answer_confirm": {
+        "style_header": {
+            "border": "solid .4vmin #85d222",
+            "border-top-left-radius": "20px",
+            "border-top-right-radius": "20px",
+            "background": "#248446"
+        },
+        "style_body": {
+            "border": "solid .4vmin #85d222",
+            "border-bottom-left-radius": "20px",
+            "border-bottom-right-radius": "20px",
+            "border-top": "none",
+            "background": "#afdec0"
+        },
+        "wrong_style_header": {
+            "border": "solid .4vmin #F63A39",
+            "border-top-left-radius": "20px",
+            "border-top-right-radius": "20px",
+            "background": "#E90101"
+        },
+        "wrong_style_body": {
+            "border": "solid .4vmin #DB4A4D",
+            "border-bottom-left-radius": "20px",
+            "border-bottom-right-radius": "20px",
+            "background": "#FFFFFF"
+        },
+        "confirm_headerTxt_img": {
+            "url": "PopupHeaderTitle.png",
+            "location": "content"
+        },
+        "rightAnswerheaderTxt_img": {
+            "url": "PopupHeaderTitle1.png",
+            "location": "content"
+        },
+        "wrongAnswerheaderTxt_img": {
+            "url": "PopupHeaderTitle2.png",
+            "location": "content"
+        },
+        "showAnswerheaderTxt_img": {
+            "url": "PopupHeaderTitle3.png",
+            "location": "content"
+        },
+        "close_btn": {
+            "url": "closeBtn.png",
+            "location": "content"
+        },
+        "close_btn_hover": {
+            "url": "closeBtnHover.png",
+            "location": "content"
+        },
+        "close_btn_original": {
+            "url": "closeBtn.png",
+            "location": "content"
+        },
+        "confirm_text": {
+            "url": "confirmation_popup_text.png",
+            "location": "content"
+        },
+        "confirm_btn": {
+            "url": "yes_btn.png",
+            "location": "content"
+        },
+        "confirm_btn_hover": {
+            "url": "yes_btn_Hover.png",
+            "location": "content"
+        },
+        "confirm_btn_original": {
+            "url": "yes_btn.png",
+            "location": "content"
+        },
+        "decline_btn": {
+            "url": "no_btn.png",
+            "location": "content"
+        },
+        "decline_btn_hover": {
+            "url": "no_btn_Hover.png",
+            "location": "content"
+        },
+        "decline_btn_original": {
+            "url": "no_btn.png",
+            "location": "content"
+        }
+    },
+
+    "replay_confirm": {
+        "style_header": {
+            "border": "solid .4vmin #85d222",
+            "border-top-left-radius": "20px",
+            "border-top-right-radius": "20px",
+            "background": "#248446"
+        },
+        "style_body": {
+            "border": "solid .4vmin #85d222",
+            "border-bottom-left-radius": "20px",
+            "border-bottom-right-radius": "20px",
+            "background": "#afdec0"
+        },
+        "headerTxt_img": {
+            "url": "header_confirm_text.png",
+            "location": "content"
+        },
+        "close_btn": {
+            "url": "closeBtn.png",
+            "location": "content"
+        },
+        "close_btn_hover": {
+            "url": "closeBtnHover.png",
+            "location": "content"
+        },
+        "close_btn_original": {
+            "url": "closeBtn.png",
+            "location": "content"
+        },
+        "confirm_text": {
+            "url": "replay_popup_text.png",
+            "location": "content"
+        },
+        "confirm_btn": {
+            "url": "yes_btn.png",
+            "location": "content"
+        },
+        "confirm_btn_hover": {
+            "url": "yes_btn_Hover.png",
+            "location": "content"
+        },
+        "confirm_btn_original": {
+            "url": "yes_btn.png",
+            "location": "content"
+        },
+        "decline_btn": {
+            "url": "no_btn.png",
+            "location": "content"
+        },
+        "decline_btn_hover": {
+            "url": "no_btn_Hover.png",
+            "location": "content"
+        },
+        "decline_btn_original": {
+            "url": "no_btn.png",
+            "location": "content"
+        }
+    },
+
+    "feedback": {
+        "correct_ans_array": [ "L25", "L49", "M1", "L56", "L74" ],
+        "correct_option_number": 2,
+        "correct_matra_number": 2,
+        "popup_instruction_bg": {
+            "url": "instructionBase.svg",
+            "location": "content"
+        },
+        "popup_instruction_img": {
+            "url": "instructionText.svg",
+            "location": "content"
+        },
+        "popup_commmon_imgs": {
+            "bg_img": {
+                "url": "popupBase.png",
+                "location": "content"
+            },
+            "close_btn": {
+                "url": "closeBtn.png",
+                "location": "content"
+            },
+            "close_btn_hover": {
+                "url": "closeBtnHover.png",
+                "location": "content"
+            },
+            "close_btn_original": {
+                "url": "closeBtn.png",
+                "location": "content"
+            },
+            "option_base": {
+                "url": "optBase.png",
+                "location": "content"
+            }
+        },
+        "imgListTop": [
+            {
+                "imgsrc": {
+                    "url": "q1_opt1.svg",
+                    "location": "content"
+                },
+                "txtBg": {
+                    "url": "optBaseHover.svg",
+                    "location": "content"
+                },
+                "imgTxt": {
+                    "url": "q1_opt1_txt.svg",
+                    "location": "content"
+                },
+                "imgAudio": {
+                    "url": "feedbackAudio1.ogg",
+                    "location": "content"
+                }
+            }
+        ],
+        "wrong_ans_popup": {
+
+        },
+        "confirm_popup": {
+            "bg_img": {
+                "url": "confirmation_popup_base.png",
+                "location": "content"
+            },
+            "close_btn": {
+                "url": "closeBtn.png",
+                "location": "content"
+            },
+            "close_btn_hover": {
+                "url": "closeBtnHover.png",
+                "location": "content"
+            },
+            "close_btn_original": {
+                "url": "closeBtn.png",
+                "location": "content"
+            },
+            "confirm_text": {
+                "url": "confirmation_popup_text.png",
+                "location": "content"
+            },
+            "confirm_btn": {
+                "url": "yes_btn.png",
+                "location": "content"
+            },
+            "confirm_btn_hover": {
+                "url": "yes_btn_Hover.png",
+                "location": "content"
+            },
+            "confirm_btn_original": {
+                "url": "yes_btn.png",
+                "location": "content"
+            },
+            "decline_btn": {
+                "url": "no_btn.png",
+                "location": "content"
+            },
+            "decline_btn_hover": {
+                "url": "no_btn_Hover.png",
+                "location": "content"
+            },
+            "decline_btn_original": {
+                "url": "no_btn.png",
+                "location": "content"
+            }
+        }
+    }
+}

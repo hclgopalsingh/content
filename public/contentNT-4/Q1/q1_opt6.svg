@@ -1,0 +1,139 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="295px" height="178px" viewBox="0 0 295 178">
+<defs>
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#000000" flood-opacity="1" in="SourceGraphic" result="result1"/>
+
+<feComposite in2="SourceGraphic" in="result1" operator="in" result="result2"/>
+
+<feGaussianBlur in="result2" stdDeviation="4,4" result="result3"/>
+
+<feOffset dx="0" dy="0" in="result3" result="result4"/>
+
+<feComposite in2="result4" in="SourceGraphic" operator="over" result="result5"/>
+
+<feColorMatrix in="result5" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.55 0" result="result6"/>
+</filter>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Times New Roman
+Vendor ID: TMC 
+© 2017 The Monotype Corporation. All Rights Reserved. 
+
+Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Times%20New%20Roman&PSName=TimesNewRomanPSMT&applanguage=en_US-->
+<font-face font-family="Times_New_Roman_Regular" units-per-em="2048" ascent="1825" descent="443"/>
+
+<glyph unicode="D" horiz-adv-x="1479" d="
+M 35 0
+L 35 37 86 37
+Q 172 37 208 92 230 125 230 240
+L 230 1116
+Q 230 1243 202 1275 163 1319 86 1319
+L 35 1319 35 1356 587 1356
+Q 891 1356 1050 1287 1208 1218 1305 1057 1401 896 1401 685 1401 402 1229 212 1036 0 641 0
+L 35 0 Z
+M 422 98
+Q 549 70 635 70 867 70 1020 233 1173 396 1173 675 1173 956 1020 1118 867 1280 627 1280 537 1280 422 1251
+L 422 98 Z"/>
+</font>
+</defs>
+
+<g id="Layer_1">
+<g transform="matrix( 1, 0, 0, 1, 147.5,89) ">
+<g id="Layer_7">
+<g filter="url(#Filter_1)" transform="matrix( 1, 0, 0, 1, -147.5,-89) ">
+<g transform="matrix( 1, 0, 0, 1, 147.5,89) ">
+<g id="Layer_1">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g>
+<g>
+<path fill="#000000" stroke="none" d="
+M 142.95 -71.5
+Q 142.95 -84.15 130.35 -84.15
+L -130.3 -84.15
+Q -142.95 -84.15 -142.95 -71.5
+L -142.95 71.55
+Q -142.95 84.2 -130.3 84.2
+L 130.35 84.2
+Q 142.95 84.2 142.95 71.55
+L 142.95 -71.5 Z"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+
+<g id="Layer_3">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g>
+<g>
+<path fill="#D96990" stroke="none" d="
+M 142.95 -71.5
+Q 142.95 -84.15 130.35 -84.15
+L -130.3 -84.15
+Q -142.95 -84.15 -142.95 -71.5
+L -142.95 71.55
+Q -142.95 84.2 -130.3 84.2
+L 130.35 84.2
+Q 142.95 84.2 142.95 71.55
+L 142.95 -71.5 Z"/>
+</g>
+</g>
+</g>
+</g>
+
+<mask id="Mask_Mask_1">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g>
+<g>
+<path fill="#FFFFFF" stroke="none" d="
+M 142.95 -71.5
+Q 142.95 -84.15 130.35 -84.15
+L -130.3 -84.15
+Q -142.95 -84.15 -142.95 -71.5
+L -142.95 71.55
+Q -142.95 84.2 -130.3 84.2
+L 130.35 84.2
+Q 142.95 84.2 142.95 71.55
+L 142.95 -71.5 Z"/>
+</g>
+</g>
+</g>
+</mask>
+
+<g id="opt" mask="url(#Mask_Mask_1)">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g id="Layer_1">
+<g transform="matrix( 1, 0, 0, 1, -72,-52.05) ">
+<clipPath id="Mask_Mask_2">
+<rect x="35.95" y="-2" width="72.1" height="108.1" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="38.05" y="83.75" baseline-shift="0%" kerning="auto" font-family="Times_New_Roman_Regular" font-size="94" fill="#ffffff" xml:space="preserve">D</tspan></text>
+</g>
+</g>
+</g>
+</g>
+
+<g id="border">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g>
+<path stroke="#AA4F6F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M -130.3 -84.15
+L 130.35 -84.15
+Q 142.95 -84.15 142.95 -71.5
+L 142.95 71.55
+Q 142.95 84.2 130.35 84.2
+L -130.3 84.2
+Q -142.95 84.2 -142.95 71.55
+L -142.95 -71.5
+Q -142.95 -84.15 -130.3 -84.15 Z"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

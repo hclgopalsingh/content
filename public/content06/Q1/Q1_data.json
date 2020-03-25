@@ -1,0 +1,302 @@
+{
+	"id": "Q001",
+	"ques": {
+		"text": "",
+		"sound": "",
+		"imgsrc": {
+			"url": "blankImg.svg",
+			"location": "content"
+		},
+		"filled_imgsrc": {
+			"url": "filledImg.svg",
+			"location": "content"
+		}
+	},
+	"commonassets": {
+		"right_sound": {
+			"url": "assets/sounds/clap.ogg",
+			"location": "assets"
+		},
+		"wrong_sound": {
+			"url": "assets/sounds/shake.ogg",
+			"location": "assets"
+		},
+		"narrator": {
+			"url": "narrator.ogg",
+			"location": "content"
+		},
+		"option_base": {
+			"url": "assets/images/content06/option_base.svg",
+			"location": "assets"
+		},
+		"burst_image": {
+			"url": "assets/images/burst.gif",
+			"location": "assets"
+		},
+		"background": {
+			"url": "assets/images/template_common_bg.jpg",
+			"location": "assets"
+		},
+		"aagey_badhein": {
+			"url": "assets/images/aagey.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_original": {
+			"url": "assets/images/aagey.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_hover": {
+			"url": "assets/images/aagey_hover.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_blink": {
+			"url": "assets/images/aageyBlink.svg",
+			"location": "assets"
+		},
+		"peechey_jayein": {
+			"url": "assets/images/peechey.svg",
+			"location": "assets"
+		},
+		"peechey_jayein_original": {
+			"url": "assets/images/peechey.svg",
+			"location": "assets"
+		},
+		"peechey_jayein_hover": {
+			"url": "assets/images/peechey_hover.svg",
+			"location": "assets"
+		},
+		"help_btn": {
+			"url": "assets/images/help.svg",
+			"location": "assets"
+		},
+		"help_btn_original": {
+			"url": "assets/images/help.svg",
+			"location": "assets"
+		},
+		"help_btn_hover": {
+			"url": "assets/images/help_hover.svg",
+			"location": "assets"
+		},
+		"isFirstQues": true,
+		"imgCount": "16",
+		"formatTimeout": "5000"
+	},
+	"options": [{
+			"id": "001",
+			"custom_id": "0",
+			"imgsrc": {
+				"url": "q1_opt1.svg",
+				"location": "content"
+			},
+			"imgsrc_original": {
+				"url": "q1_opt1.svg",
+				"location": "content"
+			},
+			"filled_img": {
+				"url": "q1_opt1_filled.svg",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "opt_bg.svg",
+				"location": "content"
+			},
+			"bgImgsrc_original": {
+				"url": "opt_bg.svg",
+				"location": "content"
+			},
+			"bgImgsrc_hover": {
+				"url": "opt_bg_hover.svg",
+				"location": "content"
+			},
+			"bgImgsrc_empty": {
+				"url": "empty_opt.svg",
+				"location": "content"
+			},
+			"blink_state1": {
+				"url": "blink1_state1.svg",
+				"location": "content"
+			},
+			"blink_state2": {
+				"url": "blink1_state2.svg",
+				"location": "content"
+			}
+		},
+		{
+			"id": "002",
+			"custom_id": "1",
+			"imgsrc": {
+				"url": "q1_opt2.svg",
+				"location": "content"
+			},
+			"imgsrc_original": {
+				"url": "q1_opt2.svg",
+				"location": "content"
+			},
+			"filled_img": {
+				"url": "q1_opt2_filled.svg",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "opt_bg.svg",
+				"location": "content"
+			},
+			"bgImgsrc_original": {
+				"url": "opt_bg.svg",
+				"location": "content"
+			},
+			"bgImgsrc_hover": {
+				"url": "opt_bg_hover.svg",
+				"location": "content"
+			},
+			"bgImgsrc_empty": {
+				"url": "empty_opt.svg",
+				"location": "content"
+			},
+			"blink_state1": {
+				"url": "blink2_state1.svg",
+				"location": "content"
+			},
+			"blink_state2": {
+				"url": "blink2_state2.svg",
+				"location": "content"
+			}
+		},
+		{
+			"id": "003",
+			"custom_id": "2",
+			"imgsrc": {
+				"url": "q1_opt3.svg",
+				"location": "content"
+			},
+			"imgsrc_original": {
+				"url": "q1_opt3.svg",
+				"location": "content"
+			},
+			"filled_img": {
+				"url": "q1_opt3_filled.svg",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "opt_bg.svg",
+				"location": "content"
+			},
+			"bgImgsrc_original": {
+				"url": "opt_bg.svg",
+				"location": "content"
+			},
+			"bgImgsrc_hover": {
+				"url": "opt_bg_hover.svg",
+				"location": "content"
+			},
+			"bgImgsrc_empty": {
+				"url": "empty_opt.svg",
+				"location": "content"
+			},
+			"blink_state1": {
+				"url": "blink3_state1.svg",
+				"location": "content"
+			},
+			"blink_state2": {
+				"url": "blink3_state2.svg",
+				"location": "content"
+			}
+		},
+		{
+			"id": "004",
+			"custom_id": "3",
+			"imgsrc": {
+				"url": "q1_opt4.svg",
+				"location": "content"
+			},
+			"imgsrc_original": {
+				"url": "q1_opt4.svg",
+				"location": "content"
+			},
+			"filled_img": {
+				"url": "q1_opt4_filled.svg",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "opt_bg.svg",
+				"location": "content"
+			},
+			"bgImgsrc_original": {
+				"url": "opt_bg.svg",
+				"location": "content"
+			},
+			"bgImgsrc_hover": {
+				"url": "opt_bg_hover.svg",
+				"location": "content"
+			},
+			"bgImgsrc_empty": {
+				"url": "empty_opt.svg",
+				"location": "content"
+			},
+			"blink_state1": {
+				"url": "blink4_state1.svg",
+				"location": "content"
+			},
+			"blink_state2": {
+				"url": "blink4_state2.svg",
+				"location": "content"
+			}
+
+		},
+		{
+			"id": "005",
+			"custom_id": "4",
+			"imgsrc": {
+				"url": "q1_opt5.svg",
+				"location": "content"
+			},
+			"imgsrc_original": {
+				"url": "q1_opt5.svg",
+				"location": "content"
+			},
+			"filled_img": {
+				"url": "q1_opt5_filled.svg",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "opt_bg.svg",
+				"location": "content"
+			},
+			"bgImgsrc_original": {
+				"url": "opt_bg.svg",
+				"location": "content"
+			},
+			"bgImgsrc_hover": {
+				"url": "opt_bg_hover.svg",
+				"location": "content"
+			},
+			"bgImgsrc_empty": {
+				"url": "empty_opt.svg",
+				"location": "content"
+			},
+			"blink_state1": {
+				"url": "blink5_state1.svg",
+				"location": "content"
+			},
+			"blink_state2": {
+				"url": "blink5_state2.svg",
+				"location": "content"
+			}
+		}
+	],
+
+
+	"feedback": {
+		"correct_ans_index": [1, 0, 3, 4],
+
+		"right_ans_popup": {},
+		"wrong_ans_popup": {
+
+		},
+		"right_ans_sound": {
+
+		},
+		"wrong_ans_sound": {
+
+		}
+	}
+}

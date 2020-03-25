@@ -1,0 +1,73 @@
+{
+	"id": "Q001",
+	"ques": [{
+				"url": "scaned1.png",
+				"location": "content",
+				"durationTime":30
+			},{
+				"url": "scaned2.png",
+				"location": "content",
+				"durationTime":30
+			},{
+				"url": "3.png",
+				"location": "content",
+				"durationTime":30
+			},{
+				"url": "sampleImg3.svg",	
+				"location": "content",
+				"durationTime":35
+			},{
+				"url": "sampleImg2.svg",
+				"location": "content",
+				"durationTime":30
+			}],
+			
+			"pauseTimes":[5,20,30],
+			
+	"soundConclude":{
+			"soundExist":true,
+			"url": "shake.ogg",
+			"location": "content"
+	},
+			
+	"commonassets": {
+		"play_graphic": {
+			"url": "assets/images/videoactivity/play.svg",
+			"location": "assets"
+		},
+		"pause_graphic": {
+			"url": "assets/images/videoactivity/pause.svg",
+			"location": "assets"
+		},
+		"volume_graphic": {
+			"url": "assets/images/videoactivity/volume.svg",
+			"location": "assets"
+		},
+		"nextbtn_graphic": {
+			"url": "assets/images/zaariRakhein.svg",
+			"location": "assets"
+		},
+		"nextbtn_graphic_original": {
+			"url": "assets/images/zaariRakhein.svg",
+			"location": "assets"
+		},
+		"nextbtn_graphic_hover": {
+			"url": "assets/images/zaariRakhein_hover.svg",
+			"location": "assets"
+		},
+		"mute_graphic": {
+			"url": "assets/images/videoactivity/mute.svg",
+			"location": "assets"
+		},
+		"background": {
+			"url": "assets/images/template_common_bg.jpg",
+			"location": "assets"
+		},
+		"aagey_badhein": {
+			"url": "assets/images/aagey.svg",
+			"location": "assets"
+		},
+		"imgCount": "2"
+	}
+
+}

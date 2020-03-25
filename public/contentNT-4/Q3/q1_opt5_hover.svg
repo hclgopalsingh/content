@@ -1,0 +1,134 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="295px" height="178px" viewBox="0 0 295 178">
+<defs>
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#000000" flood-opacity="1" in="SourceGraphic" result="result1"/>
+
+<feComposite in2="SourceGraphic" in="result1" operator="in" result="result2"/>
+
+<feGaussianBlur in="result2" stdDeviation="4,4" result="result3"/>
+
+<feOffset dx="0" dy="0" in="result3" result="result4"/>
+
+<feComposite in2="result4" in="SourceGraphic" operator="over" result="result5"/>
+
+<feColorMatrix in="result5" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.55 0" result="result6"/>
+</filter>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Times New Roman
+Vendor ID: TMC 
+© 2017 The Monotype Corporation. All Rights Reserved. 
+
+Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Times%20New%20Roman&PSName=TimesNewRomanPSMT&applanguage=en_US-->
+<font-face font-family="Times_New_Roman_Regular" units-per-em="2048" ascent="1825" descent="443"/>
+
+<glyph unicode="C" horiz-adv-x="1366" d="
+M 1233 1387
+L 1264 926 1233 926
+Q 1171 1133 1056 1224 941 1315 780 1315 645 1315 536 1246 427 1178 365 1028 302 878 302 655 302 471 361 336 420 201 539 129 657 57 809 57 941 57 1042 113 1143 170 1264 338
+L 1295 318
+Q 1193 137 1057 53 921 -31 734 -31 397 -31 212 219 74 405 74 657 74 860 165 1030 256 1200 416 1293 575 1387 764 1387 911 1387 1054 1315 1096 1293 1114 1293 1141 1293 1161 1312 1187 1339 1198 1387
+L 1233 1387 Z"/>
+</font>
+</defs>
+
+<g id="Layer_1">
+<g transform="matrix( 1, 0, 0, 1, 147.5,89) ">
+<g id="Layer_7">
+<g filter="url(#Filter_1)" transform="matrix( 1, 0, 0, 1, -147.5,-89) ">
+<g transform="matrix( 1, 0, 0, 1, 147.5,89) ">
+<g id="Layer_1">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g>
+<g>
+<path fill="#000000" stroke="none" d="
+M 142.95 -71.5
+Q 142.95 -84.15 130.35 -84.15
+L -130.3 -84.15
+Q -142.95 -84.15 -142.95 -71.5
+L -142.95 71.55
+Q -142.95 84.2 -130.3 84.2
+L 130.35 84.2
+Q 142.95 84.2 142.95 71.55
+L 142.95 -71.5 Z"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+
+<g id="Layer_3">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g>
+<g>
+<path fill="#46B7F7" stroke="none" d="
+M 142.95 -71.5
+Q 142.95 -84.15 130.35 -84.15
+L -130.3 -84.15
+Q -142.95 -84.15 -142.95 -71.5
+L -142.95 71.55
+Q -142.95 84.2 -130.3 84.2
+L 130.35 84.2
+Q 142.95 84.2 142.95 71.55
+L 142.95 -71.5 Z"/>
+</g>
+</g>
+</g>
+</g>
+
+<mask id="Mask_Mask_1">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g>
+<g>
+<path fill="#FFFFFF" stroke="none" d="
+M 142.95 -71.5
+Q 142.95 -84.15 130.35 -84.15
+L -130.3 -84.15
+Q -142.95 -84.15 -142.95 -71.5
+L -142.95 71.55
+Q -142.95 84.2 -130.3 84.2
+L 130.35 84.2
+Q 142.95 84.2 142.95 71.55
+L 142.95 -71.5 Z"/>
+</g>
+</g>
+</g>
+</mask>
+
+<g id="opt" mask="url(#Mask_Mask_1)">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g id="Layer_1">
+<g transform="matrix( 1, 0, 0, 1, -72,-52.05) ">
+<clipPath id="Mask_Mask_2">
+<rect x="38.55" y="-2" width="66.9" height="108.1" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="40.65" y="83.75" baseline-shift="0%" kerning="auto" font-family="Times_New_Roman_Regular" font-size="94" fill="#ffffff" xml:space="preserve">C</tspan></text>
+</g>
+</g>
+</g>
+</g>
+
+<g id="border">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g>
+<path stroke="#FFFF00" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M -130.3 -84.15
+L 130.35 -84.15
+Q 142.95 -84.15 142.95 -71.5
+L 142.95 71.55
+Q 142.95 84.2 130.35 84.2
+L -130.3 84.2
+Q -142.95 84.2 -142.95 71.55
+L -142.95 -71.5
+Q -142.95 -84.15 -130.3 -84.15 Z"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

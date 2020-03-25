@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="347px" height="249px" viewBox="0 0 347 249">
+<defs>
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#250D09" flood-opacity="1" in="SourceGraphic" result="result1"/>
+
+<feComposite in2="SourceGraphic" in="result1" operator="in" result="result2"/>
+
+<feGaussianBlur in="result2" stdDeviation="1.6666666666666667,1.6666666666666667" result="result3"/>
+
+<feOffset dx="0" dy="0" in="result3" result="result4"/>
+
+<feComposite in2="result4" in="SourceGraphic" operator="over" result="result5"/>
+</filter>
+
+<g id="Symbol_8_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 43.35 -48.6
+L 60.35 -48.6 53.8 -61.2 -60.85 -61.2 -54.2 -48.6 -40.4 -48.6 -40.4 -43.6
+Q -40.4 -39.2 -36.6 -34.25 -31.65 -27.6 -21.1 -21.15 -28.9 -16.75 -31.55 -12.85 -34.25 -8.85 -34.25 -3 -34.25 7.55 -22.95 16.35 -12.5 24.55 -1.45 24.55 10.25 24.55 14.45 23.2 21.3 20.75 30 11.4
+L 30 48.4 43.35 56.2 43.35 -48.6
+M 1.95 -8.25
+Q 9 -6.4 10.35 -6.4 11.25 -6.4 12 -6.8 12.8 -7.2 12.8 -8.25
+L 8.8 -19
+Q 5.55 -21.45 -0.85 -22.4 -7.4 -23.4 -13.95 -23.4 -18.75 -26.6 -22.05 -30.7 -25.4 -34.8 -25.4 -37.95 -25.4 -42.15 -24.3 -44.6 -23.15 -47 -21.4 -48.6
+L 30 -48.6 30 -6.4
+Q 15.15 7.35 7.15 11.95 -0.85 16.55 -9.45 16.55 -15.25 16.55 -18.75 12.45 -22.25 8.35 -22.25 2.4 -22.25 -4.45 -16.9 -7.55 -12.9 -10 -6.65 -10 -5.05 -10 1.95 -8.25 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 183.6,122.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0.25,0) ">
+<g filter="url(#Filter_1)" transform="matrix( 1, 0, 0, 1, -183.85,-122.15) ">
+<g transform="matrix( 1, 0, 0, 1, 183.85,122.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_8_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

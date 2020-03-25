@@ -1,0 +1,198 @@
+{
+	"id": "Q003",
+	"ques": {
+		"text": "",
+		"sound": "",
+		"imgsrc": {
+			"url": "q3.svg",
+			"location": "content"
+		},
+		"bgImgsrc": {
+			"url": "assets/images/content07/q_bg.svg",
+			"location": "assets"
+		}
+	},
+	"speaker": {
+		"enabled": "",
+		"imgsrc": "",
+		"sound": ""
+	},
+	"commonassets": {
+		"right_sound": {
+			"url": "assets/sounds/clap.ogg",
+			"location": "assets"
+		},
+		"wrong_sound": {
+			"url": "assets/sounds/shake.ogg",
+			"location": "assets"
+		},
+		"narrator": {
+			"url": "narrator.ogg",
+			"location": "content"
+		},
+
+		"burst_image": {
+			"url": "assets/images/burst.gif",
+			"location": "assets"
+		},
+		"background": {
+			"url": "assets/images/content07/template_seven_bg.jpg",
+			"location": "assets"
+		},
+		"aagey_badhein": {
+			"url": "assets/images/aagey.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_original": {
+			"url": "assets/images/aagey.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_hover": {
+			"url": "assets/images/aagey_hover.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_blink": {
+			"url": "assets/images/aageyBlink.svg",
+			"location": "assets"
+		},
+		"peechey_jayein": {
+			"url": "assets/images/peechey.svg",
+			"location": "assets"
+		},
+		"peechey_jayein_original": {
+			"url": "assets/images/peechey.svg",
+			"location": "assets"
+		},
+		"peechey_jayein_hover": {
+			"url": "assets/images/peechey_hover.svg",
+			"location": "assets"
+		},
+		"help_btn": {
+			"url": "assets/images/help.svg",
+			"location": "assets"
+		},
+		"help_btn_original": {
+			"url": "assets/images/help.svg",
+			"location": "assets"
+		},
+		"help_btn_hover": {
+			"url": "assets/images/help_hover.svg",
+			"location": "assets"
+		},
+		"imgCount": "12"
+	},
+	"options": [{
+			"id": "001",
+			"custom_id": "0",
+			"imgsrc": {
+				"url": "q3_opt1.png",
+				"location": "content"
+			},
+			"imgsrc_original": {
+				"url": "q3_opt1.png",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "assets/images/content07/opt1_bg.svg",
+				"location": "assets"
+			},
+			"bgImgsrc_hover": {
+				"url": "assets/images/content07/opt_hoverbg.svg",
+				"location": "assets"
+			},
+			"bgImgsrc_original": {
+				"url": "assets/images/content07/opt1_bg.svg",
+				"location": "assets"
+			},
+			"text": {
+				"url": "",
+				"location": "content"
+			},
+			"sound": {
+				"url": "Seb.ogg",
+				"location": "content"
+			}
+		},
+		{
+			"id": "002",
+			"custom_id": "1",
+			"imgsrc": {
+				"url": "q3_opt2.png",
+				"location": "content"
+			},
+			"imgsrc_original": {
+				"url": "q3_opt2.png",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "assets/images/content07/opt2_bg.svg",
+				"location": "assets"
+			},
+			"bgImgsrc_hover": {
+				"url": "assets/images/content07/opt_hoverbg.svg",
+				"location": "assets"
+			},
+			"bgImgsrc_original": {
+				"url": "assets/images/content07/opt2_bg.svg",
+				"location": "assets"
+			},
+			"text": {
+				"url": "",
+				"location": "content"
+			},
+			"sound": {
+				"url": "Aam.ogg",
+				"location": "content"
+			}
+		},
+
+		{
+			"id": "003",
+			"custom_id": "2",
+			"imgsrc": {
+				"url": "q3_opt3.png",
+				"location": "content"
+			},
+			"imgsrc_original": {
+				"url": "q3_opt3.png",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "assets/images/content07/opt3_bg.svg",
+				"location": "assets"
+			},
+			"bgImgsrc_hover": {
+				"url": "assets/images/content07/opt_hoverbg.svg",
+				"location": "assets"
+			},
+			"bgImgsrc_original": {
+				"url": "assets/images/content07/opt3_bg.svg",
+				"location": "assets"
+			},
+			"text": {
+				"url": "gobhi.svg",
+				"location": "content"
+			},
+			"sound": {
+				"url": "Gobhi.ogg",
+				"location": "content"
+			}
+		}
+	],
+
+
+	"feedback": {
+		"correct_ans_index": [2],
+
+		"right_ans_popup": {},
+		"wrong_ans_popup": {
+
+		},
+		"right_ans_sound": {
+
+		},
+		"wrong_ans_sound": {
+
+		}
+	}
+}

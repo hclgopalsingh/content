@@ -1,0 +1,32 @@
+{
+	"titleScreen":true,
+	"imgCount":"3",
+	"titleText": {
+		"url":"titleText.svg",
+		"location":"content"
+	},
+	"narrator": {
+		"url": "narrator.ogg",
+		"location": "content"
+	},
+	"background": {
+		"url": "assets/images/titleBg.jpg",
+		"location": "assets"
+	},
+	"krikalapText": {
+		"url": "assets/images/kriyakalaap.svg",
+		"location": "assets"
+	},
+	"jariRakheinBtn": {
+		"url": "assets/images/zaariRakhein.svg",
+		"location": "assets"
+	},
+	"jariRakheinBtn_original": {
+		"url": "assets/images/zaariRakhein.svg",
+		"location": "assets"
+	},
+	"jariRakheinBtn_hover": {
+		"url": "assets/images/zaariRakhein_hover.svg",
+		"location": "assets"
+	}
+}

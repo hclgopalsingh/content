@@ -1,0 +1,56 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1884px" height="653px" viewBox="0 0 1884 653">
+<defs>
+<radialGradient id="Gradient_1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="108.525" fx="0" fy="0" gradientTransform="matrix( 1, 0, 0, 1, 0,0) " spreadMethod="pad">
+<stop  offset="26.274509803921568%" stop-color="#FFFEBF"/>
+
+<stop  offset="100%" stop-color="#FFFD5B" stop-opacity="0"/>
+</radialGradient>
+
+<filter id="Filter_1" x="-20.67257618883373%" y="-21.01802584400892%" width="141.34515237766746%" height="142.03605168801784%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#FFFFFF" flood-opacity="1" in="SourceGraphic" result="result1"/>
+
+<feComposite in2="SourceGraphic" in="result1" operator="in" result="result2"/>
+
+<feGaussianBlur in="result2" stdDeviation="5.333333333333333,5.333333333333333" result="result3"/>
+
+<feOffset dx="0" dy="0" in="result3" result="result4"/>
+
+<feComposite in2="result4" in="SourceGraphic" operator="over" result="result5"/>
+</filter>
+
+<g id="Symbol_18_1_Layer2_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 78.7 -78.7
+Q 46.15 -111.3 0 -111.3 -46.15 -111.3 -78.7 -78.7 -111.3 -46.15 -111.3 0 -111.3 46.15 -78.7 78.7 -46.15 111.3 0 111.3 46.15 111.3 78.7 78.7 111.3 46.15 111.3 0 111.3 -46.15 78.7 -78.7 Z"/>
+</g>
+
+<g id="Symbol_27_0_Layer0_0_FILL">
+<path fill="#000000" stroke="none" d="
+M 43.6 -46.1
+L 60.6 -46.1 54.05 -58.7 -60.6 -58.7 -53.95 -46.1 -40.15 -46.1 -40.15 -41.1
+Q -40.15 -36.7 -36.35 -31.75 -31.4 -25.1 -20.85 -18.65 -28.65 -14.25 -31.3 -10.35 -34 -6.35 -34 -0.5 -34 10.05 -22.7 18.85 -12.25 27.05 -1.2 27.05 10.5 27.05 14.7 25.7 21.55 23.25 30.25 13.9
+L 30.25 50.9 43.6 58.7 43.6 -46.1
+M 30.25 -46.1
+L 30.25 -3.9
+Q 15.4 9.85 7.4 14.45 -0.6 19.05 -9.2 19.05 -15 19.05 -18.5 14.95 -22 10.85 -22 4.9 -22 -1.95 -16.65 -5.05 -12.65 -7.5 -6.4 -7.5 -4.8 -7.5 2.2 -5.75 9.25 -3.9 10.6 -3.9 11.5 -3.9 12.25 -4.3 13.05 -4.7 13.05 -5.75
+L 9.05 -16.5
+Q 5.8 -18.95 -0.6 -19.9 -7.15 -20.9 -13.7 -20.9 -18.5 -24.1 -21.8 -28.2 -25.15 -32.3 -25.15 -35.45 -25.15 -39.65 -24.05 -42.1 -22.9 -44.5 -21.15 -46.1
+L 30.25 -46.1 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1.2369384765625, 0, 0, 1.2369384765625, 1236,473.4) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_18_1_Layer2_0_FILL"/>
+</g>
+
+<g filter="url(#Filter_1)" transform="matrix( 0.808441162109375, 0, 0, 0.808441162109375, -999.25,-382.7) ">
+<g transform="matrix( 1.2369384765625, 0, 0, 1.2369384765625, 1236,470.3) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_27_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
