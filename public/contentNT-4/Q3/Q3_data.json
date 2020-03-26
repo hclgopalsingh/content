@@ -8,10 +8,34 @@
 			"url": "ques_vo.ogg",
 			"location": "content"
 		},
+		"play_graphic" :{
+			"url": "bg_3.svg",
+			"location": "content"
+		},
 		"background": {
 			"url": "bg_3.svg",
 			"location": "content"
 		},
+		"animation": {
+            "img": {
+                "url": "happyFixedAnimation.webp"
+            },
+            "audio": {
+                "url": "clap.ogg"
+            },
+            "location": "content",
+            "timeout": 5000
+        },
+        "wrongAnimationAssts": {
+            "img": {
+                "url": "sadFixedAnimation.gif"
+            },
+            "audio": {
+                "url": "shake.ogg"
+            },
+            "location": "content",
+            "timeout": 5000
+        },
 		"ques_control": {
 			"aagey_badhein": {
 				"url": "aagey.svg",
@@ -246,7 +270,7 @@
 				"location": "content"
 			}
 		},
-		"isFirstQues": false,
+		"isFirstQues": true,
 		"imgCount": 9
 	},
 
@@ -273,7 +297,7 @@
 			"url": "opt1_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "B"
+		"category": "A"
 	}, {
 		"index": 1,
 		"imgsrc": {
@@ -293,11 +317,11 @@
 			"url": "opt2_show.ogg",
 			"location": "content"
 		},
-		"incorrect_o": {
+		"incorrect_vo": {
 			"url": "opt2_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "B"
+		"category": "A"
 	}, {
 		"index": 2,
 		"imgsrc": {
@@ -321,7 +345,7 @@
 			"url": "opt3_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "A"
+		"category": "B"
 	}, {
 		"index": 3,
 		"imgsrc": {
@@ -345,7 +369,7 @@
 			"url": "opt4_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "A"
+		"category": "B"
 	}, {
 		"index": 4,
 		"imgsrc": {
@@ -369,7 +393,7 @@
 			"url": "opt5_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "B"
+		"category": "A"
 	}, {
 		"index": 5,
 		"imgsrc": {
@@ -393,7 +417,7 @@
 			"url": "opt6_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "A"
+		"category": ""
 	}, {
 		"index": 6,
 		"imgsrc": {
@@ -417,7 +441,7 @@
 			"url": "opt7_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "B"
+		"category": "A"
 	}, {
 		"index": 7,
 		"imgsrc": {
@@ -465,7 +489,7 @@
 			"url": "opt9_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "B"
+		"category": "A"
 	}, {
 		"index": 9,
 		"imgsrc": {
@@ -489,7 +513,7 @@
 			"url": "opt10_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "B"
+		"category": "A"
 	}, {
 		"index": 10,
 		"imgsrc": {
@@ -513,7 +537,7 @@
 			"url": "opt11_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "B"
+		"category": ""
 	}],
 
 	"option_holder": {
@@ -529,7 +553,7 @@
 			"url": "left_holder.png",
 			"location": "content"
 		},
-		"left_random_index": [2, 3, 5],
+		"left_random_index": [0, 1, 4, 6, 8, 9],
 
 		"rightHolder": {
 			"url": "right_holder.png",
@@ -543,7 +567,7 @@
 			"url": "right_holder.png",
 			"location": "content"
 		},
-		"right_random_index": [0, 1, 4, 6, 8, 9, 10]
+		"right_random_index": [2, 3]
 	},
 
 	"quesObj": {
@@ -551,7 +575,12 @@
 			"urlOgv": "video.ogg",
 			"urlMP4": "video.mp4",
 			"location": "content",
-			"autoPlay":false
+			"autoPlay":true
+		},
+		"quesInstruction": {
+			"url": "ques_vo.ogg",
+			"location": "content",
+			"autoPlay": true
 		},
 		"quesPlayPause": {
 			"url": "pause.svg",
@@ -577,12 +606,7 @@
 			"urlOgv": "SkipButtonHover.svg",
 			"location": "content"
 		},
-		"quesInstruction": {
-			"url": "ques_vo.ogg",
-			"location": "content",
-			"autoPlay": false
-		},
-		"noOfOptions": 10
+		"noOfOptions": 8
 	},
 	"feedback_next_timer":30,
 
