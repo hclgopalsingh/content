@@ -2135,7 +2135,7 @@
 		   },
 		   {
 			"id":"26",
-			"selected":true,
+			"selected":false,
 			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date26.png",
