@@ -318,80 +318,6 @@
 			"url":"baseDaysWeeks.png",
 			"location":"content"
 		 }
-	},
-	"option_common_assets": {
-		"option_base": {
-			"url": "optBase.svg",
-			"location": "content"
-		},
-		"option_base_hover": {
-			"url": "optBaseHover.svg",
-			"location": "content"
-		},
-		"option_base_original": {
-			"url": "optBase.svg",
-			"location": "content"
-		}
-	},
-     "svgInfo":{
-		"svgId":"mainques",
-		"url": "assets/images/Map.svg",
-		"location": "assets",
-		"hoverColor":"#FFFFCC"
-	 },
-	 "info_popup": {
-		"style_header": {
-			"border": "solid .4vmin #85d222",
-			"border-top-left-radius": "20px",
-			"border-top-right-radius": "20px",
-			"background": "#248446"
-		},
-		"style_body": {
-			"border": "solid .4vmin #85d222",
-			"border-bottom-left-radius": "20px",
-			"border-bottom-right-radius": "20px",
-			"background": "#afdec0"
-		},
-		"headerTxt_img": {
-			"url": "PopupInfoHeader.png",
-			"location": "content"
-		},
-		"bg_img": {
-			"url": "",
-			"location": "content"
-		},
-		"close_btn": {
-			"url": "closeBtn.png",
-			"location": "content"
-		},
-		"close_btn_hover": {
-			"url": "closeBtnHover.png",
-			"location": "content"
-		},
-		"close_btn_original": {
-			"url": "closeBtn.png",
-			"location": "content"
-		},
-		"info_text": {
-			"url": "lookformore_popup_text.png",
-			"location": "content"
-		},
-		"ok_btn": {
-			"url": "ok_btn_normal.png",
-			"location": "content"
-		},
-		"ok_btn_hover": {
-			"url": "ok_btn_Hover.png",
-			"location": "content"
-		},
-		"ok_btn_original": {
-			"url": "ok_btn_normal.png",
-			"location": "content"
-		},
-		"partialCorrectAudio": {
-			"url": "partialFeedback.ogg",
-			"location": "content"
-		}
 	},	
 	"submit_confirm": {
 		"style_header": {
@@ -462,6 +388,7 @@
 		 "id":"Monday",
 		 "selected":false,
 		 "disabled":false,
+		 "checkRightorWrong":false,
 		 "weekDayImg":{
 			"url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay01.png",
 			"location":"assets" 
@@ -478,6 +405,15 @@
 			"url":"assets/images/Template-22/English/Images English/Weeks/Weeks Disabled/Weeks Disabled_00001.png",
 			"location":"assets" 
 		 },
+		 "rightweekDayImg":{
+			"url":"assets/images/Template-22/English/Images English/Weeks/Week Right/Week (1).png",
+			"location":"assets" 
+		 },
+		 "wrongweekDayImg":{
+			"url":"assets/images/Template-22/English/Images English/Weeks/Week Wrong/Week (1).png",
+			"location":"assets" 
+		 },
+		 "weekDayImginpopUp":"",
 		 "weekDayOriginalImg":{
 			"url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay01.png",
 			"location":"assets" 
@@ -487,6 +423,7 @@
 			"id":"Tuesday",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"weekDayImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay02.png",
 			   "location":"assets" 
@@ -503,6 +440,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Disabled/Weeks Disabled_00002.png",
 			   "location":"assets" 
 			},
+			"rightweekDayImg":{
+				"url":"assets/images/Template-22/English/Images English/Weeks/Week Right/Week (2).png",
+				"location":"assets" 
+			 },
+			 "wrongweekDayImg":{
+				"url":"assets/images/Template-22/English/Images English/Weeks/Week Wrong/Week (2).png",
+				"location":"assets" 
+			 },
+			"weekDayImginpopUp":"",
 			"weekDayOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay02.png",
 			   "location":"assets" 
@@ -512,6 +458,7 @@
 			"id":"Wednesday",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"weekDayImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay03.png",
 			   "location":"assets" 
@@ -528,6 +475,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Disabled/Weeks Disabled_00003.png",
 			   "location":"assets" 
 			},
+			"rightweekDayImg":{
+				"url":"assets/images/Template-22/English/Images English/Weeks/Week Right/Week (3).png",
+				"location":"assets" 
+			 },
+			 "wrongweekDayImg":{
+				"url":"assets/images/Template-22/English/Images English/Weeks/Week Wrong/Week (3).png",
+				"location":"assets" 
+			 },
+			"weekDayImginpopUp":"",
 			"weekDayOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay03.png",
 			   "location":"assets" 
@@ -537,6 +493,7 @@
 			"id":"Thursday",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"weekDayImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay04.png",
 			   "location":"assets" 
@@ -553,6 +510,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Disabled/Weeks Disabled_00004.png",
 			   "location":"assets" 
 			},
+			"rightweekDayImg":{
+				"url":"assets/images/Template-22/English/Images English/Weeks/Week Right/Week (4).png",
+				"location":"assets" 
+			 },
+			 "wrongweekDayImg":{
+				"url":"assets/images/Template-22/English/Images English/Weeks/Week Wrong/Week (4).png",
+				"location":"assets" 
+			 },
+			"weekDayImginpopUp":"",
 			"weekDayOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay04.png",
 			   "location":"assets" 
@@ -562,6 +528,7 @@
 			"id":"Friday",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"weekDayImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay05.png",
 			   "location":"assets" 
@@ -578,6 +545,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Disabled/Weeks Disabled_00005.png",
 			   "location":"assets" 
 			},
+			"rightweekDayImg":{
+				"url":"assets/images/Template-22/English/Images English/Weeks/Week Right/Week (5).png",
+				"location":"assets" 
+			 },
+			 "wrongweekDayImg":{
+				"url":"assets/images/Template-22/English/Images English/Weeks/Week Wrong/Week (5).png",
+				"location":"assets" 
+			 },
+			"weekDayImginpopUp":"",
 			"weekDayOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay05.png",
 			   "location":"assets" 
@@ -587,6 +563,7 @@
 			"id":"Saturday",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"weekDayImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay06.png",
 			   "location":"assets" 
@@ -603,6 +580,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Disabled/Weeks Disabled_00006.png",
 			   "location":"assets" 
 			},
+			"rightweekDayImg":{
+				"url":"assets/images/Template-22/English/Images English/Weeks/Week Right/Week (6).png",
+				"location":"assets" 
+			 },
+			 "wrongweekDayImg":{
+				"url":"assets/images/Template-22/English/Images English/Weeks/Week Wrong/Week (6).png",
+				"location":"assets" 
+			 },
+			"weekDayImginpopUp":"",
 			"weekDayOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay06.png",
 			   "location":"assets" 
@@ -612,6 +598,7 @@
 			"id":"Sunday",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"weekDayImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay07.png",
 			   "location":"assets" 
@@ -628,6 +615,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Disabled/Weeks Disabled_00007.png",
 			   "location":"assets" 
 			},
+			"rightweekDayImg":{
+				"url":"assets/images/Template-22/English/Images English/Weeks/Week Right/Week (7).png",
+				"location":"assets" 
+			 },
+			 "wrongweekDayImg":{
+				"url":"assets/images/Template-22/English/Images English/Weeks/Week Wrong/Week (7).png",
+				"location":"assets" 
+			 },
+			"weekDayImginpopUp":"",
 			"weekDayOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay07.png",
 			   "location":"assets" 
@@ -640,6 +636,7 @@
 		 "id":"2018",
 		 "selected":false,
 		 "disabled":true,
+		 "checkRightorWrong":false,
 		 "yearsImg":{
 			"url":"English/Images English/Years/Years Normal/year01.png",
 			"location":"content" 
@@ -656,6 +653,14 @@
 			"url":"English/Images English/Years/Years Disabled/Years Disabled_00001.png",
 			"location":"content" 
 		 },
+		 "rightyearImg":{
+			"url":"English/Images English/Years/Year Right/Year (1).png",
+			"location":"content" 
+		 },
+		 "wrongyearImg":{
+			"url":"English/Images English/Years/Year Wrong/Year (1).png",
+			"location":"content" 
+		 },
 		 "yearsOriginalImg":{
 			"url":"English/Images English/Years/Years Normal/year01.png",
 			"location":"content" 
@@ -665,6 +670,7 @@
 			"id":"2019",
 			"selected":false,
 			"disabled":true,
+			"checkRightorWrong":false,
 			"yearsImg":{
 			   "url":"English/Images English/Years/Years Normal/year02.png",
 			   "location":"content" 
@@ -681,6 +687,14 @@
 			   "url":"English/Images English/Years/Years Disabled/Years Disabled_00002.png",
 			   "location":"content" 
 			},
+			"rightyearImg":{
+				"url":"English/Images English/Years/Year Right/Year (2).png",
+				"location":"content" 
+			 },
+			 "wrongyearImg":{
+				"url":"English/Images English/Years/Year Wrong/Year (2).png",
+				"location":"content" 
+			 },
 			"yearsOriginalImg":{
 				"url":"English/Images English/Years/Years Normal/year02.png",
 				"location":"content" 
@@ -690,6 +704,7 @@
 			"id":"2020",
 			"selected":true,
 			"disabled":false,
+			"checkRightorWrong":true,
 			"yearsImg":{
 			   "url":"English/Images English/Years/Years Normal/year03.png",
 			   "location":"content" 
@@ -706,6 +721,14 @@
 			   "url":"English/Images English/Years/Years Disabled/Years Disabled_00003.png",
 			   "location":"content" 
 			},
+			"rightyearImg":{
+				"url":"English/Images English/Years/Year Right/Year (3).png",
+				"location":"content" 
+			 },
+			 "wrongyearImg":{
+				"url":"English/Images English/Years/Year Wrong/Year (3).png",
+				"location":"content" 
+			 },
 			"yearsOriginalImg":{
 				"url":"English/Images English/Years/Years Normal/year03.png",
 				"location":"content" 
@@ -715,6 +738,7 @@
 			"id":"2021",
 			"selected":false,
 			"disabled":true,
+			"checkRightorWrong":false,
 			"yearsImg":{
 			   "url":"English/Images English/Years/Years Normal/year04.png",
 			   "location":"content" 
@@ -731,6 +755,14 @@
 			   "url":"English/Images English/Years/Years Disabled/Years Disabled_00004.png",
 			   "location":"content" 
 			},
+			"rightyearImg":{
+				"url":"English/Images English/Years/Year Right/Year (4).png",
+				"location":"content" 
+			 },
+			 "wrongyearImg":{
+				"url":"English/Images English/Years/Year Wrong/Year (4).png",
+				"location":"content" 
+			 },
 			"yearsOriginalImg":{
 				"url":"English/Images English/Years/Years Normal/year04.png",
 				"location":"content" 
@@ -740,6 +772,7 @@
 			"id":"2022",
 			"selected":false,
 			"disabled":true,
+			"checkRightorWrong":false,
 			"yearsImg":{
 			   "url":"English/Images English/Years/Years Normal/year05.png",
 			   "location":"content" 
@@ -756,6 +789,14 @@
 			   "url":"English/Images English/Years/Years Disabled/Years Disabled_00005.png",
 			   "location":"content" 
 			},
+			"rightyearImg":{
+				"url":"English/Images English/Years/Year Right/Year (5).png",
+				"location":"content" 
+			 },
+			 "wrongyearImg":{
+				"url":"English/Images English/Years/Year Wrong/Year (5).png",
+				"location":"content" 
+			 },
 			"yearsOriginalImg":{
 				"url":"English/Images English/Years/Years Normal/year05.png",
 				"location":"content" 
@@ -765,6 +806,7 @@
 			"id":"2023",
 			"selected":false,
 			"disabled":true,
+			"checkRightorWrong":false,
 			"yearsImg":{
 			   "url":"English/Images English/Years/Years Normal/year06.png",
 			   "location":"content" 
@@ -781,6 +823,14 @@
 			   "url":"English/Images English/Years/Years Disabled/Years Disabled_00006.png",
 			   "location":"content" 
 			},
+			"rightyearImg":{
+				"url":"English/Images English/Years/Year Right/Year (6).png",
+				"location":"content" 
+			 },
+			 "wrongyearImg":{
+				"url":"English/Images English/Years/Year Wrong/Year (6).png",
+				"location":"content" 
+			 },
 			"yearsOriginalImg":{
 				"url":"English/Images English/Years/Years Normal/year06.png",
 				"location":"content" 
@@ -790,6 +840,7 @@
 			"id":"2024",
 			"selected":false,
 			"disabled":true,
+			"checkRightorWrong":false,
 			"yearsImg":{
 			   "url":"English/Images English/Years/Years Normal/year07.png",
 			   "location":"content" 
@@ -806,6 +857,14 @@
 			   "url":"English/Images English/Years/Years Disabled/Years Disabled_00007.png",
 			   "location":"content" 
 			},
+			"rightyearImg":{
+				"url":"English/Images English/Years/Year Right/Year (7).png",
+				"location":"content" 
+			 },
+			 "wrongyearImg":{
+				"url":"English/Images English/Years/Year Wrong/Year (7).png",
+				"location":"content" 
+			 },
 			"yearsOriginalImg":{
 				"url":"English/Images English/Years/Years Normal/year07.png",
 				"location":"content" 
@@ -818,6 +877,7 @@
 		 "id":"January",
 		 "selected":false,
 		 "disabled":false,
+		 "checkRightorWrong":false,
 		 "days":31,
 		 "monthImg":{
 			"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month01.png",
@@ -835,6 +895,15 @@
 			"url":"assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00001.png",
 			"location":"assets" 
 		 },
+		 "rightmonthImg":{
+			"url":"assets/images/Template-22/English/Images English/Months/Months Right/Month (1).png",
+			"location":"assets" 
+		 },
+		 "wrongmonthImg":{
+			"url":"assets/images/Template-22/English/Images English/Months/Months Wrong/Month (1).png",
+			"location":"assets" 
+		 },
+		"ImginpopUp":"",
 		 "monthOriginalImg":{
 			"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month01.png",
 			"location":"assets" 
@@ -844,6 +913,7 @@
 			"id":"February",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"days":28,
 			"monthImg":{
 				"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month02.png",
@@ -861,6 +931,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00002.png",
 			   "location":"assets" 
 			},
+			"rightmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Right/Month (2).png",
+				"location":"assets" 
+			 },
+			 "wrongmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Wrong/Month (2).png",
+				"location":"assets" 
+			 },
+			"ImginpopUp":"",
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month02.png",
 			   "location":"assets" 
@@ -870,6 +949,7 @@
 			"id":"March",
 			"selected":true,
 			"disabled":false,
+			"checkRightorWrong":true,
 			"days":31,
 			"monthImg":{
 				"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month03.png",
@@ -887,6 +967,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00003.png",
 			   "location":"assets" 
 			},
+			"rightmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Right/Month (3).png",
+				"location":"assets" 
+			 },
+			 "wrongmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Wrong/Month (3).png",
+				"location":"assets" 
+			 },
+			"ImginpopUp":"",
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month03.png",
 			   "location":"assets" 
@@ -896,6 +985,7 @@
 			"id":"April",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"days":30,
 			"monthImg":{
 				"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month04.png",
@@ -913,6 +1003,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00004.png",
 			   "location":"assets" 
 			},
+			"rightmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Right/Month (4).png",
+				"location":"assets" 
+			 },
+			 "wrongmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Wrong/Month (4).png",
+				"location":"assets" 
+			 },
+			"ImginpopUp":"",
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month04.png",
 			   "location":"assets" 
@@ -922,6 +1021,7 @@
 			"id":"May",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"days":31,
 			"monthImg":{
 				"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month05.png",
@@ -939,6 +1039,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00005.png",
 			   "location":"assets" 
 			},
+			"rightmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Right/Month (5).png",
+				"location":"assets" 
+			 },
+			 "wrongmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Wrong/Month (5).png",
+				"location":"assets" 
+			 },
+			"ImginpopUp":"",
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month05.png",
 			   "location":"assets" 
@@ -948,6 +1057,7 @@
 			"id":"June",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"days":30,
 			"monthImg":{
 				"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month06.png",
@@ -965,6 +1075,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00006.png",
 			   "location":"assets" 
 			},
+			"rightmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Right/Month (6).png",
+				"location":"assets" 
+			 },
+			 "wrongmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Wrong/Month (6).png",
+				"location":"assets" 
+			 },
+			"ImginpopUp":"",
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month06.png",
 			   "location":"assets" 
@@ -974,6 +1093,7 @@
 			"id":"July",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"days":31,
 			"monthImg":{
 				"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month07.png",
@@ -991,6 +1111,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00007.png",
 			   "location":"assets" 
 			},
+			"rightmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Right/Month (7).png",
+				"location":"assets" 
+			 },
+			 "wrongmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Wrong/Month (7).png",
+				"location":"assets" 
+			 },
+			"ImginpopUp":"",
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month07.png",
 			   "location":"assets" 
@@ -1000,6 +1129,7 @@
 			"id":"August",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"days":31,
 			"monthImg":{
 				"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month08.png",
@@ -1017,6 +1147,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00008.png",
 			   "location":"assets" 
 			},
+			"rightmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Right/Month (8).png",
+				"location":"assets" 
+			 },
+			 "wrongmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Wrong/Month (8).png",
+				"location":"assets" 
+			 },
+			"ImginpopUp":"",
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month08.png",
 			   "location":"assets" 
@@ -1026,6 +1165,7 @@
 			"id":"September",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"days":30,
 			"monthImg":{
 				"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month09.png",
@@ -1043,6 +1183,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00009.png",
 			   "location":"assets" 
 			},
+			"rightmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Right/Month (9).png",
+				"location":"assets" 
+			 },
+			 "wrongmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Wrong/Month (9).png",
+				"location":"assets" 
+			 },
+			"ImginpopUp":"",
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month09.png",
 			   "location":"assets" 
@@ -1052,6 +1201,7 @@
 			"id":"October",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"days":31,
 			"monthImg":{
 				"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month10.png",
@@ -1069,6 +1219,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00010.png",
 			   "location":"assets" 
 			},
+			"rightmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Right/Month (10).png",
+				"location":"assets" 
+			 },
+			 "wrongmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Wrong/Month (10).png",
+				"location":"assets" 
+			 },
+			"ImginpopUp":"",
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month10.png",
 			   "location":"assets" 
@@ -1078,6 +1237,7 @@
 			"id":"November",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"days":30,
 			"monthImg":{
 				"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month11.png",
@@ -1095,6 +1255,15 @@
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00011.png",
 			   "location":"assets" 
 			},
+			"rightmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Right/Month (11).png",
+				"location":"assets" 
+			 },
+			 "wrongmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Wrong/Month (11).png",
+				"location":"assets" 
+			 },
+			"ImginpopUp":"",
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month11.png",
 			   "location":"assets" 
@@ -1104,6 +1273,7 @@
 			"id":"December",
 			"selected":false,
 			"disabled":false,
+			"checkRightorWrong":false,
 			"days":31,
 			"monthImg":{
 				"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month12.png",
@@ -1121,6 +1291,15 @@
 			   "url":"Months Disabled_00012.png",
 			   "location":"assets/images/Template-22/English/Images English/Months/Months Disabled" 
 			},
+			"rightmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Right/Month (12).png",
+				"location":"assets" 
+			 },
+			 "wrongmonthImg":{
+				"url":"assets/images/Template-22/English/Images English/Months/Months Wrong/Month (12).png",
+				"location":"assets" 
+			 },
+			"ImginpopUp":"",
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month12.png",
 			   "location":"assets" 
@@ -1132,6 +1311,7 @@
 		{
 		 "id":"1",
 		 "selected":false,
+		 "disable":false,
 		 "dateImg":{
 			"url":"assets/images/Template-22/English/Images English/Days/Days Normal/date01.png",
 			"location":"assets" 
@@ -1164,6 +1344,7 @@
 		{
 			"id":"2",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date02.png",
 			   "location":"assets" 
@@ -1196,6 +1377,7 @@
 		   {
 			"id":"3",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date03.png",
 			   "location":"assets" 
@@ -1228,6 +1410,7 @@
 		   {
 			"id":"4",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date04.png",
 			   "location":"assets" 
@@ -1260,6 +1443,7 @@
 		   {
 			"id":"5",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date05.png",
 			   "location":"assets" 
@@ -1292,6 +1476,7 @@
 		   {
 			"id":"6",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date06.png",
 			   "location":"assets" 
@@ -1324,6 +1509,7 @@
 		   {
 			"id":"7",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date07.png",
 			   "location":"assets" 
@@ -1356,6 +1542,7 @@
 		   {
 			"id":"8",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date08.png",
 			   "location":"assets" 
@@ -1388,6 +1575,7 @@
 		   {
 			"id":"9",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date09.png",
 			   "location":"assets" 
@@ -1420,6 +1608,7 @@
 		   {
 			"id":"10",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date10.png",
 			   "location":"assets" 
@@ -1452,6 +1641,7 @@
 		   {
 			"id":"11",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date11.png",
 			   "location":"assets" 
@@ -1484,6 +1674,7 @@
 		   {
 			"id":"12",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date12.png",
 			   "location":"assets" 
@@ -1516,6 +1707,7 @@
 		   {
 			"id":"13",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date13.png",
 			   "location":"assets" 
@@ -1548,6 +1740,7 @@
 		   {
 			"id":"14",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date14.png",
 			   "location":"assets" 
@@ -1580,6 +1773,7 @@
 		   {
 			"id":"15",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date15.png",
 			   "location":"assets" 
@@ -1612,6 +1806,7 @@
 		   {
 			"id":"16",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date16.png",
 			   "location":"assets" 
@@ -1644,6 +1839,7 @@
 		   {
 			"id":"17",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date17.png",
 			   "location":"assets" 
@@ -1676,6 +1872,7 @@
 		   {
 			"id":"18",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date18.png",
 			   "location":"assets" 
@@ -1708,6 +1905,7 @@
 		   {
 			"id":"19",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date19.png",
 			   "location":"assets" 
@@ -1740,6 +1938,7 @@
 		   {
 			"id":"20",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date20.png",
 			   "location":"assets" 
@@ -1772,6 +1971,7 @@
 		   {
 			"id":"21",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date21.png",
 			   "location":"assets" 
@@ -1804,6 +2004,7 @@
 		   {
 			"id":"22",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date22.png",
 			   "location":"assets" 
@@ -1836,6 +2037,7 @@
 		   {
 			"id":"23",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date23.png",
 			   "location":"assets" 
@@ -1868,6 +2070,7 @@
 		   {
 			"id":"24",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date24.png",
 			   "location":"assets" 
@@ -1900,6 +2103,7 @@
 		   {
 			"id":"25",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date25.png",
 			   "location":"assets" 
@@ -1931,7 +2135,8 @@
 		   },
 		   {
 			"id":"26",
-			"selected":false,
+			"selected":true,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date26.png",
 			   "location":"assets" 
@@ -1964,6 +2169,7 @@
 		   {
 			"id":"27",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date27.png",
 			   "location":"assets" 
@@ -1996,6 +2202,7 @@
 		   {
 			"id":"28",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date28.png",
 			   "location":"assets" 
@@ -2028,6 +2235,7 @@
 		   {
 			"id":"29",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date29.png",
 			   "location":"assets" 
@@ -2060,6 +2268,7 @@
 		   {
 			"id":"30",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date30.png",
 			   "location":"assets" 
@@ -2092,6 +2301,7 @@
 		   {
 			"id":"31",
 			"selected":false,
+			"disable":false,
 			"dateImg":{
 			   "url":"assets/images/Template-22/English/Images English/Days/Days Normal/date31.png",
 			   "location":"assets" 
@@ -2138,6 +2348,7 @@
 		"yearSelected":true,
 		"monthSelected":true,
 		"dateSelected":false,
+		"weekdaySelected":false,
 		"`quesImg": {
 			"url": "",
 			"location": ""
@@ -2170,6 +2381,18 @@
 			"border-bottom-right-radius": "20px",
 			"background": "#afdec0"
 		},
+		"wrong_style_header": {
+            "border": "solid .4vmin #F63A39",
+            "border-top-left-radius": "20px",
+            "border-top-right-radius": "20px",
+            "background": "#E90101"
+        },
+        "wrong_style_body": {
+            "border": "solid .4vmin #DB4A4D",
+            "border-bottom-left-radius": "20px",
+            "border-bottom-right-radius": "20px",
+            "background": "#FFFFFF"
+        },
 		"headerTxt_img": {
 			"url": "PopupHeaderTitle.png",
 			"location": "content"
@@ -2180,6 +2403,18 @@
 		},
 		"popup_instruction_img": {
 			"url": "instructionText.svg",
+			"location": "content"
+		},
+		"ok_btn": {
+			"url": "ok_btn_normal.png",
+			"location": "content"
+		},
+		"ok_btn_hover": {
+			"url": "ok_btn_Hover.png",
+			"location": "content"
+		},
+		"ok_btn_original": {
+			"url": "ok_btn_normal.png",
 			"location": "content"
 		},
 		"popup_commmon_imgs": {
@@ -2203,31 +2438,6 @@
 				"url": "optBase.png",
 				"location": "content"
 			}
-		},
-		"right_ans_popup": {
-			"imgsrc": {
-				"url": "opt_frame00010001.png",
-				"location": "content"
-			},
-			"imgTxt": {
-				"url": "",
-				"location": ""
-			},
-			"imgAudio": {
-				"url": "",
-				"location": ""
-			}
-		},
-		"wrong_ans_popup": {
-
-		},
-		"right_ans_sound": {
-			"url": "",
-			"location": "content"
-		},
-		"wrong_ans_sound": {
-			"url": "",
-			"location": "content"
 		},
 		"confirm_popup": {
 			"style_header": {
