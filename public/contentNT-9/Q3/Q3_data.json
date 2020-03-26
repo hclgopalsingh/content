@@ -5,7 +5,7 @@
             "location": "content"
         },
         "instruction": {
-            "url": "instructionAudio.ogg",
+            "url": "narrator.ogg",
             "location": "content"
         },
         "instruction_img": {
@@ -19,6 +19,26 @@
         "background": {
             "url": "bg_3.svg",
             "location": "content"
+        },
+        "animation": {
+            "img": {
+                "url": "happyFixedAnimation.webp"
+            },
+            "audio": {
+                "url": "clap.ogg"
+            },
+            "location": "content",
+            "timeout": 5000
+        },
+        "wrongAnimationAssts": {
+            "img": {
+                "url": "sadFixedAnimation.gif"
+            },
+            "audio": {
+                "url": "shake.ogg"
+            },
+            "location": "content",
+            "timeout": 5000
         },
         "ques_control": {
             "aagey_badhein": {

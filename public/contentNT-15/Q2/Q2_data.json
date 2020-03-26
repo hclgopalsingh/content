@@ -367,7 +367,8 @@
 		{
 			"id": "001",
 			"custom_id": "1",
-			"text": "",
+            "text": "",
+            "show": true,
 			"imgsrc": {
 				"url": "ques2opt1.svg",
 				"location": "content"
@@ -388,7 +389,7 @@
 				"url": "opt1hover.svg",
 				"location": "content"
 			},
-			"sound": "",
+			"sound": "hai.ogg",
 			"ansImg" : {
 				"url": "q2word5.svg",
 				"location": "content"
@@ -397,7 +398,8 @@
 		{
 			"id": "002",
 			"custom_id": "2",
-			"text": "",
+            "text": "",
+            "show": true,
 			"imgsrc": {
 				"url": "ques2opt2.svg",
 				"location": "content"
@@ -418,7 +420,7 @@
 				"url": "opt2hover.svg",
 				"location": "content"
 			},
-			"sound": "",
+			"sound": "ghar.ogg",
 			"ansImg" : {
 				"url": "q2word2.svg",
 				"location": "content"
@@ -427,7 +429,8 @@
 		{
 			"id": "003",
 			"custom_id": "3",
-			"text": "",
+            "text": "",
+            "show": true,
 			"imgsrc": {
 				"url": "ques2opt3.svg",
 				"location": "content"
@@ -448,7 +451,7 @@
 				"url": "opt3hover.svg",
 				"location": "content"
 			},
-			"sound": "",
+			"sound": "raunak.ogg",
 			"ansImg" : {
 				"url": "q2word4.svg",
 				"location": "content"
@@ -457,7 +460,8 @@
 		{
 			"id": "004",
 			"custom_id": "4",
-			"text": "",
+            "text": "",
+            "show": true,
 			"imgsrc": {
 				"url": "ques2opt4.svg",
 				"location": "content"
@@ -478,7 +482,7 @@
 				"url": "opt4hover.svg",
 				"location": "content"
 			},
-			"sound": "",
+			"sound": "bhauri.ogg",
 			"ansImg" : {
 				"url": "q2word1.svg",
 				"location": "content"
@@ -486,7 +490,8 @@
 		},
 		{
 			"id": "005",
-			"custom_id": "5",
+            "custom_id": "5",
+            "show": true,
 			"text": "",
 			"imgsrc": {
 				"url": "ques2opt5.svg",
@@ -508,7 +513,7 @@
 				"url": "opt5hover.svg",
 				"location": "content"
 			},
-			"sound": "",
+			"sound": "ki.ogg",
 			"ansImg" : {
 				"url": "q2word3.svg",
 				"location": "content"
@@ -590,6 +595,30 @@
         "quesImgOriginal": {
             "url": "",
             "location": ""
+        },
+        "quesPlay": {
+            "url": "play.svg",
+            "location": "content"
+        },
+        "quesPlayPause": {
+            "url": "pause.svg",
+            "location": "content"
+        },
+        "quesPause": {
+            "url": "pause.svg",
+            "location": "content"
+        },
+        "quesSkip": {
+            "urlOgv": "SkipButton.svg",                
+            "location": "content"
+        },
+        "quesSkipOrigenal": {
+            "urlOgv": "SkipButton.svg",                
+            "location": "content"
+        },
+        "quesSkipHover": {                
+            "urlOgv": "SkipButtonHover.svg",
+            "location": "content"
         }
     },
 	"feedback": {
