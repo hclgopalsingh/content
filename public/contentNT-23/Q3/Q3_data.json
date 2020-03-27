@@ -306,7 +306,7 @@
 		},
 		"isFirstQues": false,
 		"imgCount": 0,
-		"itemsperPage":13,
+		"itemsperPage":12,
 		"totalSVG":60
 	},
 	"option_common_assets": {
@@ -1611,7 +1611,7 @@
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Arunachal Pradesh_WrongArunachal Pradesh_Wrong.png",
+				"url":"Arunachal Pradesh_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{

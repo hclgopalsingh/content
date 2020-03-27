@@ -4,6 +4,9 @@
 			"url": "instruction_bar.png",
 			"location": "content"
 		},
+		"inputFieldText": {
+			"info": "Type here"
+		},
 		"instruction_vo": {
 			"url": "ques_vo.ogg",
 			"location": "content"
@@ -436,6 +439,14 @@
 		},
 		"close_btn_original": {
 			"url": "closeBtn.png",
+			"location": "content"
+		},
+		"right_sound": {
+			"url": "rightFeedbackAudio1.ogg",
+			"location": "content"
+		},
+		"wrong_sound": {
+			"url": "wrongFeedbackAudio1.ogg",
 			"location": "content"
 		}
 	},
