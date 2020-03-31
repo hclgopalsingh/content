@@ -18,6 +18,30 @@
 		"keyboard":{
 			"New":false
 	  },
+	  "questionArea":[
+			{
+			"image":{
+				"url": "quesImg-1.png",
+				"location": "content",
+				"flag":true
+			},
+			"text":{
+				"txt":"Crocodile",
+				"flag":false
+			},
+			"audio":{
+				"imageUrl":"quesImg.png",
+				"url":"ques_vo.ogg",
+				"location": "content",
+				"flag":false
+			},
+			"video":{
+				"url":"video.ogg",
+				"location": "content",
+				"flag":false
+			}
+		}
+		],
 		"ques_control": {
 			"aagey_badhein": {
 				"url": "aagey.svg",
@@ -289,6 +313,7 @@
 		"quesVideo": {
 			"urlOgv": "video.ogg",
 			"urlMP4": "video.mp4",
+			"PlayVideo":false,
 			"location": "content"
 		},
 		"quesPlayPause": {
