@@ -2352,14 +2352,14 @@
 		  "month":"",
 		  "date":""
 		},
-		"disableyear":false,
+		"disableyear":true,
 		"disablemonth":false,
-		"disableweekDay":false,
+		"disableweekDay":true,
 		"disableDate":true,
 		"yearSelected":true,
 		"monthSelected":true,
 		"dateSelected":true,
-		"weekdaySelected":false,
+		"weekdaySelected":true,
 		"`quesImg": {
 			"url": "",
 			"location": ""
@@ -2377,9 +2377,9 @@
 
 	"feedback": {
 		"correct_date": "",
-		"correct_year":"2018",
-		"correct_month":"March",
-		"correct_weekDay":"Thursday",
+		"correct_year":"",
+		"correct_month":"February",
+		"correct_weekDay":"",
 		"style_header": {
 			"border": "solid .4vmin #85d222",
 			"border-top-left-radius": "20px",
