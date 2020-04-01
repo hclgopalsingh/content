@@ -635,7 +635,7 @@
 		{
 		 "id":"2018",
 		 "selected":false,
-		 "disabled":true,
+		 "disabled":false,
 		 "checkRightorWrong":false,
 		 "yearsImg":{
 			"url":"English/Images English/Years/Years Normal/year01.png",
@@ -669,7 +669,7 @@
 		{
 			"id":"2019",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"yearsImg":{
 			   "url":"English/Images English/Years/Years Normal/year02.png",
@@ -702,9 +702,9 @@
 		   },
 		   {
 			"id":"2020",
-			"selected":true,
+			"selected":false,
 			"disabled":false,
-			"checkRightorWrong":true,
+			"checkRightorWrong":false,
 			"yearsImg":{
 			   "url":"English/Images English/Years/Years Normal/year03.png",
 			   "location":"content" 
@@ -737,7 +737,7 @@
 		   {
 			"id":"2021",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"yearsImg":{
 			   "url":"English/Images English/Years/Years Normal/year04.png",
@@ -771,7 +771,7 @@
 		   {
 			"id":"2022",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"yearsImg":{
 			   "url":"English/Images English/Years/Years Normal/year05.png",
@@ -805,7 +805,7 @@
 		   {
 			"id":"2023",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"yearsImg":{
 			   "url":"English/Images English/Years/Years Normal/year06.png",
@@ -839,7 +839,7 @@
 		   {
 			"id":"2024",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"yearsImg":{
 			   "url":"English/Images English/Years/Years Normal/year07.png",
@@ -876,7 +876,7 @@
 		{
 		 "id":"January",
 		 "selected":false,
-		 "disabled":true,
+		 "disabled":false,
 		 "checkRightorWrong":false,
 		 "days":31,
 		 "monthImg":{
@@ -912,7 +912,7 @@
 		{
 			"id":"February",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"days":28,
 			"monthImg":{
@@ -947,9 +947,9 @@
 		   },
 		   {
 			"id":"March",
-			"selected":true,
+			"selected":false,
 			"disabled":false,
-			"checkRightorWrong":true,
+			"checkRightorWrong":false,
 			"days":31,
 			"monthImg":{
 				"url":"assets/images/Template-22/English/Images English/Months/Months Normal/month03.png",
@@ -984,7 +984,7 @@
 		   {
 			"id":"April",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"days":30,
 			"monthImg":{
@@ -1020,7 +1020,7 @@
 		   {
 			"id":"May",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"days":31,
 			"monthImg":{
@@ -1056,7 +1056,7 @@
 		   {
 			"id":"June",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"days":30,
 			"monthImg":{
@@ -1092,7 +1092,7 @@
 		   {
 			"id":"July",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"days":31,
 			"monthImg":{
@@ -1128,7 +1128,7 @@
 		   {
 			"id":"August",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"days":31,
 			"monthImg":{
@@ -1164,7 +1164,7 @@
 		   {
 			"id":"September",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"days":30,
 			"monthImg":{
@@ -1200,7 +1200,7 @@
 		   {
 			"id":"October",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"days":31,
 			"monthImg":{
@@ -1236,7 +1236,7 @@
 		   {
 			"id":"November",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"days":30,
 			"monthImg":{
@@ -1272,7 +1272,7 @@
 		   {
 			"id":"December",
 			"selected":false,
-			"disabled":true,
+			"disabled":false,
 			"checkRightorWrong":false,
 			"days":31,
 			"monthImg":{
@@ -2345,6 +2345,10 @@
 		  "month":"",
 		  "date":""
 		},
+		"disableyear":true,
+		"disablemonth":true,
+		"disableweekDay":false,
+		"disableDate":false,
 		"yearSelected":true,
 		"monthSelected":true,
 		"dateSelected":false,
