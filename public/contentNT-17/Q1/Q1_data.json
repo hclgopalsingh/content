@@ -3262,21 +3262,21 @@
 					"top": 80.4,
 					"width": 32,
 					"index": "index10",
-					"value": "-"
+					"value": "&"
 				},
 				{
 					"left": 34,
 					"top": 80.4,
 					"width": 32,
 					"index": "index11",
-					"value": "."
+					"value": "-"
 				},
 				{
 					"left": 68,
 					"top": 80.4,
 					"width": 32,
 					"index": "index12",
-					"value": "/"
+					"value": "@"
 				}
 			]
 		}
