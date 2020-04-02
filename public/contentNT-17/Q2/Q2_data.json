@@ -313,7 +313,7 @@
 		"quesVideo": {
 			"urlOgv": "video.ogg",
 			"urlMP4": "video.mp4",
-			"PlayVideo":false,
+			"PlayVideo":true,
 			"location": "content"
 		},
 		"quesPlayPause": {
