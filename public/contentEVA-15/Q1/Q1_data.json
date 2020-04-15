@@ -1,23 +1,23 @@
 {
     "id": "Q001",
-    "imgCount": "7",
-    "instructiontext": "यह निर्देशिका पट्टी है, क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है, क्र्प्या निर्देशों को यहाँ दर्शाएं",
+    "imgCount": "5",
+    "instructiontext": "यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं",
     "speaker": {
         "enabled": "",
         "imgsrc": {
-            "url": "assets/images/EvaTemplate15/speakerBtn.svg",
+            "url": "assets/images/EVAGlobal/speakerBtn.svg",
             "location": "assets"
         },
         "imgorigional": {
-            "url": "assets/images/EvaTemplate15/speakerBtn.svg",
+            "url": "assets/images/EVAGlobal/speakerBtn.svg",
             "location": "assets"
         },
         "imghover": {
-            "url": "assets/images/EvaTemplate15/speakerBtnHover.svg",
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
             "location": "assets"
         },
         "imgactive": {
-            "url": "assets/images/EvaTemplate15/speakerBtnHover.svg",
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
             "location": "assets"
         },
         "sound": {
@@ -27,19 +27,19 @@
     },
     "commonassets": {
         "header_bar": {
-            "url": "assets/images/EvaTemplate15/headerBar.svg",
+            "url": "assets/images/EVAGlobal/headerBar.svg",
             "location": "assets"
         },
         "instruction_bg": {
-            "url": "assets/images/EvaTemplate15/instructionBase.svg",
+            "url": "assets/images/EVAGlobal/instructionBase.svg",
             "location": "assets"
         },
         "instruction": {
-            "url": "assets/images/EvaTemplate15/Instruction.ogg",
-            "location": "assets"
+            "url": "Instruction.ogg",
+            "location": "content"
         },
         "instruction_img": {
-            "url": "assets/images/EvaTemplate15/instructionText.svg",
+            "url": "assets/images/EVAGlobal/instructionText.svg",
             "location": "assets"
         },
         "burst": {
@@ -47,43 +47,43 @@
             "location": "assets"
         },
         "bg": {
-            "url": "assets/images/EvaTemplate15/bg.svg",
+            "url": "assets/images/EVAGlobal/bg.svg",
             "location": "assets"
         },
         "peechey_jayein": {
-            "url": "assets/images/EvaTemplate15/prevBtn.svg",
+            "url": "assets/images/EVAGlobal/prevBtn.svg",
             "location": "assets"
         },
         "peechey_jayein_original": {
-            "url": "assets/images/EvaTemplate15/prevBtn.svg",
+            "url": "assets/images/EVAGlobal/prevBtn.svg",
             "location": "assets"
         },
         "peechey_jayein_hover": {
-            "url": "assets/images/EvaTemplate15/prevBtn.svg",
+            "url": "assets/images/EVAGlobal/prevBtn.svg",
             "location": "assets"
         },
         "aagey_badhein_hover": {
-            "url": "assets/images/EvaTemplate15/nextBtn.svg",
+            "url": "assets/images/EVAGlobal/nextBtn.svg",
             "location": "assets"
         },
         "aagey_badhein": {
-            "url": "assets/images/EvaTemplate15/nextBtn.svg",
+            "url": "assets/images/EVAGlobal/nextBtn.svg",
             "location": "assets"
         },
         "aagey_badhein_original": {
-            "url": "assets/images/EvaTemplate15/nextBtn.svg",
+            "url": "assets/images/EVAGlobal/nextBtn.svg",
             "location": "assets"
         },
         "aagey_badhein_blink": {
-            "url": "assets/images/EvaTemplate15/aageyBlink.svg",
+            "url": "assets/images/EVAGlobal/aageyBlink.svg",
             "location": "assets"
         },
         "background": {
-            "url": "assets/images/EvaTemplate15/bg.svg",
+            "url": "assets/images/EVAGlobal/bg.svg",
             "location": "assets"
         },
         "footer": {
-            "url": "assets/images/EvaTemplate15/footerBg.svg",
+            "url": "assets/images/EVAGlobal/footerBg.svg",
             "location": "assets"
         },
         "ques_control": {
@@ -419,7 +419,7 @@
             "autoPlay": false
         },
         "quesInstruction": {
-            "url": "narrator.ogg",
+            "url": "Instruction.ogg",
             "location": "content",
             "autoPlay": true
         },
@@ -716,7 +716,7 @@
                 "location": "content"
             }
         },
-        "write_ans_popup": {
+        "right_ans_popup": {
             "enabled": false,
             "text": "",
             "imgsrc": {
@@ -731,18 +731,18 @@
             "imgsrc": "",
             "sound": ""
         },
-        "write_ans_sound": {
+        "right_ans_sound": {
             "enabled": true,
             "path": {
-                "url": "assets/sounds/clap.ogg",
-                "location": "assets"
+                "url": "clap.ogg",
+                "location": "content"
             }
         },
         "wrong_ans_sound": {
             "enabled": true,
             "path": {
-                "url": "assets/sounds/shake.ogg",
-                "location": "assets"
+                "url": "wrongFeedback.ogg",
+                "location": "content"
             }
         }
     }
