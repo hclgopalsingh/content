@@ -358,7 +358,8 @@
         },
         "isFirstQues": true
 
-	},
+    },
+    "autoStop":"60000",
 	"quesObj": {
         "quesVideo": {
             "urlOgv": "video.ogg",

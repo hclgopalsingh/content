@@ -357,7 +357,8 @@
             "timeout": 5000
         },
         "isFirstQues": false
-	},
+    },
+    "autoStop":"60000",
 	"quesObj": {
         "quesVideo": {
             "urlOgv": "video.ogg",
