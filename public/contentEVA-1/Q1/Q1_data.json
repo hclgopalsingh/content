@@ -299,6 +299,7 @@
     },
     "options": {		
 		"opts": [{
+            "id": "001",
 			"url": "OptionAkshar_Aa.svg",
 			"location": "content",
 			"audio":{
@@ -318,6 +319,7 @@
                 "location": "content"
             }
 		}, {
+            "id": "002",
 			"url": "OptionAkshar_Pa.svg",
 			"location": "content",
 			"audio":{
@@ -338,6 +340,7 @@
             },
             "isCorrect": true
 		}, {
+            "id": "003",
 			"url": "OptionAkshar_Ra.svg",
 			"location": "content",
 			"audio":{
@@ -463,7 +466,8 @@
 			"location": "content"
 		}, {
 			"url": "QuestionWordBox_BlankBox_BlueLine.svg",
-			"location": "content"
+            "location": "content",
+            "isblank": "true"
 		}, {
 			"url": "QuestionWordBox_NaAkshar.svg",
 			"location": "content"
