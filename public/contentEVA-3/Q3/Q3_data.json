@@ -113,7 +113,7 @@
 			"location": "assets"
 		  },
 		  "submit_btn": {
-			"url": "submitBtn.png",
+			"url": "submitBtnDisabled.png",
 			"location": "content"
 		  },
 		  "submit_btn_hover": {
@@ -157,16 +157,16 @@
 				"ques_tab": {
 					"id": "001",
 					"tabcircle": {
-						"url": "quesBulletVisited.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "quesBullet.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBullet.svg",
+						"location": "assets"
 					},
 					"tabcircleVisited": {
-						"url": "quesBulletVisited.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"location": "assets"
 					},
 					"tabIdx": {
 						"url": "tab1Idx.svg",
@@ -178,16 +178,16 @@
 				"ques_tab": {
 					"id": "002",
 					"tabcircle": {
-						"url": "quesBulletVisited.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "quesBulletActive.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletActive.svg",
+						"location": "assets"
 					},
 					"tabcircleVisited": {
-						"url": "quesBulletVisited.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"location": "assets"
 					},
 					"tabIdx": {
 						"url": "tab1Idx.svg",
@@ -199,16 +199,16 @@
 				"ques_tab": {
 					"id": "003",
 					"tabcircle": {
-						"url": "quesBulletActive.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletActive.svg",
+						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "quesBulletActive.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletActive.svg",
+						"location": "assets"
 					},
 					"tabcircleVisited": {
-						"url": "quesBulletVisited.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"location": "assets"
 					},
 					"tabIdx": {
 						"url": "tab1Idx.svg",
@@ -220,16 +220,16 @@
 				"ques_tab": {
 					"id": "004",
 					"tabcircle": {
-						"url": "quesBullet.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletDisabled.svg",
+						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "quesBulletActive.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletActive.svg",
+						"location": "assets"
 					},
 					"tabcircleVisited": {
-						"url": "quesBulletVisited.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"location": "assets"
 					},
 					"tabIdx": {
 						"url": "tab1Idx.svg",
@@ -241,16 +241,16 @@
 				"ques_tab": {
 					"id": "005",
 					"tabcircle": {
-						"url": "quesBullet.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletDisabled.svg",
+						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "quesBulletActive.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletActive.svg",
+						"location": "assets"
 					},
 					"tabcircleVisited": {
-						"url": "quesBulletVisited.svg",
-						"location": "content"
+						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"location": "assets"
 					},
 					"tabIdx": {
 						"url": "tab1Idx.svg",
