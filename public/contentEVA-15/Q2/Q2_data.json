@@ -17,7 +17,7 @@
             "location": "assets"
         },
         "imgactive": {
-            "url": "assets/images/EVAGlobal/speakerBtnActive.svg",
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
             "location": "assets"
         },
         "sound": {
@@ -311,15 +311,19 @@
             "id": "001",
             "text": "",
             "image": {
-                "url": "option1.svg",
+                "url": "optBase1.svg",
                 "location": "content"
             },
+            "imgsrc": {
+                "url":"option1.svg",
+                "location":"content"
+            },
             "image_original": {
-                "url": "option1.svg",
+                "url": "optBase1.svg",
                 "location": "content"
             },
             "image_hover": {
-                "url": "option1Hover.svg",
+                "url": "optBase1Hover.svg",
                 "location": "content"
             },
             "audio": {
@@ -331,15 +335,19 @@
             "id": "002",
             "text": "",
             "image": {
-                "url": "option2.svg",
+                "url": "optBase2.svg",
                 "location": "content"
             },
+            "imgsrc": {
+                "url":"option2.svg",
+                "location":"content"
+            },
             "image_original": {
-                "url": "option2.svg",
+                "url": "optBase2.svg",
                 "location": "content"
             },
             "image_hover": {
-                "url": "option2Hover.svg",
+                "url": "optBase2Hover.svg",
                 "location": "content"
             },
             "audio": {
@@ -351,15 +359,19 @@
             "id": "003",
             "text": "",
             "image": {
-                "url": "option3.svg",
+                "url": "optBase3.svg",
                 "location": "content"
             },
+            "imgsrc": {
+                "url":"option3.svg",
+                "location":"content"
+            },
             "image_original": {
-                "url": "option3.svg",
+                "url": "optBase3.svg",
                 "location": "content"
             },
             "image_hover": {
-                "url": "option3Hover.svg",
+                "url": "optBase3Hover.svg",
                 "location": "content"
             },
             "audio": {

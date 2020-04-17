@@ -21,7 +21,7 @@
             "location": "assets"
         },
         "sound": {
-            "url": "Instruction.ogg",
+            "url": "speaker.ogg",
             "location": "content"
         }
     },
@@ -136,17 +136,18 @@
                 "location": "assets"
             },
             "submit_btn": {
-                "url": "assets/images/EVAGlobal/submitBtn.png",
+                "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
                 "location": "assets"
             },
             "submit_btn_hover": {
-                "url": "assets/images/EVAGlobal/submitBtnHover.png",
+                "url": "assets/images/EVAGlobal/submitBtnHover.svg",
                 "location": "assets"
             },
             "submit_btn_original": {
-                "url": "assets/images/EVAGlobal/submitBtn.png",
+                "url": "assets/images/EVAGlobal/submitBtnActive.svg",
                 "location": "assets"
             },
+            
             "rightTick_img": {
                 "url": "assets/images/EVAGlobal/right.svg",
                 "location": "assets"
@@ -302,15 +303,19 @@
             "id": "001",
             "text": "",
             "image": {
-                "url": "option1.svg",
+                "url": "optBase1.svg",
                 "location": "content"
             },
+            "imgsrc": {
+                "url":"option1.svg",
+                "location":"content"
+            },
             "image_original": {
-                "url": "option1.svg",
+                "url": "optBase1.svg",
                 "location": "content"
             },
             "image_hover": {
-                "url": "option1Hover.svg",
+                "url": "optBase1Hover.svg",
                 "location": "content"
             },
             "audio": {
@@ -322,15 +327,19 @@
             "id": "002",
             "text": "",
             "image": {
-                "url": "option2.svg",
+                "url": "optBase2.svg",
                 "location": "content"
             },
+            "imgsrc": {
+                "url":"option2.svg",
+                "location":"content"
+            },
             "image_original": {
-                "url": "option2.svg",
+                "url": "optBase2.svg",
                 "location": "content"
             },
             "image_hover": {
-                "url": "option2Hover.svg",
+                "url": "optBase2Hover.svg",
                 "location": "content"
             },
             "audio": {
@@ -342,15 +351,19 @@
             "id": "003",
             "text": "",
             "image": {
-                "url": "option3.svg",
+                "url": "optBase3.svg",
                 "location": "content"
             },
+            "imgsrc": {
+                "url":"option3.svg",
+                "location":"content"
+            },
             "image_original": {
-                "url": "option3.svg",
+                "url": "optBase3.svg",
                 "location": "content"
             },
             "image_hover": {
-                "url": "option3Hover.svg",
+                "url": "optBase3Hover.svg",
                 "location": "content"
             },
             "audio": {
