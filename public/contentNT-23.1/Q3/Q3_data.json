@@ -793,7 +793,7 @@
 			"strokeId":"#Madhya_pradesh_0_Layer1_0_1_STROKES",
 			"onclickColor":"#00A14B",
 			"audio": "MadhhyaPradesh.ogg",
-			"textField": "MadhhyaPradesh",
+			"textField": "MadhyaPradesh",
 			"capital":"Bhopal",
 			"stateTxtimg":{
 				"url":"MP.png",
@@ -1076,12 +1076,12 @@
 		},
 		{
 			"tooltipID": "tooltip16",
-			"id": "#Sikkim_0_Layer1_0_FILL",
-			"strokeId":"#Sikkim_0_Layer1_0_1_STROKES",
+			"id": "#Sikkim_0_Layer1_0_",
+			"strokeId":"#Sikkim_0_Layer1_0_1_",
 			"onclickColor":"#ED1C24",
 			"audio": "Sikkim.ogg",
 			"textField": "Sikkim",
-			"capital":"Gangtok",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"Sikkim.png",
 				"location":"content"
@@ -1117,12 +1117,12 @@
 		},
 		{
 			"tooltipID": "tooltip17",
-			"id": "#Andhra_pradesh_0_Layer1_0_FILL",
-			"strokeId":"#Andhra_pradesh_0_Layer1_0_1_STROKES",
+			"id": "#Andhra_pradesh_0_Layer1_0_",
+			"strokeId":"#Andhra_pradesh_0_Layer1_0_1_",
 			"onclickColor":"#21409A",
 			"audio": "AndhraPradesh.ogg",
 			"textField": "AndhraPradesh",
-			"capital":"Hyderabad",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"AndhraPradesh.png",
 				"location":"content"
@@ -1158,12 +1158,12 @@
 		},
 		{
 			"tooltipID": "tooltip18",
-			"id": "#Goa_0_Layer1_0_FILL",
-			"strokeId":"#Goa_0_Layer1_0_1_STROKES",
+			"id": "#Goa_0_Layer1_0_",
+			"strokeId":"#Goa_0_Layer1_0_1_",
 			"onclickColor":"#ED1C24",
 			"audio": "Goa.ogg",
 			"textField": "Goa",
-			"capital":"Panaji",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"Goa.png",
 				"location":"content"
@@ -1204,7 +1204,7 @@
 			"onclickColor":"#27AAE1",
 			"audio": "Karnataka.ogg",
 			"textField": "Karnataka",
-			"capital":"Bangalore",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"Karnataka.png",
 				"location":"content"
