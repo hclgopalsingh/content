@@ -80,6 +80,11 @@
 			"url": "assets/images/EVAGlobal/nextBtnHover.svg",
 			"location": "assets"
 		  },
+		  "blinkingStatus":false,
+		  "aagey_badhein_blink": {
+			"url": "assets/images/EVAGlobal/nextBtnBlink.svg",
+			"location": "assets"
+		  },
 		  "blink_btn1": {
 			"url": "blink_btn1.svg",
 			"location": "content"
