@@ -466,8 +466,8 @@
 			"location": "content"
 		}, {
 			"url": "QuestionWordBox_BlankBox_BlueLine.svg",
-            "location": "content",
-            "isblank": "true"
+            		"location": "content",
+            		"isblank": "true"
 		}, {
 			"url": "QuestionWordBox_NaAkshar.svg",
 			"location": "content"
