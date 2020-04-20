@@ -8,6 +8,10 @@
 			"url": "Question.ogg",
 			"location": "content"
 		},
+		"listHeader":{
+			"StateHeader":"../../assets/images/Template-23/bodyPartsHeader.png",
+			"CapitalHeader":"../../assets/images/Template-23/colorHeader.png"
+		},
 		"instruction_img": {
 			"url": "instructionText.svg",
 			"location": "content"
@@ -488,33 +492,33 @@
 			"textField": "Head",
 			"capital":"Head",
 			"stateTxtimg":{
-				"url":"Rajasthan.png",
+				"url":"Head.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"RajasthanCapital.png",
+				"url":"Head-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Rajasthan_Right.png",
+				"url":"Head_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Rajasthan_Right Capital.png",
+				"url":"Head_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Rajasthan_Wrong.png",
+				"url":"Head_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Rajasthan_Wrong Capital.png",
+				"url":"Head_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 66,
+			"left": 57,
 			"top": 4,
-			"ddTooltipleft": 70,
+			"ddTooltipleft": 60,
 			"ddTooltiptop": -1,
 			"working":"true",
 			"clicked" : false,
@@ -529,33 +533,33 @@
 			"textField": "Neck",
 			"capital":"Neck",
 			"stateTxtimg":{
-				"url":"J&K.png",
+				"url":"Neck.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"J&KCapital.png",
+				"url":"Neck-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"jammu & Kashmir_Right.png",
+				"url":"Neck_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"jammu & Kashmir_Right Capital.png",
+				"url":"Neck_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Jammu & Kashmir_Wrong.png",
+				"url":"Neck_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Jammu & Kashmir_Wrong Capital.png",
+				"url":"Neck_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 66,
-			"top": 12,
-			"ddTooltipleft": 51.7,
+			"left": 57,
+			"top": 8,
+			"ddTooltipleft": 42.7,
 			"ddTooltiptop": 10,
 			"working":"true",
 			"clicked" : false,
@@ -570,34 +574,34 @@
 			"textField": "Torso",
 			"capital":"Torso",
 			"stateTxtimg":{
-				"url":"HimachalPradesh.png",
+				"url":"Torso.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"HimachalPradeshCapital.png",
+				"url":"Torso-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Himachal Pradesh_Right.png",
+				"url":"Torso_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Himachal Pradesh_Right Capital.png",
+				"url":"Torso_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Himachal Pradesh_Wrong.png",
+				"url":"Torso_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Himachal Pradesh_Wrong Capital.png",
+				"url":"Torso_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 66,
-			"top": 26,
-			"ddTooltipleft": 51.2,
-			"ddTooltiptop": 25,
+			"left": 57,
+			"top": 17,
+			"ddTooltipleft": 42.2,
+			"ddTooltiptop": 21,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
@@ -611,33 +615,33 @@
 			"textField": "Right-Biceps",
 			"capital":"Right-Biceps",
 			"stateTxtimg":{
-				"url":"Punjab.png",
+				"url":"Right-Biceps.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"PunjabCapital.png",
+				"url":"Right-Biceps-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Punjab_Right.png",
+				"url":"Right-Biceps_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Punjab_Right Capital.png",
+				"url":"Right-Biceps_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Punjab_Wrong.png",
+				"url":"Right-Biceps_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Punjab_Wrong Capital.png",
+				"url":"Right-Biceps_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 62,
-			"top": 21,
-			"ddTooltipleft": 49.2,
+			"left": 54,
+			"top": 15,
+			"ddTooltipleft": 40.2,
 			"ddTooltiptop": 18.5,
 			"working":"true",
 			"clicked" : false,
@@ -652,34 +656,34 @@
 			"textField": "Left-Biceps",
 			"capital":"Left-Biceps",
 			"stateTxtimg":{
-				"url":"Uttarakhand.png",
+				"url":"Left-Biceps.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"UttarakhandCapital.png",
+				"url":"Left-Biceps-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Uttarakhand_Right.png",
+				"url":"Left-Biceps_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Uttarakhand_Right Capital.png",
+				"url":"Left-Biceps_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Uttarakhand_Wrong.png",
+				"url":"Left-Biceps_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Uttarakhand_Wrong Capital.png",
+				"url":"Left-Biceps_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 69,
-			"top": 15,
-			"ddTooltipleft": 70.5,
-			"ddTooltiptop": 31.5,
+			"left": 60,
+			"top": 10,
+			"ddTooltipleft": 61.5,
+			"ddTooltiptop": 21.5,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
@@ -693,33 +697,33 @@
 			"textField": "Right-ForArm",
 			"capital":"Right-ForArm",
 			"stateTxtimg":{
-				"url":"Haryana.png",
+				"url":"Right-ForArm.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"HaryanaCapital.png",
+				"url":"Right-ForArm-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Harayana_Right.png",
+				"url":"Right-ForArm_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Harayana_Right Capital.png",
+				"url":"Right-ForArm_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Haryana_Wrong.png",
+				"url":"Right-ForArm_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Haryana_Wrong Capital.png",
+				"url":"Right-ForArm_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 58,
-			"top": 28,
-			"ddTooltipleft": 45,
+			"left": 52,
+			"top": 19,
+			"ddTooltipleft": 38,
 			"ddTooltiptop": 23,
 			"working":"true",
 			"clicked" : false,
@@ -734,33 +738,33 @@
 			"textField": "Left-ForArm",
 			"capital":"Left-ForArm",
 			"stateTxtimg":{
-				"url":"UP.png",
+				"url":"Left-ForArm.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"UPCapital.png",
+				"url":"Left-ForArm-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Uttar Pradesh_Right.png",
+				"url":"Left-ForArm_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Uttar Pradesh_Right Capital.png",
+				"url":"Left-ForArm_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Uttar Pradesh_Wrong.png",
+				"url":"Left-ForArm_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Uttar Pradesh_Wrong Capital.png",
+				"url":"Left-ForArm_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 74,
-			"top": 11,
-			"ddTooltipleft": 74.5,
+			"left": 63,
+			"top": 7,
+			"ddTooltipleft": 65.5,
 			"ddTooltiptop": 0,
 			"working":"true",
 			"clicked" : false,
@@ -775,34 +779,34 @@
 			"textField": "Right-Palm",
 			"capital":"Right-Palm",
 			"stateTxtimg":{
-				"url":"Gujarat.png",
+				"url":"Right-Palm.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"GujaratCapital.png",
+				"url":"Right-Palm-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Gujrat_Right.png",
+				"url":"Right-Palm_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Gujrat_Right Capital.png",
+				"url":"Right-Palm_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Gujrat_Wrong.png",
+				"url":"Right-Palm_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Gujrat_Wrong Capital.png",
+				"url":"Right-Palm_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 56,
-			"top": 30,
+			"left": 50,
+			"top": 20,
 			"ddTooltipleft": 42.2,
-			"ddTooltiptop": 41,
+			"ddTooltiptop": 32,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
@@ -816,34 +820,34 @@
 			"textField": "Left-Palm",
 			"capital":"Left-Palm",
 			"stateTxtimg":{
-				"url":"MP.png",
+				"url":"Left-Palm.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"MPCapital.png",
+				"url":"Left-Palm-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Madhya Pradesh_Right.png",
+				"url":"Left-Palm_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Madhya Pradesh_Right Capital.png",
+				"url":"Left-Palm_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Madhya Pradesh_Wrong.png",
+				"url":"Left-Palm_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Madhya Pradesh_Wrong Capital.png",
+				"url":"Left-Palm_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 77,
-			"top": 6,
-			"ddTooltipleft": 77.7,
-			"ddTooltiptop": -5,
+			"left": 65,
+			"top": 4,
+			"ddTooltipleft": 67.7,
+			"ddTooltiptop": 4,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
@@ -857,34 +861,34 @@
 			"textField": "Palvis",
 			"capital":"Palvis",
 			"stateTxtimg":{
-				"url":"Bihar.png",
+				"url":"Palvis.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"BiharCapital.png",
+				"url":"Palvis-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Bihar_Right.png",
+				"url":"Palvis_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Bihar_Right Capital.png",
+				"url":"Palvis_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Bihar_Wrong.png",
+				"url":"Palvis_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Bihar_Wrong Capital.png",
+				"url":"Palvis_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 66,
-			"top": 37,
+			"left": 57,
+			"top": 27,
 			"ddTooltipleft": 51,
-			"ddTooltiptop": 43,
+			"ddTooltiptop": 38,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
@@ -898,34 +902,34 @@
 			"textField": "Right-Thigh",
 			"capital":"Right-Thigh",
 			"stateTxtimg":{
-				"url":"Jharkhand.png",
+				"url":"Right-Thigh.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"JharkhandCapital.png",
+				"url":"Right-Thigh-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Jharkhand_Right.png",
+				"url":"Right-Thigh_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Jharkhand_Right Capital.png",
+				"url":"Right-Thigh_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Jharkhand_Wrong.png",
+				"url":"Right-Thigh_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Jharkhand_Wrong Capital.png",
+				"url":"Right-Thigh_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 65,
-			"top": 53,
+			"left": 56.5,
+			"top": 37,
 			"ddTooltipleft": 51.2,
-			"ddTooltiptop": 55,
+			"ddTooltiptop": 49,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
@@ -939,33 +943,33 @@
 			"textField": "Left-Thigh",
 			"capital":"Left-Thigh",
 			"stateTxtimg":{
-				"url":"Chhattisgarh.png",
+				"url":"Left-Thigh.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"ChhattisgarhCapital.png",
+				"url":"Left-Thigh-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Chhattisgarh_Right.png",
+				"url":"Left-Thigh_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Chhattisgarh_Right Capital.png",
+				"url":"Left-Thigh_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Chhattisgarh_Wrong.png",
+				"url":"Left-Thigh_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Chhattisgarh_Wrong Capital.png",
+				"url":"Left-Thigh_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 69,
-			"top": 47,
-			"ddTooltipleft": 72.3,
+			"left": 61,
+			"top": 36,
+			"ddTooltipleft": 64.3,
 			"ddTooltiptop": 44,
 			"working":"true",
 			"clicked" : false,
@@ -980,34 +984,34 @@
 			"textField": "Right-Knee",
 			"capital":"Right-Knee",
 			"stateTxtimg":{
-				"url":"Maharashtra.png",
+				"url":"Right-Knee.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"MaharashtraCapital.png",
+				"url":"Right-Knee-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Maharashtra_Right.png",
+				"url":"Right-Knee_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Maharashtra_Right Capital.png",
+				"url":"Right-Knee_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Maharashtra_Wrong.png",
+				"url":"Right-Knee_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Maharashtra_Wrong Capital.png",
+				"url":"Right-Knee_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 65,
-			"top": 70,
+			"left": 56.5,
+			"top": 51,
 			"ddTooltipleft": 51.3,
-			"ddTooltiptop": 71,
+			"ddTooltiptop": 62,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
@@ -1021,34 +1025,34 @@
 			"textField": "Left-Knee",
 			"capital":"Left-Knee",
 			"stateTxtimg":{
-				"url":"Odisha.png",
+				"url":"Left-Knee.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"OdishaCapital.png",
+				"url":"Left-Knee-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Odisha_Right.png",
+				"url":"Left-Knee_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Odisha_Right Capital.png",
+				"url":"Left-Knee_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Odisha_Wrong.png",
+				"url":"Left-Knee_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Odisha_Wrong Capital.png",
+				"url":"Left-Knee_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 71,
-			"top": 59,
-			"ddTooltipleft": 73,
-			"ddTooltiptop": 70,
+			"left": 61,
+			"top": 42,
+			"ddTooltipleft": 60,
+			"ddTooltiptop": 54,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
@@ -1062,34 +1066,34 @@
 			"textField": "Right-Foot",
 			"capital":"Right-Foot",
 			"stateTxtimg":{
-				"url":"WB.png",
+				"url":"Right-Foot.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"WBCapital.png",
+				"url":"Right-Foot-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"West Bengal_Right.png",
+				"url":"Right-Foot_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"West Bengal_Right Capital.png",
+				"url":"Right-Foot_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"West Bengal_Wrong.png",
+				"url":"Right-Foot_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"West Bengal_Wrong Capital.png",
+				"url":"Right-Foot_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 65,
-			"top": 81,
+			"left": 56,
+			"top": 58,
 			"ddTooltipleft": 51,
-			"ddTooltiptop": 85,
+			"ddTooltiptop": 70,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
@@ -1103,34 +1107,34 @@
 			"textField": "Left-Foot",
 			"capital":"Left-Foot",
 			"stateTxtimg":{
-				"url":"Sikkim.png",
+				"url":"Left-Foot.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"SikkimCapital.png",
+				"url":"Left-Foot-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Sikkam_Right.png",
+				"url":"Left-Foot_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Sikkam_Right Capital.png",
+				"url":"Left-Foot_Right.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Sikkim_Wrong.png",
+				"url":"Left-Foot_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Sikkim_Wrong Capital.png",
+				"url":"Left-Foot_Wrong.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 71,
-			"top": 75,
-			"ddTooltipleft": 74,
-			"ddTooltiptop": 78,
+			"left": 60,
+			"top": 51,
+			"ddTooltipleft": 61,
+			"ddTooltiptop": 65,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
@@ -1159,7 +1163,7 @@
 
 
 	"feedback": {
-		"correct_state": ["Rajastahan","Maharashtra","Bihar","UttarPradesh","Jharkhand"],
+		"correct_state": ["Head","Neck","Torso","Palvis","Right-Thigh"],
 		"style_header": {
             "border": "solid .4vmin #85d222",
             "border-top-left-radius": "20px",
