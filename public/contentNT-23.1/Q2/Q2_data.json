@@ -502,12 +502,12 @@
 		},
 		{
 			"tooltipID": "tooltip2",
-			"id": "#Jammu_and_Kashmir_0_Layer1_0_FILL",
-			"strokeId":"#Jammu_and_Kashmir_0_Layer1_0_1_STROKES",
+			"id": "#Jammu_and_Kashmir_0_Layer1_0_",
+			"strokeId":"#Jammu_and_Kashmir_0_Layer1_0_1_",
 			"onclickColor":"#21409A",
 			"audio": "J&K.ogg",
 			"textField": "J&K",
-			"capital":"Srinagar ",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"J&K.png",
 				"location":"content"
@@ -625,12 +625,12 @@
 		},
 		{
 			"tooltipID": "tooltip5",
-			"id": "#Uttarakhand_0_Layer1_0_FILL",
-			"strokeId":"#Uttarakhand_0_Layer1_0_1_STROKES",
+			"id": "#Uttarakhand_0_Layer1_0_",
+			"strokeId":"#Uttarakhand_0_Layer1_0_1_",
 			"onclickColor":"#ED1C24",
 			"audio": "Uttrakhand.ogg",
 			"textField": "Uttrakhand",
-			"capital":"Dehradun",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"Uttarakhand.png",
 				"location":"content"
@@ -748,12 +748,12 @@
 		},
 		{
 			"tooltipID": "tooltip8",
-			"id": "#gujarat_0_Layer1_0_FILL",
-			"strokeId":"#gujarat_0_Layer1_0_1_STROKES",
+			"id": "#gujarat_0_Layer1_0_",
+			"strokeId":"#gujarat_0_Layer1_0_1_",
 			"onclickColor":"#7F3F98",
 			"audio": "Gujarat.ogg",
 			"textField": "Gujarat",
-			"capital":"Gandhinagar",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"Gujarat.png",
 				"location":"content"
@@ -793,7 +793,7 @@
 			"strokeId":"#Madhya_pradesh_0_Layer1_0_1_STROKES",
 			"onclickColor":"#00A14B",
 			"audio": "MadhhyaPradesh.ogg",
-			"textField": "MadhhyaPradesh",
+			"textField": "MadhyaPradesh",
 			"capital":"Bhopal",
 			"stateTxtimg":{
 				"url":"MP.png",
@@ -830,8 +830,8 @@
 		},
 		{
 			"tooltipID": "tooltip10",
-			"id": "#Bihar_0_Layer1_0_FILL",
-			"strokeId":"#Bihar_0_Layer1_0_1_STROKES",
+			"id": "#Bihar_0_Layer1_0_",
+			"strokeId":"#Bihar_0_Layer1_0_1_",
 			"onclickColor":"#21409A",
 			"audio": "Bihar.ogg",
 			"textField": "Bihar",
@@ -871,8 +871,8 @@
 		},
 		{
 			"tooltipID": "tooltip11",
-			"id": "#Jharkhand_0_Layer1_0_FILL",
-			"strokeId":"#Jharkhand_0_Layer1_0_1_STROKES",
+			"id": "#Jharkhand_0_Layer1_0_",
+			"strokeId":"#Jharkhand_0_Layer1_0_1_",
 			"onclickColor":"#F7941E",
 			"audio": "Jharkhand.ogg",
 			"textField": "Jharkhand",
