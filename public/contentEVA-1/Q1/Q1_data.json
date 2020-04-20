@@ -21,7 +21,7 @@
             "location": "assets"
         },
         "sound": {
-            "url": "Instruction.ogg",
+            "url": "speaker.ogg",
             "location": "content"
         }
     },
@@ -299,7 +299,7 @@
     },
     "options": {		
 		"opts": [{
-            "id": "001",
+            		"id": "001",
 			"url": "OptionAkshar_Aa.svg",
 			"location": "content",
 			"audio":{
@@ -465,15 +465,20 @@
 			"url": "QuestionWordBox_AAAkshar.svg",
 			"location": "content"
 		}, {
-			"url": "QuestionWordBox_BlankBox_BlueLine.svg",
+			"url": "QuestionWordBox_BlankBox.svg",
             		"location": "content",
             		"isblank": "true"
-		}, {
+		},{
+			"url": "QuestionWordBox_BlueLine.svg",
+            		"location": "content"            		
+		}		
+		, {
 			"url": "QuestionWordBox_NaAkshar.svg",
 			"location": "content"
 		}],
 		"isEnglish": false
     },
+
     "feedback": {
         "correct_ans_index": "002",
         "wrongFeedback": {
