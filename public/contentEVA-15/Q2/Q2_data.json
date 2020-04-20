@@ -87,6 +87,7 @@
             "location": "assets"
         },
         "ques_control": {
+            "isLastQues" : false,
             "footer": {
                 "url": "assets/images/EVAGlobal/footerBg.svg",
                 "location": "assets"
