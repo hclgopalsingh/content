@@ -118,15 +118,15 @@
 			"location": "assets"
 		  },
 		  "submit_btn": {
-			"url": "submitBtnDisabled.png",
+			"url": "submitBtnDisabled.svg",
 			"location": "content"
 		  },
 		  "submit_btn_hover": {
-			"url": "submitBtnHover.png",
+			"url": "submitBtnHover.svg",
 			"location": "content"
 		  },
 		  "submit_btn_original": {
-			"url": "submitBtn.png",
+			"url": "submitBtn.svg",
 			"location": "content"
 		  },
 		  "replay_btn": {
@@ -756,6 +756,73 @@
 		}
 	},
 	"feedback": {
-		"correct_answer": 2
+		"correct_answer": 2,
+		"popupassets":{
+            "pop_up_base": {
+                "url": "assets/images/EVAGlobal/popupBase.svg",
+                 "location": "assets"
+            },
+            "close_button": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_origional": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_hover": {
+                "url": "assets/images/EVAGlobal/popupCloseBtnHover.svg",
+                "location": "assets"
+            },
+            "right_icon": {
+                "url": "assets/images/EVAGlobal/rightAnsIcon.svg",
+                "location": "assets"
+            },
+            "wrong_icon": {
+                "url": "assets/images/EVAGlobal/wrongAnsIcon.svg",
+                "location": "assets"
+            }
+
+        },
+        "show_ans_popup": {
+            "enabled": false,
+            "text": "",
+            "image": {
+                "url": "optBase3.svg",
+                "location": "content"
+            },
+            "imgsrc": {
+                "url":"option3.svg",
+                "location":"content"
+            },
+            "sound": ""
+        },
+        
+ 
+        "right_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "rightFeedback.ogg",
+                "location": "content"
+            }
+        },
+        "right_ans_clap_sound": {        
+                "url": "clap.ogg",
+                "location": "content"
+        },
+        "wrong_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "wrongFeedback.ogg",
+                "location": "content"
+            }
+        },
+        "show_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "showanswerFeedback.ogg",
+                "location": "content"
+            }
 	}
+}
 }

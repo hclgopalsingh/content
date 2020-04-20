@@ -118,15 +118,15 @@
 			"location": "assets"
 		  },
 		  "submit_btn": {
-			"url": "submitBtnDisabled.png",
+			"url": "submitBtnDisabled.svg",
 			"location": "content"
 		  },
 		  "submit_btn_hover": {
-			"url": "submitBtnHover.png",
+			"url": "submitBtnHover.svg",
 			"location": "content"
 		  },
 		  "submit_btn_original": {
-			"url": "submitBtn.png",
+			"url": "submitBtn.svg",
 			"location": "content"
 		  },
 		  "replay_btn": {
@@ -315,140 +315,152 @@
         }
     },
 	"optionArray": [
-            {
-                "id": 1,
-                "imgsrc": {
-                    "url": "Akshar Animation Box Option_01.svg",
-                    "location": "content"
-                },
-                "imgsrc_hover": {
-                    "url": "Akshar Animation Box Option_01_Hover.svg",
-                    "location": "content"
-				},
-				"image_original": {
-					"url": "Akshar Animation Box Option_01.svg",
-                    "location": "content"
-				},
-				"play_button_normal":{
-					"url": "Akshar Animation Box Option_Play Button_Normal.svg",
-					"location": "content"
-				},
-				"play_button_hover":{
-					"url": "Akshar Animation Box Option_Play Button_Hover.svg",
-					"location": "content"
-				},
-				"play_button_selected":{
-					"url": "Akshar Animation Box Option_Play Button_Selected.svg",
-					"location": "content"
-				},
-				"play_button_original":{
-					"url": "Akshar Animation Box Option_Play Button_Normal.svg",
-					"location": "content"
-				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation Ka_01.mp4",
-					"location": "content"
-				},
-                "correct_vo": {
-                    "url": "opt1_correct.ogg",
-                    "location": "content"
-                },
-                "incorrect_vo": {
-                    "url": "opt1_incorrect.ogg",
-                    "location": "content"
-                }
-            },
-            {
-                "id": 2,
-                "imgsrc": {
-                    "url": "Akshar Animation Box Option_02.svg",
-                    "location": "content",
-                    "style_class": "option1"
-                },
-                "imgsrc_hover": {
-                    "url": "Akshar Animation Box Option_02_Hover.svg",
-                    "location": "content",
-                    "style_class": "option1"
-				},
-				"image_original": {
-					"url": "Akshar Animation Box Option_02.svg",
-                    "location": "content"
-				},
-				"play_button_normal":{
-					"url": "Akshar Animation Box Option_Play Button_Normal.svg",
-					"location": "content"
-				},
-				"play_button_hover":{
-					"url": "Akshar Animation Box Option_Play Button_Hover.svg",
-					"location": "content"
-				},
-				"play_button_selected":{
-					"url": "Akshar Animation Box Option_Play Button_Selected.svg",
-					"location": "content"
-				},
-				"play_button_original":{
-					"url": "Akshar Animation Box Option_Play Button_Normal.svg",
-					"location": "content"
-				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation Ka_02.mp4",
-					"location": "content"
-				},
-                "correct_vo": {
-                    "url": "opt1_correct.ogg",
-                    "location": "content"
-                },
-                "incorrect_vo": {
-                    "url": "opt1_incorrect.ogg",
-                    "location": "content"
-                }
-            },
-            {
-                "id": 3,
-                "imgsrc": {
-                    "url": "Akshar Animation Box Option_03.svg",
-                    "location": "content",
-                    "style_class": "option1"
-                },
-                "imgsrc_hover": {
-                    "url": "Akshar Animation Box Option_03_Hover.svg",
-                    "location": "content",
-                    "style_class": "option1"
-				},
-				"image_original": {
-					"url": "Akshar Animation Box Option_03.svg",
-                    "location": "content"
-				},
-				"play_button_normal":{
-					"url": "Akshar Animation Box Option_Play Button_Normal.svg",
-					"location": "content"
-				},
-				"play_button_hover":{
-					"url": "Akshar Animation Box Option_Play Button_Hover.svg",
-					"location": "content"
-				},
-				"play_button_selected":{
-					"url": "Akshar Animation Box Option_Play Button_Selected.svg",
-					"location": "content"
-				},
-				"play_button_original":{
-					"url": "Akshar Animation Box Option_Play Button_Normal.svg",
-					"location": "content"
-				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation Ka_03.mp4",
-					"location": "content"
-				},
-                "correct_vo": {
-                    "url": "opt1_correct.ogg",
-                    "location": "content"
-                },
-                "incorrect_vo": {
-                    "url": "opt1_incorrect.ogg",
-                    "location": "content"
-                }
-            }
-        ],
+		{
+			"id": 1,
+			"imgsrc": {
+				"url": "Akshar Animation Box Option_01.svg",
+				"location": "content"
+			},
+			"imgsrc_letter": {
+				"url": "Akshar Animation_KA.svg",
+				"location": "content"
+			},
+			"imgsrc_hover": {
+				"url": "Akshar Animation Box Option_01_Hover.svg",
+				"location": "content"
+			},
+			"image_original": {
+				"url": "Akshar Animation Box Option_01.svg",
+				"location": "content"
+			},
+			"play_button_normal":{
+				"url": "Akshar Animation Box Option_Play Button_Normal.svg",
+				"location": "content"
+			},
+			"play_button_hover":{
+				"url": "Akshar Animation Box Option_Play Button_Hover.svg",
+				"location": "content"
+			},
+			"play_button_selected":{
+				"url": "Akshar Animation Box Option_Play Button_Selected.svg",
+				"location": "content"
+			},
+			"play_button_original":{
+				"url": "Akshar Animation Box Option_Play Button_Normal.svg",
+				"location": "content"
+			},
+			"videosrc":{
+				"url": "Main Animation Box_Without Shadow Animation Ka_01.mp4",
+				"location": "content"
+			},
+			"correct_vo": {
+				"url": "opt1_correct.ogg",
+				"location": "content"
+			},
+			"incorrect_vo": {
+				"url": "opt1_incorrect.ogg",
+				"location": "content"
+			}
+		},
+		{
+			"id": 2,
+			"imgsrc": {
+				"url": "Akshar Animation Box Option_02.svg",
+				"location": "content",
+				"style_class": "option1"
+			},
+			"imgsrc_letter": {
+				"url": "Akshar Animation_KA.svg",
+				"location": "content"
+			},
+			"imgsrc_hover": {
+				"url": "Akshar Animation Box Option_02_Hover.svg",
+				"location": "content",
+				"style_class": "option1"
+			},
+			"image_original": {
+				"url": "Akshar Animation Box Option_02.svg",
+				"location": "content"
+			},
+			"play_button_normal":{
+				"url": "Akshar Animation Box Option_Play Button_Normal.svg",
+				"location": "content"
+			},
+			"play_button_hover":{
+				"url": "Akshar Animation Box Option_Play Button_Hover.svg",
+				"location": "content"
+			},
+			"play_button_selected":{
+				"url": "Akshar Animation Box Option_Play Button_Selected.svg",
+				"location": "content"
+			},
+			"play_button_original":{
+				"url": "Akshar Animation Box Option_Play Button_Normal.svg",
+				"location": "content"
+			},
+			"videosrc":{
+				"url": "Main Animation Box_Without Shadow Animation Ka_02.mp4",
+				"location": "content"
+			},
+			"correct_vo": {
+				"url": "opt1_correct.ogg",
+				"location": "content"
+			},
+			"incorrect_vo": {
+				"url": "opt1_incorrect.ogg",
+				"location": "content"
+			}
+		},
+		{
+			"id": 3,
+			"imgsrc": {
+				"url": "Akshar Animation Box Option_03.svg",
+				"location": "content",
+				"style_class": "option1"
+			},
+			"imgsrc_letter": {
+				"url": "Akshar Animation_KA.svg",
+				"location": "content"
+			},
+			"imgsrc_hover": {
+				"url": "Akshar Animation Box Option_03_Hover.svg",
+				"location": "content",
+				"style_class": "option1"
+			},
+			"image_original": {
+				"url": "Akshar Animation Box Option_03.svg",
+				"location": "content"
+			},
+			"play_button_normal":{
+				"url": "Akshar Animation Box Option_Play Button_Normal.svg",
+				"location": "content"
+			},
+			"play_button_hover":{
+				"url": "Akshar Animation Box Option_Play Button_Hover.svg",
+				"location": "content"
+			},
+			"play_button_selected":{
+				"url": "Akshar Animation Box Option_Play Button_Selected.svg",
+				"location": "content"
+			},
+			"play_button_original":{
+				"url": "Akshar Animation Box Option_Play Button_Normal.svg",
+				"location": "content"
+			},
+			"videosrc":{
+				"url": "Main Animation Box_Without Shadow Animation Ka_03.mp4",
+				"location": "content"
+			},
+			"correct_vo": {
+				"url": "opt1_correct.ogg",
+				"location": "content"
+			},
+			"incorrect_vo": {
+				"url": "opt1_incorrect.ogg",
+				"location": "content"
+			}
+		}
+	],
 
 	"quesObj": {
 		"quesVideo": {
@@ -744,6 +756,73 @@
 		}
 	},
 	"feedback": {
-		"correct_answer": 2
+		"correct_answer": 2,
+		"popupassets":{
+            "pop_up_base": {
+                "url": "assets/images/EVAGlobal/popupBase.svg",
+                 "location": "assets"
+            },
+            "close_button": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_origional": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_hover": {
+                "url": "assets/images/EVAGlobal/popupCloseBtnHover.svg",
+                "location": "assets"
+            },
+            "right_icon": {
+                "url": "assets/images/EVAGlobal/rightAnsIcon.svg",
+                "location": "assets"
+            },
+            "wrong_icon": {
+                "url": "assets/images/EVAGlobal/wrongAnsIcon.svg",
+                "location": "assets"
+            }
+
+        },
+        "show_ans_popup": {
+            "enabled": false,
+            "text": "",
+            "image": {
+                "url": "optBase3.svg",
+                "location": "content"
+            },
+            "imgsrc": {
+                "url":"option3.svg",
+                "location":"content"
+            },
+            "sound": ""
+        },
+        
+ 
+        "right_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "rightFeedback.ogg",
+                "location": "content"
+            }
+        },
+        "right_ans_clap_sound": {        
+                "url": "clap.ogg",
+                "location": "content"
+        },
+        "wrong_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "wrongFeedback.ogg",
+                "location": "content"
+            }
+        },
+        "show_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "showanswerFeedback.ogg",
+                "location": "content"
+            }
+	}
 	}
 }
