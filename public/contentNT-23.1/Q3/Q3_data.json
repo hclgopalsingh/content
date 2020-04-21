@@ -8,6 +8,12 @@
 			"url": "Question.ogg",
 			"location": "content"
 		},
+		"listHeader":{
+			"StateHeader":"../../assets/images/Template-23/bodyPartsHeader.png",
+			"CapitalHeader":"../../assets/images/Template-23/colorHeader.png",
+			"UpperTitle":"Body Parts:",
+		  "LowerTitle":"Colors:"
+		},
 		"instruction_img": {
 			"url": "instructionText.svg",
 			"location": "content"
@@ -493,7 +499,7 @@
 			},
 			"location": "content",
 			"left": 57,
-			"top": 4,
+			"top": 0,
 			"ddTooltipleft": 60,
 			"ddTooltiptop": -1,
 			"working":"true",
@@ -670,8 +676,8 @@
 			"strokeId":"#right_forarm_0_Layer0_0_1_STROKES",
 			"onclickColor":"#F7941E",
 			"audio": "Right-ForArm.ogg",
-			"textField": "Right-ForArm",
-			"capital":"Right-ForArm",
+			"textField": "Right-Forearm",
+			"capital":"Right-Forearm",
 			"stateTxtimg":{
 				"url":"Right-ForArm.png",
 				"location":"content"
@@ -711,8 +717,8 @@
 			"strokeId":"#left_forarm_0_Layer0_0_1_STROKES",
 			"onclickColor":"#17C2C2",
 			"audio": "Left-ForArm.ogg",
-			"textField": "Left-ForArm",
-			"capital":"Left-ForArm",
+			"textField": "Left-Forearm",
+			"capital":"Left-Forearm",
 			"stateTxtimg":{
 				"url":"Left-ForArm.png",
 				"location":"content"
@@ -834,8 +840,8 @@
 			"strokeId":"#palvis_0_Layer0_0_1_STROKES",
 			"onclickColor":"#21409A",
 			"audio": "Palvis.ogg",
-			"textField": "Palvis",
-			"capital":"Palvis",
+			"textField": "Pelvis",
+			"capital":"Pelvis",
 			"stateTxtimg":{
 				"url":"Palvis.png",
 				"location":"content"
