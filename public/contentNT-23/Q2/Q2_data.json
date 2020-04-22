@@ -8,6 +8,12 @@
 			"url": "Question.ogg",
 			"location": "content"
 		},
+		"listHeader":{
+			"StateHeader":"../../assets/images/Template-23/StateHeader.png",
+			"CapitalHeader":"../../assets/images/Template-23/CapitalHeader.png",
+			"UpperTitle":"State:",
+		  "LowerTitle":"capital:"
+		},
 		"instruction_img": {
 			"url": "instructionText.svg",
 			"location": "content"
