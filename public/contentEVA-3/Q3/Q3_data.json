@@ -1,6 +1,6 @@
 ﻿{
 	"id": "Q003",
-    "imgCount": "11",
+    "imgCount": "12",
     "instructiontext": "यह निर्देशिका पट्टी है, क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है, क्र्प्या निर्देशों को यहाँ दर्शाएं",
 	"commonassets": {
 		"header_bar": {
@@ -94,7 +94,7 @@
 			"location": "content"
 		  },
 		  "peechey_jayein": {
-			"url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+			"url": "assets/images/EVAGlobal/prevBtn.svg",
 			"location": "assets"
 		  },
 		  "peechey_jayein_original": {
@@ -115,6 +115,10 @@
 		  },
 		  "uttar_dikhayein_hover": {
 			"url": "assets/images/EVAGlobal/ansBtnActive.svg",
+			"location": "assets"
+		  },
+		  "uttar_dikhayein_disable": {
+			"url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
 			"location": "assets"
 		  },
 		  "submit_btn": {
@@ -287,6 +291,10 @@
 		},
 		"animationBox" : {
 			"url":"Main Animation Box.svg",
+			"location":"content"
+		},
+		"penpaperContent" : {
+			"url":"paperPenIcon.svg",
 			"location":"content"
 		},
 		"isFirstQues": false
@@ -787,13 +795,9 @@
         "show_ans_popup": {
             "enabled": false,
             "text": "",
-            "image": {
-                "url": "optBase3.svg",
+            "videoAnimation": {
+                "url": "Main Animation Box_Without Shadow Animation Ka_02.mp4",
                 "location": "content"
-            },
-            "imgsrc": {
-                "url":"option3.svg",
-                "location":"content"
             },
             "sound": ""
         },
