@@ -1165,7 +1165,7 @@
 
 
 	"feedback": {
-		"correct_state": ["Head","Neck","Torso","Palvis","Right-Thigh"],
+		"correct_state": ["Head","Neck","Torso","Pelvis","Right-Thigh"],
 		"style_header": {
             "border": "solid .4vmin #85d222",
             "border-top-left-radius": "20px",
