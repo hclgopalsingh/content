@@ -492,7 +492,7 @@
 			"onclickColor":"#EE2A7B",
 			"audio": "Head.ogg",
 			"textField": "Head",
-			"capital":"Head",
+			"capital":"Pink",
 			"stateTxtimg":{
 				"url":"Head.png",
 				"location":"content"
@@ -506,7 +506,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Head_Right.png",
+				"url":"Head_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -514,7 +514,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Head_Wrong.png",
+				"url":"Head_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -533,7 +533,7 @@
 			"onclickColor":"#21409A",
 			"audio": "Neck.ogg",
 			"textField": "Neck",
-			"capital":"Neck",
+			"capital":"Blue",
 			"stateTxtimg":{
 				"url":"Neck.png",
 				"location":"content"
@@ -547,7 +547,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Neck_Right.png",
+				"url":"Neck_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -555,7 +555,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Neck_Wrong.png",
+				"url":"Neck_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -574,7 +574,7 @@
 			"onclickColor":"#7F3F98",
 			"audio": "Torso.ogg",
 			"textField": "Torso",
-			"capital":"Torso",
+			"capital":"Purple",
 			"stateTxtimg":{
 				"url":"Torso.png",
 				"location":"content"
@@ -588,7 +588,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Torso_Right.png",
+				"url":"Torso_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -596,7 +596,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Torso_Wrong.png",
+				"url":"Torso_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -615,7 +615,7 @@
 			"onclickColor":"#00A14B",
 			"audio": "Right-Biceps.ogg",
 			"textField": "Right-Biceps",
-			"capital":"Right-Biceps",
+			"capital":"Green",
 			"stateTxtimg":{
 				"url":"Right-Biceps.png",
 				"location":"content"
@@ -629,7 +629,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Right-Biceps_Right.png",
+				"url":"Right-Biceps_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -637,7 +637,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Right-Biceps_Wrong.png",
+				"url":"Right-Biceps_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -656,7 +656,7 @@
 			"onclickColor":"#ED1C24",
 			"audio": "Left-Biceps.ogg",
 			"textField": "Left-Biceps",
-			"capital":"Left-Biceps",
+			"capital":"Red",
 			"stateTxtimg":{
 				"url":"Left-Biceps.png",
 				"location":"content"
@@ -670,7 +670,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Left-Biceps_Right.png",
+				"url":"Left-Biceps_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -678,7 +678,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Left-Biceps_Wrong.png",
+				"url":"Left-Biceps_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -697,7 +697,7 @@
 			"onclickColor":"#F7941E",
 			"audio": "Right-ForArm.ogg",
 			"textField": "Right-Forearm",
-			"capital":"Right-Forearm",
+			"capital":"Yellow",
 			"stateTxtimg":{
 				"url":"Right-ForArm.png",
 				"location":"content"
@@ -711,7 +711,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Right-ForArm_Right.png",
+				"url":"Right-ForArm_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -719,7 +719,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Right-ForArm_Wrong.png",
+				"url":"Right-ForArm_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -738,7 +738,7 @@
 			"onclickColor":"#17C2C2",
 			"audio": "Left-ForArm.ogg",
 			"textField": "Left-Forearm",
-			"capital":"Left-Forearm",
+			"capital":"Turquoise",
 			"stateTxtimg":{
 				"url":"Left-ForArm.png",
 				"location":"content"
@@ -752,7 +752,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Left-ForArm_Right.png",
+				"url":"Left-ForArm_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -760,7 +760,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Left-ForArm_Wrong.png",
+				"url":"Left-ForArm_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -779,7 +779,7 @@
 			"onclickColor":"#7F3F98",
 			"audio": "Right-Palm.ogg",
 			"textField": "Right-Palm",
-			"capital":"Right-Palm",
+			"capital":"Purple",
 			"stateTxtimg":{
 				"url":"Right-Palm.png",
 				"location":"content"
@@ -793,7 +793,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Right-Palm_Right.png",
+				"url":"Right-Palm_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -801,7 +801,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Right-Palm_Wrong.png",
+				"url":"Right-Palm_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -820,7 +820,7 @@
 			"onclickColor":"#00A14B",
 			"audio": "Left-Palm.ogg",
 			"textField": "Left-Palm",
-			"capital":"Left-Palm",
+			"capital":"Green",
 			"stateTxtimg":{
 				"url":"Left-Palm.png",
 				"location":"content"
@@ -834,7 +834,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Left-Palm_Right.png",
+				"url":"Left-Palm_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -842,7 +842,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Left-Palm_Wrong.png",
+				"url":"Left-Palm_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -861,7 +861,7 @@
 			"onclickColor":"#21409A",
 			"audio": "Palvis.ogg",
 			"textField": "Pelvis",
-			"capital":"Pelvis",
+			"capital":"Blue",
 			"stateTxtimg":{
 				"url":"Palvis.png",
 				"location":"content"
@@ -875,7 +875,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Palvis_Right.png",
+				"url":"Palvis_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -883,7 +883,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Palvis_Wrong.png",
+				"url":"Palvis_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -902,7 +902,7 @@
 			"onclickColor":"#F7941E",
 			"audio": "Right-Thigh.ogg",
 			"textField": "Right-Thigh",
-			"capital":"Right-Thigh",
+			"capital":"Yellow",
 			"stateTxtimg":{
 				"url":"Right-Thigh.png",
 				"location":"content"
@@ -916,7 +916,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Right-Thigh_Right.png",
+				"url":"Right-Thigh_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -924,7 +924,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Right-Thigh_Wrong.png",
+				"url":"Right-Thigh_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -943,7 +943,7 @@
 			"onclickColor":"#ED1C24",
 			"audio": "Left-Thigh.ogg",
 			"textField": "Left-Thigh",
-			"capital":"Left-Thigh",
+			"capital":"Red",
 			"stateTxtimg":{
 				"url":"Left-Thigh.png",
 				"location":"content"
@@ -957,7 +957,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Left-Thigh_Right.png",
+				"url":"Left-Thigh_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -965,12 +965,12 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Left-Thigh_Wrong.png",
+				"url":"Left-Thigh_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 61,
-			"top": 36,
+			"left": 59,
+			"top": 31,
 			"ddTooltipleft": 64.3,
 			"ddTooltiptop": 44,
 			"working":"true",
@@ -984,7 +984,7 @@
 			"onclickColor":"#F26522",
 			"audio": "Right-Knee.ogg",
 			"textField": "Right-Knee",
-			"capital":"Right-Knee",
+			"capital":"Orange",
 			"stateTxtimg":{
 				"url":"Right-Knee.png",
 				"location":"content"
@@ -998,7 +998,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Right-Knee_Right.png",
+				"url":"Right-Knee_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -1006,12 +1006,12 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Right-Knee_Wrong.png",
+				"url":"Right-Knee_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
 			"left": 56.5,
-			"top": 51,
+			"top": 48,
 			"ddTooltipleft": 51.3,
 			"ddTooltiptop": 62,
 			"working":"true",
@@ -1025,7 +1025,7 @@
 			"onclickColor":"#7F3F98",
 			"audio": "Left-Knee.ogg",
 			"textField": "Left-Knee",
-			"capital":"Left-Knee",
+			"capital":"Purple",
 			"stateTxtimg":{
 				"url":"Left-Knee.png",
 				"location":"content"
@@ -1039,7 +1039,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Left-Knee_Right.png",
+				"url":"Left-Knee_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -1047,7 +1047,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Left-Knee_Wrong.png",
+				"url":"Left-Knee_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -1066,7 +1066,7 @@
 			"onclickColor":"#00A14B",
 			"audio": "Right-Foot.ogg",
 			"textField": "Right-Foot",
-			"capital":"Right-Foot",
+			"capital":"Green",
 			"stateTxtimg":{
 				"url":"Right-Foot.png",
 				"location":"content"
@@ -1080,7 +1080,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Right-Foot_Right.png",
+				"url":"Right-Foot_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -1088,7 +1088,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Right-Foot_Wrong.png",
+				"url":"Right-Foot_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -1107,7 +1107,7 @@
 			"onclickColor":"#ED1C24",
 			"audio": "Left-Foot.ogg",
 			"textField": "Left-Foot",
-			"capital":"Left-Foot",
+			"capital":"Red",
 			"stateTxtimg":{
 				"url":"Left-Foot.png",
 				"location":"content"
@@ -1121,7 +1121,7 @@
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Left-Foot_Right.png",
+				"url":"Left-Foot_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
@@ -1129,7 +1129,7 @@
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Left-Foot_Wrong.png",
+				"url":"Left-Foot_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
@@ -1165,7 +1165,7 @@
 
 
 	"feedback": {
-		"correct_state": ["Head","Neck","Torso","Palvis","Right-Thigh"],
+		"correct_state": ["Head","Neck","Torso","Pelvis","Right-Thigh"],
 		"style_header": {
             "border": "solid .4vmin #85d222",
             "border-top-left-radius": "20px",
