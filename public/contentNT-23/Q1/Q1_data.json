@@ -8,6 +8,12 @@
 			"url": "Question.ogg",
 			"location": "content"
 		},
+		"listHeader":{
+          "StateHeader":"../../assets/images/Template-23/StateHeader.png",
+		  "CapitalHeader":"../../assets/images/Template-23/CapitalHeader.png",
+		  "UpperTitle":"State:",
+		  "LowerTitle":"capital:"
+		},
 		"instruction_img": {
 			"url": "instructionText.svg",
 			"location": "content"
@@ -777,12 +783,12 @@
 		},
 		{
 			"tooltipID": "tooltip9",
-			"id": "#Madhya_pradesh_0_Layer1_0_FILL",
-			"strokeId":"#Madhya_pradesh_0_Layer1_0_1_STROKES",
+			"id": "#Madhya_pradesh_0_Layer1_0_",
+			"strokeId":"#Madhya_pradesh_0_Layer1_0_1_",
 			"onclickColor":"#00A14B",
 			"audio": "MadhhyaPradesh.ogg",
-			"textField": "MadhhyaPradesh",
-			"capital":"Bhopal",
+			"textField": "MadhyaPradesh",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"MP.png",
 				"location":"content"
@@ -900,12 +906,12 @@
 		},
 		{
 			"tooltipID": "tooltip12",
-			"id": "#Chhattisgarh_0_Layer1_0_FILL",
-			"strokeId":"#Chhattisgarh_0_Layer1_0_1_STROKES",
+			"id": "#Chhattisgarh_0_Layer1_0_",
+			"strokeId":"#Chhattisgarh_0_Layer1_0_1_",
 			"onclickColor":"#ED1C24",
 			"audio": "Chhattisgarh.ogg",
 			"textField": "Chhattisgarh",
-			"capital":"Raipur",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"Chhattisgarh.png",
 				"location":"content"
@@ -941,12 +947,12 @@
 		},
 		{
 			"tooltipID": "tooltip13",
-			"id": "#Maharashtra_0_Layer1_0_FILL",
-			"strokeId":"#Maharashtra_0_Layer1_0_1_STROKES",
+			"id": "#Maharashtra_0_Layer1_0_",
+			"strokeId":"#Maharashtra_0_Layer1_0_1_",
 			"onclickColor":"#F26522",
 			"audio": "Maharashtra.ogg",
 			"textField": "Maharashtra",
-			"capital":"Mumbai ",
+			"capital":" ",
 			"stateTxtimg":{
 				"url":"Maharashtra.png",
 				"location":"content"
@@ -1187,12 +1193,12 @@
 		},
 		{
 			"tooltipID": "tooltip19",
-			"id": "#Karnataka_0_Layer1_0_FILL",
-			"strokeId":"#Karnataka_0_Layer1_0_1_STROKES",
+			"id": "#Karnataka_0_Layer1_0_",
+			"strokeId":"#Karnataka_0_Layer1_0_1_",
 			"onclickColor":"#27AAE1",
 			"audio": "Karnataka.ogg",
 			"textField": "Karnataka",
-			"capital":"Bengaluru",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"Karnataka.png",
 				"location":"content"
@@ -1233,7 +1239,7 @@
 			"onclickColor":"#00A14B",
 			"audio": "Tamilnadu.ogg",
 			"textField": "Tamilnadu",
-			"capital":"Chennai",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"Tamilnadu.png",
 				"location":"content"

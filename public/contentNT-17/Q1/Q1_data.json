@@ -27,13 +27,13 @@
 			},
 			"text":{
 				"txt":"मगरमछ",
-				"flag":true
+				"flag":false
 			},
 			"audio":{
 				"imageUrl":"quesImg.png",
 				"url":"ques_vo.ogg",
 				"location": "content",
-				"flag":false
+				"flag":true
 			},
 			"video":{
 				"url":"video.ogg",
