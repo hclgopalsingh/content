@@ -20,6 +20,21 @@
             "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
             "location": "assets"
         },
+        "wave1": {
+            "url": "assets/images/EVAGlobal/speakerWave1.svg",
+            "location": "assets"
+        },
+
+        "wave2": {
+            "url": "assets/images/EVAGlobal/speakerWave2.svg",
+            "location": "assets"
+        },
+
+        "wave3": {
+            "url": "assets/images/EVAGlobal/speakerWave3.svg",
+            "location": "assets"
+        },
+
         "sound": {
             "url": "Instruction.ogg",
             "location": "content"
@@ -47,7 +62,7 @@
             "location": "assets"
         },
         "bg": {
-            "url": "assets/images/EVAGlobal/bg.svg",
+            "url": "assets/images/EVAGlobal/bg.jpg",
             "location": "assets"
         },
         "peechey_jayein": {
@@ -79,7 +94,7 @@
             "location": "assets"
         },
         "background": {
-            "url": "assets/images/EVAGlobal/bg.svg",
+            "url": "assets/images/EVAGlobal/bg.jpg",
             "location": "assets"
         },
         "footer": {
@@ -138,7 +153,7 @@
             },
             "submit_btn": {
                 "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
-                "location": "assets"
+                "location": "bgassets"
             },
             "submit_btn_hover": {
                 "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
@@ -162,15 +177,15 @@
                     "ques_tab": {
                         "id": "001",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBullet.svg",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         },
                         "tabIdx": {
@@ -183,15 +198,15 @@
                     "ques_tab": {
                         "id": "002",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.svg",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         }
                     }
@@ -200,15 +215,15 @@
                     "ques_tab": {
                         "id": "003",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.svg",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         }
                     }
@@ -217,15 +232,15 @@
                     "ques_tab": {
                         "id": "004",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.svg",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         }
                     }
@@ -234,15 +249,15 @@
                     "ques_tab": {
                         "id": "005",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.svg",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         }
                     }
