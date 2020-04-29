@@ -316,7 +316,19 @@
         "imgactive": {
             "url": "speakerBtnActive.svg",
             "location": "content"
-        },
+		},
+		"wave1": {
+			"url": "assets/images/EVAGlobal/speakerWave1.svg",
+            "location": "assets"
+		},
+		"wave2": {
+			"url": "assets/images/EVAGlobal/speakerWave2.svg",
+            "location": "assets"
+		},
+		"wave3": {
+			"url": "assets/images/EVAGlobal/speakerWave3.svg",
+            "location": "assets"
+		},
         "sound": {
             "url": "Instruction.ogg",
             "location": "content"
