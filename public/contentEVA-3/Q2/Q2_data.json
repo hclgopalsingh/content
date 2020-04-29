@@ -56,8 +56,8 @@
 		  "location": "assets"
 		},
 		"background": {
-		  "url": "bg.svg",
-		  "location": "content"
+			"url": "assets/images/EVAGlobal/bg.jpg",
+			"location": "assets"
 		},
 		"footer": {
 		  "url": "assets/images/EVAGlobal/footerBg.svg",
