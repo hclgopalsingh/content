@@ -143,11 +143,11 @@
                 "location": "assets"
             },
             "uttar_dikhayein_original": {
-                "url": "assets/images/EVAGlobal/ansBtn.svg",
+                "url": "assets/images/EVAGlobal/ansBtnActive.svg",
                 "location": "assets"
             },
             "uttar_dikhayein_hover": {
-                "url": "assets/images/EVAGlobal/ansBtnActive.svg",
+                "url": "assets/images/EVAGlobal/ansBtnHover.svg",
                 "location": "assets"
             },
             "submit_btn": {
