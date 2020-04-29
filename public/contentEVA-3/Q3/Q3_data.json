@@ -110,11 +110,11 @@
 			"location": "assets"
 		  },
 		  "uttar_dikhayein_original": {
-			"url": "assets/images/EVAGlobal/ansBtn.svg",
+			"url": "assets/images/EVAGlobal/ansBtnActive.svg",
 			"location": "assets"
 		  },
 		  "uttar_dikhayein_hover": {
-			"url": "assets/images/EVAGlobal/ansBtnActive.svg",
+			"url": "assets/images/EVAGlobal/ansBtnHover.svg",
 			"location": "assets"
 		  },
 		  "uttar_dikhayein_disable": {
@@ -122,16 +122,16 @@
 			"location": "assets"
 		  },
 		  "submit_btn": {
-			"url": "submitBtnDisabled.svg",
-			"location": "content"
+			"url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+			"location": "assets"
 		  },
 		  "submit_btn_hover": {
-			"url": "submitBtnHover.svg",
-			"location": "content"
+			"url": "assets/images/EVAGlobal/submitBtnHover.svg",
+			"location": "assets"
 		  },
 		  "submit_btn_original": {
-			"url": "submitBtn.svg",
-			"location": "content"
+			"url": "assets/images/EVAGlobal/submitBtn.svg",
+			"location": "assets"
 		  },
 		  "replay_btn": {
 			"url": "video_btn.png",
