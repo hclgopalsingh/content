@@ -166,15 +166,15 @@
 				"ques_tab": {
 					"id": "001",
 					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "assets/images/EVAGlobal/quesBullet.svg",
+						"url": "assets/images/EVAGlobal/quesBullet.png",
 						"location": "assets"
 					},
 					"tabcircleVisited": {
-						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabIdx": {
