@@ -183,15 +183,15 @@
 				"ques_tab": {
 					"id": "001",
 					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "assets/images/EVAGlobal/quesBullet.svg",
+						"url": "assets/images/EVAGlobal/quesBullet.png",
 						"location": "assets"
 					},
 					"tabcircleVisited": {
-						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabIdx": {
@@ -204,15 +204,15 @@
 				"ques_tab": {
 					"id": "002",
 					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "assets/images/EVAGlobal/quesBulletActive.svg",
+						"url": "assets/images/EVAGlobal/quesBulletActive.png",
 						"location": "assets"
 					},
 					"tabcircleVisited": {
-						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabIdx": {
@@ -225,15 +225,15 @@
 				"ques_tab": {
 					"id": "003",
 					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBulletActive.svg",
+						"url": "assets/images/EVAGlobal/quesBulletActive.png",
 						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "assets/images/EVAGlobal/quesBulletActive.svg",
+						"url": "assets/images/EVAGlobal/quesBulletActive.png",
 						"location": "assets"
 					},
 					"tabcircleVisited": {
-						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabIdx": {
@@ -246,15 +246,15 @@
 				"ques_tab": {
 					"id": "004",
 					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBulletDisabled.svg",
+						"url": "assets/images/EVAGlobal/quesBulletDisabled.png",
 						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "assets/images/EVAGlobal/quesBulletActive.svg",
+						"url": "assets/images/EVAGlobal/quesBulletActive.png",
 						"location": "assets"
 					},
 					"tabcircleVisited": {
-						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabIdx": {
@@ -267,15 +267,15 @@
 				"ques_tab": {
 					"id": "005",
 					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBulletDisabled.svg",
+						"url": "assets/images/EVAGlobal/quesBulletDisabled.png",
 						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "assets/images/EVAGlobal/quesBulletActive.svg",
+						"url": "assets/images/EVAGlobal/quesBulletActive.png",
 						"location": "assets"
 					},
 					"tabcircleVisited": {
-						"url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabIdx": {
@@ -387,7 +387,7 @@
 				"location": "content"
 			},
 			"videosrc":{
-				"url": "Main Animation Box_Without Shadow Animation Ka_01.mp4",
+				"url": "Main Animation Box_Without Shadow Animation Ka_01.ogg",
 				"location": "content"
 			},
 			"correct_vo": {
@@ -436,7 +436,7 @@
 				"location": "content"
 			},
 			"videosrc":{
-				"url": "Main Animation Box_Without Shadow Animation Ka_02.mp4",
+				"url": "Main Animation Box_Without Shadow Animation Ka_02.ogg",
 				"location": "content"
 			},
 			"correct_vo": {
@@ -485,7 +485,7 @@
 				"location": "content"
 			},
 			"videosrc":{
-				"url": "Main Animation Box_Without Shadow Animation Ka_03.mp4",
+				"url": "Main Animation Box_Without Shadow Animation Ka_03.ogg",
 				"location": "content"
 			},
 			"correct_vo": {
@@ -825,7 +825,7 @@
             "enabled": false,
             "text": "",
             "videoAnimation": {
-                "url": "Main Animation Box_Without Shadow Animation Ka_02.mp4",
+                "url": "Main Animation Box_Without Shadow Animation Ka_02.ogg",
                 "location": "content"
             },
             "sound": ""
