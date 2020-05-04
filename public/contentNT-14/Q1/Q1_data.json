@@ -358,7 +358,8 @@
         },
         "isFirstQues": true
 
-	},
+    },
+    "autoStop":"60000",
 	"quesObj": {
         "quesVideo": {
             "urlOgv": "video.ogg",
@@ -384,6 +385,60 @@
             "location": ""
         }
     },
+    "info_popup": {
+		"style_header": {
+			"border": "solid .4vmin #85d222",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#248446"
+		},
+		"style_body": {
+			"border": "solid .4vmin #85d222",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"background": "#afdec0"
+		},
+		"headerTxt_img": {
+			"url": "PopupInfoHeader.png",
+			"location": "content"
+		},
+		"bg_img": {
+			"url": "",
+			"location": "content"
+		},
+		"close_btn": {
+			"url": "closeBtn.png",
+			"location": "content"
+		},
+		"close_btn_hover": {
+			"url": "closeBtnHover.png",
+			"location": "content"
+		},
+		"close_btn_original": {
+			"url": "closeBtn.png",
+			"location": "content"
+		},
+		"info_text": {
+			"url": "lookformore_popup_text.png",
+			"location": "content"
+		},
+		"ok_btn": {
+			"url": "ok_btn_normal.png",
+			"location": "content"
+		},
+		"ok_btn_hover": {
+			"url": "ok_btn_Hover.png",
+			"location": "content"
+		},
+		"ok_btn_original": {
+			"url": "ok_btn_normal.png",
+			"location": "content"
+		},
+		"partialCorrectAudio": {
+			"url": "partialFeedback.ogg",
+			"location": "content"
+		}
+	},
 	"ques": {
 		"text": {
 			"url": "txt1.svg",

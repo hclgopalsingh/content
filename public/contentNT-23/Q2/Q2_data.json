@@ -8,6 +8,12 @@
 			"url": "Question.ogg",
 			"location": "content"
 		},
+		"listHeader":{
+			"StateHeader":"../../assets/images/Template-23/StateHeader.png",
+			"CapitalHeader":"../../assets/images/Template-23/CapitalHeader.png",
+			"UpperTitle":"State:",
+		  "LowerTitle":"capital:"
+		},
 		"instruction_img": {
 			"url": "instructionText.svg",
 			"location": "content"
@@ -1619,7 +1625,7 @@
 
 
 	"feedback": {
-		"correct_state": ["Kerala","Assam","Rajastahan","HimachalPradesh","Punjab","UttarPradesh","MadhhyaPradesh"],
+		"correct_state": ["Kerala","Assam","Rajastahan","HimachalPradesh","Punjab","UttarPradesh","MadhyaPradesh"],
 		
 		"style_header": {
             "border": "solid .4vmin #85d222",

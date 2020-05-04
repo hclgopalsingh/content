@@ -8,6 +8,12 @@
 			"url": "Question.ogg",
 			"location": "content"
 		},
+		"listHeader":{
+          "StateHeader":"../../assets/images/Template-23/StateHeader.png",
+		  "CapitalHeader":"../../assets/images/Template-23/CapitalHeader.png",
+		  "UpperTitle":"State:",
+		  "LowerTitle":"Capital:"
+		},
 		"instruction_img": {
 			"url": "instructionText.svg",
 			"location": "content"
@@ -1204,7 +1210,7 @@
 			"onclickColor":"#27AAE1",
 			"audio": "Karnataka.ogg",
 			"textField": "Karnataka",
-			"capital":"Bangalore",
+			"capital":"Bengaluru",
 			"stateTxtimg":{
 				"url":"Karnataka.png",
 				"location":"content"

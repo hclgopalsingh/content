@@ -8,6 +8,12 @@
 			"url": "Question.ogg",
 			"location": "content"
 		},
+		"listHeader":{
+			"StateHeader":"../../assets/images/Template-23/bodyPartsHeader.png",
+			"CapitalHeader":"../../assets/images/Template-23/colorHeader.png",
+			"UpperTitle":"Body Parts:",
+		  "LowerTitle":"Colors:"
+		},
 		"instruction_img": {
 			"url": "instructionText.svg",
 			"location": "content"
@@ -325,7 +331,7 @@
 	},
      "svgInfo":{
 		"svgId":"mainques",
-		"url": "assets/images/Map.svg",
+		"url": "assets/images/humanBody.svg",
 		"location": "assets",
 		"hoverColor":"#FFFFCC"
 	 },
@@ -461,163 +467,163 @@
 	"statesArr": [
 		{
 			"tooltipID": "tooltip1",
-			"id": "#Rajasthan_0_Layer1_0_FILL",
-			"strokeId":"#Rajasthan_0_Layer1_0_1_STROKES",
+			"id": "#head_0_Layer0_0_FILL",
+			"strokeId":"#head_0_Layer0_0_1_STROKES",
 			"onclickColor":"#EE2A7B",
-			"audio": "Rajastahan.ogg",
-			"textField": "Rajastahan",
-			"capital":"Jaipur",
+			"audio": "Head.ogg",
+			"textField": "Head",
+			"capital":"Pink",
 			"stateTxtimg":{
-				"url":"Rajasthan.png",
+				"url":"Head.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"RajasthanCapital.png",
+				"url":"Head-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Rajasthan_Right.png",
+				"url":"Head_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Rajasthan_Right Capital.png",
+				"url":"Head_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Rajasthan_Wrong.png",
+				"url":"Head_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Rajasthan_Wrong Capital.png",
+				"url":"Head_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 40,
-			"top": 28,
-			"ddTooltipleft": 46.5,
-			"ddTooltiptop": 28,
+			"left": 57,
+			"top": 0,
+			"ddTooltipleft": 60,
+			"ddTooltiptop": -1,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
 		},
 		{
 			"tooltipID": "tooltip2",
-			"id": "#Jammu_and_Kashmir_0_Layer1_0_FILL",
-			"strokeId":"#Jammu_and_Kashmir_0_Layer1_0_1_STROKES",
+			"id": "#neck_0_Layer0_0_FILL",
+			"strokeId":"#neck_0_Layer0_0_1_STROKES",
 			"onclickColor":"#21409A",
-			"audio": "J&K.ogg",
-			"textField": "J&K",
-			"capital":"Srinagar ",
+			"audio": "Neck.ogg",
+			"textField": "Neck",
+			"capital":"Blue",
 			"stateTxtimg":{
-				"url":"J&K.png",
+				"url":"Neck.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"J&KCapital.png",
+				"url":"Neck-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"jammu & Kashmir_Right.png",
+				"url":"Neck_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"jammu & Kashmir_Right Capital.png",
+				"url":"Neck_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Jammu & Kashmir_Wrong.png",
+				"url":"Neck_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Jammu & Kashmir_Wrong Capital.png",
+				"url":"Neck_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 43,
-			"top": 4,
-			"ddTooltipleft": 48.7,
-			"ddTooltiptop": 5,
+			"left": 57,
+			"top": 8,
+			"ddTooltipleft": 42.7,
+			"ddTooltiptop": 10,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
 		},
 		{
 			"tooltipID": "tooltip3",
-			"id": "#Himachal_pradesh_0_Layer1_0_FILL",
-			"strokeId":"#Himachal_pradesh_0_Layer1_0_1_STROKES",
+			"id": "#torso_0_Layer0_0_FILL",
+			"strokeId":"#torso_0_Layer0_0_1_STROKES",
 			"onclickColor":"#7F3F98",
-			"audio": "HimachalPradesh.ogg",
-			"textField": "HimachalPradesh",
-			"capital":"Shimla",
+			"audio": "Torso.ogg",
+			"textField": "Torso",
+			"capital":"Purple",
 			"stateTxtimg":{
-				"url":"HimachalPradesh.png",
+				"url":"Torso.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"HimachalPradeshCapital.png",
+				"url":"Torso-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Himachal Pradesh_Right.png",
+				"url":"Torso_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Himachal Pradesh_Right Capital.png",
+				"url":"Torso_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Himachal Pradesh_Wrong.png",
+				"url":"Torso_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Himachal Pradesh_Wrong Capital.png",
+				"url":"Torso_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 44,
-			"top": 11,
-			"ddTooltipleft": 47.2,
-			"ddTooltiptop": 15,
+			"left": 57,
+			"top": 17,
+			"ddTooltipleft": 42.2,
+			"ddTooltiptop": 21,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
 		},
 		{
 			"tooltipID": "tooltip4",
-			"id": "#Punjab_0_Layer1_0_FILL",
-			"strokeId":"#Punjab_0_Layer1_0_1_STROKES",
+			"id": "#right_biceps_0_Layer0_0_FILL",
+			"strokeId":"#right_biceps_0_Layer0_0_1_STROKES",
 			"onclickColor":"#00A14B",
-			"audio": "Punjab.ogg",
-			"textField": "Punjab",
-			"capital":"Chandigarh",
+			"audio": "Right-Biceps.ogg",
+			"textField": "Right-Biceps",
+			"capital":"Green",
 			"stateTxtimg":{
-				"url":"Punjab.png",
+				"url":"Right-Biceps.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"PunjabCapital.png",
+				"url":"Right-Biceps-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Punjab_Right.png",
+				"url":"Right-Biceps_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Punjab_Right Capital.png",
+				"url":"Right-Biceps_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Punjab_Wrong.png",
+				"url":"Right-Biceps_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Punjab_Wrong Capital.png",
+				"url":"Right-Biceps_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 42,
+			"left": 54,
 			"top": 15,
-			"ddTooltipleft": 45.2,
+			"ddTooltipleft": 40.2,
 			"ddTooltiptop": 18.5,
 			"working":"true",
 			"clicked" : false,
@@ -625,40 +631,40 @@
 		},
 		{
 			"tooltipID": "tooltip5",
-			"id": "#Uttarakhand_0_Layer1_0_FILL",
-			"strokeId":"#Uttarakhand_0_Layer1_0_1_STROKES",
+			"id": "#left_biceps_0_Layer0_0_FILL",
+			"strokeId":"#left_biceps_0_Layer0_0_1_STROKES",
 			"onclickColor":"#ED1C24",
-			"audio": "Uttrakhand.ogg",
-			"textField": "Uttrakhand",
-			"capital":"Dehradun",
+			"audio": "Left-Biceps.ogg",
+			"textField": "Left-Biceps",
+			"capital":"Red",
 			"stateTxtimg":{
-				"url":"Uttarakhand.png",
+				"url":"Left-Biceps.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"UttarakhandCapital.png",
+				"url":"Left-Biceps-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Uttarakhand_Right.png",
+				"url":"Left-Biceps_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Uttarakhand_Right Capital.png",
+				"url":"Left-Biceps_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Uttarakhand_Wrong.png",
+				"url":"Left-Biceps_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Uttarakhand_Wrong Capital.png",
+				"url":"Left-Biceps_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 47,
-			"top": 18,
-			"ddTooltipleft": 49.5,
+			"left": 60,
+			"top": 10,
+			"ddTooltipleft": 61.5,
 			"ddTooltiptop": 21.5,
 			"working":"true",
 			"clicked" : false,
@@ -666,40 +672,40 @@
 		},
 		{
 			"tooltipID": "tooltip6",
-			"id": "#Haryana_0_Layer1_0_FILL",
-			"strokeId":"#Haryana_0_Layer1_0_1_STROKES",
-			"onclickColor":"#F7941E",
-			"audio": "Haryana.ogg",
-			"textField": "Haryana",
-			"capital":"Chandigarh",
+			"id": "#right_forarm_0_Layer0_0_FILL",
+			"strokeId":"#right_forarm_0_Layer0_0_1_STROKES",
+			"onclickColor":"#F7CA18",
+			"audio": "Right-ForArm.ogg",
+			"textField": "Right-Forearm",
+			"capital":"Yellow",
 			"stateTxtimg":{
-				"url":"Haryana.png",
+				"url":"Right-ForArm.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"HaryanaCapital.png",
+				"url":"Right-ForArm-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Harayana_Right.png",
+				"url":"Right-ForArm_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Harayana_Right Capital.png",
+				"url":"Right-ForArm_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Haryana_Wrong.png",
+				"url":"Right-ForArm_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Haryana_Wrong Capital.png",
+				"url":"Right-ForArm_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 44,
-			"top": 21,
-			"ddTooltipleft": 46,
+			"left": 52,
+			"top": 19,
+			"ddTooltipleft": 38,
 			"ddTooltiptop": 23,
 			"working":"true",
 			"clicked" : false,
@@ -707,245 +713,245 @@
 		},
 		{
 			"tooltipID": "tooltip7",
-			"id": "#Uttar_pradesh_0_Layer0_0_FILL",
-			"strokeId":"#Uttar_pradesh_0_Layer0_0_1_STROKES",
+			"id": "#left_forarm_0_Layer0_0_FILL",
+			"strokeId":"#left_forarm_0_Layer0_0_1_STROKES",
 			"onclickColor":"#17C2C2",
-			"audio": "UttarPradesh.ogg",
-			"textField": "UttarPradesh",
-			"capital":"Lucknow",
+			"audio": "Left-ForArm.ogg",
+			"textField": "Left-Forearm",
+			"capital":"Turquoise",
 			"stateTxtimg":{
-				"url":"UP.png",
+				"url":"Left-ForArm.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"UPCapital.png",
+				"url":"Left-ForArm-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Uttar Pradesh_Right.png",
+				"url":"Left-ForArm_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Uttar Pradesh_Right Capital.png",
+				"url":"Left-ForArm_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Uttar Pradesh_Wrong.png",
+				"url":"Left-ForArm_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Uttar Pradesh_Wrong Capital.png",
+				"url":"Left-ForArm_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 48,
-			"top": 28,
-			"ddTooltipleft": 53.5,
-			"ddTooltiptop": 29,
+			"left": 63,
+			"top": 7,
+			"ddTooltipleft": 65.5,
+			"ddTooltiptop": 0,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
 		},
 		{
 			"tooltipID": "tooltip8",
-			"id": "#gujarat_0_Layer1_0_FILL",
-			"strokeId":"#gujarat_0_Layer1_0_1_STROKES",
+			"id": "#right_palm_0_Layer0_0_FILL",
+			"strokeId":"#right_palm_0_Layer0_0_1_STROKES",
 			"onclickColor":"#7F3F98",
-			"audio": "Gujarat.ogg",
-			"textField": "Gujarat",
-			"capital":"Gandhinagar",
+			"audio": "Right-Palm.ogg",
+			"textField": "Right-Palm",
+			"capital":"Purple",
 			"stateTxtimg":{
-				"url":"Gujarat.png",
+				"url":"Right-Palm.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"GujaratCapital.png",
+				"url":"Right-Palm-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Gujrat_Right.png",
+				"url":"Right-Palm_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Gujrat_Right Capital.png",
+				"url":"Right-Palm_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Gujrat_Wrong.png",
+				"url":"Right-Palm_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Gujrat_Wrong Capital.png",
+				"url":"Right-Palm_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 38,
-			"top": 41,
+			"left": 50,
+			"top": 20,
 			"ddTooltipleft": 42.2,
-			"ddTooltiptop": 41,
+			"ddTooltiptop": 32,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
 		},
 		{
 			"tooltipID": "tooltip9",
-			"id": "#Madhya_pradesh_0_Layer1_0_FILL",
-			"strokeId":"#Madhya_pradesh_0_Layer1_0_1_STROKES",
+			"id": "#left_palm_0_Layer0_0_FILL",
+			"strokeId":"#left_palm_0_Layer0_0_1_STROKES",
 			"onclickColor":"#00A14B",
-			"audio": "MadhhyaPradesh.ogg",
-			"textField": "MadhyaPradesh",
-			"capital":"Bhopal",
+			"audio": "Left-Palm.ogg",
+			"textField": "Left-Palm",
+			"capital":"Green",
 			"stateTxtimg":{
-				"url":"MP.png",
+				"url":"Left-Palm.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"MPCapital.png",
+				"url":"Left-Palm-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Madhya Pradesh_Right.png",
+				"url":"Left-Palm_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Madhya Pradesh_Right Capital.png",
+				"url":"Left-Palm_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Madhya Pradesh_Wrong.png",
+				"url":"Left-Palm_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Madhya Pradesh_Wrong Capital.png",
+				"url":"Left-Palm_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 46,
-			"top": 38,
-			"ddTooltipleft": 51.7,
-			"ddTooltiptop": 38,
+			"left": 65,
+			"top": 4,
+			"ddTooltipleft": 67.7,
+			"ddTooltiptop": 4,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
 		},
 		{
 			"tooltipID": "tooltip10",
-			"id": "#Bihar_0_Layer1_0_FILL",
-			"strokeId":"#Bihar_0_Layer1_0_1_STROKES",
+			"id": "#palvis_0_Layer0_0_FILL",
+			"strokeId":"#palvis_0_Layer0_0_1_STROKES",
 			"onclickColor":"#21409A",
-			"audio": "Bihar.ogg",
-			"textField": "Bihar",
-			"capital":"Patna",
+			"audio": "Palvis.ogg",
+			"textField": "Pelvis",
+			"capital":"Blue",
 			"stateTxtimg":{
-				"url":"Bihar.png",
+				"url":"Palvis.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"BiharCapital.png",
+				"url":"Palvis-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Bihar_Right.png",
+				"url":"Palvis_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Bihar_Right Capital.png",
+				"url":"Palvis_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Bihar_Wrong.png",
+				"url":"Palvis_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Bihar_Wrong Capital.png",
+				"url":"Palvis_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 53,
-			"top": 31,
-			"ddTooltipleft": 57,
-			"ddTooltiptop": 35,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip11",
-			"id": "#Jharkhand_0_Layer1_0_FILL",
-			"strokeId":"#Jharkhand_0_Layer1_0_1_STROKES",
-			"onclickColor":"#F7941E",
-			"audio": "Jharkhand.ogg",
-			"textField": "Jharkhand",
-			"capital":"Ranchi",
-			"stateTxtimg":{
-				"url":"Jharkhand.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"JharkhandCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Jharkhand_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Jharkhand_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Jharkhand_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Jharkhand_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 53.5,
-			"top": 37,
-			"ddTooltipleft": 57.2,
+			"left": 57,
+			"top": 27,
+			"ddTooltipleft": 51,
 			"ddTooltiptop": 38,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
 		},
 		{
-			"tooltipID": "tooltip12",
-			"id": "#Chhattisgarh_0_Layer1_0_FILL",
-			"strokeId":"#Chhattisgarh_0_Layer1_0_1_STROKES",
-			"onclickColor":"#ED1C24",
-			"audio": "Chhattisgarh.ogg",
-			"textField": "Chhattisgarh",
-			"capital":"Raipur",
+			"tooltipID": "tooltip11",
+			"id": "#right_thigh_0_Layer0_0_FILL",
+			"strokeId":"#right_thigh_0_Layer0_0_1_STROKES",
+			"onclickColor":"#F7CA18",
+			"audio": "Right-Thigh.ogg",
+			"textField": "Right-Thigh",
+			"capital":"Yellow",
 			"stateTxtimg":{
-				"url":"Chhattisgarh.png",
+				"url":"Right-Thigh.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"ChhattisgarhCapital.png",
+				"url":"Right-Thigh-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Chhattisgarh_Right.png",
+				"url":"Right-Thigh_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Chhattisgarh_Right Capital.png",
+				"url":"Right-Thigh_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Chhattisgarh_Wrong.png",
+				"url":"Right-Thigh_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Chhattisgarh_Wrong Capital.png",
+				"url":"Right-Thigh_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 49,
-			"top": 44,
-			"ddTooltipleft": 53.3,
+			"left": 56.5,
+			"top": 37,
+			"ddTooltipleft": 51.2,
+			"ddTooltiptop": 49,
+			"working":"true",
+			"clicked" : false,
+			"optionSelected":""
+		},
+		{
+			"tooltipID": "tooltip12",
+			"id": "#left_thigh_0_Layer0_0_FILL",
+			"strokeId":"#left_thigh_0_Layer0_0_1_STROKES",
+			"onclickColor":"#ED1C24",
+			"audio": "Left-Thigh.ogg",
+			"textField": "Left-Thigh",
+			"capital":"Red",
+			"stateTxtimg":{
+				"url":"Left-Thigh.png",
+				"location":"content"
+			},
+			"capitalTxtimg":{
+				"url":"Left-Thigh-color.png",
+				"location":"content"
+			},
+			"correctstateTxtimg":{
+				"url":"Left-Thigh_Right.png",
+				"location":"content"
+			},
+			"correctcapitalTxtimg":{
+				"url":"Left-Thigh_Right_color.png",
+				"location":"content"
+			},
+			"incorrectstateTxtimg":{
+				"url":"Left-Thigh_Wrong.png",
+				"location":"content"
+			},
+			"incorrectcapitalTxtimg":{
+				"url":"Left-Thigh_Wrong_color.png",
+				"location":"content"
+			},
+			"location": "content",
+			"left": 59,
+			"top": 31,
+			"ddTooltipleft": 64.3,
 			"ddTooltiptop": 44,
 			"working":"true",
 			"clicked" : false,
@@ -953,656 +959,164 @@
 		},
 		{
 			"tooltipID": "tooltip13",
-			"id": "#Maharashtra_0_Layer1_0_FILL",
-			"strokeId":"#Maharashtra_0_Layer1_0_1_STROKES",
+			"id": "#right_knee_0_Layer0_0_FILL",
+			"strokeId":"#right_knee_0_Layer0_0_1_STROKES",
 			"onclickColor":"#F26522",
-			"audio": "Maharashtra.ogg",
-			"textField": "Maharashtra",
-			"capital":"Mumbai ",
+			"audio": "Right-Knee.ogg",
+			"textField": "Right-Knee",
+			"capital":"Orange",
 			"stateTxtimg":{
-				"url":"Maharashtra.png",
+				"url":"Right-Knee.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"MaharashtraCapital.png",
+				"url":"Right-Knee-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Maharashtra_Right.png",
+				"url":"Right-Knee_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Maharashtra_Right Capital.png",
+				"url":"Right-Knee_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Maharashtra_Wrong.png",
+				"url":"Right-Knee_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Maharashtra_Wrong Capital.png",
+				"url":"Right-Knee_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 42,
-			"top": 50,
-			"ddTooltipleft": 49.3,
-			"ddTooltiptop": 50,
+			"left": 56.5,
+			"top": 48,
+			"ddTooltipleft": 51.3,
+			"ddTooltiptop": 62,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
 		},
 		{
 			"tooltipID": "tooltip14",
-			"id": "#Orissa_0_Layer1_0_FILL",
-			"strokeId":"#Orissa_0_Layer1_0_1_STROKES",
+			"id": "#left_knee_0_Layer0_0_FILL",
+			"strokeId":"#left_knee_0_Layer0_0_1_STROKES",
 			"onclickColor":"#7F3F98",
-			"audio": "Orissa.ogg",
-			"textField": "Orissa",
-			"capital":"Bhubaneswar",
+			"audio": "Left-Knee.ogg",
+			"textField": "Left-Knee",
+			"capital":"Purple",
 			"stateTxtimg":{
-				"url":"Odisha.png",
+				"url":"Left-Knee.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"OdishaCapital.png",
+				"url":"Left-Knee-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Odisha_Right.png",
+				"url":"Left-Knee_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Odisha_Right Capital.png",
+				"url":"Left-Knee_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Odisha_Wrong.png",
+				"url":"Left-Knee_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Odisha_Wrong Capital.png",
+				"url":"Left-Knee_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 52,
-			"top": 46,
-			"ddTooltipleft": 57,
-			"ddTooltiptop": 47,
+			"left": 61,
+			"top": 42,
+			"ddTooltipleft": 60,
+			"ddTooltiptop": 54,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
 		},
 		{
 			"tooltipID": "tooltip15",
-			"id": "#West_bengal_0_Layer1_0_FILL",
-			"strokeId":"#West_bengal_0_Layer1_0_1_STROKES",
+			"id": "#right_foot_0_Layer0_0_FILL",
+			"strokeId":"#right_foot_0_Layer0_0_1_STROKES",
 			"onclickColor":"#00A14B",
-			"audio": "WestBengal.ogg",
-			"textField": "WestBengal",
-			"capital":"Kolkata",
+			"audio": "Right-Foot.ogg",
+			"textField": "Right-Foot",
+			"capital":"Green",
 			"stateTxtimg":{
-				"url":"WB.png",
+				"url":"Right-Foot.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"WBCapital.png",
+				"url":"Right-Foot-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"West Bengal_Right.png",
+				"url":"Right-Foot_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"West Bengal_Right Capital.png",
+				"url":"Right-Foot_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"West Bengal_Wrong.png",
+				"url":"Right-Foot_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"West Bengal_Wrong Capital.png",
+				"url":"Right-Foot_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
-			"left": 36,
-			"top": 53,
-			"ddTooltipleft": 0,
-			"ddTooltiptop": 0,
+			"left": 56,
+			"top": 58,
+			"ddTooltipleft": 51,
+			"ddTooltiptop": 70,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
 		},
 		{
 			"tooltipID": "tooltip16",
-			"id": "#Sikkim_0_Layer1_0_",
-			"strokeId":"#Sikkim_0_Layer1_0_1_",
+			"id": "#left_foot_0_Layer0_0_FILL",
+			"strokeId":"#left_foot_0_Layer0_0_1_STROKES",
 			"onclickColor":"#ED1C24",
-			"audio": "Sikkim.ogg",
-			"textField": "Sikkim",
-			"capital":"",
+			"audio": "Left-Foot.ogg",
+			"textField": "Left-Foot",
+			"capital":"Red",
 			"stateTxtimg":{
-				"url":"Sikkim.png",
+				"url":"Left-Foot.png",
 				"location":"content"
 			},
 			"capitalTxtimg":{
-				"url":"SikkimCapital.png",
+				"url":"Left-Foot-color.png",
 				"location":"content"
 			},
 			"correctstateTxtimg":{
-				"url":"Sikkam_Right.png",
+				"url":"Left-Foot_Right.png",
 				"location":"content"
 			},
 			"correctcapitalTxtimg":{
-				"url":"Sikkam_Right Capital.png",
+				"url":"Left-Foot_Right_color.png",
 				"location":"content"
 			},
 			"incorrectstateTxtimg":{
-				"url":"Sikkim_Wrong.png",
+				"url":"Left-Foot_Wrong.png",
 				"location":"content"
 			},
 			"incorrectcapitalTxtimg":{
-				"url":"Sikkim_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 56.3,
-			"top": 23,
-			"ddTooltipleft": 58,
-			"ddTooltiptop": 30,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip17",
-			"id": "#Andhra_pradesh_0_Layer1_0_",
-			"strokeId":"#Andhra_pradesh_0_Layer1_0_1_",
-			"onclickColor":"#21409A",
-			"audio": "AndhraPradesh.ogg",
-			"textField": "AndhraPradesh",
-			"capital":"",
-			"stateTxtimg":{
-				"url":"AndhraPradesh.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"AndhraPradeshCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Andhra Pradesh_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Andhra Pradesh_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Andhra Pradesh_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Andhra Pradesh_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 46,
-			"top": 59,
-			"ddTooltipleft": 53.7,
-			"ddTooltiptop": 58,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip18",
-			"id": "#Goa_0_Layer1_0_",
-			"strokeId":"#Goa_0_Layer1_0_1_",
-			"onclickColor":"#ED1C24",
-			"audio": "Goa.ogg",
-			"textField": "Goa",
-			"capital":"",
-			"stateTxtimg":{
-				"url":"Goa.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"GoaCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Goa_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Goa_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Goa_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Goa_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 40,
-			"top": 59,
-			"ddTooltipleft": 41.6,
-			"ddTooltiptop": 66,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip19",
-			"id": "#Karnataka_0_Layer1_0_FILL",
-			"strokeId":"#Karnataka_0_Layer1_0_1_STROKES",
-			"onclickColor":"#27AAE1",
-			"audio": "Karnataka.ogg",
-			"textField": "Karnataka",
-			"capital":"",
-			"stateTxtimg":{
-				"url":"Karnataka.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"KarnatakaCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Karanataka_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Karanataka_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Karnataka_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Karnataka_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 42.5,
-			"top": 65,
-			"ddTooltipleft": 45.7,
-			"ddTooltiptop": 60,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip20",
-			"id": "#Tamil_nadu_0_Layer1_0_FILL",
-			"strokeId":"#Tamil_nadu_0_Layer1_0_1_STROKES",
-			"onclickColor":"#00A14B",
-			"audio": "Tamilnadu.ogg",
-			"textField": "Tamilnadu",
-			"capital":"Chennai",
-			"stateTxtimg":{
-				"url":"Tamilnadu.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"TamilnaduCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Tamil Nadu_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Tamil Nadu_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Tamil Nadu_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Tamil Nadu_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 45,
-			"top": 77,
-			"ddTooltipleft": 48.6,
-			"ddTooltiptop": 77,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip21",
-			"id": "#Kerala_0_Layer1_0_FILL",
-			"strokeId":"#Kerala_0_Layer1_0_1_STROKES",
-			"onclickColor":"#7F3F98",
-			"audio": "Kerala.ogg",
-			"textField": "Kerala",
-			"capital":"Thiruvananthapuram",
-			"stateTxtimg":{
-				"url":"Kerala.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"KeralaCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Kerala_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Kerala_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Kerala_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Kerala_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 43,
-			"top": 75,
-			"ddTooltipleft": 45,
-			"ddTooltiptop": 77,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip22",
-			"id": "#Assam_0_Layer1_0_FILL",
-			"strokeId":"#Assam_0_Layer1_0_1_STROKES",
-			"onclickColor":"#27AAE1",
-			"audio": "Assam.ogg",
-			"textField": "Assam",
-			"capital":"Dispur",
-			"stateTxtimg":{
-				"url":"Assam.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"AssamCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Assam_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Assam_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Assam_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Assam_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 61,
-			"top": 26,
-			"ddTooltipleft": 64,
-			"ddTooltiptop": 34,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip23",
-			"id": "#Nagaland_0_Layer1_0_FILL",
-			"strokeId":"#Nagaland_0_Layer1_0_1_STROKES",
-			"onclickColor":"#00A14B",
-			"audio": "Nagaland.ogg",
-			"textField": "Nagaland",
-			"capital":"Kohima",
-			"stateTxtimg":{
-				"url":"Nagaland.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"NagalandCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Nagaland_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Nagaland_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Nagaland_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Nagaland_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 63,
-			"top": 27,
-			"ddTooltipleft": 65.2,
-			"ddTooltiptop": 31,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip24",
-			"id": "#Manipur_0_Layer1_0_FILL",
-			"strokeId":"#Manipur_0_Layer1_0_1_STROKES",
-			"onclickColor":"#7F3F98",
-			"audio": "Manipur.ogg",
-			"textField": "Manipur",
-			"capital":"Imphal",
-			"stateTxtimg":{
-				"url":"Manipur.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"ManipurCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Manipur_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Manipur_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Manipur_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Manipur_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 62.5,
-			"top": 31,
-			"ddTooltipleft": 64.7,
-			"ddTooltiptop": 36,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip25",
-			"id": "#Mizeram_0_Layer1_0_FILL",
-			"strokeId":"#Mizeram_0_Layer1_0_1_STROKES",
-			"onclickColor":"#21409A",
-			"audio": "Mizoram.ogg",
-			"textField": "Mizoram",
-			"capital":"Aizawl",
-			"stateTxtimg":{
-				"url":"Mizoram.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"MizoramCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Mizoram_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Mizoram_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Mizoram_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Mizoram_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 61.5,
-			"top": 37,
-			"ddTooltipleft": 63.4,
-			"ddTooltiptop": 41,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip26",
-			"id": "#Tripura_0_Layer1_0_FILL",
-			"strokeId":"#Tripura_0_Layer1_0_1_STROKES",
-			"onclickColor":"#F26522",
-			"audio": "Tripura.ogg",
-			"textField": "Tripura",
-			"capital":"Agartala",
-			"stateTxtimg":{
-				"url":"Tripura.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"TripuraCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Tripura_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Tripura_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Tripura_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Tripura_Wrong Capital.png",
+				"url":"Left-Foot_Wrong_color.png",
 				"location":"content"
 			},
 			"location": "content",
 			"left": 60,
-			"top": 35,
-			"ddTooltipleft": 62.2,
-			"ddTooltiptop": 40,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip27",
-			"id": "#Meghalaya_0_Layer1_0_FILL",
-			"strokeId":"#Meghalaya_0_Layer1_0_1_STROKES",
-			"onclickColor":"#EE2A7B",
-			"audio": "Meghalaya.ogg",
-			"textField": "Meghalaya",
-			"capital":"Shillong",
-			"stateTxtimg":{
-				"url":"Meghalaya.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"MeghalayaCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Meghalaya_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Meghalaya_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Meghalaya_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Meghalaya_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 59.5,
-			"top": 30,
-			"ddTooltipleft": 62.7,
-			"ddTooltiptop": 34,
-			"working":"true",
-			"clicked" : false,
-			"optionSelected":""
-		},
-		{
-			"tooltipID": "tooltip28",
-			"id": "#Arunchal_pradesh_0_Layer1_0_FILL",
-			"strokeId":"#Arunchal_pradesh_0_Layer1_0_1_STROKES",
-			"onclickColor":"#F7941E",
-			"audio": "Arunchal_pradesh.ogg",
-			"textField": "Arunchal_pradesh",
-			"capital":"Itanagar",
-			"stateTxtimg":{
-				"url":"ArunachalPradesh.png",
-				"location":"content"
-			},
-			"capitalTxtimg":{
-				"url":"ArunachalPradeshCapital.png",
-				"location":"content"
-			},
-			"correctstateTxtimg":{
-				"url":"Arunachal Pradesh_Right.png",
-				"location":"content"
-			},
-			"correctcapitalTxtimg":{
-				"url":"Arunachal Pradesh_Right Capital.png",
-				"location":"content"
-			},
-			"incorrectstateTxtimg":{
-				"url":"Arunachal Pradesh_Wrong.png",
-				"location":"content"
-			},
-			"incorrectcapitalTxtimg":{
-				"url":"Arunachal Pradesh_Wrong Capital.png",
-				"location":"content"
-			},
-			"location": "content",
-			"left": 62.5,
-			"top": 21,
-			"ddTooltipleft": 67.1,
-			"ddTooltiptop": 24.7,
+			"top": 51,
+			"ddTooltipleft": 61,
+			"ddTooltiptop": 65,
 			"working":"true",
 			"clicked" : false,
 			"optionSelected":""
@@ -1631,7 +1145,7 @@
 
 
 	"feedback": {
-		"correct_state": ["Rajastahan","Maharashtra","Bihar","UttarPradesh","Jharkhand"],
+		"correct_state": ["Head","Neck","Torso","Pelvis","Right-Thigh"],
 		"style_header": {
             "border": "solid .4vmin #85d222",
             "border-top-left-radius": "20px",
