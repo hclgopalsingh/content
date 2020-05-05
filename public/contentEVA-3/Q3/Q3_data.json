@@ -126,18 +126,6 @@
 			"location": "assets"
 		  },
 		  "submit_btn": {
-<<<<<<< HEAD
-			"url": "submitBtnDisabled.svg",
-			"location": "content"
-		  },
-		  "submit_btn_hover": {
-			"url": "submitBtnHover.svg",
-			"location": "content"
-		  },
-		  "submit_btn_original": {
-			"url": "submitBtn.svg",
-			"location": "content"
-=======
 			"url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
 			"location": "assets"
 		  },
@@ -148,7 +136,6 @@
 		  "submit_btn_original": {
 			"url": "assets/images/EVAGlobal/submitBtn.svg",
 			"location": "assets"
->>>>>>> 85761c3eff223c663941b1d743984c1d4358a468
 		  },
 		  "replay_btn": {
 			"url": "video_btn.png",
