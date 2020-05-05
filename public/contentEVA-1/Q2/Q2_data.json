@@ -59,7 +59,7 @@
             "location": "assets"
         },
         "bg": {
-            "url": "assets/images/EVAGlobal/bg.svg",
+            "url": "assets/images/EVAGlobal/bg.jpg",
             "location": "assets"
         },
         "peechey_jayein": {
@@ -417,8 +417,8 @@
             "url": "assets/images/letters/hindi/akshar/ka.png",
             "location": "assets"
         }, {
-            "url": "QuestionWordBox_BlankBox.svg",
-            "location": "content",
+            "url": "",
+            "location": "",
             "isBlank": "true"
         }, {
             "url": "assets/images/letters/hindi/akshar/la.png",

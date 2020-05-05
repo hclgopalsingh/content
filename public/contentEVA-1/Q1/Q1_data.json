@@ -91,7 +91,7 @@
             "location": "assets"
         },
         "background": {
-            "url": "assets/images/EVAGlobal/bg.svg",
+            "url": "assets/images/EVAGlobal/bg.jpg",
             "location": "assets"
         },
         "footer": {
@@ -312,7 +312,8 @@
                 "url": "OptionAksharBox_01.svg",
                 "location": "content"
             },
-            "isMatra":  true
+            "isMatra":  true,
+            "isCorrect": true
         }, {
             "id": "002",
             "url": "assets/images/letters/hindi/matra/aa.png",
@@ -333,8 +334,7 @@
                 "url": "OptionAksharBox_02.svg",
                 "location": "content"
             },
-            "isMatra":  true,
-            "isCorrect": true
+            "isMatra":  true            
         }, {
             "id": "003",
             "url": "assets/images/letters/hindi/matra/ai.png",
@@ -408,19 +408,39 @@
         },
         "questionText": [{
             "url": "assets/images/letters/hindi/akshar/aaa.png",            
-            "location": "assets"
+            "location": "assets",
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            } 
         }, {
             "url": "assets/images/letters/hindi/akshar/tta.png",
             "location": "assets",
             "isBlank": false,
-            "addMatra": true
+            "addMatra": true,
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            } 
         }, {
             "url": "assets/images/letters/hindi/akshar/sha.png",
-            "location": "assets"            
+            "location": "assets",
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            }           
         },
         {
             "url": "assets/images/letters/hindi/akshar/ya.png",
             "location": "assets",
+            "hasmatra":true,
+            "matravalue":"o",
             "matra":{
                 "url": "assets/images/letters/hindi/matra/o.png",
                 "location": "assets"
@@ -429,6 +449,8 @@
         {
             "url": "assets/images/letters/hindi/akshar/k.png",
             "location": "assets",
+            "hasmatra":true,
+            "matravalue":"i",
             "matra":{
                 "url": "assets/images/letters/hindi/matra/i.png",
                 "location": "assets"
@@ -436,7 +458,13 @@
         },
         {
             "url": "assets/images/letters/hindi/akshar/tta.png",
-            "location": "assets"            
+            "location": "assets",
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            }            
         }
         ],
         "isEnglish": false
