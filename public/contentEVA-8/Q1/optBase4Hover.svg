@@ -27,8 +27,8 @@ L 404.3 -176.25
 Q 404.3 -192.8 392.6 -204.5 Z"/>
 </g>
 
-<g id="Paper_0_Layer0_0_FILL">
-<path fill="#FFC2C2" stroke="none" d="
+<g id="Paper_6_Layer0_0_FILL">
+<path fill="#E4D7FF" stroke="none" d="
 M 392.6 -204.5
 Q 380.9 -216.2 364.35 -216.2
 L -364.3 -216.2
@@ -43,9 +43,9 @@ Q 404.3 -192.8 392.6 -204.5 Z"/>
 </defs>
 
 <g transform="matrix( 0.719970703125, 0, 0, 0.719970703125, 157.2,84.75) ">
-<g transform="matrix( 0.5355224609375, 0, 0, 0.5355224609375, 0,-0.05) ">
-<g filter="url(#Filter_1)" transform="matrix( 2.5936279296875, 0, 0, 2.5936279296875, -407.7,-219.65) ">
-<g transform="matrix( 0.38555908203125, 0, 0, 0.38555908203125, 157.2,84.7) ">
+<g transform="matrix( 0.535491943359375, 0, 0, 0.535491943359375, -0.05,-0.05) ">
+<g filter="url(#Filter_1)" transform="matrix( 2.593841552734375, 0, 0, 2.593841552734375, -407.6,-219.65) ">
+<g transform="matrix( 0.385528564453125, 0, 0, 0.385528564453125, 157.15,84.7) ">
 <g transform="matrix( 1, 0, 0, 1, 0,0) ">
 <use xlink:href="#Symbol_1_copy_2_0_Layer0_0_FILL"/>
 </g>
@@ -53,7 +53,7 @@ Q 404.3 -192.8 392.6 -204.5 Z"/>
 </g>
 
 <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use xlink:href="#Paper_0_Layer0_0_FILL"/>
+<use xlink:href="#Paper_6_Layer0_0_FILL"/>
 </g>
 </g>
 </g>

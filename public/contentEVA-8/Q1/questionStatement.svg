@@ -1,0 +1,39 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1920px" height="1080px" viewBox="0 0 1920 1080">
+<defs>
+<radialGradient id="Gradient_1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="561.6500000000001" fx="0" fy="0" gradientTransform="matrix( 0.9999999999999999, 0, 0, 0.9999999999999999, 1038.4,128.85) " spreadMethod="pad">
+<stop  offset="0%" stop-color="#FFF1C6"/>
+
+<stop  offset="100%" stop-color="#FFE89C"/>
+</radialGradient>
+
+<radialGradient id="Gradient_2" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="561.6500000000001" fx="0" fy="0" gradientTransform="matrix( 0.9999999999999999, 0, 0, 0.9999999999999999, 1038.4,548.85) " spreadMethod="pad">
+<stop  offset="0%" stop-color="#FFF1C6"/>
+
+<stop  offset="100%" stop-color="#FFE89C"/>
+</radialGradient>
+
+<g id="Symbol_2_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 1471 477.9
+Q 1487.3 461.6 1487.3 438.5
+L 1487.3 297.75 583.3 297.75 583.3 438.5
+Q 583.3 461.65 599.65 477.9 615.95 494.25 639.05 494.25
+L 1431.55 494.25
+Q 1454.65 494.25 1471 477.9 Z"/>
+
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 1487.3 277.15
+Q 1487.3 254.1 1471 237.7 1454.6 221.4 1431.55 221.4
+L 639.05 221.4
+Q 615.95 221.4 599.65 237.7 583.3 254.05 583.3 277.15
+L 583.3 297.75 1487.3 297.75 1487.3 277.15 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 384.1,220.15) ">
+<g transform="matrix( 1, 0, 0, 1, -583.3,-221.4) ">
+<use xlink:href="#Symbol_2_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_MEMBER_0_FILL"/>
+</g>
+</g>
+</svg>
