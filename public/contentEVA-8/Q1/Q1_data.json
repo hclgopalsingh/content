@@ -284,19 +284,19 @@
   },
   "ques": {
     "questionBase": {
-      "url": "questionBase.png",
+      "url": "questionBase.svg",
       "location": "content"
     },
     "questionStatement": {
-      "url": "questionStatement.png",
+      "url": "questionStatement.svg",
       "location": "content"
     },
 	"questionBlinking": {
-      "url": "questionBlinking.png",
+      "url": "questionBlinking.svg",
       "location": "content"
     },
 	"questionAnswer": {
-      "url": "questionAnswer.png",
+      "url": "questionAnswer.svg",
       "location": "content"
     },
     "text": "",
