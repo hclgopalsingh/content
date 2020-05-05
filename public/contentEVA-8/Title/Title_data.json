@@ -1,7 +1,7 @@
 {
 	"titleScreen":true,
 	"imgCount":"3",
-        "templateType":"EVA",
+	"templateType":"EVA",
 	"titleText": {
 		"url":"titleText.svg",
 		"location":"content"
