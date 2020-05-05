@@ -1,7 +1,7 @@
 {
     "id": "Q001",
     "imgCount": "5",
-    "instructiontext": "यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं",
+    "instructiontext": "यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -304,7 +304,7 @@
     "options": {
         "opts": [{
             "id": "001",
-            "url": "assets/images/letters/hindi/akshar/ja.png",
+            "url": "assets/images/letters/hindi/blueTheme/akshar/ja.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -324,7 +324,7 @@
             }
         }, {
             "id": "002",
-            "url": "assets/images/letters/hindi/akshar/ma.png",
+            "url": "assets/images/letters/hindi/blueTheme/akshar/ma.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -345,7 +345,7 @@
             "isCorrect": true
         }, {
             "id": "003",
-            "url": "assets/images/letters/hindi/akshar/sa.png",
+            "url": "assets/images/letters/hindi/blueTheme/akshar/sa.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -378,8 +378,8 @@
             "autoPlay": true
         },
         "quesImg": {
-            "url": "QuestionWordBox.svg",
-            "location": "content"
+            "url": "",
+            "location": ""
         },
         "quesImgHover": {
             "url": "",
@@ -414,14 +414,14 @@
             "location": "content"
         },
         "questionText": [{
-            "url": "assets/images/letters/hindi/akshar/ka.png",
+            "url": "assets/images/letters/hindi/blueTheme/akshar/ka.png",
             "location": "assets"
         }, {
             "url": "",
             "location": "",
             "isBlank": "true"
         }, {
-            "url": "assets/images/letters/hindi/akshar/la.png",
+            "url": "assets/images/letters/hindi/blueTheme/akshar/la.png",
             "location": "assets"
         }],
         "isEnglish": false

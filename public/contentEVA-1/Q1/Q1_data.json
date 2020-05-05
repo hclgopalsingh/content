@@ -1,7 +1,7 @@
 {
     "id": "Q001",
     "imgCount": "5",
-    "instructiontext": "यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं",
+    "instructiontext": "यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -294,7 +294,7 @@
     "options": {
         "opts": [{
             "id": "001",
-            "url": "assets/images/letters/hindi/matra/i.png",
+            "url": "assets/images/letters/hindi/blueTheme/matra/i.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -316,7 +316,7 @@
             "isCorrect": true
         }, {
             "id": "002",
-            "url": "assets/images/letters/hindi/matra/aa.png",
+            "url": "assets/images/letters/hindi/blueTheme/matra/aa.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -337,7 +337,7 @@
             "isMatra":  true            
         }, {
             "id": "003",
-            "url": "assets/images/letters/hindi/matra/ai.png",
+            "url": "assets/images/letters/hindi/blueTheme/matra/ai.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -407,7 +407,7 @@
             "location": "content"
         },
         "questionText": [{
-            "url": "assets/images/letters/hindi/akshar/aaa.png",            
+            "url": "assets/images/letters/hindi/blueTheme/akshar/aaa.png",            
             "location": "assets",
             "hasmatra":false,
             "matravalue":"",
@@ -416,7 +416,7 @@
                 "location": "assets"
             } 
         }, {
-            "url": "assets/images/letters/hindi/akshar/tta.png",
+            "url": "assets/images/letters/hindi/blueTheme/akshar/tta.png",
             "location": "assets",
             "isBlank": false,
             "addMatra": true,
@@ -427,7 +427,7 @@
                 "location": "assets"
             } 
         }, {
-            "url": "assets/images/letters/hindi/akshar/sha.png",
+            "url": "assets/images/letters/hindi/blueTheme/akshar/sha.png",
             "location": "assets",
             "hasmatra":false,
             "matravalue":"",
@@ -437,27 +437,27 @@
             }           
         },
         {
-            "url": "assets/images/letters/hindi/akshar/ya.png",
+            "url": "assets/images/letters/hindi/blueTheme/akshar/ya.png",
             "location": "assets",
             "hasmatra":true,
             "matravalue":"o",
             "matra":{
-                "url": "assets/images/letters/hindi/matra/o.png",
+                "url": "assets/images/letters/hindi/blueTheme/matra/o.png",
                 "location": "assets"
             }          
         },
         {
-            "url": "assets/images/letters/hindi/akshar/k.png",
+            "url": "assets/images/letters/hindi/blueTheme/akshar/k.png",
             "location": "assets",
             "hasmatra":true,
             "matravalue":"i",
             "matra":{
-                "url": "assets/images/letters/hindi/matra/i.png",
+                "url": "assets/images/letters/hindi/blueTheme/matra/i.png",
                 "location": "assets"
             }          
         },
         {
-            "url": "assets/images/letters/hindi/akshar/tta.png",
+            "url": "assets/images/letters/hindi/blueTheme/akshar/tta.png",
             "location": "assets",
             "hasmatra":false,
             "matravalue":"",
