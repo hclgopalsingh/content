@@ -121,10 +121,6 @@
 			"url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
 			"location": "assets"
 		  },
-		  "uttar_dikhayein_disable": {
-			"url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
-			"location": "assets"
-		  },
 		  "submit_btn": {
 			"url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
 			"location": "assets"
