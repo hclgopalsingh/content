@@ -34,7 +34,6 @@
             "url": "assets/images/EVAGlobal/speakerWave3.svg",
             "location": "assets"
         },
-
         "sound": {
             "url": "Instruction.ogg",
             "location": "content"
@@ -102,7 +101,7 @@
             "location": "assets"
         },
         "ques_control": {
-            "isLastQues" : false,
+            "isLastQues" : true,
             "footer": {
                 "url": "assets/images/EVAGlobal/footerBg.svg",
                 "location": "assets"
@@ -124,7 +123,7 @@
                 "location": "assets"
             },
             "peechey_jayein": {
-                "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+                "url": "assets/images/EVAGlobal/prevBtn.svg",
                 "location": "assets"
             },
             "peechey_jayein_original": {
@@ -139,12 +138,12 @@
                 "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
                 "location": "assets"
             },
-            "uttar_dikhayein_disable": {
-                "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
-                "location": "assets"
-            },
             "uttar_dikhayein_original": {
                 "url": "assets/images/EVAGlobal/ansBtnActive.svg",
+                "location": "assets"
+            },
+            "uttar_dikhayein_disable": {
+                "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
                 "location": "assets"
             },
             "uttar_dikhayein_hover": {
@@ -153,7 +152,7 @@
             },
             "submit_btn": {
                 "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
-                "location": "bgassets"
+                "location": "assets"
             },
             "submit_btn_hover": {
                 "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
@@ -163,7 +162,6 @@
                 "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
                 "location": "assets"
             },
-            
             "rightTick_img": {
                 "url": "assets/images/EVAGlobal/right.svg",
                 "location": "assets"
@@ -174,10 +172,11 @@
             },
             "quesTabs": [
                 {
+                   
                     "ques_tab": {
                         "id": "001",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -198,7 +197,7 @@
                     "ques_tab": {
                         "id": "002",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -215,7 +214,7 @@
                     "ques_tab": {
                         "id": "003",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -225,6 +224,10 @@
                         "tabcircleVisited": {
                             "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
+                            "location": "assets"
                         }
                     }
                 },
@@ -232,7 +235,7 @@
                     "ques_tab": {
                         "id": "004",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -249,7 +252,7 @@
                     "ques_tab": {
                         "id": "005",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -284,7 +287,7 @@
             "location": "content",
             "timeout": 5000
         },
-        "isFirstQues": true
+        "isFirstQues": false
     },
     "ques": {
         "text": "",
@@ -541,8 +544,8 @@
             }
         },
         "right_ans_clap_sound": {        
-                "url": "clap.ogg",
-                "location": "content"
+            "url": "clap.ogg",
+            "location": "content"
         },
         "wrong_ans_sound": {
             "enabled": true,
@@ -560,4 +563,5 @@
         }
 
     }
+
 }
