@@ -1,0 +1,88 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1365px" height="350px" viewBox="0 0 1365 350">
+<defs>
+<g id="Layer0_3_FILL">
+<path fill="#000000" stroke="none" d="
+M 1061.9 363.35
+L 1061.9 380.2 1145.15 380.2 1145.15 363.35 1061.9 363.35
+M 1061.9 324.9
+L 1061.9 341.7 1145.15 341.7 1145.15 324.9 1061.9 324.9 Z"/>
+</g>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Arial
+Vendor ID: TMC 
+© 2017 The Monotype Corporation. All Rights Reserved. 
+
+Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Arial&PSName=ArialMT&applanguage=en_US-->
+<font-face font-family="Arial_Regular" units-per-em="2048" ascent="1854" descent="434"/>
+
+<glyph unicode="7" horiz-adv-x="1139" d="
+M 97 1274
+L 97 1447 1046 1447 1046 1307
+Q 906 1158 769 911 631 664 556 403 502 219 487 0
+L 302 0
+Q 305 173 370 418 435 663 557 890 678 1118 815 1274
+L 97 1274 Z"/>
+
+<glyph unicode="2" horiz-adv-x="1139" d="
+M 1031 173
+L 1031 0 62 0
+Q 60 65 83 125 120 224 202 320 283 416 437 542 676 738 760 852 844 967 844 1069 844 1176 768 1249 691 1323 568 1323 438 1323 360 1245 282 1167 281 1029
+L 96 1048
+Q 115 1255 239 1363 363 1472 572 1472 783 1472 906 1355 1029 1238 1029 1065 1029 977 993 892 957 807 874 713 790 619 596 455 434 319 388 270 342 222 312 173
+L 1031 173 Z"/>
+
+<glyph unicode="4" horiz-adv-x="1139" d="
+M 662 0
+L 662 351 26 351 26 516 695 1466 842 1466 842 516 1040 516 1040 351 842 351 842 0 662 0 Z
+M 662 516
+L 662 1177 203 516 662 516 Z"/>
+
+<glyph unicode="1" horiz-adv-x="1139" d="
+M 763 0
+L 583 0 583 1147
+Q 518 1085 413 1023 307 961 223 930
+L 223 1104
+Q 374 1175 487 1276 600 1377 647 1472
+L 763 1472 763 0 Z"/>
+
+<glyph unicode="8" horiz-adv-x="1139" d="
+M 268 423
+Q 268 346 305 274 341 202 413 162 485 123 568 123 697 123 781 206 865 289 865 417 865 547 779 632 692 717 562 717 435 717 352 633 268 549 268 423 Z
+M 362 795
+Q 250 836 196 912 142 988 142 1094 142 1254 257 1363 372 1472 563 1472 755 1472 872 1360 989 1249 989 1089 989 987 936 911 882 836 773 795 908 751 979 653 1049 555 1049 419 1049 231 916 103 783 -25 566 -25 349 -25 216 103 83 232 83 424 83 567 156 663 228 760 362 795 Z
+M 326 1100
+Q 326 996 393 930 460 864 567 864 671 864 738 929 804 995 804 1090 804 1189 736 1256 667 1324 565 1324 462 1324 394 1258 326 1192 326 1100 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 0.899993896484375, 0, 0, 0.899993896484375, 77.35,89.6) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-7.55" y="-2" width="222.1" height="182.75" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="-5.45" y="144.85" baseline-shift="0%" kerning="auto" font-family="Arial_Regular" font-size="160" fill="#000000" letter-spacing="20" xml:space="preserve">72</tspan></text>
+</g>
+
+<g transform="matrix( 0.899993896484375, 0, 0, 0.899993896484375, 534.5,89.6) ">
+<clipPath id="Mask_Mask_2">
+<rect x="-7.55" y="-2" width="222.1" height="182.75" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="-5.45" y="144.85" baseline-shift="0%" kerning="auto" font-family="Arial_Regular" font-size="160" fill="#000000" letter-spacing="20" xml:space="preserve">24</tspan></text>
+</g>
+
+<g transform="matrix( 0.85498046875, 0, 0, 0.85498046875, 959.75,93.6) ">
+<clipPath id="Mask_Mask_3">
+<rect x="-36.1" y="-2" width="440" height="182.75" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_3)" writing-mode="lr"><tspan x="-34" y="144.85" baseline-shift="0%" kerning="auto" font-family="Arial_Regular" font-size="160" fill="#000000" letter-spacing="20" xml:space="preserve">1728</tspan></text>
+</g>
+
+<g transform="matrix( 1.10089111328125, 0, 0, 1, -390.05,-183.45) ">
+<use xlink:href="#Layer0_3_FILL"/>
+</g>
+</svg>
