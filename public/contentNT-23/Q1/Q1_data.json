@@ -952,7 +952,7 @@
 			"onclickColor":"#F26522",
 			"audio": "Maharashtra.ogg",
 			"textField": "Maharashtra",
-			"capital":" ",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"Maharashtra.png",
 				"location":"content"
