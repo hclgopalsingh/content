@@ -455,7 +455,7 @@
 	"statesArr": [
 		{
 			"tooltipID": "tooltip1",
-			"id": "#Rajasthan_0_Layer1_0_FILL",
+			"id": "#Rajasthan_0_Layer1_0_",
 			"strokeId":"#Rajasthan_0_Layer1_0_1_STROKES",
 			"onclickColor":"#EE2A7B",
 			"audio": "Rajastahan.ogg",

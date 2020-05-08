@@ -841,7 +841,7 @@
 			"onclickColor":"#21409A",
 			"audio": "Bihar.ogg",
 			"textField": "Bihar",
-			"capital":"Patna",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"Bihar.png",
 				"location":"content"
@@ -1046,7 +1046,7 @@
 			"onclickColor":"#00A14B",
 			"audio": "WestBengal.ogg",
 			"textField": "WestBengal",
-			"capital":"Kolkata",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"WB.png",
 				"location":"content"
