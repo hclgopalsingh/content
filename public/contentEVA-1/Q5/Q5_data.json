@@ -1,7 +1,7 @@
 {
     "id": "Q001",
     "imgCount": "5",
-    "instructiontext": "यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं",
+    "instructiontext": "अक्षर मिलाओ कलम बनाओ ।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -302,7 +302,7 @@
             "url": "assets/images/letters/hindi/blueTheme/akshar/ja.png",
             "location": "assets",
             "audio": {
-                "url": "",
+                "url": "ja.ogg",
                 "location": "content"
             },
             "optBg": {
@@ -322,7 +322,7 @@
             "url": "assets/images/letters/hindi/blueTheme/akshar/ma.png",
             "location": "assets",
             "audio": {
-                "url": "",
+                "url": "ma.ogg",
                 "location": "content"
             },
             "optBg": {
@@ -343,7 +343,7 @@
             "url": "assets/images/letters/hindi/blueTheme/akshar/sa.png",
             "location": "assets",
             "audio": {
-                "url": "",
+                "url": "sa.ogg",
                 "location": "content"
             },
             "optBg": {

@@ -1,7 +1,7 @@
 {
     "id": "Q001",
     "imgCount": "5",
-    "instructiontext": "यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं",
+    "instructiontext": "अक्षर मिलाओ कलम बनाओ ।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -332,7 +332,7 @@
             "isMatra":true
         }, {
             "id": "002",
-            "url": "assets/images/letters/hindi/blueTheme/matra/o.png",
+            "url": "assets/images/letters/hindi/blueTheme/matra/aa.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -424,9 +424,8 @@
             "location": "content"
         },
         "questionText": [{
-            "url": "assets/images/letters/hindi/blueTheme/akshar/ka.png",
-            "location": "assets",
-            "addMatra":true,
+            "url": "assets/images/letters/hindi/blueTheme/akshar/aaa.png",
+            "location": "assets",            
             "hasmatra":false,
             "matravalue":"",
             "matra":{
@@ -434,7 +433,7 @@
                 "location": "assets"
             } 
         }, {
-            "url": "assets/images/letters/hindi/blueTheme/akshar/va.png",
+            "url": "assets/images/letters/hindi/blueTheme/akshar/pa.png",
             "location": "assets",
             "hasmatra":false,
             "matravalue":"",
@@ -443,8 +442,9 @@
                 "location": "assets"
             }
         }, {
-            "url": "assets/images/letters/hindi/blueTheme/akshar/ra.png",
+            "url": "assets/images/letters/hindi/blueTheme/akshar/na.png",
             "location": "assets",
+            "addMatra":true,
             "hasmatra":false,
             "matravalue":"",
             "matra":{
