@@ -299,7 +299,7 @@
     "options": {
         "opts": [{
             "id": "001",
-            "url": "assets/images/letters/hindi/blueTheme/akshar/ka.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/ka.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -319,7 +319,7 @@
             }
         }, {
             "id": "002",
-            "url": "assets/images/letters/hindi/blueTheme/akshar/ja.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/ja.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -340,7 +340,7 @@
             "isCorrect": true
         }, {
             "id": "003",
-            "url": "assets/images/letters/hindi/blueTheme/akshar/sa.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/sa.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -409,10 +409,10 @@
             "location": "content"
         },
         "questionText": [{
-            "url": "assets/images/letters/hindi/blueTheme/akshar/sha.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/sha.png",
             "location": "assets"
         },{
-            "url": "assets/images/letters/hindi/blueTheme/akshar/la.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/la.png",
             "location": "assets"
         },
          {
@@ -420,7 +420,7 @@
             "location": "",
             "isBlank": "true"
         }, {
-            "url": "assets/images/letters/hindi/blueTheme/akshar/ma.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/ma.png",
             "location": "assets"
         }],
         "isEnglish": false

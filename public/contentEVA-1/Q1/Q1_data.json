@@ -294,7 +294,7 @@
     "options": {
         "opts": [{
             "id": "001",
-            "url": "assets/images/letters/hindi/blueTheme/matra/i.png",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/i.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -316,7 +316,7 @@
             "isCorrect": true
         }, {
             "id": "002",
-            "url": "assets/images/letters/hindi/blueTheme/matra/aa.png",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/aa.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -337,7 +337,7 @@
             "isMatra":  true            
         }, {
             "id": "003",
-            "url": "assets/images/letters/hindi/blueTheme/matra/ai.png",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/ai.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -407,7 +407,7 @@
             "location": "content"
         },
         "questionText": [{
-            "url": "assets/images/letters/hindi/blueTheme/akshar/aaa.png",            
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/aaa.png",            
             "location": "assets",
             "hasmatra":false,
             "matravalue":"",
@@ -416,7 +416,7 @@
                 "location": "assets"
             } 
         }, {
-            "url": "assets/images/letters/hindi/blueTheme/akshar/tta.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/tta.png",
             "location": "assets",
             "isBlank": false,
             "addMatra": true,
@@ -427,7 +427,7 @@
                 "location": "assets"
             } 
         }, {
-            "url": "assets/images/letters/hindi/blueTheme/akshar/sha.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/sha.png",
             "location": "assets",
             "hasmatra":false,
             "matravalue":"",
@@ -437,27 +437,27 @@
             }           
         },
         {
-            "url": "assets/images/letters/hindi/blueTheme/akshar/ya.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/ya.png",
             "location": "assets",
             "hasmatra":true,
             "matravalue":"o",
             "matra":{
-                "url": "assets/images/letters/hindi/blueTheme/matra/o.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/o.png",
                 "location": "assets"
             }          
         },
         {
-            "url": "assets/images/letters/hindi/blueTheme/akshar/k.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/k.png",
             "location": "assets",
             "hasmatra":true,
             "matravalue":"i",
             "matra":{
-                "url": "assets/images/letters/hindi/blueTheme/matra/i.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/i.png",
                 "location": "assets"
             }          
         },
         {
-            "url": "assets/images/letters/hindi/blueTheme/akshar/tta.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/tta.png",
             "location": "assets",
             "hasmatra":false,
             "matravalue":"",
