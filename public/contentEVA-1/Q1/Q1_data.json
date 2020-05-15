@@ -1,7 +1,7 @@
 {
     "id": "Q001",
     "imgCount": "5",
-    "instructiontext": "यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं",
+    "instructiontext": "अक्षर मिलाओ कलम बनाओ ।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -21,8 +21,20 @@
             "location": "assets"
         },
         "sound": {
-            "url": "Instruction.ogg",
+            "url": "speaker.ogg",
             "location": "content"
+        },
+        "wave1":{
+            "url": "assets/images/EVAGlobal/speakerWave1.svg",
+            "location": "assets"
+        },
+        "wave2":{
+            "url": "assets/images/EVAGlobal/speakerWave2.svg",
+            "location": "assets"
+        },
+        "wave3":{
+            "url": "assets/images/EVAGlobal/speakerWave3.svg",
+            "location": "assets"
         }
     },
     "commonassets": {
@@ -47,7 +59,7 @@
             "location": "assets"
         },
         "bg": {
-            "url": "assets/images/EVAGlobal/bg.svg",
+            "url": "assets/images/EVAGlobal/bg.jpg",
             "location": "assets"
         },
         "peechey_jayein": {
@@ -75,11 +87,11 @@
             "location": "assets"
         },
         "aagey_badhein_blink": {
-            "url": "assets/images/EVAGlobal/aageyBlink.svg",
+            "url": "assets/images/EVAGlobal/nextBtnBlink.svg",
             "location": "assets"
         },
         "background": {
-            "url": "assets/images/EVAGlobal/bg.svg",
+            "url": "assets/images/EVAGlobal/bg.jpg",
             "location": "assets"
         },
         "footer": {
@@ -87,6 +99,7 @@
             "location": "assets"
         },
         "ques_control": {
+            "isLastQues" : false,
             "footer": {
                 "url": "assets/images/EVAGlobal/footerBg.svg",
                 "location": "assets"
@@ -103,12 +116,8 @@
                 "url": "assets/images/EVAGlobal/nextBtnHover.svg",
                 "location": "assets"
             },
-            "blink_btn1": {
-                "url": "assets/images/EVAGlobal/blink_btn1.svg",
-                "location": "assets"
-            },
-            "blink_btn2": {
-                "url": "assets/images/EVAGlobal/blink_btn2.svg",
+            "aagey_badhein_blink": {
+                "url": "assets/images/EVAGlobal/nextBtnBlink.svg",
                 "location": "assets"
             },
             "peechey_jayein": {
@@ -127,26 +136,31 @@
                 "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
                 "location": "assets"
             },
-            "uttar_dikhayein_original": {
-                "url": "assets/images/EVAGlobal/ansBtn.svg",
+            "uttar_dikhayein_disable": {
+                "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
                 "location": "assets"
             },
-            "uttar_dikhayein_hover": {
+            "uttar_dikhayein_original": {
                 "url": "assets/images/EVAGlobal/ansBtnActive.svg",
                 "location": "assets"
             },
+            "uttar_dikhayein_hover": {
+                "url": "assets/images/EVAGlobal/ansBtnHover.svg",
+                "location": "assets"
+            },
             "submit_btn": {
-                "url": "assets/images/EVAGlobal/submitBtn.png",
+                "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
                 "location": "assets"
             },
             "submit_btn_hover": {
-                "url": "assets/images/EVAGlobal/submitBtnHover.png",
+                "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
                 "location": "assets"
             },
             "submit_btn_original": {
-                "url": "assets/images/EVAGlobal/submitBtn.png",
+                "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
                 "location": "assets"
             },
+            
             "rightTick_img": {
                 "url": "assets/images/EVAGlobal/right.svg",
                 "location": "assets"
@@ -160,15 +174,15 @@
                     "ques_tab": {
                         "id": "001",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBullet.svg",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         },
                         "tabIdx": {
@@ -181,15 +195,15 @@
                     "ques_tab": {
                         "id": "002",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.svg",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         }
                     }
@@ -198,15 +212,15 @@
                     "ques_tab": {
                         "id": "003",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.svg",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         }
                     }
@@ -215,15 +229,15 @@
                     "ques_tab": {
                         "id": "004",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.svg",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         }
                     }
@@ -232,41 +246,21 @@
                     "ques_tab": {
                         "id": "005",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.svg",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.svg",
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         }
                     }
                 }
             ]
-        },
-        "animation": {
-            "img": {
-                "url": "happyFixedAnimation.webp"
-            },
-            "audio": {
-                "url": "clap.ogg"
-            },
-            "location": "content",
-            "timeout": 5000
-        },
-        "wrongAnimationAssts": {
-            "img": {
-                "url": "sadFixedAnimation.gif"
-            },
-            "audio": {
-                "url": "shake.ogg"
-            },
-            "location": "content",
-            "timeout": 5000
-        },
+        },        
         "isFirstQues": true
     },
     "ques": {
@@ -297,16 +291,17 @@
             "location": "content"
         }
     },
-    "options": {		
-		"opts": [{
-			"url": "OptionAkshar_Aa.svg",
-			"location": "content",
-			"audio":{
-				"url":"",
-				"location":"content"
+    "options": {
+        "opts": [{
+            "id": "001",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/i.png",
+            "location": "assets",
+            "audio": {
+                "url": "",
+                "location": "content"
             },
             "optBg": {
-                "url": "OptionAksharBox_01_Nomal.svg",
+                "url": "OptionAksharBox_01.svg",
                 "location": "content"
             },
             "optBgHover": {
@@ -314,18 +309,21 @@
                 "location": "content"
             },
             "optBgOriginal": {
-                "url": "OptionAksharBox_01_Nomal.svg",
+                "url": "OptionAksharBox_01.svg",
                 "location": "content"
-            }
-		}, {
-			"url": "OptionAkshar_Pa.svg",
-			"location": "content",
-			"audio":{
-				"url":"",
-				"location":"content"
+            },
+            "isMatra":  true,
+            "isCorrect": true
+        }, {
+            "id": "002",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/aa.png",
+            "location": "assets",
+            "audio": {
+                "url": "",
+                "location": "content"
             },
             "optBg": {
-                "url": "OptionAksharBox_02_Nomal.svg",
+                "url": "OptionAksharBox_02.svg",
                 "location": "content"
             },
             "optBgHover": {
@@ -333,19 +331,20 @@
                 "location": "content"
             },
             "optBgOriginal": {
-                "url": "OptionAksharBox_02_Nomal.svg",
+                "url": "OptionAksharBox_02.svg",
                 "location": "content"
             },
-            "isCorrect": true
-		}, {
-			"url": "OptionAkshar_Ra.svg",
-			"location": "content",
-			"audio":{
-				"url":"",
-				"location":"content"
+            "isMatra":  true            
+        }, {
+            "id": "003",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/ai.png",
+            "location": "assets",
+            "audio": {
+                "url": "",
+                "location": "content"
             },
             "optBg": {
-                "url": "OptionAksharBox_03_Nomal.svg",
+                "url": "OptionAksharBox_03.svg",
                 "location": "content"
             },
             "optBgHover": {
@@ -353,67 +352,16 @@
                 "location": "content"
             },
             "optBgOriginal": {
-                "url": "OptionAksharBox_03_Nomal.svg",
-                "location": "content"
-            }
-		}]
-	},
-    "answers": [
-        {
-            "id": "004",
-            "custom_id": "4",
-            "text": "",
-            "ansImg": {
-                "url": "q2word1.svg",
+                "url": "OptionAksharBox_03.svg",
                 "location": "content"
             },
-            "sound": ""
-        },
-        {
-            "id": "002",
-            "custom_id": "2",
-            "text": "",
-            "ansImg": {
-                "url": "q2word2.svg",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        {
-            "id": "005",
-            "custom_id": "5",
-            "text": "",
-            "ansImg": {
-                "url": "q2word3.svg",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        {
-            "id": "003",
-            "custom_id": "3",
-            "text": "",
-            "ansImg": {
-                "url": "q2word4.svg",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        {
-            "id": "001",
-            "custom_id": "1",
-            "text": "",
-            "ansImg": {
-                "url": "q2word5.svg",
-                "location": "content"
-            },
-            "sound": ""
-        }
-    ],
+            "isMatra":  true
+        }]
+    },   
     "quesObj": {
         "quesVideo": {
-            "urlOgv": "video.ogg",
-            "urlMP4": "video.mp4",
+            "urlOgv": "",
+            "urlMP4": "",
             "location": "content",
             "autoPlay": false
         },
@@ -459,294 +407,123 @@
             "location": "content"
         },
         "questionText": [{
-			"url": "QuestionWordBox_AAAkshar.svg",
-			"location": "content"
-		}, {
-			"url": "QuestionWordBox_BlankBox_BlueLine.svg",
-			"location": "content"
-		}, {
-			"url": "QuestionWordBox_NaAkshar.svg",
-			"location": "content"
-		}],
-		"isEnglish": false
-    },
-    "feedback": {
-        "correct_ans_index": "002",
-        "wrongFeedback": {
-            "style_header": {
-                "border": "solid .4vmin #F63A39",
-                "border-top-left-radius": "20px",
-                "border-top-right-radius": "20px",
-                "background": "#E90101"
-            },
-            "style_body": {
-                "border": "solid .4vmin #DB4A4D",
-                "border-bottom-left-radius": "20px",
-                "border-bottom-right-radius": "20px",
-                "background": "#FFFFFF"
-            },
-            "headerTxt_img": {
-                "url": "header_confirm_text_wrong.png",
-                "location": "content"
-            },
-            "close_btn": {
-                "url": "closeBtn.png",
-                "location": "content"
-            },
-            "close_btn_hover": {
-                "url": "closeBtnHover.png",
-                "location": "content"
-            },
-            "close_btn_original": {
-                "url": "closeBtn.png",
-                "location": "content"
-            },
-            "feedbackVo": {
-                "url": "wrongFeedback.ogg",
-                "location": "content"
-            }
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/aaa.png",            
+            "location": "assets",
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            } 
+        }, {
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/tta.png",
+            "location": "assets",
+            "isBlank": false,
+            "addMatra": true,
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            } 
+        }, {
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/sha.png",
+            "location": "assets",
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            }           
         },
-        "rightFeedback": {
-            "style_header": {
-                "border": "solid .4vmin #85d222",
-                "border-top-left-radius": "20px",
-                "border-top-right-radius": "20px",
-                "background": "#248446"
+        {
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/ya.png",
+            "location": "assets",
+            "hasmatra":true,
+            "matravalue":"o",
+            "matra":{
+                "url": "assets/images/letters/hindi/pinkTheme/matra/o.png",
+                "location": "assets"
+            }          
+        },
+        {
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/k.png",
+            "location": "assets",
+            "hasmatra":true,
+            "matravalue":"i",
+            "matra":{
+                "url": "assets/images/letters/hindi/pinkTheme/matra/i.png",
+                "location": "assets"
+            }          
+        },
+        {
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/tta.png",
+            "location": "assets",
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            }            
+        }
+        ],
+        "isEnglish": false
+    },
+
+    "feedback": {
+        "correct_ans_index": "003",
+        "popupassets":{
+            "pop_up_base": {
+                "url": "assets/images/EVAGlobal/popupBase.svg",
+                 "location": "assets"
             },
-            "style_body": {
-                "border": "solid .4vmin #85d222",
-                "border-bottom-left-radius": "20px",
-                "border-bottom-right-radius": "20px",
-                "background": "#afdec0"
+            "close_button": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
             },
-            "headerTxt_img": {
-                "url": "header_confirm_text.png",
-                "location": "content"
+            "close_button_origional": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
             },
-            "close_btn": {
-                "url": "closeBtn.png",
-                "location": "content"
+            "close_button_hover": {
+                "url": "assets/images/EVAGlobal/popupCloseBtnHover.svg",
+                "location": "assets"
             },
-            "close_btn_hover": {
-                "url": "closeBtnHover.png",
-                "location": "content"
+            "right_icon": {
+                "url": "assets/images/EVAGlobal/rightAnsIcon.svg",
+                "location": "assets"
             },
-            "close_btn_original": {
-                "url": "closeBtn.png",
-                "location": "content"
+            "wrong_icon": {
+                "url": "assets/images/EVAGlobal/wrongAnsIcon.svg",
+                "location": "assets"
+            }
+
+        },
+        "show_ans_popup": {
+            "enabled": false,
+            "text": "",
+            "image": {
+                "url": "",
+                "location": ""
             },
-            "feedbackVo": {
+            "imgsrc": {
+                "url":"",
+                "location":""
+            },
+            "sound": ""
+        },
+        
+ 
+        "right_ans_sound": {
+            "enabled": true,
+            "path": {
                 "url": "rightFeedback.ogg",
                 "location": "content"
             }
         },
-        "submit_popup": {
-            "style_header": {
-                "border": "solid .4vmin #85d222",
-                "border-top-left-radius": "20px",
-                "border-top-right-radius": "20px",
-                "background": "#248446"
-            },
-            "style_body": {
-                "border": "solid .4vmin #85d222",
-                "border-bottom-left-radius": "20px",
-                "border-bottom-right-radius": "20px",
-                "background": "#afdec0"
-            },
-            "headerTxt_img": {
-                "url": "PopupConfirmHeader.png",
-                "location": "content"
-            },
-            "bg_img": {
-                "url": "",
-                "location": "content"
-            },
-            "close_btn": {
-                "url": "closeBtn.png",
-                "location": "content"
-            },
-            "close_btn_hover": {
-                "url": "closeBtnHover.png",
-                "location": "content"
-            },
-            "close_btn_original": {
-                "url": "closeBtn.png",
-                "location": "content"
-            },
-            "submit_text": {
-                "url": "submit_popup_text.png",
-                "location": "content"
-            },
-            "confirm_btn": {
-                "url": "yes_btn.png",
-                "location": "content"
-            },
-            "confirm_btn_hover": {
-                "url": "yes_btn_Hover.png",
-                "location": "content"
-            },
-            "confirm_btn_original": {
-                "url": "yes_btn.png",
-                "location": "content"
-            },
-            "decline_btn": {
-                "url": "no_btn.png",
-                "location": "content"
-            },
-            "decline_btn_hover": {
-                "url": "no_btn_Hover.png",
-                "location": "content"
-            },
-            "decline_btn_original": {
-                "url": "no_btn.png",
-                "location": "content"
-            }
-        },
-        "replay_confirm": {
-            "style_header": {
-                "border": "solid .4vmin #85d222",
-                "border-top-left-radius": "20px",
-                "border-top-right-radius": "20px",
-                "background": "#248446"
-            },
-            "style_body": {
-                "border": "solid .4vmin #85d222",
-                "border-bottom-left-radius": "20px",
-                "border-bottom-right-radius": "20px",
-                "background": "#afdec0"
-            },
-            "headerTxt_img": {
-                "url": "header_confirm_text.png",
-                "location": "content"
-            },
-            "bg_img": {
-                "url": "confirmation_popup_base.png",
-                "location": "content"
-            },
-            "close_btn": {
-                "url": "closeBtn.png",
-                "location": "content"
-            },
-            "close_btn_hover": {
-                "url": "closeBtnHover.png",
-                "location": "content"
-            },
-            "close_btn_original": {
-                "url": "closeBtn.png",
-                "location": "content"
-            },
-            "confirm_text": {
-                "url": "replay_popup_text.png",
-                "location": "content"
-            },
-            "confirm_btn": {
-                "url": "yes_btn.png",
-                "location": "content"
-            },
-            "confirm_btn_hover": {
-                "url": "yes_btn_Hover.png",
-                "location": "content"
-            },
-            "confirm_btn_original": {
-                "url": "yes_btn.png",
-                "location": "content"
-            },
-            "decline_btn": {
-                "url": "no_btn.png",
-                "location": "content"
-            },
-            "decline_btn_hover": {
-                "url": "no_btn_Hover.png",
-                "location": "content"
-            },
-            "decline_btn_original": {
-                "url": "no_btn.png",
-                "location": "content"
-            }
-        },
-        "confirm_popup": {
-            "style_header": {
-                "border": "solid .4vmin #85d222",
-                "border-top-left-radius": "20px",
-                "border-top-right-radius": "20px",
-                "background": "#248446"
-            },
-            "style_body": {
-                "border": "solid .4vmin #85d222",
-                "border-bottom-left-radius": "20px",
-                "border-bottom-right-radius": "20px",
-                "background": "#afdec0"
-            },
-            "headerTxt_img": {
-                "url": "PopupConfirmHeader.png",
-                "location": "content"
-            },
-            "bg_img": {
-                "url": "",
-                "location": "content"
-            },
-            "close_btn": {
-                "url": "closeBtn.png",
-                "location": "content"
-            },
-            "close_btn_hover": {
-                "url": "closeBtnHover.png",
-                "location": "content"
-            },
-            "close_btn_original": {
-                "url": "closeBtn.png",
-                "location": "content"
-            },
-            "confirm_text": {
-                "url": "confirmation_popup_text.png",
-                "location": "content"
-            },
-            "confirm_btn": {
-                "url": "yes_btn.png",
-                "location": "content"
-            },
-            "confirm_btn_hover": {
-                "url": "yes_btn_Hover.png",
-                "location": "content"
-            },
-            "confirm_btn_original": {
-                "url": "yes_btn.png",
-                "location": "content"
-            },
-            "decline_btn": {
-                "url": "no_btn.png",
-                "location": "content"
-            },
-            "decline_btn_hover": {
-                "url": "no_btn_Hover.png",
-                "location": "content"
-            },
-            "decline_btn_original": {
-                "url": "no_btn.png",
-                "location": "content"
-            }
-        },
-        "right_ans_popup": {
-            "enabled": false,
-            "text": "",
-            "imgsrc": {
-                "url": "correctAnsPopup.svg",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        "wrong_ans_popup": {
-            "enabled": false,
-            "text": "",
-            "imgsrc": "",
-            "sound": ""
-        },
-        "right_ans_sound": {
-            "enabled": true,
-            "path": {
+        "right_ans_clap_sound": {        
                 "url": "clap.ogg",
                 "location": "content"
-            }
         },
         "wrong_ans_sound": {
             "enabled": true,
@@ -754,6 +531,14 @@
                 "url": "wrongFeedback.ogg",
                 "location": "content"
             }
+        },
+        "show_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "showanswerFeedback.ogg",
+                "location": "content"
+            }
         }
+
     }
 }
