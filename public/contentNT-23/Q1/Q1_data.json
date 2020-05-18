@@ -1034,7 +1034,7 @@
 			"onclickColor":"#00A14B",
 			"audio": "WestBengal.ogg",
 			"textField": "WestBengal",
-			"capital":"Kolkata",
+			"capital":"",
 			"stateTxtimg":{
 				"url":"WB.png",
 				"location":"content"
@@ -1239,7 +1239,7 @@
 			"onclickColor":"#00A14B",
 			"audio": "Tamilnadu.ogg",
 			"textField": "Tamilnadu",
-			"capital":"",
+			"capital":"Chennai",
 			"stateTxtimg":{
 				"url":"Tamilnadu.png",
 				"location":"content"
