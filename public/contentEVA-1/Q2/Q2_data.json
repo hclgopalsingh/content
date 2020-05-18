@@ -309,18 +309,6 @@
             "audio": {
                 "url": "",
                 "location": "content"
-            },
-            "optBg": {
-                "url": "OptionAksharBox_01.svg",
-                "location": "content"
-            },
-            "optBgHover": {
-                "url": "OptionAksharBox_01_Hover.svg",
-                "location": "content"
-            },
-            "optBgOriginal": {
-                "url": "OptionAksharBox_01.svg",
-                "location": "content"
             }
         }, {
             "id": "002",
@@ -330,18 +318,6 @@
                 "url": "",
                 "location": "content"
             },
-            "optBg": {
-                "url": "OptionAksharBox_02.svg",
-                "location": "content"
-            },
-            "optBgHover": {
-                "url": "OptionAksharBox_02_Hover.svg",
-                "location": "content"
-            },
-            "optBgOriginal": {
-                "url": "OptionAksharBox_02.svg",
-                "location": "content"
-            },
             "isCorrect": true
         }, {
             "id": "003",
@@ -349,18 +325,6 @@
             "location": "assets",
             "audio": {
                 "url": "",
-                "location": "content"
-            },
-            "optBg": {
-                "url": "OptionAksharBox_03.svg",
-                "location": "content"
-            },
-            "optBgHover": {
-                "url": "OptionAksharBox_03_Hover.svg",
-                "location": "content"
-            },
-            "optBgOriginal": {
-                "url": "OptionAksharBox_03.svg",
                 "location": "content"
             }
         }]

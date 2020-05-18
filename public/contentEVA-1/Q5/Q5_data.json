@@ -136,16 +136,16 @@
                 "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
                 "location": "assets"
             },
+            "uttar_dikhayein_original": {
+                "url": "assets/images/EVAGlobal/ansBtnActive.svg",
+                "location": "assets"
+            },
             "uttar_dikhayein_disable": {
                 "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
                 "location": "assets"
             },
-            "uttar_dikhayein_original": {
-                "url": "assets/images/EVAGlobal/ansBtn.svg",
-                "location": "assets"
-            },
             "uttar_dikhayein_hover": {
-                "url": "assets/images/EVAGlobal/ansBtnActive.svg",
+                "url": "assets/images/EVAGlobal/ansBtnHover.svg",
                 "location": "assets"
             },
             "submit_btn": {
@@ -304,18 +304,6 @@
             "audio": {
                 "url": "ja.ogg",
                 "location": "content"
-            },
-            "optBg": {
-                "url": "OptionAksharBox_01.svg",
-                "location": "content"
-            },
-            "optBgHover": {
-                "url": "OptionAksharBox_01_Hover.svg",
-                "location": "content"
-            },
-            "optBgOriginal": {
-                "url": "OptionAksharBox_01.svg",
-                "location": "content"
             }
         }, {
             "id": "002",
@@ -325,18 +313,6 @@
                 "url": "ma.ogg",
                 "location": "content"
             },
-            "optBg": {
-                "url": "OptionAksharBox_02.svg",
-                "location": "content"
-            },
-            "optBgHover": {
-                "url": "OptionAksharBox_02_Hover.svg",
-                "location": "content"
-            },
-            "optBgOriginal": {
-                "url": "OptionAksharBox_02.svg",
-                "location": "content"
-            },
             "isCorrect": true
         }, {
             "id": "003",
@@ -344,18 +320,6 @@
             "location": "assets",
             "audio": {
                 "url": "sa.ogg",
-                "location": "content"
-            },
-            "optBg": {
-                "url": "OptionAksharBox_03.svg",
-                "location": "content"
-            },
-            "optBgHover": {
-                "url": "OptionAksharBox_03_Hover.svg",
-                "location": "content"
-            },
-            "optBgOriginal": {
-                "url": "OptionAksharBox_03.svg",
                 "location": "content"
             }
         }]
