@@ -2372,7 +2372,7 @@
 		"correct_date": "2",
 		"correct_year":"",
 		"correct_month":"October",
-		"correct_weekDay":"Friday",
+		"correct_weekDay":"",
 		"style_header": {
 			"border": "solid .4vmin #85d222",
 			"border-top-left-radius": "20px",
