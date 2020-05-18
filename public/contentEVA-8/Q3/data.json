@@ -328,66 +328,6 @@
   },
   "options": [
     {
-      "id": "001",
-      "text": "",
-      "image": {
-        "url": "optBase1.svg",
-        "location": "content"
-      },
-      "imgsrc": {
-        "url": "opt1.svg",
-        "location": "content"
-      },
-      "img_original": {
-        "url": "optBase1.svg",
-        "location": "content"
-      },
-      "img_hover": {
-        "url": "optBase1Hover.svg",
-        "location": "content"
-      },
-      "audio": {
-        "url": "audioOption1.ogg",
-        "location": "content"
-      },
-      "img_ques_block": {
-        "url": "opt1QuesBlock.svg"
-      },
-      "img_ques_block_blink": {
-        "url": "opt1QuesBlockBlink.svg"
-      }
-    },
-    {
-      "id": "002",
-      "text": "",
-      "image": {
-        "url": "optBase2.svg",
-        "location": "content"
-      },
-      "imgsrc": {
-        "url": "opt2.svg",
-        "location": "content"
-      },
-      "img_original": {
-        "url": "optBase2.svg",
-        "location": "content"
-      },
-      "img_hover": {
-        "url": "optBase2Hover.svg",
-        "location": "content"
-      },
-      "audio": {
-        "url": "audioOption2.ogg",
-        "location": "content"
-      },
-      "img_ques_block": {
-        "url": "opt2QuesBlock.svg"
-      },
-      "img_ques_block_blink": {
-        "url": "opt2QuesBlockBlink.svg"
-      }
-    },
-    {
       "id": "003",
       "text": "",
       "image": {
