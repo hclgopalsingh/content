@@ -136,21 +136,21 @@
         "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
         "location": "assets"
       },
-      "uttar_dikhayein_disable": {
-        "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
-        "location": "assets"
-      },
       "uttar_dikhayein_original": {
         "url": "assets/images/EVAGlobal/ansBtnActive.svg",
         "location": "assets"
       },
+            "uttar_dikhayein_disable": {
+                "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
+                "location": "assets"
+            },
       "uttar_dikhayein_hover": {
         "url": "assets/images/EVAGlobal/ansBtnHover.svg",
         "location": "assets"
       },
       "submit_btn": {
         "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
-        "location": "bgassets"
+                "location": "assets"
       },
       "submit_btn_hover": {
         "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
@@ -158,14 +158,6 @@
       },
       "submit_btn_original": {
         "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
-        "location": "assets"
-      },
-      "rightTick_img": {
-        "url": "assets/images/EVAGlobal/right.svg",
-        "location": "assets"
-      },
-      "wrongTick_img": {
-        "url": "assets/images/EVAGlobal/wrong.svg",
         "location": "assets"
       },
       "quesTabs": [
@@ -331,20 +323,20 @@
       "id": "001",
       "text": "",
       "image": {
-        "url": "optBase1.svg",
-        "location": "content"
+        "url": "assets/images/EVAGlobal/template_08/optBase1.svg",
+        "location": "assets"
       },
       "imgsrc": {
         "url": "opt1.svg",
         "location": "content"
       },
       "img_original": {
-        "url": "optBase1.svg",
-        "location": "content"
+        "url": "assets/images/EVAGlobal/template_08/optBase1.svg",
+        "location": "assets"
       },
       "img_hover": {
-        "url": "optBase1Hover.svg",
-        "location": "content"
+        "url": "assets/images/EVAGlobal/template_08/optBase1Hover.svg",
+        "location": "assets"
       },
       "audio": {
         "url": "audioOption1.ogg",
@@ -361,20 +353,20 @@
       "id": "002",
       "text": "",
       "image": {
-        "url": "optBase2.svg",
-        "location": "content"
+        "url": "assets/images/EVAGlobal/template_08/optBase2.svg",
+        "location": "assets"
       },
       "imgsrc": {
         "url": "opt2.svg",
         "location": "content"
       },
       "img_original": {
-        "url": "optBase2.svg",
-        "location": "content"
+        "url": "assets/images/EVAGlobal/template_08/optBase2.svg",
+        "location": "assets"
       },
       "img_hover": {
-        "url": "optBase2Hover.svg",
-        "location": "content"
+        "url": "assets/images/EVAGlobal/template_08/optBase2Hover.svg",
+        "location": "assets"
       },
       "audio": {
         "url": "audioOption2.ogg",
@@ -391,20 +383,20 @@
       "id": "003",
       "text": "",
       "image": {
-        "url": "optBase3.svg",
-        "location": "content"
+        "url": "assets/images/EVAGlobal/template_08/optBase3.svg",
+        "location": "assets"
       },
       "imgsrc": {
         "url": "opt3.svg",
         "location": "content"
       },
       "img_original": {
-        "url": "optBase3.svg",
-        "location": "content"
+        "url": "assets/images/EVAGlobal/template_08/optBase3.svg",
+        "location": "assets"
       },
       "img_hover": {
-        "url": "optBase3Hover.svg",
-        "location": "content"
+        "url": "assets/images/EVAGlobal/template_08/optBase3Hover.svg",
+        "location": "assets"
       },
       "audio": {
         "url": "audioOption3.ogg",
@@ -421,16 +413,16 @@
       "id": "004",
       "text": "",
       "image": {
-        "url": "optBase4.svg",
-        "location": "content"
+        "url": "assets/images/EVAGlobal/template_08/optBase4.svg",
+        "location": "assets"
       },
       "imgsrc": {
         "url": "opt4.svg",
         "location": "content"
       },
       "img_original": {
-        "url": "optBase4.svg",
-        "location": "content"
+        "url": "assets/images/EVAGlobal/template_08/optBase4.svg",
+        "location": "assets"
       },
       "img_hover": {
         "url": "optBase4Hover.svg",
