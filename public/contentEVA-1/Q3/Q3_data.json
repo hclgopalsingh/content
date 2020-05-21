@@ -280,34 +280,7 @@
         },        
         "isFirstQues": false
     },
-    "ques": {
-        "text": "",
-        "imgsrc": {
-            "url": "ansbase.svg",
-            "location": "content"
-        },
-        "narrator_voice": {
-            "url": "Q2.ogg",
-            "location": "content"
-        },
-        "sound": "",
-        "help": {
-            "url": "assets/images/content04/help.svg",
-            "location": "assets"
-        },
-        "helpOriginal": {
-            "url": "assets/images/content04/help.svg",
-            "location": "assets"
-        },
-        "helphover": {
-            "url": "assets/images/content04/helpHover.svg",
-            "location": "assets"
-        },
-        "helpsound": {
-            "url": "Instruction.ogg",
-            "location": "content"
-        }
-    },
+    
     "options": {
         "opts": [{
             "id": "001",
@@ -340,52 +313,10 @@
         }]
     },   
     "quesObj": {
-        "quesVideo": {
-            "urlOgv": "",
-            "urlMP4": "",
-            "location": "content",
-            "autoPlay": false
-        },
         "quesInstruction": {
             "url": "Instruction.ogg",
             "location": "content",
             "autoPlay": true
-        },
-        "quesImg": {
-            "url": "",
-            "location": ""
-        },
-        "quesImgHover": {
-            "url": "",
-            "location": ""
-        },
-        "quesImgOriginal": {
-            "url": "",
-            "location": ""
-        },
-        "quesPlay": {
-            "url": "play.svg",
-            "location": "content"
-        },
-        "quesPlayPause": {
-            "url": "pause.svg",
-            "location": "content"
-        },
-        "quesPause": {
-            "url": "pause.svg",
-            "location": "content"
-        },
-        "quesSkip": {
-            "urlOgv": "SkipButton.svg",
-            "location": "content"
-        },
-        "quesSkipOrigenal": {
-            "urlOgv": "SkipButton.svg",
-            "location": "content"
-        },
-        "quesSkipHover": {
-            "urlOgv": "SkipButtonHover.svg",
-            "location": "content"
         },
         "questionText": [{
             "url": "assets/images/letters/hindi/pinkTheme/akshar/aaa.png",
@@ -415,8 +346,7 @@
                 "url": "",
                 "location": "assets"
             }
-        }],
-        "isEnglish": false
+        }]
     },
 
     "feedback": {
@@ -448,21 +378,7 @@
             }
 
         },
-        "show_ans_popup": {
-            "enabled": false,
-            "text": "",
-            "image": {
-                "url": "",
-                "location": ""
-            },
-            "imgsrc": {
-                "url":"",
-                "location":""
-            },
-            "sound": ""
-        },
-        
- 
+         
         "right_ans_sound": {
             "enabled": true,
             "path": {
