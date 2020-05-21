@@ -302,20 +302,20 @@
 	"speaker": {
         "enabled": "",
         "imgsrc": {
-            "url": "speakerBtn.svg",
-            "location": "content"
+            "url": "assets/images/EVAGlobal/speakerBtn.svg",
+            "location": "assets"
         },
         "imgorigional": {
-            "url": "speakerBtn.svg",
-            "location": "content"
+            "url": "assets/images/EVAGlobal/speakerBtn.svg",
+            "location": "assets"
         },
         "imghover": {
-            "url": "speakerBtnHover.svg",
-            "location": "content"
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
+            "location": "assets"
         },
         "imgactive": {
-            "url": "speakerBtnActive.svg",
-            "location": "content"
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
+            "location": "assets"
 		},
 		"wave1": {
 			"url": "assets/images/EVAGlobal/speakerWave1.svg",
@@ -373,14 +373,10 @@
 					"url": "Main Animation Box_Without Shadow Animation Ka_01.ogg",
 					"location": "content"
 				},
-                "correct_vo": {
-                    "url": "opt1_correct.ogg",
-                    "location": "content"
-                },
-                "incorrect_vo": {
-                    "url": "opt1_incorrect.ogg",
-                    "location": "content"
-                }
+				"audio": {
+					"url": "",
+					"location": ""
+				}
             },
             {
                 "id": 2,
@@ -422,14 +418,10 @@
 					"url": "Main Animation Box_Without Shadow Animation Ka_02.ogg",
 					"location": "content"
 				},
-                "correct_vo": {
-                    "url": "opt1_correct.ogg",
-                    "location": "content"
-                },
-                "incorrect_vo": {
-                    "url": "opt1_incorrect.ogg",
-                    "location": "content"
-                }
+				"audio": {
+					"url": "",
+					"location": ""
+				}
             },
             {
                 "id": 3,
@@ -471,14 +463,10 @@
 					"url": "Main Animation Box_Without Shadow Animation Ka_03.ogg",
 					"location": "content"
 				},
-                "correct_vo": {
-                    "url": "opt1_correct.ogg",
-                    "location": "content"
-                },
-                "incorrect_vo": {
-                    "url": "opt1_incorrect.ogg",
-                    "location": "content"
-                }
+				"audio": {
+					"url": "",
+					"location": "content"
+				}
             }
         ],
 
