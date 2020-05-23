@@ -1,6 +1,7 @@
 {
   "id": "Q001",
   "imgCount": "12",
+  "variation": "EVA8V2",
   "instructiontext": "यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं",
   "speaker": {
     "enabled": "",
@@ -99,6 +100,7 @@
       "location": "assets"
     },
     "ques_control": {
+	  
       "isLastQues": false,
       "footer": {
         "url": "assets/images/EVAGlobal/footerBg.svg",
