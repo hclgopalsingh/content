@@ -331,6 +331,14 @@
 			"image": {
                 "url": "option1.png",
                 "location": "content"
+            },
+			"optBg_hover": {
+                "url": "optionBg4.svg",
+                "location": "content"
+            },
+			"optBg_original": {
+				"url": "optionBg1.svg",
+                "location": "content"
             }
 		},
 		{
@@ -342,6 +350,18 @@
 			"image": {
                 "url": "option2.png",
                 "location": "content"
+            },
+			"optBg_hover": {
+                "url": "optionBg4.svg",
+                "location": "content"
+            },
+			"optBg_original": {
+				"url": "optionBg2.svg",
+                "location": "content"
+            },
+			"audio": {
+                "url": "",
+                "location": "content"
             }
 		},
 		{
@@ -352,6 +372,18 @@
             },
 			"image": {
                 "url": "option3.png",
+                "location": "content"
+            },
+			"optBg_hover": {
+                "url": "optionBg4.svg",
+                "location": "content"
+            },
+			"optBg_original": {
+				"url": "optionBg3.svg",
+                "location": "content"
+            },
+			"audio": {
+                "url": "",
                 "location": "content"
             }
 		}
@@ -366,6 +398,18 @@
 			"image": {
                 "url": "option4.png",
                 "location": "content"
+            },
+			"optBg_hover": {
+                "url": "optionBg4.svg",
+                "location": "content"
+            },
+			"optBg_original": {
+				"url": "optionBg4.svg",
+                "location": "content"
+            },
+			"audio": {
+                "url": "",
+                "location": "content"
             }
 		},
 		{
@@ -377,6 +421,18 @@
 			"image": {
                 "url": "option5.png",
                 "location": "content"
+            },
+			"optBg_hover": {
+                "url": "optionBg4.svg",
+                "location": "content"
+            },
+			"optBg_original": {
+				"url": "optionBg5.svg",
+                "location": "content"
+            },
+			"audio": {
+                "url": "",
+                "location": "content"
             }
 		},
 		{
@@ -387,6 +443,18 @@
             },
 			"image": {
                 "url": "option6.png",
+                "location": "content"
+            },
+			"optBg_hover": {
+                "url": "optionBg4.svg",
+                "location": "content"
+            },
+			"optBg_original": {
+				"url": "optionBg6.svg",
+                "location": "content"
+            },
+			"audio": {
+                "url": "",
                 "location": "content"
             }
 		}
