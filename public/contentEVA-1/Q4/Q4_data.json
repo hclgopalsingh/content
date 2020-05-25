@@ -1,6 +1,6 @@
 {
     "id": "Q001",
-    "imgCount": "5",
+    "imgCount": "11",
     "instructiontext": "अक्षर मिलाओ कलम बनाओ ।",
     "speaker": {
         "enabled": "",
@@ -268,34 +268,7 @@
         },        
         "isFirstQues": false
     },
-    "ques": {
-        "text": "",
-        "imgsrc": {
-            "url": "ansbase.svg",
-            "location": "content"
-        },
-        "narrator_voice": {
-            "url": "Q2.ogg",
-            "location": "content"
-        },
-        "sound": "",
-        "help": {
-            "url": "assets/images/content04/help.svg",
-            "location": "assets"
-        },
-        "helpOriginal": {
-            "url": "assets/images/content04/help.svg",
-            "location": "assets"
-        },
-        "helphover": {
-            "url": "assets/images/content04/helpHover.svg",
-            "location": "assets"
-        },
-        "helpsound": {
-            "url": "Instruction.ogg",
-            "location": "content"
-        }
-    },
+    
     "options": {
         "opts": [{
             "id": "001",
@@ -305,18 +278,7 @@
                 "url": "",
                 "location": "content"
             },
-            "optBg": {
-                "url": "OptionAksharBox_01.svg",
-                "location": "content"
-            },
-            "optBgHover": {
-                "url": "OptionAksharBox_01_Hover.svg",
-                "location": "content"
-            },
-            "optBgOriginal": {
-                "url": "OptionAksharBox_01.svg",
-                "location": "content"
-            }
+            "isMatra":  false
         }, {
             "id": "002",
             "url": "assets/images/letters/hindi/pinkTheme/akshar/ja.png",
@@ -325,18 +287,7 @@
                 "url": "",
                 "location": "content"
             },
-            "optBg": {
-                "url": "OptionAksharBox_02.svg",
-                "location": "content"
-            },
-            "optBgHover": {
-                "url": "OptionAksharBox_02_Hover.svg",
-                "location": "content"
-            },
-            "optBgOriginal": {
-                "url": "OptionAksharBox_02.svg",
-                "location": "content"
-            },
+            "isMatra":  false,
             "isCorrect": true
         }, {
             "id": "003",
@@ -346,84 +297,54 @@
                 "url": "",
                 "location": "content"
             },
-            "optBg": {
-                "url": "OptionAksharBox_03.svg",
-                "location": "content"
-            },
-            "optBgHover": {
-                "url": "OptionAksharBox_03_Hover.svg",
-                "location": "content"
-            },
-            "optBgOriginal": {
-                "url": "OptionAksharBox_03.svg",
-                "location": "content"
-            }
+            "isMatra":  false
         }]
     },   
     "quesObj": {
-        "quesVideo": {
-            "urlOgv": "",
-            "urlMP4": "",
-            "location": "content",
-            "autoPlay": false
-        },
         "quesInstruction": {
             "url": "Instruction.ogg",
             "location": "content",
             "autoPlay": true
         },
-        "quesImg": {
-            "url": "",
-            "location": ""
-        },
-        "quesImgHover": {
-            "url": "",
-            "location": ""
-        },
-        "quesImgOriginal": {
-            "url": "",
-            "location": ""
-        },
-        "quesPlay": {
-            "url": "play.svg",
-            "location": "content"
-        },
-        "quesPlayPause": {
-            "url": "pause.svg",
-            "location": "content"
-        },
-        "quesPause": {
-            "url": "pause.svg",
-            "location": "content"
-        },
-        "quesSkip": {
-            "urlOgv": "SkipButton.svg",
-            "location": "content"
-        },
-        "quesSkipOrigenal": {
-            "urlOgv": "SkipButton.svg",
-            "location": "content"
-        },
-        "quesSkipHover": {
-            "urlOgv": "SkipButtonHover.svg",
-            "location": "content"
-        },
         "questionText": [{
             "url": "assets/images/letters/hindi/pinkTheme/akshar/sha.png",
-            "location": "assets"
+            "location": "assets",
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            } 
         },{
             "url": "assets/images/letters/hindi/pinkTheme/akshar/la.png",
-            "location": "assets"
+            "location": "assets",
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            } 
         },
          {
             "url": "",
             "location": "",
-            "isBlank": "true"
+            "isBlank": "true",
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            } 
         }, {
             "url": "assets/images/letters/hindi/pinkTheme/akshar/ma.png",
-            "location": "assets"
-        }],
-        "isEnglish": false
+            "location": "assets",
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            } 
+        }]
     },
 
     "feedback": {
@@ -455,21 +376,7 @@
             }
 
         },
-        "show_ans_popup": {
-            "enabled": false,
-            "text": "",
-            "image": {
-                "url": "",
-                "location": ""
-            },
-            "imgsrc": {
-                "url":"",
-                "location":""
-            },
-            "sound": ""
-        },
-        
- 
+         
         "right_ans_sound": {
             "enabled": true,
             "path": {

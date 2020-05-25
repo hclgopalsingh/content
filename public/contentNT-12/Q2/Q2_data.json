@@ -23,13 +23,17 @@
             "location": "content"
         },
         "right_sound": {
-            "url": "assets/sounds/clap.ogg",
-            "location": "assets"
+			"url": "correctans.ogg",
+			"location": "content"
+		},
+		"wrong_sound": {
+			"url": "wrongans.ogg",
+			"location": "content"
         },
-        "wrong_sound": {
-            "url": "assets/sounds/shake.ogg",
-            "location": "assets"
-        },
+        "show_sound": {
+			"url": "showans.ogg",
+			"location": "content"
+		},
         "narrator": {
             "url": "narrator.ogg",
             "location": "content"
