@@ -518,8 +518,8 @@
             }
         },
         "right_ans_clap_sound": {        
-            "url": "clap.ogg",
-            "location": "content"
+            "url": "assets/images/EVAGlobal/clap.ogg",
+            "location": "assets"
         },
         "wrong_ans_sound": {
             "enabled": true,
