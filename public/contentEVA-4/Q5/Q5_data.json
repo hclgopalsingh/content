@@ -375,8 +375,8 @@
             }
         },
         "right_ans_clap_sound": {        
-                "url": "assets/images/EVAGlobal/clap.ogg",
-                "location": "assets"
+                "url": "clap.ogg",
+                "location": "content"
         },
         "wrong_ans_sound": {
             "enabled": true,

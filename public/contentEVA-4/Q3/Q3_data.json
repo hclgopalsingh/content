@@ -99,7 +99,7 @@
             "location": "assets"
         },
         "ques_control": {
-            "isLastQues" : true,
+            "isLastQues" : false,
             "footer": {
                 "url": "assets/images/EVAGlobal/footerBg.svg",
                 "location": "assets"
@@ -136,12 +136,12 @@
                 "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
                 "location": "assets"
             },
-            "uttar_dikhayein_original": {
-                "url": "assets/images/EVAGlobal/ansBtnActive.svg",
-                "location": "assets"
-            },
             "uttar_dikhayein_disable": {
                 "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
+                "location": "assets"
+            },
+            "uttar_dikhayein_original": {
+                "url": "assets/images/EVAGlobal/ansBtnActive.svg",
                 "location": "assets"
             },
             "uttar_dikhayein_hover": {
@@ -206,6 +206,10 @@
                         "tabcircleVisited": {
                             "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
+                            "location": "assets"
                         }
                     }
                 },
@@ -213,7 +217,7 @@
                     "ques_tab": {
                         "id": "003",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -234,7 +238,7 @@
                     "ques_tab": {
                         "id": "004",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -243,6 +247,10 @@
                         },
                         "tabcircleVisited": {
                             "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
                             "location": "assets"
                         }
                     }
@@ -251,7 +259,7 @@
                     "ques_tab": {
                         "id": "005",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -260,6 +268,10 @@
                         },
                         "tabcircleVisited": {
                             "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
                             "location": "assets"
                         }
                     }
@@ -272,32 +284,32 @@
     "options": {
         "opts": [{
             "id": "001",
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/ja.png",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/u.png",
             "location": "assets",
             "audio": {
-                "url": "ja.ogg",
+                "url": "",
                 "location": "content"
             },
-            "isMatra":  false
+            "isMatra":true
         }, {
             "id": "002",
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/ma.png",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/aa.png",
             "location": "assets",
             "audio": {
-                "url": "ma.ogg",
+                "url": "",
                 "location": "content"
             },
-            "isMatra":  false,
+            "isMatra":true,
             "isCorrect": true
         }, {
             "id": "003",
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/sa.png",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/oo.png",
             "location": "assets",
             "audio": {
-                "url": "sa.ogg",
+                "url": "",
                 "location": "content"
             },
-            "isMatra":  false
+            "isMatra":true
         }]
     },   
     "quesObj": {
@@ -307,8 +319,8 @@
             "autoPlay": true
         },
         "questionText": [{
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/ka.png",
-            "location": "assets",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/aaa.png",
+            "location": "assets",            
             "hasmatra":false,
             "matravalue":"",
             "matra":{
@@ -316,24 +328,24 @@
                 "location": "assets"
             } 
         }, {
-            "url": "",
-            "location": "",
-            "isBlank": "true",
-            "hasmatra":false,
-            "matravalue":"",
-            "matra":{
-                "url": "",
-                "location": "assets"
-            } 
-        }, {
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/la.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/pa.png",
             "location": "assets",
             "hasmatra":false,
             "matravalue":"",
             "matra":{
                 "url": "",
                 "location": "assets"
-            } 
+            }
+        }, {
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/na.png",
+            "location": "assets",
+            "addMatra":true,
+            "hasmatra":false,
+            "matravalue":"",
+            "matra":{
+                "url": "",
+                "location": "assets"
+            }
         }]
     },
 
@@ -375,8 +387,8 @@
             }
         },
         "right_ans_clap_sound": {        
-                "url": "assets/images/EVAGlobal/clap.ogg",
-                "location": "assets"
+                "url": "clap.ogg",
+                "location": "content"
         },
         "wrong_ans_sound": {
             "enabled": true,
