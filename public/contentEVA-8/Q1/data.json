@@ -1,23 +1,23 @@
 {
   "id": "Q001",
   "imgCount": "12",
-  "variation": "EVA8V2",
-  "instructiontext": "यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं यह निर्देशिका पट्टी है क्र्प्या निर्देशों को यहाँ दर्शाएं",
+  "variation": "EVA8V0",
+  "instructiontext": "म से शुरू होने वाला चित्र  पहचानें।",
   "speaker": {
     "enabled": "",
-    "imgsrc": {
+    "img_src": {
       "url": "assets/images/EVAGlobal/speakerBtn.svg",
       "location": "assets"
     },
-    "imgorigional": {
+    "img_origional": {
       "url": "assets/images/EVAGlobal/speakerBtn.svg",
       "location": "assets"
     },
-    "imghover": {
+    "img_hover": {
       "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
       "location": "assets"
     },
-    "imgactive": {
+    "img_active": {
       "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
       "location": "assets"
     },
@@ -100,7 +100,6 @@
       "location": "assets"
     },
     "ques_control": {
-	  
       "isLastQues": false,
       "footer": {
         "url": "assets/images/EVAGlobal/footerBg.svg",
@@ -152,7 +151,7 @@
       },
       "submit_btn": {
         "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
-        "location": "bgassets"
+        "location": "assets"
       },
       "submit_btn_hover": {
         "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
@@ -277,47 +276,43 @@
     "isFirstQues": true
   },
   "ques": {
-    "questionBase": {
-      "url": "questionBase.svg",
-      "location": "content"
+    "mainscreen": {
+      "questionBase": {
+        "url": "question/mainScreen/questionBase.png",
+        "location": "content"
+      },
+      "questionStatement": {
+        "url": "question/mainScreen/questionStatement.png",
+        "location": "content"
+      },
+      "questionBlinking1": {
+        "url": "question/mainScreen/questionBlinkingBlue.png",
+        "location": "content"
+      },
+      "questionBlinking2": {
+        "url": "question/mainScreen/questionBlinkingPink.png",
+        "location": "content"
+      }
     },
-    "questionStatement": {
-      "url": "questionStatement.svg",
-      "location": "content"
+    "feedbackpopup": {
+      "questionBase": {
+        "url": "question/feedbackPopup/questionBase.png",
+        "location": "content"
+      },
+      "questionStatement": {
+        "url": "question/feedbackPopup/questionStatement.png",
+        "location": "content"
+      }
     },
-	"questionBlinkingBlue": {
-      "url": "questionBlinkingBlue.svg",
-      "location": "content"
-    },
-	"questionBlinkingPink": {
-      "url": "questionBlinkingPink.svg",
-      "location": "content"
-    },
-    "text": "",
-    "imgsrc": {
-      "url": "ansbase.svg",
-      "location": "content"
-    },
-    "narrator_voice": {
-      "url": "Q2.ogg",
-      "location": "content"
-    },
-    "sound": "",
-    "help": {
-      "url": "assets/images/content04/help.svg",
-      "location": "assets"
-    },
-    "helpOriginal": {
-      "url": "assets/images/content04/help.svg",
-      "location": "assets"
-    },
-    "helphover": {
-      "url": "assets/images/content04/helpHover.svg",
-      "location": "assets"
-    },
-    "helpsound": {
-      "url": "Instruction.ogg",
-      "location": "content"
+    "showanswerpopup": {
+      "questionBase": {
+        "url": "question/showAnswerPopup/questionBase.png",
+        "location": "content"
+      },
+      "questionStatement": {
+        "url": "question/showAnswerPopup/questionStatement.png",
+        "location": "content"
+      }
     }
   },
   "options": [
@@ -328,8 +323,8 @@
         "url": "assets/images/EVAGlobal/template_08/optBase1.svg",
         "location": "assets"
       },
-      "imgsrc": {
-        "url": "opt1.svg",
+      "img_src": {
+        "url": "options/opt1.png",
         "location": "content"
       },
       "img_original": {
@@ -340,16 +335,18 @@
         "url": "assets/images/EVAGlobal/template_08/optBase1Hover.svg",
         "location": "assets"
       },
+      "img_ques_block": {
+        "url": "options/opt1QuesBlock.png",
+        "location": "content"
+      },
+      "img_ques_block_blink": {
+        "url": "options/opt1QuesBlockBlink.png",
+        "location": "content"
+      },
       "audio": {
         "url": "audioOption1.ogg",
         "location": "content"
-      },
-	  "img_ques_block": {
-		"url": "opt1QuesBlock.svg"
-	  },
-	  "img_ques_block_blink": {
-		"url": "opt1QuesBlockBlink.svg"
-	  }
+      }
     },
     {
       "id": "002",
@@ -358,8 +355,8 @@
         "url": "assets/images/EVAGlobal/template_08/optBase2.svg",
         "location": "assets"
       },
-      "imgsrc": {
-        "url": "opt2.svg",
+      "img_src": {
+        "url": "options/opt2.png",
         "location": "content"
       },
       "img_original": {
@@ -374,12 +371,14 @@
         "url": "audioOption2.ogg",
         "location": "content"
       },
-	  "img_ques_block": {
-		"url": "opt2QuesBlock.svg"
-	  },
-	  "img_ques_block_blink": {
-		"url": "opt2QuesBlockBlink.svg"
-	  }
+      "img_ques_block": {
+        "url": "options/opt2QuesBlock.png",
+        "location": "content"
+      },
+      "img_ques_block_blink": {
+        "url": "options/opt2QuesBlockBlink.png",
+        "location": "content"
+      }
     },
     {
       "id": "003",
@@ -388,8 +387,8 @@
         "url": "assets/images/EVAGlobal/template_08/optBase3.svg",
         "location": "assets"
       },
-      "imgsrc": {
-        "url": "opt3.svg",
+      "img_src": {
+        "url": "options/opt3.png",
         "location": "content"
       },
       "img_original": {
@@ -404,12 +403,14 @@
         "url": "audioOption3.ogg",
         "location": "content"
       },
-	  "img_ques_block": {
-		"url": "opt3QuesBlock.svg"
-	  },
-	  "img_ques_block_blink": {
-		"url": "opt3QuesBlockBlink.svg"
-	  }
+      "img_ques_block": {
+        "url": "options/opt3QuesBlock.png",
+        "location": "content"
+      },
+      "img_ques_block_blink": {
+        "url": "options/opt3QuesBlockBlink.png",
+        "location": "content"
+      }
     },
     {
       "id": "004",
@@ -418,8 +419,8 @@
         "url": "assets/images/EVAGlobal/template_08/optBase4.svg",
         "location": "assets"
       },
-      "imgsrc": {
-        "url": "opt4.svg",
+      "img_src": {
+        "url": "options/opt4.png",
         "location": "content"
       },
       "img_original": {
@@ -434,12 +435,14 @@
         "url": "audioOption4.ogg",
         "location": "content"
       },
-	  "img_ques_block": {
-		"url": "opt4QuesBlock.svg"
-	  },
-	  "img_ques_block_blink": {
-		"url": "opt4QuesBlockBlink.svg"
-	  }
+      "img_ques_block": {
+        "url": "options/opt4QuesBlock.png",
+        "location": "content"
+      },
+      "img_ques_block_blink": {
+        "url": "options/opt4QuesBlockBlink.png",
+        "location": "content"
+      }
     }
   ],
   "quesObj": {
@@ -454,7 +457,7 @@
       "location": "content",
       "autoPlay": true
     },
-    "`quesImg": {
+    "quesImg": {
       "url": "",
       "location": ""
     },
@@ -526,7 +529,7 @@
         "url": "optBase3.svg",
         "location": "content"
       },
-      "imgsrc": {
+      "img_src": {
         "url": "opt4.svg",
         "location": "content"
       },
