@@ -170,7 +170,7 @@
                     "ques_tab": {
                         "id": "001",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -191,7 +191,7 @@
                     "ques_tab": {
                         "id": "002",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
+                            "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -208,7 +208,7 @@
                     "ques_tab": {
                         "id": "003",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
+                            "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
