@@ -110,6 +110,10 @@
                 "url": "assets/images/EVAGlobal/nextBtn.svg",
                 "location": "assets"
             },
+			"aagey_badhein_disabled": {
+                "url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
+                "location": "assets"
+            },
             "aagey_badhein_original": {
                 "url": "assets/images/EVAGlobal/nextBtn.svg",
                 "location": "assets"
