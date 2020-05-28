@@ -99,7 +99,7 @@
             "location": "assets"
         },
         "ques_control": {
-            "isLastQues" : true,
+            "isLastQues" : false,
             "footer": {
                 "url": "assets/images/EVAGlobal/footerBg.svg",
                 "location": "assets"
@@ -136,12 +136,12 @@
                 "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
                 "location": "assets"
             },
-            "uttar_dikhayein_original": {
-                "url": "assets/images/EVAGlobal/ansBtnActive.svg",
-                "location": "assets"
-            },
             "uttar_dikhayein_disable": {
                 "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
+                "location": "assets"
+            },
+            "uttar_dikhayein_original": {
+                "url": "assets/images/EVAGlobal/ansBtnActive.svg",
                 "location": "assets"
             },
             "uttar_dikhayein_hover": {
@@ -196,7 +196,7 @@
                     "ques_tab": {
                         "id": "002",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -206,6 +206,10 @@
                         "tabcircleVisited": {
                             "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
+                            "location": "assets"
                         }
                     }
                 },
@@ -213,7 +217,7 @@
                     "ques_tab": {
                         "id": "003",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -234,7 +238,7 @@
                     "ques_tab": {
                         "id": "004",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -251,7 +255,7 @@
                     "ques_tab": {
                         "id": "005",
                         "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
                             "location": "assets"
                         },
                         "tabcircleActive": {
@@ -262,10 +266,11 @@
                             "url": "assets/images/EVAGlobal/quesBulletVisited.png",
                             "location": "assets"
                         }
+                       
                     }
                 }
             ]
-        },        
+        },
         "isFirstQues": false
     },
     
@@ -275,18 +280,18 @@
             "url": "assets/images/letters/hindi/pinkTheme/akshar/ja.png",
             "location": "assets",
             "audio": {
-                "url": "ja.ogg",
+                "url": "",
                 "location": "content"
-            },
+            },            
             "isMatra":  false
         }, {
             "id": "002",
             "url": "assets/images/letters/hindi/pinkTheme/akshar/ma.png",
             "location": "assets",
             "audio": {
-                "url": "ma.ogg",
+                "url": "",
                 "location": "content"
-            },
+            },            
             "isMatra":  false,
             "isCorrect": true
         }, {
@@ -294,18 +299,18 @@
             "url": "assets/images/letters/hindi/pinkTheme/akshar/sa.png",
             "location": "assets",
             "audio": {
-                "url": "sa.ogg",
+                "url": "",
                 "location": "content"
-            },
+            },          
             "isMatra":  false
         }]
     },   
-    "quesObj": {
+    "quesObj": {        
         "quesInstruction": {
             "url": "Instruction.ogg",
             "location": "content",
             "autoPlay": true
-        },
+        },        
         "questionText": [{
             "url": "assets/images/letters/hindi/pinkTheme/akshar/ka.png",
             "location": "assets",
@@ -319,6 +324,7 @@
             "url": "",
             "location": "",
             "isBlank": "true",
+            "addMatra": false,
             "hasmatra":false,
             "matravalue":"",
             "matra":{
@@ -334,7 +340,7 @@
                 "url": "",
                 "location": "assets"
             } 
-        }]
+        }]        
     },
 
     "feedback": {
@@ -375,8 +381,8 @@
             }
         },
         "right_ans_clap_sound": {        
-                "url": "assets/images/EVAGlobal/clap.ogg",
-                "location": "assets"
+                "url": "clap.ogg",
+                "location": "content"
         },
         "wrong_ans_sound": {
             "enabled": true,
