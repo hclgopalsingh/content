@@ -104,6 +104,10 @@
              "url":"assets/images/EVAGlobal/footerBg.svg",
              "location":"assets"
           },
+          "aagey_badhein_disabled": {
+				"url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
+				"location": "assets"
+			},
           "aagey_badhein":{
              "url":"assets/images/EVAGlobal/nextBtn.svg",
              "location":"assets"
@@ -266,106 +270,222 @@
        "opts":[
           {
              "id":"001",
-             "url":"assets/images/letters/hindi/pinkTheme/matra/i.png",
-             "location":"assets",
+             "image":{
+               "url":"optionOrder1.png",
+               "location":"content"
+             },
+             "background":{
+               "url":"optionBase.png",
+               "location":"content"
+             },
              "audio":{
                 "url":"",
                 "location":"content"
              },
-             "isMatra":true,
-             "isCorrect":true
+             "correct_order":"1"
           },
           {
-             "id":"002",
-             "url":"assets/images/letters/hindi/pinkTheme/matra/aa.png",
-             "location":"assets",
-             "audio":{
-                "url":"",
-                "location":"content"
-             },
-             "isMatra":true
-          },
-          {
-             "id":"003",
-             "url":"assets/images/letters/hindi/pinkTheme/matra/ai.png",
-             "location":"assets",
-             "audio":{
-                "url":"",
-                "location":"content"
-             },
-             "isMatra":true
-          }
+            "id":"002",
+            "image":{
+              "url":"optionOrder2.png",
+              "location":"content"
+            },
+            "background":{
+              "url":"optionBase.png",
+              "location":"content"
+            },
+            "audio":{
+               "url":"",
+               "location":"content"
+            },
+            "correct_order":"2"
+         },
+         {
+            "id":"003",
+            "image":{
+              "url":"optionOrder3.png",
+              "location":"content"
+            },
+            "background":{
+              "url":"optionBase.png",
+              "location":"content"
+            },
+            "audio":{
+               "url":"",
+               "location":"content"
+            },
+            "correct_order":"3"
+         },
+         {
+            "id":"004",
+            "image":{
+              "url":"optionOrder4.png",
+              "location":"content"
+            },
+            "background":{
+              "url":"optionBase.png",
+              "location":"content"
+            },
+            "audio":{
+               "url":"",
+               "location":"content"
+            },
+            "correct_order":"4"
+         },
+         {
+            "id":"005",
+            "image":{
+              "url":"optionOrder5.png",
+              "location":"content"
+            },
+            "background":{
+              "url":"optionBase.png",
+              "location":"content"
+            },
+            "audio":{
+               "url":"",
+               "location":"content"
+            },
+            "correct_order":"5"
+         },
+         {
+            "id":"006",
+            "image":{
+              "url":"optionOrder6.png",
+              "location":"content"
+            },
+            "background":{
+              "url":"optionBase.png",
+              "location":"content"
+            },
+            "audio":{
+               "url":"",
+               "location":"content"
+            },
+            "correct_order":"6"
+         }
        ]
     },
     "quesObj":{
+       "questype":"milestone",
        "quesInstruction":{
           "url":"Instruction.ogg",
           "location":"content",
           "autoPlay":true
        },
+       "background":{
+         "url":"refQuesBase.png",
+         "location":"content"
+       },
+       "quesImage":{
+         "background":{
+            "url":"queryBase.png",
+            "location":"content"
+          },
+          "image":{
+            "url":"refImage.png",
+            "location":"content"
+          },
+         "stepImage":[
+            {  
+               "step":"1",
+               "url":"traveller.png",
+               "location":"content"
+            },
+            {  
+               "step":"2",
+               "url":"markPending.png",
+               "location":"content"
+            },
+            {  
+               "step":"3",
+               "url":"markPending.png",
+               "location":"content"
+            },
+            {  
+               "step":"4",
+               "url":"markPending.png",
+               "location":"content"
+            },
+            {  
+               "step":"5",
+               "url":"markPending.png",
+               "location":"content"
+            },
+            {  
+               "step":"6",
+               "url":"markPending.png",
+               "location":"content"
+            },
+            {  
+               "step":"7",
+               "url":"markPending.png",
+               "location":"content"
+            }
+         ]
+       },
+
        "questionText":[
           {
-             "url":"assets/images/letters/hindi/pinkTheme/akshar/aaa.png",
-             "location":"assets",
-             "hasmatra":false,
-             "matravalue":"",
-             "matra":{
-                "url":"",
-                "location":"assets"
-             }
+             "image":{
+               "url":"",
+               "location":""
+             },
+             "background":{
+               "url":"quesBase.png",
+               "location":"content"
+             }             
           },
           {
-             "url":"assets/images/letters/hindi/pinkTheme/akshar/tta.png",
-             "location":"assets",
-             "isBlank":false,
-             "addMatra":true,
-             "hasmatra":false,
-             "matravalue":"",
-             "matra":{
-                "url":"",
-                "location":"assets"
-             }
-          },
-          {
-             "url":"assets/images/letters/hindi/pinkTheme/akshar/sha.png",
-             "location":"assets",
-             "hasmatra":false,
-             "matravalue":"",
-             "matra":{
-                "url":"",
-                "location":"assets"
-             }
-          },
-          {
-             "url":"assets/images/letters/hindi/pinkTheme/akshar/ya.png",
-             "location":"assets",
-             "hasmatra":true,
-             "matravalue":"o",
-             "matra":{
-                "url":"assets/images/letters/hindi/pinkTheme/matra/o.png",
-                "location":"assets"
-             }
-          },
-          {
-             "url":"assets/images/letters/hindi/pinkTheme/akshar/k.png",
-             "location":"assets",
-             "hasmatra":true,
-             "matravalue":"i",
-             "matra":{
-                "url":"assets/images/letters/hindi/pinkTheme/matra/i.png",
-                "location":"assets"
-             }
-          },
-          {
-             "url":"assets/images/letters/hindi/pinkTheme/akshar/tta.png",
-             "location":"assets",
-             "hasmatra":false,
-             "matravalue":"",
-             "matra":{
-                "url":"",
-                "location":"assets"
-             }
-          }
+            "image":{
+              "url":"",
+              "location":""
+            },
+            "background":{
+              "url":"quesBase.png",
+              "location":"content"
+            }             
+         },
+         {
+            "image":{
+              "url":"",
+              "location":""
+            },
+            "background":{
+              "url":"quesBase.png",
+              "location":"content"
+            }             
+         },
+         {
+            "image":{
+              "url":"",
+              "location":""
+            },
+            "background":{
+              "url":"quesBase.png",
+              "location":"content"
+            }             
+         },
+         {
+            "image":{
+              "url":"",
+              "location":""
+            },
+            "background":{
+              "url":"quesBase.png",
+              "location":"content"
+            }             
+         },
+         {
+            "image":{
+              "url":"",
+              "location":""
+            },
+            "background":{
+              "url":"quesBase.png",
+              "location":"content"
+            }             
+         }
        ]
     },
     "feedback":{
@@ -404,8 +524,8 @@
           }
        },
        "right_ans_clap_sound":{
-          "url":"clap.ogg",
-          "location":"content"
+          "url":"assets/images/EVAGlobal/clap.ogg",
+          "location":"assets"
        },
        "wrong_ans_sound":{
           "enabled":true,
