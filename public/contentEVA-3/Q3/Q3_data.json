@@ -64,6 +64,10 @@
 		  "location": "assets"
 		},
 		"ques_control": {
+		 "aagey_badhein_disabled": {
+                "url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
+                "location": "assets"
+            },
 		  "footer": {
 			"url": "assets/images/EVAGlobal/footerBg.svg",
 			"location": "assets"
