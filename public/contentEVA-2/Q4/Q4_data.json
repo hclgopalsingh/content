@@ -162,14 +162,7 @@
                 "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
                 "location": "assets"
             },
-            "rightTick_img": {
-                "url": "assets/images/EVAGlobal/right.svg",
-                "location": "assets"
-            },
-            "wrongTick_img": {
-                "url": "assets/images/EVAGlobal/wrong.svg",
-                "location": "assets"
-            },
+
             "quesTabs": [
                 {
                     "ques_tab": {
@@ -266,26 +259,7 @@
                 }
             ]
         },
-        "animation": {
-            "img": {
-                "url": "happyFixedAnimation.webp"
-            },
-            "audio": {
-                "url": "clap.ogg"
-            },
-            "location": "content",
-            "timeout": 5000
-        },
-        "wrongAnimationAssts": {
-            "img": {
-                "url": "sadFixedAnimation.gif"
-            },
-            "audio": {
-                "url": "shake.ogg"
-            },
-            "location": "content",
-            "timeout": 5000
-        },
+
         "isFirstQues": false
     },
     "ques": {
@@ -460,65 +434,7 @@
 		}
 	]
 	},
-    "answers": [
-        {
-            "id": "004",
-            "custom_id": "4",
-            "text": "",
-            "ansImg": {
-                "url": "q2word1.svg",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        {
-            "id": "002",
-            "custom_id": "2",
-            "text": "",
-            "ansImg": {
-                "url": "q2word2.svg",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        {
-            "id": "005",
-            "custom_id": "5",
-            "text": "",
-            "ansImg": {
-                "url": "q2word3.svg",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        {
-            "id": "003",
-            "custom_id": "3",
-            "text": "",
-            "ansImg": {
-                "url": "q2word4.svg",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        {
-            "id": "001",
-            "custom_id": "1",
-            "text": "",
-            "ansImg": {
-                "url": "q2word5.svg",
-                "location": "content"
-            },
-            "sound": ""
-        }
-    ],
     "quesObj": {
-        "quesVideo": {
-            "urlOgv": "video.ogg",
-            "urlMP4": "video.mp4",
-            "location": "content",
-            "autoPlay": false
-        },
         "quesInstruction": {
             "url": "Instruction.ogg",
             "location": "content",
@@ -617,8 +533,8 @@
             }
         },
         "right_ans_clap_sound": {        
-            "url": "clap.ogg",
-            "location": "content"
+            "url": "assets/images/EVAGlobal/clap.ogg",
+            "location": "assets"
         },
         "wrong_ans_sound": {
             "enabled": true,
