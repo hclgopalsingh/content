@@ -421,7 +421,7 @@
         "quesInstruction": {
             "url": "Instruction.ogg",
             "location": "content",
-            "autoPlay": false
+            "autoPlay": true
         },
         "`quesImg": {
             "url": "",
