@@ -665,7 +665,7 @@
             "urlOgv": "video.ogg",
             "urlMP4": "video.mp4",
             "location": "content",
-            "autoPlay": false
+            "autoPlay": true
         },
         "quesPlayPause": {
             "url": "pause.svg",
@@ -694,7 +694,7 @@
         "quesInstruction": {
             "url": "narrator.ogg",
             "location": "content",
-            "autoPlay": false
+            "autoPlay": true
         }
     },
 	"feedback": {
