@@ -89,7 +89,7 @@
         "aagey_badhein_blink": {
             "url": "assets/images/EVAGlobal/nextBtnBlink.svg",
             "location": "assets"
-        },
+        },		
         "background": {
             "url": "assets/images/EVAGlobal/bg.jpg",
             "location": "assets"
@@ -108,6 +108,10 @@
                 "url": "assets/images/EVAGlobal/nextBtn.svg",
                 "location": "assets"
             },
+			"aagey_badhein_disabled": {
+				"url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
+				"location": "assets"
+			},
             "aagey_badhein_original": {
                 "url": "assets/images/EVAGlobal/nextBtn.svg",
                 "location": "assets"
@@ -381,8 +385,8 @@
             }
         },
         "right_ans_clap_sound": {        
-                "url": "clap.ogg",
-                "location": "content"
+                "url": "assets/images/EVAGlobal/clap.ogg",
+                "location": "assets"
         },
         "wrong_ans_sound": {
             "enabled": true,
