@@ -1,6 +1,7 @@
 {
 	"autoplay": true,
 	"contents": [
+		"title",
 		"Q1_equation",
 		"Q2_equation",
 		"Q3_equation",
