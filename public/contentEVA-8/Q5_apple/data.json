@@ -34,7 +34,7 @@
       "location": "assets"
     },
     "sound": {
-      "url": "Instruction.ogg",
+      "url": "media/Instruction.ogg",
       "location": "content"
     }
   },
@@ -48,7 +48,7 @@
       "location": "assets"
     },
     "instruction": {
-      "url": "Instruction.ogg",
+      "url": "media/Instruction.ogg",
       "location": "content"
     },
     "instruction_img": {
@@ -258,7 +258,7 @@
         "url": "happyFixedAnimation.webp"
       },
       "audio": {
-        "url": "clap.ogg"
+        "url": "media/clap.ogg"
       },
       "location": "content",
       "timeout": 5000
@@ -268,7 +268,7 @@
         "url": "sadFixedAnimation.gif"
       },
       "audio": {
-        "url": "shake.ogg"
+        "url": "media/shake.ogg"
       },
       "location": "content",
       "timeout": 5000
@@ -396,13 +396,13 @@
   ],
   "quesObj": {
     "quesVideo": {
-      "urlOgv": "video.ogg",
-      "urlMP4": "video.mp4",
+      "urlOgv": "media/video.ogg",
+      "urlMP4": "media/video.mp4",
       "location": "content",
       "autoPlay": false
     },
     "quesInstruction": {
-      "url": "Instruction.ogg",
+      "url": "media/Instruction.ogg",
       "location": "content",
       "autoPlay": true
     },
@@ -487,25 +487,25 @@
     "right_ans_sound": {
       "enabled": true,
       "path": {
-        "url": "rightFeedback.ogg",
+        "url": "media/rightFeedback.ogg",
         "location": "content"
       }
     },
     "right_ans_clap_sound": {
-      "url": "clap.ogg",
+      "url": "media/clap.ogg",
       "location": "content"
     },
     "wrong_ans_sound": {
       "enabled": true,
       "path": {
-        "url": "wrongFeedback.ogg",
+        "url": "media/wrongFeedback.ogg",
         "location": "content"
       }
     },
     "show_ans_sound": {
       "enabled": true,
       "path": {
-        "url": "showanswerFeedback.ogg",
+        "url": "media/showanswerFeedback.ogg",
         "location": "content"
       }
     }
