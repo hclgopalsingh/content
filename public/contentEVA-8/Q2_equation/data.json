@@ -1,6 +1,6 @@
 {
   "id": "Q001",
-  "imgCount": "12",
+  "imgCount": "10",
   "variation": "EVA8V0",
   "instructiontext": "म से शुरू होने वाला चित्र  पहचानें।",
   "speaker": {
@@ -122,7 +122,7 @@
         "location": "assets"
       },
       "peechey_jayein": {
-        "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+        "url": "assets/images/EVAGlobal/prevBtn.svg",
         "location": "assets"
       },
       "peechey_jayein_original": {
@@ -166,15 +166,15 @@
           "ques_tab": {
             "id": "001",
             "tabcircle": {
-              "url": "assets/images/EVAGlobal/quesBulletActive.png",
+              "url": "assets/images/EVAGlobal/quesBulletVisited.png",
               "location": "assets"
             },
             "tabcircleActive": {
-              "url": "assets/images/EVAGlobal/quesBullet.png",
+              "url": "assets/images/EVAGlobal/quesBulletActive.png",
               "location": "assets"
             },
             "tabcircleVisited": {
-              "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+              "url": "assets/images/EVAGlobal/quesBullet.png",
               "location": "assets"
             },
             "tabIdx": {
@@ -187,11 +187,11 @@
           "ques_tab": {
             "id": "002",
             "tabcircle": {
-              "url": "assets/images/EVAGlobal/quesBullet.png",
+              "url": "assets/images/EVAGlobal/quesBulletActive.png",
               "location": "assets"
             },
             "tabcircleActive": {
-              "url": "assets/images/EVAGlobal/quesBulletActive.png",
+              "url": "assets/images/EVAGlobal/quesBullet.png",
               "location": "assets"
             },
             "tabcircleVisited": {
@@ -273,7 +273,7 @@
       "location": "content",
       "timeout": 5000
     },
-    "isFirstQues": true
+    "isFirstQues": false
   },
   "ques": {
     "mainscreen": {
@@ -316,38 +316,7 @@
     }
   },
   "options": [
-    {
-      "id": "001",
-      "text": "",
-      "image": {
-        "url": "assets/images/EVAGlobal/template_08/optBase1.svg",
-        "location": "assets"
-      },
-      "img_src": {
-        "url": "options/opt1.png",
-        "location": "content"
-      },
-      "img_original": {
-        "url": "assets/images/EVAGlobal/template_08/optBase1.svg",
-        "location": "assets"
-      },
-      "img_hover": {
-        "url": "assets/images/EVAGlobal/template_08/optBase1Hover.svg",
-        "location": "assets"
-      },
-      "img_ques_block": {
-        "url": "options/opt1QuesBlock.png",
-        "location": "content"
-      },
-      "img_ques_block_blink": {
-        "url": "options/opt1QuesBlockBlink.png",
-        "location": "content"
-      },
-      "audio": {
-        "url": "audioOption1.ogg",
-        "location": "content"
-      }
-    },
+    
     {
       "id": "002",
       "text": "",
