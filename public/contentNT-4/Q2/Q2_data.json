@@ -969,6 +969,130 @@
 			"location": "content"
 		}
 	},
+	"showans_2": {
+		"style_header": {
+			"border": "solid .4vmin #85d222",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#248446"
+		},
+		"style_body": {
+			"border": "solid .4vmin #85d222",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"background": "#afdec0"
+		},
+		"headerTxt_img": {
+			"url": "category2.png",
+			"location": "content"
+		},
+		"close_btn": {
+			"url": "closeBtnCategory.png",
+			"location": "content"
+		},
+		"close_btn_hover": {
+			"url": "closeBtnCategoryHover.png",
+			"location": "content"
+		},
+		"close_btn_original": {
+			"url": "closeBtnCategory.png",
+			"location": "content"
+		},
+		"rightAttempt_placeholder": {
+			"url": "category2_right_placeholder.png",
+			"location": "content"
+		},
+		"wrongAttempt_placeHolder": {
+			"url": "category2_wrong_placeholder.png",
+			"location": "content"
+		},
+		"feedback_back_btn": {
+			"url": "feedback_back_btn.png",
+			"location": "content"
+		},
+		"feedback_back_btn_hover": {
+			"url": "feedback_back_btn_hover.png",
+			"location": "content"
+		},
+		"feedback_back_btn_original": {
+			"url": "feedback_back_btn.png",
+			"location": "content"
+		},
+		"feedback_next_btn": {
+			"url": "feedback_next_btn.png",
+			"location": "content"
+		},
+		"feedback_next_btn_hover": {
+			"url": "feedback_next_btn_hover.png",
+			"location": "content"
+		},
+		"feedback_next_btn_original": {
+			"url": "feedback_next_btn.png",
+			"location": "content"
+		}
+	},
+	"showans_1": {
+		"style_header": {
+			"border": "solid .4vmin #85d222",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#248446"
+		},
+		"style_body": {
+			"border": "solid .4vmin #85d222",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"background": "#afdec0"
+		},
+		"headerTxt_img": {
+			"url": "category1.png",
+			"location": "content"
+		},
+		"close_btn": {
+			"url": "closeBtnCategory.png",
+			"location": "content"
+		},
+		"close_btn_hover": {
+			"url": "closeBtnCategoryHover.png",
+			"location": "content"
+		},
+		"close_btn_original": {
+			"url": "closeBtnCategory.png",
+			"location": "content"
+		},
+		"rightAttempt_placeholder": {
+			"url": "category1_right_placeholder.png",
+			"location": "content"
+		},
+		"wrongAttempt_placeHolder": {
+			"url": "category1_wrong_placeholder.png",
+			"location": "content"
+		},
+		"feedback_back_btn": {
+			"url": "feedback_back_btn.png",
+			"location": "content"
+		},
+		"feedback_back_btn_hover": {
+			"url": "feedback_back_btn_hover.png",
+			"location": "content"
+		},
+		"feedback_back_btn_original": {
+			"url": "feedback_back_btn.png",
+			"location": "content"
+		},
+		"feedback_next_btn": {
+			"url": "feedback_next_btn.png",
+			"location": "content"
+		},
+		"feedback_next_btn_hover": {
+			"url": "feedback_next_btn_hover.png",
+			"location": "content"
+		},
+		"feedback_next_btn_original": {
+			"url": "feedback_next_btn.png",
+			"location": "content"
+		}
+	},
 
 	"feedback": {
 
