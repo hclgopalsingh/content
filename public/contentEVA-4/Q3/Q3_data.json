@@ -285,76 +285,201 @@
         "isFirstQues": false
     },
     
-    "options": {
-        "opts": [{
-            "id": "001",
-            "url": "assets/images/letters/hindi/pinkTheme/matra/u.png",
-            "location": "assets",
-            "audio": {
-                "url": "",
-                "location": "content"
-            },
-            "isMatra":true
-        }, {
-            "id": "002",
-            "url": "assets/images/letters/hindi/pinkTheme/matra/aa.png",
-            "location": "assets",
-            "audio": {
-                "url": "",
-                "location": "content"
-            },
-            "isMatra":true,
-            "isCorrect": true
-        }, {
-            "id": "003",
-            "url": "assets/images/letters/hindi/pinkTheme/matra/oo.png",
-            "location": "assets",
-            "audio": {
-                "url": "",
-                "location": "content"
-            },
-            "isMatra":true
-        }]
-    },   
-    "quesObj": {
-        "quesInstruction": {
-            "url": "Instruction.ogg",
-            "location": "content",
-            "autoPlay": true
+    "options":{
+        "opts":[
+           {
+              "id":"001",
+              "image":{
+                "url":"optionOrder1.png",
+                "location":"content"
+              },
+              "background":{
+                "url":"optionBase.png",
+                "location":"content"
+              },
+              "audio":{
+                 "url":"",
+                 "location":"content"
+              },
+              "correct_order":"1",
+              "isShow":true
+           },
+           {
+             "id":"002",
+             "image":{
+               "url":"optionOrder2.png",
+               "location":"content"
+             },
+             "background":{
+               "url":"optionBase.png",
+               "location":"content"
+             },
+             "audio":{
+                "url":"la.ogg",
+                "location":"content"
+             },
+             "correct_order":"2",
+             "isShow":true
+          },
+          {
+             "id":"003",
+             "image":{
+               "url":"optionOrder3.png",
+               "location":"content"
+             },
+             "background":{
+               "url":"optionBase.png",
+               "location":"content"
+             },
+             "audio":{
+                "url":"ga.ogg",
+                "location":"content"
+             },
+             "correct_order":"3",
+             "isShow":true
+          },
+          {
+             "id":"004",
+             "image":{
+               "url":"optionOrder4.png",
+               "location":"content"
+             },
+             "background":{
+               "url":"optionBase.png",
+               "location":"content"
+             },
+             "audio":{
+                "url":"",
+                "location":"content"
+             },
+             "correct_order":"4",
+             "isShow":true
+          },
+          {
+             "id":"005",
+             "image":{
+               "url":"optionOrder5.png",
+               "location":"content"
+             },
+             "background":{
+               "url":"optionBase.png",
+               "location":"content"
+             },
+             "audio":{
+                "url":"",
+                "location":"content"
+             },
+             "correct_order":"5",
+             "isShow":true
+          },
+          {
+             "id":"006",
+             "image":{
+               "url":"optionOrder6.png",
+               "location":"content"
+             },
+             "background":{
+               "url":"optionBase.png",
+               "location":"content"
+             },
+             "audio":{
+                "url":"",
+                "location":"content"
+             },
+             "correct_order":"6",
+             "isShow":true
+          }
+        ]
+     },
+     "quesObj":{
+        "questype":"other",
+        "quesInstruction":{
+           "url":"Instruction.ogg",
+           "location":"content",
+           "autoPlay":true
         },
-        "questionText": [{
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/aaa.png",
-            "location": "assets",            
-            "hasmatra":false,
-            "matravalue":"",
-            "matra":{
-                "url": "",
-                "location": "assets"
-            } 
-        }, {
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/pa.png",
-            "location": "assets",
-            "hasmatra":false,
-            "matravalue":"",
-            "matra":{
-                "url": "",
-                "location": "assets"
-            }
-        }, {
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/na.png",
-            "location": "assets",
-            "addMatra":true,
-            "hasmatra":false,
-            "matravalue":"",
-            "matra":{
-                "url": "",
-                "location": "assets"
-            }
-        }]
-    },
+        "background":{
+          "url":"refQuesBase.png",
+          "location":"content"
+        },
+        "quesImage":{
+          "background":{
+             "url":"queryBase.png",
+             "location":"content"
+           },
+           "image":{
+             "url":"refImage.png",
+             "location":"content"
+           },
+          "stepImage":[]
+        },
+ 
+        "questionText":[
+           {
+              "image":{
+                "url":"",
+                "location":""
+              },
+              "background":{
+                "url":"quesBase.png",
+                "location":"content"
+              }             
+           },
+           {
+             "image":{
+               "url":"",
+               "location":""
+             },
+             "background":{
+               "url":"quesBase.png",
+               "location":"content"
+             }             
+          },
+          {
+             "image":{
+               "url":"",
+               "location":""
+             },
+             "background":{
+               "url":"quesBase.png",
+               "location":"content"
+             }             
+          },
+          {
+             "image":{
+               "url":"",
+               "location":""
+             },
+             "background":{
+               "url":"quesBase.png",
+               "location":"content"
+             }             
+          },
+          {
+             "image":{
+               "url":"",
+               "location":""
+             },
+             "background":{
+               "url":"quesBase.png",
+               "location":"content"
+             }             
+          },
+          {
+             "image":{
+               "url":"",
+               "location":""
+             },
+             "background":{
+               "url":"quesBase.png",
+               "location":"content"
+             }             
+          }
+        ]
+     },
 
     "feedback": {
-        "correct_ans_index": "003",
+        "correct_ans_index": "",
         "popupassets":{
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",
@@ -382,22 +507,42 @@
             }
 
         },
+        "show_ans_popup": {
+            "enabled": false,
+            "text": "",
+            "correct_order":{
+                "url":"correctOrder.png",
+                "location":"content"
+             },
+            "rightImage":{
+               "background":{
+                  "url":"queryBase.png",
+                  "location":"content"
+                },
+                "image":{
+                  "url":"refImage.png",
+                  "location":"content"
+                },
+               "stepImage":[]
+             },
+            "sound": ""
+          },
          
         "right_ans_sound": {
             "enabled": true,
             "path": {
-                "url": "rightFeedback.ogg",
+                "url": "correctans.ogg",
                 "location": "content"
             }
         },
         "right_ans_clap_sound": {        
-                "url": "clap.ogg",
-                "location": "content"
+                "url": "assets/images/EVAGlobal/clap.ogg",
+                "location": "assets"
         },
         "wrong_ans_sound": {
             "enabled": true,
             "path": {
-                "url": "wrongFeedback.ogg",
+                "url": "wrongans.ogg",
                 "location": "content"
             }
         },
@@ -407,7 +552,14 @@
                 "url": "showanswerFeedback.ogg",
                 "location": "content"
             }
-        }
+        },
+        "right_ansPop_sound":{
+            "enabled":true,
+            "path":{
+               "url":"rightFeedback.ogg",
+               "location":"content"
+            }
+         }
 
     }
 }

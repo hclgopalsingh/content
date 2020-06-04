@@ -356,7 +356,7 @@
 		"quesInstruction": {
 			"url": "ques_vo.ogg",
 			"location": "content",
-			"autoPlay": false
+			"autoPlay": true
 		},
 		"`quesImg": {
 			"url": "",

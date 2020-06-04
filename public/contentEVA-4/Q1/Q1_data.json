@@ -107,7 +107,7 @@
           "aagey_badhein_disabled": {
 				"url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
 				"location": "assets"
-			},
+			 },
           "aagey_badhein":{
              "url":"assets/images/EVAGlobal/nextBtn.svg",
              "location":"assets"
@@ -264,7 +264,7 @@
              }
           ]
        },
-       "isFirstQues":true
+       "isFirstQues": true
     },
     "options":{
        "opts":[
@@ -282,7 +282,8 @@
                 "url":"",
                 "location":"content"
              },
-             "correct_order":"1"
+             "correct_order":"1",
+             "isShow":true
           },
           {
             "id":"002",
@@ -298,7 +299,8 @@
                "url":"",
                "location":"content"
             },
-            "correct_order":"2"
+            "correct_order":"2",
+            "isShow":true
          },
          {
             "id":"003",
@@ -314,7 +316,8 @@
                "url":"",
                "location":"content"
             },
-            "correct_order":"3"
+            "correct_order":"3",
+            "isShow":true
          },
          {
             "id":"004",
@@ -330,7 +333,8 @@
                "url":"",
                "location":"content"
             },
-            "correct_order":"4"
+            "correct_order":"4",
+            "isShow":true
          },
          {
             "id":"005",
@@ -346,7 +350,8 @@
                "url":"",
                "location":"content"
             },
-            "correct_order":"5"
+            "correct_order":"5",
+            "isShow":true
          },
          {
             "id":"006",
@@ -362,7 +367,8 @@
                "url":"",
                "location":"content"
             },
-            "correct_order":"6"
+            "correct_order":"6",
+            "isShow":true
          }
        ]
     },
@@ -390,37 +396,51 @@
             {  
                "step":"1",
                "url":"traveller.png",
-               "location":"content"
+               "location":"content",
+               "stepOn":true,
+               "currentStep":true
             },
             {  
                "step":"2",
                "url":"markPending.png",
-               "location":"content"
+               "location":"content",
+               "stepOn":true,
+               "currentStep":false
             },
             {  
                "step":"3",
                "url":"markPending.png",
-               "location":"content"
+               "location":"content",
+               "stepOn":true,
+               "currentStep":false
             },
             {  
                "step":"4",
                "url":"markPending.png",
-               "location":"content"
+               "location":"content",
+               "stepOn":true,
+               "currentStep":false
             },
             {  
                "step":"5",
                "url":"markPending.png",
-               "location":"content"
+               "location":"content",
+               "stepOn":true,
+               "currentStep":false
             },
             {  
                "step":"6",
                "url":"markPending.png",
-               "location":"content"
+               "location":"content",
+               "stepOn":true,
+               "currentStep":false
             },
             {  
                "step":"7",
                "url":"markPending.png",
-               "location":"content"
+               "location":"content",
+               "stepOn":true,
+               "currentStep":false
             }
          ]
        },
@@ -489,7 +509,7 @@
        ]
     },
     "feedback":{
-       "correct_ans_index":"003",
+       "correct_ans_index":"",
        "popupassets":{
           "pop_up_base":{
              "url":"assets/images/EVAGlobal/popupBase.svg",
@@ -516,10 +536,59 @@
              "location":"assets"
           }
        },
+       "show_ans_popup": {
+         "enabled": false,
+         "text": "",
+         "correct_order":{
+            "url":"correctOrder.png",
+            "location":"content"
+         },
+         "rightImage":{
+            "background":{
+               "url":"queryBase.png",
+               "location":"content"
+             },
+             "image":{
+               "url":"refImage.png",
+               "location":"content"
+             },
+            "stepImage":[
+               {  
+                  "url":"markCrossed.png",
+                  "location":"content"
+               },
+               {  
+                  "url":"markCrossed.png",
+                  "location":"content"
+               },
+               {  
+                  "url":"markCrossed.png",
+                  "location":"content"
+               },
+               {  
+                  "url":"markCrossed.png",
+                  "location":"content"
+               },
+               {  
+                  "url":"markCrossed.png",
+                  "location":"content"
+               },
+               {  
+                  "url":"markCrossed.png",
+                  "location":"content"
+               },
+               {  
+                  "url":"traveller.png",
+                  "location":"content"
+               }
+            ]
+          },
+         "sound": ""
+       },
        "right_ans_sound":{
           "enabled":true,
           "path":{
-             "url":"rightFeedback.ogg",
+             "url":"correctans.ogg",
              "location":"content"
           }
        },
@@ -530,7 +599,7 @@
        "wrong_ans_sound":{
           "enabled":true,
           "path":{
-             "url":"wrongFeedback.ogg",
+             "url":"wrongans.ogg",
              "location":"content"
           }
        },
@@ -540,6 +609,13 @@
              "url":"showanswerFeedback.ogg",
              "location":"content"
           }
-       }
+       },
+       "right_ansPop_sound":{
+         "enabled":true,
+         "path":{
+            "url":"rightFeedback.ogg",
+            "location":"content"
+         }
+      }
     }
  }

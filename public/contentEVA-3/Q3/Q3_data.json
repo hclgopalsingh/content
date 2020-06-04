@@ -64,6 +64,7 @@
 		  "location": "assets"
 		},
 		"ques_control": {
+		 "isLastQues" : true,
 		 "aagey_badhein_disabled": {
                 "url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
                 "location": "assets"
