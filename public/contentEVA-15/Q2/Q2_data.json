@@ -1,6 +1,6 @@
 {
     "id": "Q002",
-    "imgCount": "5",
+    "imgCount": "6",
     "instructiontext": "म से शुरू होने वाला चित्र  पहचानें।",
     "speaker": {
         "enabled": "",
@@ -316,7 +316,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "",
+                "url": "audioOption1.ogg",
                 "location": "content"
             }
         },
@@ -340,7 +340,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "",
+                "url": "audioOption2.ogg",
                 "location": "content"
             }
         },
@@ -364,7 +364,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "",
+                "url": "audioOption3.ogg",
                 "location": "content"
             }
         }
