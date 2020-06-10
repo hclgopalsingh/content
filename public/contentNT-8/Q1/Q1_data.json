@@ -784,6 +784,18 @@
 		"pass_btn_red": {
 			"url": "pass_btn_red.png",
 			"location": "content"
+		},
+		"video_stop":{
+			"url": "video_stop2.png",
+			"location": "content"
+		},
+		"video_stop_original":{
+			"url": "video_stop2.png",
+			"location": "content"
+		},
+		"video_stop_hover":{
+			"url": "video_stop1.png",
+			"location": "content"
 		}
 	},
 
