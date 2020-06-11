@@ -4,6 +4,26 @@
 			"url": "instruction_bar.png",
 			"location": "content"
 		},
+"animation": {
+            "img": {
+                "url": "happyFixedAnimation.webp"
+            },
+            "audio": {
+                "url": "clap.ogg"
+            },
+            "location": "content",
+            "timeout": 5000
+        },
+        "wrongAnimationAssts": {
+            "img": {
+                "url": "sadFixedAnimation.gif"
+            },
+            "audio": {
+                "url": "shake.ogg"
+            },
+            "location": "content",
+            "timeout": 5000
+        },
 		"instruction_vo": {
 			"url": "ques_vo.ogg",
 			"location": "content"
