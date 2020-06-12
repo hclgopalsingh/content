@@ -48,6 +48,10 @@
             "url": "instruction.ogg",
             "location": "content"
         },
+	"record_answer": {
+            "url": "record_your_answer.ogg",
+            "location": "content"
+        },
         "instruction_img": {
             "url": "instructionText.svg",
             "location": "content"

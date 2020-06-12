@@ -8,6 +8,26 @@
 			"url": "ques_vo.ogg",
 			"location": "content"
 		},
+"animation": {
+            "img": {
+                "url": "happyFixedAnimation.webp"
+            },
+            "audio": {
+                "url": "clap.ogg"
+            },
+            "location": "content",
+            "timeout": 5000
+        },
+        "wrongAnimationAssts": {
+            "img": {
+                "url": "sadFixedAnimation.gif"
+            },
+            "audio": {
+                "url": "shake.ogg"
+            },
+            "location": "content",
+            "timeout": 5000
+        },
 		"background": {
 			"url": "bg_1.svg",
 			"location": "content"

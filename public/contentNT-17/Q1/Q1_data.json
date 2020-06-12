@@ -31,7 +31,7 @@
 			},
 			"audio":{
 				"imageUrl":"quesImg.png",
-				"url":"ques_vo.ogg",
+				"url":"speaker.ogg",
 				"location": "content",
 				"flag":true
 			},
