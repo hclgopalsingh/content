@@ -314,7 +314,11 @@
             "url": "Instruction.ogg",
             "location": "content",
             "autoPlay": true
-        },        
+        },
+		"background":{
+			"url":"questionBase.png",
+			"location":"content"
+		 },        
         "questionText": [{
             "url": "assets/images/letters/hindi/pinkTheme/akshar/ka.png",
             "location": "assets",
