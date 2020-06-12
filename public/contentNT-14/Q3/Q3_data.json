@@ -44,6 +44,10 @@
             "url": "instructionBar.png",
             "location": "content"
         },
+	"record_answer": {
+            "url": "record_your_answer.ogg",
+            "location": "content"
+        },
         "instruction": {
             "url": "narrator.ogg",
             "location": "content"
