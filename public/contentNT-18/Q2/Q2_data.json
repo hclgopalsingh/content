@@ -430,8 +430,8 @@
                 "location": "content"
             },
             "imgsrc_audio": {
-                "url": "",
-                "location": ""
+                "url": "option2.ogg",
+                "location": "content"
             },
             "dropBoxImg": {
                 "url": "dropboxNormal.png",
@@ -462,8 +462,8 @@
                 "location": "content"
             },
             "imgsrc_audio": {
-                "url": "",
-                "location": ""
+                "url": "option1.ogg",
+                "location": "content"
             },
             "dropBoxImg": {
                 "url": "dropboxNormal.png",
@@ -494,8 +494,8 @@
                 "location": "content"
             },
             "imgsrc_audio": {
-                "url": "",
-                "location": ""
+                "url": "option4.ogg",
+                "location": "content"
             },
             "dropBoxImg": {
                 "url": "dropboxNormal.png",
@@ -526,8 +526,8 @@
                 "location": "content"
             },
             "imgsrc_audio": {
-                "url": "",
-                "location": ""
+                "url": "option5.ogg",
+                "location": "content"
             },
             "dropBoxImg": {
                 "url": "dropboxNormal.png",
@@ -558,8 +558,8 @@
                 "location": "content"
             },
             "imgsrc_audio": {
-                "url": "",
-                "location": ""
+                "url": "option3.ogg",
+                "location": "content"
             },
             "dropBoxImg": {
                 "url": "dropboxNormal.png",
@@ -612,7 +612,7 @@
             "urlOgv": "SkipButtonHover.svg",
             "location": "content"
         },
-        "questype": "word",
+        "questype": "image",
         "quesInstruction": {
             "url": "narrator.ogg",
             "location": "content",
