@@ -1,6 +1,6 @@
 {
     "id": "Q002",
-    "imgCount": "17",
+    "imgCount": "14",
     "instructiontext": "सही मात्रा पहचाने।",
     "speaker": {
         "enabled": "",
@@ -325,7 +325,7 @@
         },
         {
             "id": "003",
-            "matravalue": "0",
+            "matravalue": "o",
             "optBg": {
                 "url": "option3.png",
                 "location": "content"
@@ -349,14 +349,14 @@
         },
         {
             "id": "004",
-            "matravalue": "aa",
+            "matravalue": "ang",
             "optBg": {
                 "url": "option4.png",
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/i.png",
-                "location": "assets"
+                "url": "ang.png",
+                "location": "content"
             },
             "optBg_hover": {
                 "url": "option4_hover.png",
@@ -392,7 +392,7 @@
         },
         "letters": [
             {
-                "url": "assets/images/letters/hindi/akshar/ma.png",
+                "url": "assets/images/letters/hindi/akshar/cha.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],
@@ -402,16 +402,30 @@
                     "location": "assets"
                 },
                 "iscorrect_ans": true,
+                "matra_selected": 0,
                 "correct_ans": {
-                    "url": "mo_ans.png",
-                    "location": "content"
+                    "url": "chaan_ans.png",
+                    "location": "content",
+                    "correct_ans_obj": 
+                        {
+                            "aa": {
+                                "url": "cha_ans.png",
+                                "location": "content"
+                            },
+                            "ang": {
+                                "url": "chan_ans.png",
+                                "location": "content"
+                            }
+                        }
+                    
                 },
                 "correct_index": [
-                    "003"
+                    "002",
+                    "004"
                 ]
             },
             {
-                "url": "assets/images/letters/hindi/akshar/ba.png",
+                "url": "assets/images/letters/hindi/akshar/da.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],
@@ -420,36 +434,7 @@
                     "url": "",
                     "location": "assets"
                 },
-                "iscorrect_ans": true,
-                "correct_ans": {
-                    "url": "ba_ans.png",
-                    "location": "content"
-                },
-                "correct_index": [
-                    "002"
-                ]
-            },
-            {
-                "url": "assets/images/letters/hindi/akshar/i.png",
-                "location": "assets",
-                "hasmatra": false,
-                "matraadded": [],
-                "matravalue": "",
-                "matra": {
-                    "url": "",
-                    "location": "assets"
-                }
-            },
-            {
-                "url": "assets/images/letters/hindi/akshar/la.png",
-                "location": "assets",
-                "hasmatra": false,
-                "matraadded": [],
-                "matravalue": "",
-                "matra": {
-                    "url": "",
-                    "location": "assets"
-                }
+                "iscorrect_ans": false
             }
         ]
     },
@@ -512,7 +497,6 @@
                 "url": "answerimage_blink.png",
                 "location": "content"
             },
-            
             "sound": ""
         },
         "right_ans_sound": {

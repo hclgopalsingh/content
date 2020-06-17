@@ -402,9 +402,14 @@
                     "location": "assets"
                 },
                 "iscorrect_ans": true,
+                "matra_selected": 0,
                 "correct_ans": {
-                    "url": "ak_ans.png",
-                    "location": "content"
+                    "correct_ans_obj": {
+                        "an": {
+                            "url": "ak_ans.png",
+                            "location": "content"
+                        }
+                    }
                 },
                 "correct_index": [
                     "004"
@@ -421,9 +426,14 @@
                     "location": "assets"
                 },
                 "iscorrect_ans": true,
+                "matra_selected": 0,
                 "correct_ans": {
-                    "url": "gu_ans.png",
-                    "location": "content"
+                    "correct_ans_obj": {
+                        "oo": {
+                            "url": "gu_ans.png",
+                            "location": "content"
+                        }
+                    }
                 },
                 "correct_index": [
                     "001"
@@ -440,9 +450,14 @@
                     "location": "assets"
                 },
                 "iscorrect_ans": true,
+                "matra_selected": 0,
                 "correct_ans": {
-                    "url": "thi_ans.png",
-                    "location": "content"
+                    "correct_ans_obj": {
+                        "ee": {
+                            "url": "thi_ans.png",
+                            "location": "content"
+                        }
+                    }
                 },
                 "correct_index": [
                     "002"
@@ -509,7 +524,6 @@
                 "url": "answerimage_blink.png",
                 "location": "content"
             },
-            
             "sound": ""
         },
         "right_ans_sound": {

@@ -409,9 +409,14 @@
                     "location": "assets"
                 },
                 "iscorrect_ans": true,
+                "matra_selected": 0,
                 "correct_ans": {
-                    "url": "sa_ans.png",
-                    "location": "content"
+                    "correct_ans_obj": {
+                        "aa": {
+                            "url": "sa_ans.png",
+                            "location": "content"
+                        }
+                    }
                 },
                 "correct_index": [
                     "002"
@@ -439,9 +444,14 @@
                     "location": "assets"
                 },
                 "iscorrect_ans": true,
+                "matra_selected": 0,
                 "correct_ans": {
-                    "url": "ki_ans.png",
-                    "location": "content"
+                    "correct_ans_obj": {
+                        "i": {
+                            "url": "ki_ans.png",
+                            "location": "content"
+                        }
+                    }
                 },
                 "correct_index": [
                     "001"
@@ -519,7 +529,6 @@
                 "url": "answerimage_blink.png",
                 "location": "content"
             },
-            
             "sound": ""
         },
         "right_ans_sound": {

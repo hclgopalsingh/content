@@ -385,9 +385,14 @@
                     "location": "assets"
                 },
                 "iscorrect_ans": true,
+                "matra_selected": 0,
                 "correct_ans": {
-                    "url": "bu_ans.png",
-                    "location": "content"
+                    "correct_ans_obj": {
+                        "oo": {
+                            "url": "bu_ans.png",
+                            "location": "content"
+                        }
+                    }
                 },
                 "correct_index": [
                     "002"
@@ -476,7 +481,6 @@
                 "url": "answerimage_blink.png",
                 "location": "content"
             },
-            
             "sound": ""
         },
         "right_ans_sound": {
