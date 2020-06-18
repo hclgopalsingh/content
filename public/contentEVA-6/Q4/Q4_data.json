@@ -1,5 +1,5 @@
 ﻿{
-	"id": "Q002",
+	"id": "Q004",
     "imgCount": "12",
     "instructiontext": "क लिखने का सही तरीका पहचानिए।",
 	"commonassets": {
@@ -187,11 +187,11 @@
 				"ques_tab": {
 					"id": "002",
 					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBulletActive.png",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "assets/images/EVAGlobal/quesBulletActive.png",
+						"url": "assets/images/EVAGlobal/quesBullet.png",
 						"location": "assets"
 					},
 					"tabcircleVisited": {
@@ -208,11 +208,11 @@
 				"ques_tab": {
 					"id": "003",
 					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBullet.png",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "assets/images/EVAGlobal/quesBulletActive.png",
+						"url": "assets/images/EVAGlobal/quesBullet.png",
 						"location": "assets"
 					},
 					"tabcircleVisited": {
@@ -229,7 +229,7 @@
 				"ques_tab": {
 					"id": "004",
 					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBullet.png",
+						"url": "assets/images/EVAGlobal/quesBulletActive.png",
 						"location": "assets"
 					},
 					"tabcircleActive": {

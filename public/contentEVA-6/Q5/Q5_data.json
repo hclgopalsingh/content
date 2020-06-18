@@ -1,5 +1,5 @@
 ﻿{
-	"id": "Q002",
+	"id": "Q003",
     "imgCount": "12",
     "instructiontext": "क लिखने का सही तरीका पहचानिए।",
 	"commonassets": {
@@ -64,6 +64,11 @@
 		  "location": "assets"
 		},
 		"ques_control": {
+			"isLastQues": true,
+		 "aagey_badhein_disabled": {
+                "url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
+                "location": "assets"
+            },
 		  "footer": {
 			"url": "assets/images/EVAGlobal/footerBg.svg",
 			"location": "assets"
@@ -187,11 +192,11 @@
 				"ques_tab": {
 					"id": "002",
 					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBulletActive.png",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "assets/images/EVAGlobal/quesBulletActive.png",
+						"url": "assets/images/EVAGlobal/quesBullet.png",
 						"location": "assets"
 					},
 					"tabcircleVisited": {
@@ -208,11 +213,32 @@
 				"ques_tab": {
 					"id": "003",
 					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBullet.png",
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
 						"location": "assets"
 					},
 					"tabcircleActive": {
-						"url": "assets/images/EVAGlobal/quesBulletActive.png",
+						"url": "assets/images/EVAGlobal/quesBullet.png",
+						"location": "assets"
+					},
+					"tabcircleVisited": {
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
+						"location": "assets"
+					},
+					"tabIdx": {
+						"url": "tab1Idx.svg",
+						"location": "content"
+					}
+				}
+			},
+			{
+				"ques_tab": {
+					"id": "003",
+					"tabcircle": {
+						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
+						"location": "assets"
+					},
+					"tabcircleActive": {
+						"url": "assets/images/EVAGlobal/quesBullet.png",
 						"location": "assets"
 					},
 					"tabcircleVisited": {
@@ -229,28 +255,7 @@
 				"ques_tab": {
 					"id": "004",
 					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBullet.png",
-						"location": "assets"
-					},
-					"tabcircleActive": {
 						"url": "assets/images/EVAGlobal/quesBulletActive.png",
-						"location": "assets"
-					},
-					"tabcircleVisited": {
-						"url": "assets/images/EVAGlobal/quesBulletVisited.png",
-						"location": "assets"
-					},
-					"tabIdx": {
-						"url": "tab1Idx.svg",
-						"location": "content"
-					}
-				}
-			},
-			{
-				"ques_tab": {
-					"id": "005",
-					"tabcircle": {
-						"url": "assets/images/EVAGlobal/quesBullet.png",
 						"location": "assets"
 					},
 					"tabcircleActive": {
@@ -296,8 +301,8 @@
 		"penpaperContent" : {
 			"url":"paperPenIcon.svg",
 			"location":"content"
-		},
-		"isFirstQues": false
+		}
+		
 	  },
 	"speaker": {
         "enabled": "",
@@ -390,7 +395,7 @@
 					"url": "option2.ogg",
 					"location": "content"
 				},
-				"category": "B"
+				"category": "A"
             },
             {
                 "id": 3,
@@ -418,7 +423,7 @@
 					"url": "option3.ogg",
 					"location": "content"
 				},
-				"category": "B"
+				"category": ""
             },
             {
                 "id": 4,
@@ -446,7 +451,7 @@
 					"url": "option4.ogg",
 					"location": "content"
 				},
-				"category": ""
+				"category": "B"
             },
             {
                 "id": 5,
@@ -474,7 +479,7 @@
 					"url": "option5.ogg",
 					"location": "content"
 				},
-				"category": "B"
+				"category": "A"
             },
             {
                 "id": 6,
@@ -502,7 +507,7 @@
 					"url": "option6.ogg",
 					"location": "content"
 				},
-				"category": "A"
+				"category": "B"
             },
             {
                 "id": 7,
@@ -530,7 +535,7 @@
 					"url": "option7.ogg",
 					"location": "content"
 				},
-				"category": "A"
+				"category": "B"
             }
             
         ],
@@ -555,7 +560,7 @@
 			"url": "targetBase1.png",
 			"location": "content"
 		},
-		"left_random_index": [1, 6, 7],
+		"left_random_index": [1, 2, 5],
 
 		"rightHolder": {
 			"url": "targetBase1.png",
@@ -577,7 +582,7 @@
 			"url": "targetBase1.png",
 			"location": "content"
 		},
-		"right_random_index": [2, 3, 5]
+		"right_random_index": [4, 6, 7]
 	},
 
 	"quesObj": {
@@ -671,13 +676,13 @@
 				},
 				{
                    "ansImage":{
-                   	"url": "option0006.png",
+                   	"url": "option0002.png",
                     "location": "content"
 					}
 				},
 				{
                     "ansImage":{
-                    	"url": "option0007.png",
+                    	"url": "option0005.png",
                     "location": "content"
 					}
 				}]
@@ -687,19 +692,19 @@
 				"location": "content",
 					"answer": [{
                    "ansImage":{
-                   	"url": "option0002.png",
+                   	"url": "option0004.png",
                     "location": "content"
 					}
 				},
 				{
                    "ansImage":{
-                   	"url": "option0003.png",
+                   	"url": "option0006.png",
                     "location": "content"
 					}
 				},
 				{
                     "ansImage":{
-                    	"url": "option0005.png",
+                    	"url": "option0007.png",
                     "location": "content"
 					}
 				}]
