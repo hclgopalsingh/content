@@ -1,7 +1,7 @@
 ﻿{
 	"id": "Q004",
     "imgCount": "12",
-    "instructiontext": "क लिखने का सही तरीका पहचानिए।",
+    "instructiontext": "म से शुरू होने वाला चित्र  पहचानें।",
 	"commonassets": {
 		"header_bar": {
 		  "url": "assets/images/EVAGlobal/headerBar.svg",
@@ -137,30 +137,6 @@
 			"url": "video_btn.png",
 			"location": "content"
 		  },
-		  "replay_btn_hover": {
-			"url": "video_stream_btn.png",
-			"location": "content"
-		  },
-		  "replay_btn_original": {
-			"url": "video_btn.png",
-			"location": "content"
-		  },
-		  "nav_base": {
-			"url": "navBase.svg",
-			"location": "content"
-		  },
-		  "ques_nav_base": {
-			"url": "quesNavBase.svg",
-			"location": "content"
-		  },
-		  "rightTick_img": {
-			"url": "right.svg",
-			"location": "content"
-		  },
-		  "wrongTick_img": {
-			"url": "wrong.svg",
-			"location": "content"
-		  },
 		  "quesTabs": [
 			{
 				"ques_tab": {
@@ -269,34 +245,7 @@
 			}
 		]
 		},
-		"animation": {
-		  "img": {
-			"url": "happyFixedAnimation.webp"
-		  },
-		  "audio": {
-			"url": "clap.ogg"
-		  },
-		  "location": "content",
-		  "timeout": 5000
-		},
-		"wrongAnimationAssts": {
-		  "img": {
-			"url": "sadFixedAnimation.gif"
-		  },
-		  "audio": {
-			"url": "shake.ogg"
-		  },
-		  "location": "content",
-		  "timeout": 5000
-		},
-		"animationBox" : {
-			"url":"Main Animation Box.svg",
-			"location":"content"
-		},
-		"penpaperContent" : {
-			"url":"paperPenIcon.svg",
-			"location":"content"
-		},
+		
 		"isFirstQues": false
 	  },
 	"speaker": {
@@ -353,11 +302,7 @@
 					"url": "normal option base.png",
                     "location": "content"
 				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation Ka_01.ogg",
-					"location": "content"
-				},
-				"audio": {
+				 "audio": {
 					"url": "option1.ogg",
 					"location": "content"
 				},
@@ -382,11 +327,7 @@
 					"url": "normal option base.png",
                     "location": "content"
 				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation Ka_01.ogg",
-					"location": "content"
-				},
-				"audio": {
+				 "audio": {
 					"url": "option2.ogg",
 					"location": "content"
 				},
@@ -410,11 +351,7 @@
 					"url": "normal option base.png",
                     "location": "content"
 				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation Ka_01.ogg",
-					"location": "content"
-				},
-				"audio": {
+				 "audio": {
 					"url": "option3.ogg",
 					"location": "content"
 				},
@@ -438,11 +375,7 @@
 					"url": "normal option base.png",
                     "location": "content"
 				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation Ka_01.ogg",
-					"location": "content"
-				},
-				"audio": {
+				 "audio": {
 					"url": "option4.ogg",
 					"location": "content"
 				},
@@ -466,11 +399,7 @@
 					"url": "normal option base.png",
                     "location": "content"
 				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation Ka_01.ogg",
-					"location": "content"
-				},
-				"audio": {
+				 "audio": {
 					"url": "option5.ogg",
 					"location": "content"
 				},
@@ -494,11 +423,7 @@
 					"url": "normal option base.png",
                     "location": "content"
 				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation Ka_01.ogg",
-					"location": "content"
-				},
-				"audio": {
+				 "audio": {
 					"url": "option6.ogg",
 					"location": "content"
 				},
@@ -522,11 +447,7 @@
 					"url": "normal option base.png",
                     "location": "content"
 				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation Ka_01.ogg",
-					"location": "content"
-				},
-				"audio": {
+				 "audio": {
 					"url": "option7.ogg",
 					"location": "content"
 				},
@@ -581,36 +502,7 @@
 	},
 
 	"quesObj": {
-		"quesVideo": {
-			"urlOgv": "video.ogg",
-			"urlMP4": "video.mp4",
-			"location": "content",
-			"autoPlay": true
-		},
-		"quesPlayPause": {
-			"url": "pause.svg",
-			"location": "content"
-		},
-		"quesPlay": {
-			"url": "play.svg",
-			"location": "content"
-		},
-		"quesPause": {
-			"url": "pause.svg",
-			"location": "content"
-		},
-		"quesSkip": {
-			"urlOgv": "SkipButton.svg",                
-			"location": "content"
-		},
-		"quesSkipOrigenal": {
-			"urlOgv": "SkipButton.svg",                
-			"location": "content"
-		},
-		"quesSkipHover": {                
-			"urlOgv": "SkipButtonHover.svg",
-			"location": "content"
-		},
+		 
 		"quesInstruction": {
 			"url": "Instruction.ogg",
 			"location": "content",
@@ -620,7 +512,7 @@
 	},
 
 	"feedback": {
-		"correct_answer": 2,
+	 
 		"popupassets":{
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",
@@ -641,24 +533,12 @@
             "right_icon": {
                 "url": "assets/images/EVAGlobal/rightAnsIcon.svg",
                 "location": "assets"
-            },
-            "wrong_icon": {
-                "url": "assets/images/EVAGlobal/wrongAnsIcon.svg",
-                "location": "assets"
-            },
-            "celebrations" : {
-				"url": "celebrations.svg",
-                "location": "content"
-			}
+            } 
 
         },
         "show_ans_popup": {
             "enabled": false,
             "text": "",
-            "videoAnimation": {
-                "url": "Main Animation Box_Without Shadow Animation Ka_02.ogg",
-                "location": "content"
-            },
             "sound": "",
             "leftHolder": {
 				"url": "targetBase1.png",
