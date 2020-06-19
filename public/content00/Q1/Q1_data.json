@@ -2,13 +2,32 @@
 	"version": "1.0",
 	"cuePoints": [
 		{
-			"time": "00:00:08",
-			"speaker_btn": false,
+			"time": "00:00:02",
+			"replaytime": 0.5,
+			"speaker_btn": true,
+			"replay_btn": true,
 			"sound": "",
 			"speaker_btn_rollover": false,
 			"mouse_over_sound": "",
 			"button": "nextbtn_graphic",
-			"style_class": ""
+			"style_class": "middle-middle",
+			"style_Replayclass": "bottom-right",
+			"style":{"margin-top":"0%", "margin-left": "0%"},
+			"style_replay":{"margin-top":"0%", "margin-left": "0%"}
+		},
+				{
+			"time": "00:00:03",
+			"replaytime": 1,
+			"speaker_btn": false,
+			"replay_btn": true,
+			"sound": "",
+			"speaker_btn_rollover": false,
+			"mouse_over_sound": "",
+			"button": "nextbtn_graphic",
+			"style_class": "",
+			"style_Replayclass": "top-right",
+			"style":{"margin-top":"0%", "margin-left": "0%"},
+			"style_replay":{"margin-top":"0%", "margin-left": "0%"}
 		}
 	],
 	"assets": {
@@ -44,6 +63,14 @@
 			"urlOgv": "video.ogg",
 			"urlMP4": "video.mp4",
 			"location": "content"
-          }
+          },
+		  "speaker":{
+			"url": "assets/images/Speaker.png",
+			"location": "assets" 
+		  },
+        "replay":{
+			"url": "assets/images/video_btn.png",
+			"location": "assets" 
+		  }
 	}
 }
