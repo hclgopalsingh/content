@@ -384,8 +384,8 @@
         },
         "letters": [
             {
-                "url": "assets/images/letters/hindi/akshar/aaa.png",
-                "location": "assets",
+                "url": "aa.png",
+                "location": "content",
                 "hasmatra": false,
                 "matraadded": [],
                 "matravalue": "",
