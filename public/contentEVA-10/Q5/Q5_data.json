@@ -1,7 +1,7 @@
 {
     "id": "Q005",
     "imgCount": "15",
-    "instructiontext": "सही मात्रा पहचाने।",
+    "instructiontext": "म से शुरू होने वाला चित्र पहचानें।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
