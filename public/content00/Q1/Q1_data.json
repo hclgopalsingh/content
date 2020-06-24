@@ -13,6 +13,7 @@
 			"style_class": "middle-middle",
 			"style_Replayclass": "bottom-right",
 			"style":{"margin-top":"0%", "margin-left": "0%"},
+			"style_zaariRakhaey":{"position":"absolute", "bottom":"10%", "right":"5%", "width":"16%"},
 			"style_replay":{"margin-top":"0%", "margin-left": "0%"}
 		},
 				{
@@ -27,6 +28,7 @@
 			"style_class": "",
 			"style_Replayclass": "top-right",
 			"style":{"margin-top":"0%", "margin-left": "0%"},
+			"style_zaariRakhaey":{"position":"absolute", "bottom":"10%", "right":"5%", "width":"16%"},
 			"style_replay":{"margin-top":"0%", "margin-left": "0%"}
 		}
 	],
