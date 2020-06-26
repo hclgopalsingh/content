@@ -537,50 +537,8 @@
             "enabled": false,
             "text": "",
             "sound": "",
-            "leftHolder": {
-				"url": "targetBase1.png",
-				"location": "content",
-				"answer": [{
-                   "ansImage":{
-                   	"url": "option0001.png",
-                    "location": "content"
-					}
-				},
-				{
-                   "ansImage":{
-                   	"url": "option0002.png",
-                    "location": "content"
-					}
-				},
-				{
-                    "ansImage":{
-                    	"url": "option0005.png",
-                    "location": "content"
-					}
-				}]
-			},
-			"rightHolder": {
-				"url": "targetBase1.png",
-				"location": "content",
-					"answer": [{
-                   "ansImage":{
-                   	"url": "option0004.png",
-                    "location": "content"
-					}
-				},
-				{
-                   "ansImage":{
-                   	"url": "option0006.png",
-                    "location": "content"
-					}
-				},
-				{
-                    "ansImage":{
-                    	"url": "option0007.png",
-                    "location": "content"
-					}
-				}]
-			}
+            "video":"video.ogg",
+            "location":"content"
         },
         "right_ans_sound": {
             "enabled": true,
