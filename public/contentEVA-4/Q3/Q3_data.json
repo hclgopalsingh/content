@@ -21,7 +21,7 @@
             "location": "assets"
         },
         "sound": {
-            "url": "speaker.ogg",
+            "url": "Instruction.ogg",
             "location": "content"
         },
         "wave1":{
@@ -305,7 +305,7 @@
                "location":"content"
              },
              "audio":{
-                "url":"",
+                "url":"Instruction.ogg",
                 "location":"content"
              },
              "correct_order":"4",
@@ -464,6 +464,12 @@
 
         },
         "show_ans_popup": {
+		 "video": {
+			"url":"video.mp4",
+			"location": "content"
+		 }
+	  },
+       "right_ans_popup": {
             "enabled": false,
             "text": "",
             "correct_order":{
