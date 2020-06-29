@@ -375,8 +375,10 @@
 
         },
         "show_ans_popup": {
-            "video": "video.mp4",
-            "location": "content"
+            "video": {
+				"url":"video.mp4",
+				"location": "content"
+			 }
          },
         "right_ans_sound": {
             "enabled": true,
@@ -393,13 +395,6 @@
             "enabled": true,
             "path": {
                 "url": "wrongFeedback.ogg",
-                "location": "content"
-            }
-        },
-        "show_ans_sound": {
-            "enabled": true,
-            "path": {
-                "url": "showanswerFeedback.ogg",
                 "location": "content"
             }
         }
