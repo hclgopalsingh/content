@@ -493,54 +493,11 @@
           }
        },
        "show_ans_popup": {
-         "enabled": false,
-         "text": "",
-         "correct_order":{
-            "url":"correctOrder.png",
-            "location":"content"
-         },
-         "rightImage":{
-            "background":{
-               "url":"queryBase.png",
-               "location":"content"
-             },
-             "image":{
-               "url":"refImage.png",
-               "location":"content"
-             },
-            "stepImage":[
-               {  
-                  "url":"markCrossed.png",
-                  "location":"content"
-               },
-               {  
-                  "url":"markCrossed.png",
-                  "location":"content"
-               },
-               {  
-                  "url":"markCrossed.png",
-                  "location":"content"
-               },
-               {  
-                  "url":"markCrossed.png",
-                  "location":"content"
-               },
-               {  
-                  "url":"markCrossed.png",
-                  "location":"content"
-               },
-               {  
-                  "url":"markCrossed.png",
-                  "location":"content"
-               },
-               {  
-                  "url":"traveller.png",
-                  "location":"content"
-               }
-            ]
-          },
-         "sound": ""
-       },
+         "video": {
+            "url":"video.mp4",
+            "location": "content"
+         }
+      },
        "right_ans_sound":{
           "enabled":true,
           "path":{
@@ -559,13 +516,7 @@
              "location":"content"
           }
        },
-       "show_ans_sound":{
-          "enabled":true,
-          "path":{
-             "url":"showanswerFeedback.ogg",
-             "location":"content"
-          }
-       },
+     
        "right_ansPop_sound":{
          "enabled":true,
          "path":{
