@@ -1,6 +1,6 @@
 {
    "id": "Q001",
-   "imgCount": "32",
+   "imgCount": "16",
    "instructiontext": "अक्षर मिलाओ कलम बनाओ ।",
    "speaker": {
      "enabled": "",
@@ -928,24 +928,20 @@
        }
      },
      "show_ans_popup": {
-       "enabled": false,
-       "text": "",
-       "correct_order": {
-         "url": "correctOrder.png",
-         "location": "content"
-       },
-       "rightImage": {
-         "background": {
-           "url": "queryBase.png",
-           "location": "content"
-         },
-         "image": {
-           "url": "refImage.png",
-           "location": "content"
-         }
-       },
-       "sound": ""
-     },
+      "enabled": false,
+      "text": "",
+      "image": {
+          "url": "optBase3.svg",
+          "location": "content"
+      },
+      "imgsrc": {
+          "url":"option3.svg",
+          "location":"content"
+      },
+      "sound": "",
+      "video":"video.mp4",
+      "location":"content"
+    },
      "right_ans_sound": {
        "enabled": true,
        "path": {
