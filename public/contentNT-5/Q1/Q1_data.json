@@ -1,4 +1,5 @@
 {
+    "theme_name":"theme1",
     "commonassets": {
         "instruction_bg": {
             "url": "instruction_bar.png",
@@ -462,7 +463,9 @@
 		"quesImgOriginal": {
 			"url": "",
 			"location": ""
-		}
+		},
+        "submitRequired":false,
+        "replayRequired":false
 	}],
 
 
