@@ -516,6 +516,13 @@
 
         },
         "show_ans_popup": {
+<<<<<<< HEAD
+			 "video": {
+				"url":"video.mp4",
+				"location": "content"
+			 }
+		  },
+=======
             "enabled": false,
             "text": "",
             "image": {
@@ -530,6 +537,7 @@
             "video": "video.mp4",
             "location": "content"
         },
+>>>>>>> ef4cdb205689d640cfeb0e733cb379050e3e0afa
         
  
         "right_ans_sound": {
@@ -556,14 +564,7 @@
                 "url": "rightFeedback.ogg",
                 "location": "content"
             }
-		},
-        "show_ans_sound": {
-            "enabled": true,
-            "path": {
-                "url": "showanswerFeedback.ogg",
-                "location": "content"
-            }
-        }
+		}
 
     }
 
