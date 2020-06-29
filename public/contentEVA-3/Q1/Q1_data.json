@@ -544,7 +544,9 @@
                 "url": "Main Animation Box_Without Shadow Animation Ka_02.ogg",
                 "location": "content"
             },
-            "sound": ""
+            "sound": "",
+            "video":"video.mp4",
+            "location":"content"
         },
         "right_ans_sound": {
             "enabled": true,
