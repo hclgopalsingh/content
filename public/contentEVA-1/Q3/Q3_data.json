@@ -386,7 +386,10 @@
             }
 
         },
-         
+        "show_ans_popup": {
+            "video": "video.mp4",
+            "location": "content"
+         },
         "right_ans_sound": {
             "enabled": true,
             "path": {

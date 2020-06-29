@@ -512,7 +512,9 @@
                 "url":"option3.svg",
                 "location":"content"
             },
-            "sound": ""
+            "sound": "",
+            "video": "video.mp4",
+            "location": "content"
         },
         
  

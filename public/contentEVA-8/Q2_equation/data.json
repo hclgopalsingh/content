@@ -502,7 +502,9 @@
         "url": "opt4.svg",
         "location": "content"
       },
-      "sound": ""
+      "sound": "",
+      "video": "media/video.mp4",
+      "location": "content"
     },
     "right_ans_sound": {
       "enabled": true,
