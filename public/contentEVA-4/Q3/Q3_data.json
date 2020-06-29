@@ -464,6 +464,12 @@
 
         },
         "show_ans_popup": {
+		 "video": {
+			"url":"video.mp4",
+			"location": "content"
+		 }
+	  },
+       "right_ans_popup": {
             "enabled": false,
             "text": "",
             "correct_order":{
