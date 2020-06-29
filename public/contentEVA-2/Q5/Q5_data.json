@@ -516,28 +516,11 @@
 
         },
         "show_ans_popup": {
-<<<<<<< HEAD
 			 "video": {
 				"url":"video.mp4",
 				"location": "content"
 			 }
 		  },
-=======
-            "enabled": false,
-            "text": "",
-            "image": {
-                "url": "optBase3.svg",
-                "location": "content"
-            },
-            "imgsrc": {
-                "url":"option3.svg",
-                "location":"content"
-            },
-            "sound": "",
-            "video": "video.mp4",
-            "location": "content"
-        },
->>>>>>> ef4cdb205689d640cfeb0e733cb379050e3e0afa
         
  
         "right_ans_sound": {
