@@ -493,7 +493,7 @@
     },
     "show_ans_popup": {
       "video": {
-         "url":"media/video.mp4",
+         "url":"media/video.ogv",
          "location": "content"
       }
    },

@@ -494,7 +494,7 @@
        },
 	   "show_ans_popup": {
 		 "video": {
-			"url":"video.mp4",
+			"url":"video.ogv",
 			"location": "content"
 		 }
 	  },

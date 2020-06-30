@@ -1,35 +1,36 @@
 {
 	"version": "1.0",
+	"templateType":"EVA",
 	"cuePoints": [
 		{
 			"time": "00:00:02",
 			"replaytime": 0.5,
 			"speaker_btn": true,
 			"replay_btn": true,
-			"sound": "",
+			"sound": "sound3",
 			"speaker_btn_rollover": false,
 			"mouse_over_sound": "",
 			"button": "nextbtn_graphic",
-			"style_class": "middle-middle",
-			"style_Replayclass": "bottom-right",
-			"style":{"margin-top":"0%", "margin-left": "0%"},
-			"style_zaariRakhaey":{"position":"absolute", "bottom":"10%", "right":"5%", "width":"16%"},
-			"style_replay":{"margin-top":"0%", "margin-left": "0%"}
+            "style_class": "middle-middle",
+            "style_Replayclass": "bottom-right",
+            "style":{"top":"87.3%", "left": "84.3%", "width": "3.7%"},
+            "style_zaariRakhaey":{"position":"absolute", "bottom":"6.5%", "right":"0.3%", "width":"11%"},
+            "style_replay":{"top":"87.3%", "left": "79.8%", "width": "3.7%"}
 		},
 				{
 			"time": "00:00:03",
 			"replaytime": 1,
 			"speaker_btn": false,
 			"replay_btn": true,
-			"sound": "",
+			"sound": "sound3",
 			"speaker_btn_rollover": false,
 			"mouse_over_sound": "",
 			"button": "nextbtn_graphic",
-			"style_class": "",
-			"style_Replayclass": "top-right",
-			"style":{"margin-top":"0%", "margin-left": "0%"},
-			"style_zaariRakhaey":{"position":"absolute", "bottom":"10%", "right":"5%", "width":"16%"},
-			"style_replay":{"margin-top":"0%", "margin-left": "0%"}
+            "style_class": "middle-middle",
+            "style_Replayclass": "bottom-right",
+            "style":{"top":"87.3%", "left": "84.3%", "width": "3.7%"},
+            "style_zaariRakhaey":{"position":"absolute", "bottom":"6.5%", "right":"0.3%", "width":"11%"},
+            "style_replay":{"top":"87.3%", "left": "79.8%", "width": "3.7%"}
 		}
 	],
 	"assets": {
@@ -46,15 +47,15 @@
 			"location": "assets"
 		},
 		"nextbtn_graphic": {
-			"url": "assets/images/zaariRakhein.svg",
+			"url": "assets/images/zaariRakheinn_EVA.svg",
 			"location": "assets"
 		},
 		"nextbtn_graphic_original": {
-			"url": "assets/images/zaariRakhein.svg",
+			"url": "assets/images/zaariRakheinn_EVA.svg",
 			"location": "assets"
 		},
 		"nextbtn_graphic_hover": {
-			"url": "assets/images/zaariRakhein_hover.svg",
+			"url": "assets/images/zaariRakhein_hover_EVA.svg",
 			"location": "assets"
 		},
 		"mute_graphic": {
@@ -67,11 +68,43 @@
 			"location": "content"
           },
 		  "speaker":{
-			"url": "assets/images/Speaker.png",
+			"url": "assets/images/Speaker_EVA.png",
 			"location": "assets" 
 		  },
-        "replay":{
-			"url": "assets/images/video_btn.png",
+		  "speaker_hover": {
+				"url": "assets/images/Speakerhover_EVA.png",
+				"location": "assets"
+		  },
+		  "speaker_original": {
+			"url": "assets/images/Speaker_EVA.png",
+			"location": "assets" 
+		  },
+		   "wave1": {
+			"url": "assets/images/EVAGlobal/speakerWave1.svg",
+            "location": "assets"
+			},
+			"wave2": {
+				"url": "assets/images/EVAGlobal/speakerWave2.svg",
+				"location": "assets"
+			},
+			"wave3": {
+				"url": "assets/images/EVAGlobal/speakerWave3.svg",
+				"location": "assets"
+			},
+		    "sound3": {
+				"url": "kamal.ogg",
+				"location": "content"
+            },
+           "replay":{
+				"url": "assets/images/video_btn_EVA.png",
+				"location": "assets" 
+		   },
+		    "replay_hover": {
+				"url": "assets/images/video_btnhover_EVA.png",
+				"location": "assets"
+		  },
+		  "replay_original": {
+			"url": "assets/images/video_btn_EVA.png",
 			"location": "assets" 
 		  }
 	}
