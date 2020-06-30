@@ -927,20 +927,11 @@
          "location": "assets"
        }
      },
-     "show_ans_popup": {
-      "enabled": false,
-      "text": "",
-      "image": {
-          "url": "optBase3.svg",
+     "show_ans_popup": {      
+      "video": {
+          "url": "video.ogv",
           "location": "content"
-      },
-      "imgsrc": {
-          "url":"option3.svg",
-          "location":"content"
-      },
-      "sound": "",
-      "video":"video.mp4",
-      "location":"content"
+      }
     },
      "right_ans_sound": {
        "enabled": true,
