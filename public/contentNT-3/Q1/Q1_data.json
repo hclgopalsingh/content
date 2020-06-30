@@ -128,11 +128,11 @@
                     "id": "001",
                     "imgsrc": {
                         "url": "opt1.png",
-                        "location": "assets"
+                        "location": "content"
                     },
                     "imgsrc_hover": {
                         "url": "",
-                        "location": "assets"
+                        "location": "content"
                     },
                     "imgsrc_txt": {
                         "url": "",
@@ -159,7 +159,7 @@
                     "id": "002",
                     "imgsrc": {
                         "url": "opt2.png",
-                        "location": "assets"
+                        "location": "content"
                     },
                     "imgsrc_hover": {
                         "url": "",
@@ -190,7 +190,7 @@
                     "id": "003",
                     "imgsrc": {
                         "url": "opt3.png",
-                        "location": "assets"
+                        "location": "content"
                     },
                     "imgsrc_hover": {
                         "url": "",
@@ -221,7 +221,7 @@
                     "id": "004",
                     "imgsrc": {
                         "url": "opt4.png",
-                        "location": "assets"
+                        "location": "content"
                     },
                     "imgsrc_hover": {
                         "url": "",
@@ -256,7 +256,7 @@
                     "id": "005",
                     "imgsrc": {
                         "url": "opt5.png",
-                        "location": "assets"
+                        "location": "content"
                     },
                     "imgsrc_hover": {
                         "url": "",
@@ -287,7 +287,7 @@
                     "id": "006",
                     "imgsrc": {
                         "url": "opt6.png",
-                        "location": "assets"
+                        "location": "content"
                     },
                     "imgsrc_hover": {
                         "url": "",
@@ -318,7 +318,7 @@
                     "id": "007",
                     "imgsrc": {
                         "url": "opt7.png",
-                        "location": "assets"
+                        "location": "content"
                     },
                     "imgsrc_hover": {
                         "url": "",
@@ -349,7 +349,7 @@
                     "id": "008",
                     "imgsrc": {
                         "url": "opt8.png",
-                        "location": "assets"
+                        "location": "content"
                     },
                     "imgsrc_hover": {
                         "url": "",
