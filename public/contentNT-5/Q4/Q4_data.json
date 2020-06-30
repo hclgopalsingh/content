@@ -1,4 +1,5 @@
 {
+    "theme_name":"theme1",
     "commonassets": {
         "instruction_bg": {
             "url": "instruction_bar.png",
