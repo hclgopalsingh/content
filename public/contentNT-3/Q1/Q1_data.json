@@ -600,52 +600,58 @@
     "feedback": {
         "correct_ans_index": [ "001", "005" ],
         "style_header": {
-            "border": "solid .4vmin #85d222",
+            "border": "solid .4vmin #3C7132",
             "border-top-left-radius": "20px",
             "border-top-right-radius": "20px",
-            "background": "#248446"
-        },
+            "background": "#519843"
+    },
         "style_body": {
-            "border": "solid .4vmin #85d222",
+            "border": "solid .4vmin #3C7132",
             "border-bottom-left-radius": "20px",
             "border-bottom-right-radius": "20px",
-            "background": "#afdec0"
-        },
+            "border-top": "none",
+            "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+    },
         "wrong_style_header": {
-            "border": "solid .4vmin #F63A39",
+            "border": "solid .4vmin #b5282e",
             "border-top-left-radius": "20px",
             "border-top-right-radius": "20px",
-            "background": "#E90101"
+            "background": "#e2373d"
         },
         "wrong_style_body": {
-            "border": "solid .4vmin #DB4A4D",
+            "border": "solid .4vmin #b5282e",
             "border-bottom-left-radius": "20px",
             "border-bottom-right-radius": "20px",
-            "background": "#FFFFFF"
+            "border-top": "none",
+            "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
         },
         "partial_right_style_header": {
-            "border": "solid .4vmin #85d222",
+            "border": "solid .2vmin #3C7132",
             "border-top-left-radius": "20px",
             "border-top-right-radius": "20px",
-            "background": "rgb(32, 218, 99)"
+            "border-bottom": "none",
+            "background": "#519843"
         },
         "partial_right_style_body": {
-            "border": "solid .4vmin #85d222",
+            "border": "solid .2vmin #3C7132",
             "border-bottom-left-radius": "20px",
             "border-bottom-right-radius": "20px",
-            "background": "rgb(70, 115, 86)"
+            "border-top": "none",
+            "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
         },
         "partial_wrong_style_header": {
-            "border": "solid .4vmin #DB4A4D",
+            "border": "solid .2vmin #b5282e",
             "border-top-left-radius": "20px",
             "border-top-right-radius": "20px",
-            "background": "#FFFFFF"
+            "border-bottom": "none",
+            "background": "#e2373d"
         },
         "partial_wrong_style_body": {
-            "border": "solid .4vmin #DB4A4D",
+            "border": "solid .2vmin #b5282e",
             "border-bottom-left-radius": "20px",
             "border-bottom-right-radius": "20px",
-            "background": "#FFFFFF"
+            "border-top": "none",
+            "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
         },
         "headerTxt_img": {
             "url": "PopupHeaderTitle.png",
@@ -767,16 +773,17 @@
         },
         "confirm_popup": {
             "style_header": {
-                "border": "solid .4vmin #85d222",
+                "border": "solid .4vmin #057499",
                 "border-top-left-radius": "20px",
                 "border-top-right-radius": "20px",
-                "background": "#248446"
+                "background": "#129fc1"
             },
             "style_body": {
-                "border": "solid .4vmin #85d222",
+                "border": "solid .4vmin #057499",
                 "border-bottom-left-radius": "20px",
                 "border-bottom-right-radius": "20px",
-                "background": "#afdec0"
+                "border-top": "none",
+                "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
             },
             "headerTxt_img": {
                 "url": "PopupConfirmHeader.png",
@@ -829,16 +836,17 @@
         },
         "submit_popup": {
             "style_header": {
-                "border": "solid .4vmin #85d222",
+                "border": "solid .4vmin #057499",
                 "border-top-left-radius": "20px",
                 "border-top-right-radius": "20px",
-                "background": "#248446"
+                "background": "#129fc1"
             },
             "style_body": {
-                "border": "solid .4vmin #85d222",
+                "border": "solid .4vmin #057499",
                 "border-bottom-left-radius": "20px",
                 "border-bottom-right-radius": "20px",
-                "background": "#afdec0"
+                "border-top": "none",
+                "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
             },
             "headerTxt_img": {
                 "url": "PopupConfirmHeader.png",
@@ -891,16 +899,17 @@
         },
         "info_popup": {
             "style_header": {
-                "border": "solid .4vmin #85d222",
+                "border": "solid .4vmin #057499",
                 "border-top-left-radius": "20px",
                 "border-top-right-radius": "20px",
-                "background": "#248446"
+                "background": "#129fc1"
             },
             "style_body": {
-                "border": "solid .4vmin #85d222",
+                "border": "solid .4vmin #057499",
                 "border-bottom-left-radius": "20px",
                 "border-bottom-right-radius": "20px",
-                "background": "#afdec0"
+                "border-top": "none",
+                "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
             },
             "headerTxt_img": {
                 "url": "PopupInfoHeader.png",
@@ -945,16 +954,17 @@
         },
         "oneAttempt_popup": {
             "style_header": {
-                "border": "solid .4vmin #85d222",
+                "border": "solid .4vmin #057499",
                 "border-top-left-radius": "20px",
                 "border-top-right-radius": "20px",
-                "background": "#248446"
+                "background": "#129fc1"
             },
             "style_body": {
-                "border": "solid .4vmin #85d222",
+                "border": "solid .4vmin #057499",
                 "border-bottom-left-radius": "20px",
                 "border-bottom-right-radius": "20px",
-                "background": "#afdec0"
+                "border-top": "none",
+                "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
             },
             "headerTxt_img": {
                 "url": "PopupInfoHeader.png",
@@ -999,16 +1009,17 @@
         },
         "replay_confirm": {
             "style_header": {
-                "border": "solid .4vmin #85d222",
+                "border": "solid .4vmin #057499",
                 "border-top-left-radius": "20px",
                 "border-top-right-radius": "20px",
-                "background": "#248446"
+                "background": "#129fc1"
             },
             "style_body": {
-                "border": "solid .4vmin #85d222",
+                "border": "solid .4vmin #057499",
                 "border-bottom-left-radius": "20px",
                 "border-bottom-right-radius": "20px",
-                "background": "#afdec0"
+                "border-top": "none",
+                "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
             },
             "headerTxt_img": {
                 "url": "header_confirm_text.png",
