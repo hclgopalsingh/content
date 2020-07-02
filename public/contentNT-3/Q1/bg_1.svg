@@ -1,20 +1,40 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1920px" height="1080px" viewBox="0 0 1920 1080">
-<defs/>
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="936.6" y1="978.5" x2="936.6" y2="88.69999999999999" spreadMethod="pad">
+<stop  offset="0%" stop-color="#B5333D"/>
 
-<g id="Layer_1">
-<g transform="matrix( 1, 0, 0, 1, 960,540) ">
-<g id="Layer_1">
+<stop  offset="19.607843137254903%" stop-color="#D3525D"/>
+
+<stop  offset="50.98039215686274%" stop-color="#EE848D"/>
+
+<stop  offset="75.29411764705883%" stop-color="#D3525D"/>
+
+<stop  offset="100%" stop-color="#AF343E"/>
+</linearGradient>
+
+<g id="Layer1_0_FILL">
+<path fill="#FFFF00" stroke="none" d="
+M 1988.25 -0.35
+Q 1988.1052734375 -0.4982421875 1987.9 -0.5
+L 0 -0.5
+Q -0.2052734375 -0.4982421875 -0.35 -0.35 -0.4982421875 -0.2052734375 -0.5 0
+L -0.5 1186.15
+Q -0.4982421875 1186.3552734375 -0.35 1186.5 -0.2052734375 1186.6482421875 0 1186.65
+L 1987.9 1186.65
+Q 1988.1052734375 1186.6482421875 1988.25 1186.5 1988.3982421875 1186.3552734375 1988.4 1186.15
+L 1988.4 0
+Q 1988.3982421875 -0.2052734375 1988.25 -0.35
+M 1987.35 0.5
+L 1987.4 1185.65 0.5 1185.65 0.45 0.5 1987.35 0.5 Z"/>
+
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 1987.4 1185.65
+L 1987.35 0.5 0.45 0.5 0.5 1185.65 1987.4 1185.65 Z"/>
+</g>
+</defs>
+
 <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<g>
-<g>
-<path fill="#E91E42" stroke="none" d="
-M 960 540
-L 960 -540 -960 -540 -960 540 960 540 Z"/>
-</g>
-</g>
-</g>
-</g>
-</g>
+<use xlink:href="#Layer1_0_FILL"/>
 </g>
 </svg>
