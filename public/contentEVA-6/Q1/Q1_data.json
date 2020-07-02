@@ -580,7 +580,11 @@
                     "location": "content"
 					}
 				}]
-			}
+			},
+			"video": {
+				"url":"video.ogv",
+				"location": "content"
+			 }
         },
         "right_ans_sound": {
             "enabled": true,

@@ -454,15 +454,10 @@
             }
         },
         "show_ans_popup": {
-            "image": {
-                "url": "ques_base_box.png",
+            "video": {
+                "url": "video.ogv",
                 "location": "content"
-            },
-            "imgsrc": {
-                "url": "answerimage.png",
-                "location": "content"
-            },
-            "sound": ""
+            }
         },
         "right_ans_popup": {
             "image": {
