@@ -17,7 +17,7 @@
 		"location": "content"
 	},
 	"background": {
-		"url": "titleBg.jpg",
+		"url": "titleBg.png",
 		"location": "theme"
 	},
 	"krikalapText": {
@@ -26,14 +26,14 @@
 		"position":{
 			"top":"auto",
 			"left":"0px",
-			"bottom":"16%"			
+			"bottom":"17%"			
 		}
 	},
 	"jariRakheinBtn": {
 		"url": "zaariRakhein.png",
 		"location": "content",
 		"position":{
-			"top":" 84%",
+			"top":" 83%",
 			"left":" "
 			 			
 		}
