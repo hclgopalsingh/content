@@ -625,6 +625,19 @@
             "border-top": "none",
             "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
         },
+        "partial_style_header": {
+                "border": "solid .4vmin #057499",
+                "border-top-left-radius": "20px",
+                "border-top-right-radius": "20px",
+                "background": "#129fc1"
+        },
+        "partial_style_body": {
+                "border": "solid .4vmin #057499",
+                "border-bottom-left-radius": "20px",
+                "border-bottom-right-radius": "20px",
+                "border-top": "none",
+                "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+        },
         "partial_right_style_header": {
             "border": "solid .2vmin #3C7132",
             "border-top-left-radius": "20px",
