@@ -138,8 +138,8 @@ ct+X+6/yJmsOeS8/t/RoBssw7E3W3KRfky+72fJGgEtLDmEviKuBYVVtNwOXm2x+D3gvWK87
 sLS8keDSkj01swTHcHNgNwsOeWTNIerKe3iDgKXlJwEuX3KIt1rzsWU3Im+5whsMK19+0uBW
 l7yBtApsddGVV/gJgnpzeXP56S7/D7J75Wro2YRaAAAAAElFTkSuQmCC"/>
 
-<filter id="Filter_1" x="-20%" y="-20.507880910683014%" width="140%" height="141.01576182136603%" color-interpolation-filters="sRGB">
-<feFlood flood-color="#08557D" flood-opacity="1" in="SourceGraphic" result="result1"/>
+<filter id="Filter_1" x="-27.291066282420747%" y="-20.771992818671453%" width="154.5821325648415%" height="141.5439856373429%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#000000" flood-opacity="1" in="SourceGraphic" result="result1"/>
 
 <feComposite in2="SourceGraphic" in="result1" operator="in" result="result2"/>
 
@@ -150,40 +150,25 @@ l7yBtApsddGVV/gJgnpzeXP56S7/D7J75Wro2YRaAAAAAElFTkSuQmCC"/>
 <feComposite in2="result4" in="SourceGraphic" operator="over" result="result5"/>
 </filter>
 
-<font horiz-adv-x="2048">
-<!--  Font Name: Arial
-Vendor ID: TMC 
-© 2017 The Monotype Corporation. All Rights Reserved. 
+<g id="Symbol_32_copy_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 17.35 1.5
+Q 17.35 -0.85 15.55 0.5
+L 0.45 13.05
+Q -0.4 14.1 0.45 15.2
+L 15.5 27.65
+Q 16.9 28.2 17.35 27.05
+L 17.35 1.5 Z"/>
+</g>
 
-Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
-URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Arial&PSName=ArialMT&applanguage=en_US-->
-<font-face font-family="Arial_Regular" units-per-em="2048" ascent="1854" descent="434"/>
-
-<glyph unicode="S" horiz-adv-x="1366" d="
-M 92 471
-L 275 487
-Q 288 377 336 306 383 236 483 192 583 149 708 149 819 149 904 182 989 215 1031 272 1072 330 1072 398 1072 467 1032 518 992 570 900 605 841 628 639 676 437 725 356 768 251 823 200 904 148 986 148 1087 148 1198 211 1294 274 1391 395 1441 516 1491 664 1491 827 1491 952 1438 1076 1386 1143 1284 1210 1182 1215 1053
-L 1029 1039
-Q 1014 1178 928 1249 841 1320 672 1320 496 1320 416 1255 335 1191 335 1100 335 1021 392 970 448 919 685 865 921 812 1009 772 1137 713 1198 622 1259 532 1259 414 1259 297 1192 193 1125 90 1000 32 874 -25 717 -25 518 -25 384 33 249 91 173 207 96 324 92 471 Z"/>
-
-<glyph unicode="K" horiz-adv-x="1366" d="
-M 150 0
-L 150 1466 344 1466 344 739 1072 1466 1335 1466 720 872 1362 0 1106 0 584 742 344 508 344 0 150 0 Z"/>
-
-<glyph unicode="I" horiz-adv-x="569" d="
-M 191 0
-L 191 1466 385 1466 385 0 191 0 Z"/>
-
-<glyph unicode="P" horiz-adv-x="1366" d="
-M 158 0
-L 158 1466 711 1466
-Q 857 1466 934 1452 1042 1434 1115 1383 1188 1333 1233 1242 1277 1151 1277 1042 1277 855 1158 725 1039 596 728 596
-L 352 596 352 0 158 0 Z
-M 352 769
-L 731 769
-Q 919 769 998 839 1077 909 1077 1036 1077 1128 1031 1193 984 1259 908 1280 859 1293 727 1293
-L 352 1293 352 769 Z"/>
-</font>
+<path id="Symbol_32_copy_0_Layer0_0_1_STROKES" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 17.35 1.5
+Q 17.35 -0.85 15.55 0.5
+L 0.45 13.05
+Q -0.4 14.1 0.45 15.2
+L 15.5 27.65
+Q 16.9 28.2 17.35 27.05
+L 17.35 1.5 Z"/>
 </defs>
 
 <g transform="matrix( 1, 0, 0, 1, -3,-3) ">
@@ -191,12 +176,12 @@ L 352 1293 352 769 Z"/>
 </g>
 
 <g filter="url(#Filter_1)" transform="matrix( 1, 0, 0, 1, 0,0) ">
-<g transform="matrix( 1, 0, 0, 1, 12.25,23.55) ">
-<clipPath id="Mask_Mask_1">
-<rect x="-2" y="-2" width="54.25" height="28.55" fill="#FFFFFF" stroke="none"/>
-</clipPath>
+<g transform="matrix( -1, 0, 0, 1, 48.15,20) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_32_copy_0_Layer0_0_FILL"/>
 
-<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="19.9" baseline-shift="0%" kerning="auto" font-family="Arial_Regular" font-size="22" fill="#FFFFFF" xml:space="preserve">SKIP</tspan></text>
+<use xlink:href="#Symbol_32_copy_0_Layer0_0_1_STROKES"/>
+</g>
 </g>
 </g>
 </svg>

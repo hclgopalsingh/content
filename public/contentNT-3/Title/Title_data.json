@@ -26,14 +26,14 @@
 		"position":{
 			"top":"auto",
 			"left":"0px",
-			"bottom":"17%"			
+			"bottom":"16%"			
 		}
 	},
 	"jariRakheinBtn": {
 		"url": "zaariRakhein.png",
 		"location": "content",
 		"position":{
-			"top":" 83%",
+			"top":" 84%",
 			"left":" "
 			 			
 		}
