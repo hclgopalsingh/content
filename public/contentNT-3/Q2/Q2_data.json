@@ -1,4 +1,5 @@
 {
+    "productType":"elementary",
     "theme_name":"theme1",
     "commonassets": {
         "instruction_bg": {
@@ -94,32 +95,32 @@
                 {
                     "ques_tab": {
                         "tabbody": {
-                            "url": "tab1Body.png",
-                            "location": "content"
+                            "urlglobal": "global/tabs/tab1/tabBody.png",
+                            "location": "theme"
                         },
                         "tabL": {
-                            "url": "tab1L.png",
-                            "location": "content"
+                            "urlglobal": "global/tabs/tab1/tabL.png",
+                            "location": "theme"
                         },
                         "tabR": {
-                            "url": "tab1R.png",
-                            "location": "content"
+                            "urlglobal": "global/tabs/tab1/tabR.png",
+                            "location": "theme"
                         },
                         "tabbodyAct": {
-                            "url": "tab1BodyAct.png",
-                            "location": "content"
+                            "urlglobal": "global/tabs/tab1/tabBodyAct.png",
+                            "location": "theme"
                         },
                         "tabLAct": {
-                            "url": "tab1LAct.png",
-                            "location": "content"
+                            "urlglobal": "global/tabs/tab1/tabLAct.png",
+                            "location": "theme"
                         },
                         "tabRAct": {
-                            "url": "tab1RAct.png",
-                            "location": "content"
+                            "urlglobal": "global/tabs/tab1/tabRAct.png",
+                            "location": "theme"
                         },
                         "tabIdx": {
-                            "url": "tab1Idx.svg",
-                            "location": "content"
+                            "urlglobal": "global/tabs/tab1/tabIdx.png",
+                            "location": "theme"
                         }
                     }
                 },
