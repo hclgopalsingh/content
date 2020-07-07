@@ -105,7 +105,7 @@
                 "location": "assets"
             },
             "aagey_badhein": {
-                "url": "assets/images/EVAGlobal/nextBtn.svg",
+                "url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
                 "location": "assets"
             },
             "aagey_badhein_disabled": {
@@ -126,6 +126,10 @@
             },
             "peechey_jayein": {
                 "url": "assets/images/EVAGlobal/prevBtn.svg",
+                "location": "assets"
+            },
+            "peechey_jayein_disabled": {
+                "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
                 "location": "assets"
             },
             "peechey_jayein_original": {
