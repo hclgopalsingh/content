@@ -109,7 +109,7 @@
           "location": "assets"
         },
         "aagey_badhein": {
-          "url": "assets/images/EVAGlobal/nextBtn.svg",
+          "url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
           "location": "assets"
         },
         "aagey_badhein_original": {
@@ -282,11 +282,7 @@
       },
       "isFirstQues": false
     },
-    "options": {
-      "centerImage": {
-        "url": "centerImg.svg",
-        "location": "content"
-      },
+    "options": {     
       "leftoption": [
         {
           "id": "001",
@@ -543,6 +539,7 @@
       ]
     },
     "quesObj": {
+      "quesType":2,
       "quesInstruction": {
         "url": "Instruction.ogg",
         "location": "content",
@@ -556,30 +553,32 @@
         "url": "highlightRow.png",
         "location": "content"
       },
+      "number": {
+        "url": "assets/images/numbers/cropped/00010.png",
+        "location": "assets"
+     },
+     "multiply": {
+       "url": "multiply.png",
+       "location": "content"
+     },
+     "equal": {
+       "url": "equals.png",
+       "location": "content"
+     },
+     "answer": {
+      "background": {
+        "url": "emptyBox.png",
+        "location": "content"
+      }
+    },
       "questionText": [
         {
           "id": "1",
-          "number": {
-            "url": "assets/images/numbers/00005.png",
-            "location": "assets"
-          },
-          "multiply": {
-            "url": "multiply.png",
-            "location": "content"
-          },
           "order": {
             "url": "assets/images/numbers/00001.png",
             "location": "assets"
           },
-          "equal": {
-            "url": "equals.png",
-            "location": "content"
-          },
           "answer": {
-            "background": {
-              "url": "emptyBox.png",
-              "location": "content"
-            },
             "image": {
               "url": "circle0001.png",
               "location": "content"
@@ -593,27 +592,11 @@
         },
         {
           "id": "2",
-          "number": {
-            "url": "assets/images/numbers/00005.png",
-            "location": "assets"
-          },
-          "multiply": {
-            "url": "multiply.png",
-            "location": "content"
-          },
           "order": {
             "url": "assets/images/numbers/00002.png",
             "location": "assets"
-          },
-          "equal": {
-            "url": "equals.png",
-            "location": "content"
-          },
+          },          
           "answer": {
-            "background": {
-              "url": "emptyBox.png",
-              "location": "content"
-            },
             "image": {
               "url": "",
               "location": ""
@@ -627,27 +610,11 @@
         },
         {
           "id": "3",
-          "number": {
-            "url": "assets/images/numbers/00005.png",
-            "location": "assets"
-          },
-          "multiply": {
-            "url": "multiply.png",
-            "location": "content"
-          },
           "order": {
             "url": "assets/images/numbers/00003.png",
             "location": "assets"
           },
-          "equal": {
-            "url": "equals.png",
-            "location": "content"
-          },
           "answer": {
-            "background": {
-              "url": "emptyBox.png",
-              "location": "content"
-            },
             "image": {
               "url": "circle0003.png",
               "location": "content"
@@ -661,27 +628,11 @@
         },
         {
           "id": "4",
-          "number": {
-            "url": "assets/images/numbers/00005.png",
-            "location": "assets"
-          },
-          "multiply": {
-            "url": "multiply.png",
-            "location": "content"
-          },
           "order": {
             "url": "assets/images/numbers/00004.png",
             "location": "assets"
           },
-          "equal": {
-            "url": "equals.png",
-            "location": "content"
-          },
           "answer": {
-            "background": {
-              "url": "emptyBox.png",
-              "location": "content"
-            },
             "image": {
               "url": "circle0004.png",
               "location": "content"
@@ -695,27 +646,11 @@
         },
         {
           "id": "5",
-          "number": {
-            "url": "assets/images/numbers/00005.png",
-            "location": "assets"
-          },
-          "multiply": {
-            "url": "multiply.png",
-            "location": "content"
-          },
           "order": {
             "url": "assets/images/numbers/00005.png",
             "location": "assets"
           },
-          "equal": {
-            "url": "equals.png",
-            "location": "content"
-          },
           "answer": {
-            "background": {
-              "url": "emptyBox.png",
-              "location": "content"
-            },
             "image": {
               "url": "circle0005.png",
               "location": "content"
@@ -729,27 +664,11 @@
         },
         {
           "id": "6",
-          "number": {
-            "url": "assets/images/numbers/00005.png",
-            "location": "assets"
-          },
-          "multiply": {
-            "url": "multiply.png",
-            "location": "content"
-          },
           "order": {
             "url": "assets/images/numbers/00006.png",
             "location": "assets"
           },
-          "equal": {
-            "url": "equals.png",
-            "location": "content"
-          },
           "answer": {
-            "background": {
-              "url": "emptyBox.png",
-              "location": "content"
-            },
             "image": {
               "url": "",
               "location": ""
@@ -763,27 +682,11 @@
         },
         {
           "id": "7",
-          "number": {
-            "url": "assets/images/numbers/00005.png",
-            "location": "assets"
-          },
-          "multiply": {
-            "url": "multiply.png",
-            "location": "content"
-          },
           "order": {
             "url": "assets/images/numbers/00007.png",
             "location": "assets"
           },
-          "equal": {
-            "url": "equals.png",
-            "location": "content"
-          },
           "answer": {
-            "background": {
-              "url": "emptyBox.png",
-              "location": "content"
-            },
             "image": {
               "url": "circle0007.png",
               "location": "content"
@@ -797,27 +700,11 @@
         },
         {
           "id": "8",
-          "number": {
-            "url": "assets/images/numbers/00005.png",
-            "location": "assets"
-          },
-          "multiply": {
-            "url": "multiply.png",
-            "location": "content"
-          },
           "order": {
             "url": "assets/images/numbers/00008.png",
             "location": "assets"
           },
-          "equal": {
-            "url": "equals.png",
-            "location": "content"
-          },
           "answer": {
-            "background": {
-              "url": "emptyBox.png",
-              "location": "content"
-            },
             "image": {
               "url": "circle0008.png",
               "location": "content"
@@ -831,27 +718,11 @@
         },
         {
           "id": "9",
-          "number": {
-            "url": "assets/images/numbers/00005.png",
-            "location": "assets"
-          },
-          "multiply": {
-            "url": "multiply.png",
-            "location": "content"
-          },
           "order": {
             "url": "assets/images/numbers/00009.png",
             "location": "assets"
           },
-          "equal": {
-            "url": "equals.png",
-            "location": "content"
-          },
           "answer": {
-            "background": {
-              "url": "emptyBox.png",
-              "location": "content"
-            },
             "image": {
               "url": "circle0009.png",
               "location": "content"
@@ -865,27 +736,11 @@
         },
         {
           "id": "10",
-          "number": {
-            "url": "assets/images/numbers/00010.png",
-            "location": "assets"
-          },
-          "multiply": {
-            "url": "multiply.png",
-            "location": "content"
-          },
           "order": {
             "url": "assets/images/numbers/00010.png",
             "location": "assets"
           },
-          "equal": {
-            "url": "equals.png",
-            "location": "content"
-          },
           "answer": {
-            "background": {
-              "url": "emptyBox.png",
-              "location": "content"
-            },
             "image": {
               "url": "circle0010.png",
               "location": "content"
