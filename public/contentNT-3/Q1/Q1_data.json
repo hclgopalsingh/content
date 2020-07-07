@@ -544,7 +544,7 @@
     "quesObj": 
         {
             "quesVideo": {
-                "urlOgv": "video.ogg",
+                "urlOgv": "video.ogv",
                 "urlMP4": "video.mp4",
                 "location": "content",
                 "autoPlay": true
@@ -553,12 +553,28 @@
                 "url": "pause.svg",
                 "location": "content"
             },
+            "quesPlayOriginal": {
+                "url": "play.svg",
+                "location": "content"
+            },
             "quesPlay": {
                 "url": "play.svg",
                 "location": "content"
             },
+             "quesPlayHover": {
+                "url": "PlayHover.svg",
+                "location": "content"
+            },
             "quesPause": {
                 "url": "pause.svg",
+                "location": "content"
+            },
+            "quesPauseOriginal": {
+                "url": "pause.svg",
+                "location": "content"
+            },
+            "quesPauseHover": {
+                "url": "PauseHover.svg",
                 "location": "content"
             },
             "quesSkip": {
