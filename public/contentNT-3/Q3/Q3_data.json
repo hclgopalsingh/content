@@ -151,7 +151,7 @@
                 {
                     "id": "001",
                     "imgsrc": {
-                        "url": "opt1.png",
+                        "url": "assets/options/opt1.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -163,26 +163,26 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "option1.ogg",
+                        "url": "assets/options/option1.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio1.ogg",
+                        "url": "assets/options/rightFeedbackAudio1.ogg",
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio1.ogg",
+                        "url": "assets/options/wrongFeedbackAudio1.ogg",
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt1.png",
+                        "url": "assets/options/opt1.png",
                         "location": "content"
                     }
                 },
                 {
                     "id": "002",
                     "imgsrc": {
-                        "url": "opt2.png",
+                        "url": "assets/options/opt2.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -194,26 +194,26 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "option2.ogg",
+                        "url": "assets/options/option2.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio2.ogg",
+                        "url": "assets/options/rightFeedbackAudio2.ogg",
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio2.ogg",
+                        "url": "assets/options/wrongFeedbackAudio2.ogg",
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt2.png",
+                        "url": "assets/options/opt2.png",
                         "location": "content"
                     }
                 },
                 {
                     "id": "003",
                     "imgsrc": {
-                        "url": "opt3.png",
+                        "url": "assets/options/opt3.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -225,26 +225,26 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "option3.ogg",
+                        "url": "assets/options/option3.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio3.ogg",
+                        "url": "assets/options/rightFeedbackAudio3.ogg",
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio3.ogg",
+                        "url": "assets/options/wrongFeedbackAudio3.ogg",
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt3.png",
+                        "url": "assets/options/opt3.png",
                         "location": "content"
                     }
                 },
                  {
                     "id": "004",
                     "imgsrc": {
-                        "url": "opt4.png",
+                        "url": "assets/options/opt4.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -256,19 +256,19 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "option4.ogg",
+                        "url": "assets/options/option4.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio4.ogg",
+                        "url": "assets/options/rightFeedbackAudio4.ogg",
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio4.ogg",
+                        "url": "assets/options/wrongFeedbackAudio4.ogg",
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt4.png",
+                        "url": "assets/options/opt4.png",
                         "location": "content"
                     }
                 }
