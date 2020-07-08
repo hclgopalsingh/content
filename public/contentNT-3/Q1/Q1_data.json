@@ -738,7 +738,7 @@
         "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
       },
       "headerTxt_img": {
-        "url": "PopupInfoHeader.png",
+        "url": "assets/popups/look_for_more_options/look_for_more_options_title.png",
         "location": "content"
       },
       "bg_img": {
@@ -758,7 +758,7 @@
         "location": "theme"
       },
       "info_text": {
-        "url": "lookformore_popup_text.png",
+        "url": "assets/popups/look_for_more_options/lookformore_popup_text.png",
         "location": "content"
       },
       "ok_btn": {
