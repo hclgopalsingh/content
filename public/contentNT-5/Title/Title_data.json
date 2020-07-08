@@ -2,31 +2,45 @@
 	"titleScreen":true,
 	"imgCount":"3",
 	"titleText": {
-		"url":"titleText.svg",
-		"location":"content"
+		"url":"titleText.png",
+		"location":"content",
+		"position":{
+			"top":"1%",
+			"left":"35%",
+			 "width":"30%"		
+		}
 	},
 	"narrator": {
 		"url": "narrator.ogg",
 		"location": "content"
 	},
 	"background": {
-		"url": "titleBg.jpg",
+		"url": "titleBg.png",
 		"location": "content"
 	},
 	"krikalapText": {
-		"url": "kriyakalaap.svg",
-		"location": "content"
+		"url": "kriyakalaap.png",
+		"location": "content",
+		"position":{
+			"top":"auto",
+			"left":"0px",
+			"bottom":"16%"			
+		}
 	},
 	"jariRakheinBtn": {
-		"url": "zaariRakhein.svg",
-		"location": "content"
+		"url": "zaariRakhein.png",
+		"location": "content",
+		"position":{
+			"top":" 84%",
+			"left":" "			 			
+		}
 	},
 	"jariRakheinBtn_original": {
-		"url": "zaariRakhein.svg",
+		"url": "zaariRakhein.png",
 		"location": "content"
 	},
 	"jariRakheinBtn_hover": {
-		"url": "zaariRakhein_hover.svg",
+		"url": "zaariRakhein_hover.png",
 		"location": "content"
 	}
 	
