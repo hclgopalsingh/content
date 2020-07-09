@@ -128,7 +128,7 @@
                 {
                     "id": "001",
                     "imgsrc": {
-                        "url": "opt_frame00010001.png",
+                        "url": "opt_frame0001.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -140,26 +140,26 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "option1.ogg",
+                        "url": "aurangzeb1.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio1.ogg",
+                        "url": "RightAnswerFeedback.ogg",
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio1.ogg",
+                        "url": "",
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt_frame00010001.png",
+                        "url": "opt_frame0001.png",
                         "location": "content"
                     }
                 },
                 {
                     "id": "002",
                     "imgsrc": {
-                        "url": "opt_frame00010002.png",
+                        "url": "opt_frame0002.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -171,26 +171,26 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "option2.ogg",
+                        "url": "aurangzeb2.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio2.ogg",
+                        "url": "",
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio2.ogg",
+                        "url": "WrongAnswerFeedback1.ogg",
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt_frame00010002.png",
+                        "url": "opt_frame0002.png",
                         "location": "content"
                     }
                 },
                 {
                     "id": "003",
                     "imgsrc": {
-                        "url": "opt_frame00010003.png",
+                        "url": "opt_frame0003.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -202,26 +202,26 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "option3.ogg",
+                        "url": "aurangzeb3.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio3.ogg",
+                        "url": "",
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio3.ogg",
+                        "url": "WrongAnswerFeedback2.ogg",
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt_frame00010003.png",
+                        "url": "opt_frame0003.png",
                         "location": "content"
                     }
                 },
                 {
                     "id": "004",
                     "imgsrc": {
-                        "url": "opt_frame00010004.png",
+                        "url": "opt_frame0004.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -233,155 +233,28 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "option4.ogg",
+                        "url": "aurangzeb4.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio4.ogg",
+                        "url": "",
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio4.ogg",
+                        "url": "WrongAnswerFeedback3.ogg",
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt_frame00010004.png",
-                        "location": "content"
-                    }
-                }
-            ]
-        },
-        {
-            "optionsArr": [
-                {
-                    "id": "005",
-                    "imgsrc": {
-                        "url": "opt_frame00010005.png",
-                        "location": "content"
-                    },
-                    "imgsrc_hover": {
-                        "url": "",
-                        "location": "content"
-                    },
-                    "imgsrc_txt": {
-                        "url": "",
-                        "location": "content"
-                    },
-                    "imgsrc_audio": {
-                        "url": "option5.ogg",
-                        "location": "content"
-                    },
-                    "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio5.ogg",
-                        "location": "content"
-                    },
-                    "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio5.ogg",
-                        "location": "content"
-                    },
-                    "imgsrc_original": {
-                        "url": "opt_frame00010005.png",
-                        "location": "content"
-                    }
-                },
-                {
-                    "id": "006",
-                    "imgsrc": {
-                        "url": "opt_frame00010006.png",
-                        "location": "content"
-                    },
-                    "imgsrc_hover": {
-                        "url": "",
-                        "location": "content"
-                    },
-                    "imgsrc_txt": {
-                        "url": "",
-                        "location": "content"
-                    },
-                    "imgsrc_audio": {
-                        "url": "option6.ogg",
-                        "location": "content"
-                    },
-                    "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio6.ogg",
-                        "location": "content"
-                    },
-                    "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio6.ogg",
-                        "location": "content"
-                    },
-                    "imgsrc_original": {
-                        "url": "opt_frame00010006.png",
-                        "location": "content"
-                    }
-                },
-                {
-                    "id": "007",
-                    "imgsrc": {
-                        "url": "opt_frame00010007.png",
-                        "location": "content"
-                    },
-                    "imgsrc_hover": {
-                        "url": "",
-                        "location": "content"
-                    },
-                    "imgsrc_txt": {
-                        "url": "",
-                        "location": "content"
-                    },
-                    "imgsrc_audio": {
-                        "url": "option7.ogg",
-                        "location": "content"
-                    },
-                    "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio7.ogg",
-                        "location": "content"
-                    },
-                    "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio7.ogg",
-                        "location": "content"
-                    },
-                    "imgsrc_original": {
-                        "url": "opt_frame00010007.png",
-                        "location": "content"
-                    }
-                },
-                {
-                    "id": "008",
-                    "imgsrc": {
-                        "url": "opt_frame00010008.png",
-                        "location": "content"
-                    },
-                    "imgsrc_hover": {
-                        "url": "",
-                        "location": "content"
-                    },
-                    "imgsrc_txt": {
-                        "url": "",
-                        "location": "content"
-                    },
-                    "imgsrc_audio": {
-                        "url": "option8.ogg",
-                        "location": "content"
-                    },
-                    "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio8.ogg",
-                        "location": "content"
-                    },
-                    "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio8.ogg",
-                        "location": "content"
-                    },
-                    "imgsrc_original": {
-                        "url": "opt_frame00010008.png",
+                        "url": "opt_frame0004.png",
                         "location": "content"
                     }
                 }
             ]
         }
+        
     ],
 
-      "quesObj": [{
+      "quesObj": {
 		"quesInstruction": {
 			"url": "narrator.ogg",
 			"location": "content",
@@ -399,7 +272,7 @@
 			"url": "",
 			"location": ""
 		}
-	}],
+	},
 
 
     "feedback": {
@@ -472,7 +345,7 @@
         },
         "right_ans_popup": {
             "imgsrc": {
-                "url": "opt_frame00010001.png",
+                "url": "opt_frame0001.png",
                 "location": "content"
             },
             "imgTxt": {
