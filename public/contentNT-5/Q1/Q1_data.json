@@ -14,92 +14,12 @@
             "url": "instructionText.svg",
             "location": "content"
         },
-        "background": {
-            "url": "bg_1.svg",
-            "location": "content"
-        },
-        "ques_control": {
-            "aagey_badhein": {
-                "url": "aagey.svg",
-                "location": "content"
-            },
-            "aagey_badhein_original": {
-                "url": "aagey.svg",
-                "location": "content"
-            },
-            "aagey_badhein_hover": {
-                "url": "aageyHover.svg",
-                "location": "content"
-            },
-            "blink_btn1": {
-                "url": "blink_btn1.svg",
-                "location": "content"
-            },
-            "blink_btn2": {
-                "url": "blink_btn2.svg",
-                "location": "content"
-            },
-            "peechey_jayein": {
-                "url": "peechey.svg",
-                "location": "content"
-            },
-            "peechey_jayein_original": {
-                "url": "peechey.svg",
-                "location": "content"
-            },
-            "peechey_jayein_hover": {
-                "url": "peecheyHover.svg",
-                "location": "content"
-            },
-            "uttar_dikhayein": {
-                "url": "uttarBtn.svg",
-                "location": "content"
-            },
-            "uttar_dikhayein_original": {
-                "url": "uttarBtn.svg",
-                "location": "content"
-            },
-            "uttar_dikhayein_hover": {
-                "url": "uttarBtnHover.svg",
-                "location": "content"
-            },
-            
-
-            "nav_base": {
-                "url": "navBase.svg",
-                "location": "content"
-            },
-            "ques_nav_base": {
-                "url": "quesNavBase.svg",
-                "location": "content"
-            },
-            "rightTick_img": {
-                "url": "right.svg",
-                "location": "content"
-            },
-            "wrongTick_img": {
-                "url": "wrong.svg",
-                "location": "content"
-            }
-        },
+        
 	
         "isFirstQues": true,
         "imgCount": 5
     },
-    "option_common_assets": {
-        "option_base": {
-            "url": "optBase.svg",
-            "location": "content"
-        },
-        "option_base_hover": {
-            "url": "optBaseHover.svg",
-            "location": "content"
-        },
-        "option_base_original": {
-            "url": "optBase.svg",
-            "location": "content"
-        }
-    },
+   
     "optionObj": [
         
         {
@@ -107,7 +27,7 @@
                 {
                     "id": "001",
                     "imgsrc": {
-                        "url": "opt_frame0001.png",
+                        "url": "assets/options/opt1.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -119,7 +39,7 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "Lion.ogg",
+                        "url": "assets/options/Lion.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
@@ -127,18 +47,18 @@
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
-                        "url": "WrongAnswerFeedback1.ogg",
+                        "url": "assets/options/WrongAnswerFeedback1.ogg",
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt_frame0001.png",
+                        "url": "assets/options/opt1.png",
                         "location": "content"
                     }
                 },
                 {
                     "id": "002",
                     "imgsrc": {
-                        "url": "opt_frame0002.png",
+                        "url": "assets/options/opt2.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -150,7 +70,7 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "Goat.ogg",
+                        "url": "assets/options/Goat.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
@@ -158,18 +78,18 @@
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
-                        "url": "WrongAnswerFeedback2.ogg",
+                        "url": "assets/options/WrongAnswerFeedback2.ogg",
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt_frame0002.png",
+                        "url": "assets/options/opt2.png",
                         "location": "content"
                     }
                 },
                 {
                     "id": "003",
                     "imgsrc": {
-                        "url": "opt_frame0003.png",
+                        "url": "assets/options/opt3.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -181,7 +101,7 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "cat.ogg",
+                        "url": "assets/options/cat.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
@@ -189,18 +109,25 @@
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
-                        "url": "WrongAnswerFeedback3.ogg",
+                        "url": "assets/options/WrongAnswerFeedback3.ogg",
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt_frame0003.png",
+                        "url": "assets/options/opt3.png",
                         "location": "content"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "optionsArr": [
+                
+                 
+                 
                 {
                     "id": "004",
                     "imgsrc": {
-                        "url": "opt_frame0004.png",
+                        "url": "assets/options/opt4.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -212,11 +139,11 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "Elephant.ogg",
+                        "url": "assets/options/Elephant.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
-                        "url": "RightAnswerFeedback.ogg",
+                        "url": "assets/options/RightAnswerFeedback.ogg",
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
@@ -224,14 +151,14 @@
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt_frame0004.png",
+                        "url": "assets/options/opt4.png",
                         "location": "content"
                     }
                 },
                 {
                     "id": "005",
                     "imgsrc": {
-                        "url": "opt_frame0005.png",
+                        "url": "assets/options/opt5.png",
                         "location": "content"
                     },
                     "imgsrc_hover": {
@@ -243,7 +170,7 @@
                         "location": "content"
                     },
                     "imgsrc_audio": {
-                        "url": "Rhinoceros.ogg",
+                        "url": "assets/options/Rhinoceros.ogg",
                         "location": "content"
                     },
                     "imgrightfeedback_audio": {
@@ -251,11 +178,11 @@
                         "location": "content"
                     },
                     "imgwrongfeedback_audio": {
-                        "url": "WrongAnswerFeedback4.ogg",
+                        "url": "assets/options/WrongAnswerFeedback4.ogg",
                         "location": "content"
                     },
                     "imgsrc_original": {
-                        "url": "opt_frame0005.png",
+                        "url": "assets/options/opt5.png",
                         "location": "content"
                     }
                 }
@@ -368,7 +295,7 @@
                 "location": ""
             },
             "imgrightfeedback_audio": {
-                "url": "showAnsSound.ogg",
+                "url": "Show_ans.ogg",
                 "location": "content"
             }
         },
