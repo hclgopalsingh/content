@@ -211,6 +211,72 @@
                     }
                 },
                 {
+                    "id": "003",
+                    "imgsrc": {
+                        "url": "assets/options/opt3.png",
+                        "location": "content"
+                    },
+                    "imgsrc_hover": {
+                        "url": "",
+                        "location": "content"
+                    },
+                    "imgsrc_txt": {
+                        "url": "",
+                        "location": "content"
+                    },
+                    "imgsrc_audio": {
+                        "url": "assets/options/option3.ogg",
+                        "location": "content"
+                    },
+                    "imgrightfeedback_audio": {
+                        "url": "assets/options/rightFeedbackAudio3.ogg",
+                        "location": "content"
+                    },
+                    "imgwrongfeedback_audio": {
+                        "url": "assets/options/wrongFeedbackAudio3.ogg",
+                        "location": "content"
+                    },
+                    "imgsrc_original": {
+                        "url": "assets/options/opt3.png",
+                        "location": "content"
+                    }
+                },
+                {
+                    "id": "004",
+                    "imgsrc": {
+                        "url": "assets/options/opt4.png",
+                        "location": "content"
+                    },
+                    "imgsrc_hover": {
+                        "url": "",
+                        "location": "content"
+                    },
+                    "imgsrc_txt": {
+                        "url": "",
+                        "location": "content"
+                    },
+                    "imgsrc_audio": {
+                        "url": "assets/options/option4.ogg",
+                        "location": "content"
+                    },
+                    "imgrightfeedback_audio": {
+                        "url": "assets/options/rightFeedbackAudio4.ogg",
+                        "location": "content"
+                    },
+                    "imgwrongfeedback_audio": {
+                        "url": "assets/options/wrongFeedbackAudio4.ogg",
+                        "location": "content"
+                    },
+                    "imgsrc_original": {
+                        "url": "assets/options/opt4.png",
+                        "location": "content"
+                    }
+                }
+            ]
+        },
+        {
+            "optionsArr": [
+                {
                     "id": "005",
                     "imgsrc": {
                         "url": "assets/options/opt5.png",
@@ -271,11 +337,7 @@
                         "url": "assets/options/opt6.png",
                         "location": "content"
                     }
-                }
-            ]
-        },
-        {
-            "optionsArr": [
+                },
                 {
                     "id": "007",
                     "imgsrc": {
@@ -304,37 +366,6 @@
                     },
                     "imgsrc_original": {
                         "url": "assets/options/opt7.png",
-                        "location": "content"
-                    }
-                },
-                {
-                    "id": "008",
-                    "imgsrc": {
-                        "url": "assets/options/opt8.png",
-                        "location": "content"
-                    },
-                    "imgsrc_hover": {
-                        "url": "",
-                        "location": "content"
-                    },
-                    "imgsrc_txt": {
-                        "url": "",
-                        "location": "content"
-                    },
-                    "imgsrc_audio": {
-                        "url": "assets/options/option8.ogg",
-                        "location": "content"
-                    },
-                    "imgrightfeedback_audio": {
-                        "url": "assets/options/rightFeedbackAudio8.ogg",
-                        "location": "content"
-                    },
-                    "imgwrongfeedback_audio": {
-                        "url": "assets/options/wrongFeedbackAudio8.ogg",
-                        "location": "content"
-                    },
-                    "imgsrc_original": {
-                        "url": "assets/options/opt8.png",
                         "location": "content"
                     }
                 }
