@@ -10,17 +10,13 @@
             "url": "instructionAudio.ogg",
             "location": "content"
         },
-        "instruction_img": {
-            "url": "instructionText.svg",
-            "location": "content"
-        },
         "narrator": {
             "url": "narrator.ogg",
             "location": "content"
-        },     
+        },
         "isFirstQues": false,
         "imgCount": 6
-    },    
+    },
     "optionObj": [
         {
             "optionsArr": [
