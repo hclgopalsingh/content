@@ -109,8 +109,8 @@
             "location": "content"
           },
           "imgwrongfeedback_audio": {
-            "url": "",
-            "location": ""
+            "url": "assets/options/wrongFeedbackAudio3.ogg",
+            "location": "content"
           },
           "imgsrc_original": {
             "url": "assets/options/opt3.png",
