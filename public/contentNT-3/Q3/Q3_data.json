@@ -43,8 +43,8 @@
             "location": "content"
           },
           "imgrightfeedback_audio": {
-            "url": "",
-            "location": ""
+            "url": "assets/options/rightFeedbackAudio1.ogg",
+            "location": "content"
           },
           "imgwrongfeedback_audio": {
             "url": "assets/options/wrongFeedbackAudio1.ogg",
