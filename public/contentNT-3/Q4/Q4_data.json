@@ -463,10 +463,6 @@
         }
       }
     ],
-    "partialIncorrect_sound": {
-      "url": "assets/popups/partial_feedback/partialPopupvoice.ogg",
-      "location": "content"
-    },
     "confirm_popup": {
       "style_header": {
         "border": "solid .4vmin #057499",
