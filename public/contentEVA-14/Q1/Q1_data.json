@@ -1907,6 +1907,26 @@
 			"url":"assets/images/EVAGlobal/template_14/Days/base.png",
 			"location":"assets"
 		 },
+		 "base_hover":{
+			"url":"assets/images/EVAGlobal/template_14/Days/hover.png",
+			"location":"assets"
+		 },
+		 "base_original":{
+			"url":"assets/images/EVAGlobal/template_14/Days/base.png",
+			"location":"assets"
+		 },
+		 "base_right":{
+			"url":"assets/images/EVAGlobal/template_14/Days/base_green.png",
+			"location":"assets"
+		 },
+		 "base_wrong":{
+			"url":"assets/images/EVAGlobal/template_14/Days/base_red.png",
+			"location":"assets"
+		 },
+		 "base_selected":{
+			"url":"assets/images/EVAGlobal/template_14/Days/base_green.png",
+			"location":"assets"
+		 },
 		 "selecteddateImg":{
 			"url":"assets/images/Template-22/English/Images English/Days/Days Selected/days_00001.png",
 			"location":"assets" 
