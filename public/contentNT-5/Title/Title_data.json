@@ -1,4 +1,6 @@
 {
+	"theme_name":"theme1",
+	"productType":"elementary",
 	"titleScreen":true,
 	"imgCount":"3",
 	"titleText": {
@@ -6,8 +8,7 @@
 		"location":"content",
 		"position":{
 			"top":"1%",
-			"left":"35%",
-			 "width":"30%"		
+			 "width":"28.7%"		
 		}
 	},
 	"narrator": {
@@ -16,7 +17,7 @@
 	},
 	"background": {
 		"url": "titleBg.png",
-		"location": "content"
+		"location": "theme"
 	},
 	"krikalapText": {
 		"url": "kriyakalaap.png",
@@ -32,7 +33,8 @@
 		"location": "content",
 		"position":{
 			"top":" 84%",
-			"left":" "			 			
+			"left":" "
+			 			
 		}
 	},
 	"jariRakheinBtn_original": {
