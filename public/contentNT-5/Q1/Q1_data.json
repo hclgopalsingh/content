@@ -14,7 +14,10 @@
             "url": "instructionText.svg",
             "location": "content"
         },
-        
+         "background": {
+            "urlglobal": "global/tabs/bg/bg_1.svg",
+            "location": "theme"
+        },
 	
         "isFirstQues": true,
         "imgCount": 5
@@ -283,7 +286,7 @@
         },
         "right_ans_popup": {
             "imgsrc": {
-                "url": "opt_frame0004.png",
+                "url": "assets/options/opt4.png",
                 "location": "content"
             },
             "imgTxt": {
@@ -295,7 +298,7 @@
                 "location": ""
             },
             "imgrightfeedback_audio": {
-                "url": "Show_ans.ogg",
+                "url": "assets/options/Show_ans.ogg",
                 "location": "content"
             }
         },

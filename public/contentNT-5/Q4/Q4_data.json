@@ -18,7 +18,10 @@
             "url": "narrator.ogg",
             "location": "content"
         },
-     
+      "background": {
+            "urlglobal": "global/tabs/bg/bg_1.svg",
+            "location": "theme"
+        },
         "isFirstQues": false,
         "imgCount": 5
     },
