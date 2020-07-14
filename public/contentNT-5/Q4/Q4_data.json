@@ -157,8 +157,8 @@
       "location": "content",
       "autoPlay": true
     },
-    "submitRequired": true,
-    "replayRequired": true
+    "submitRequired":false,
+    "replayRequired":false
   },
  "feedback": {
     "correct_ans_index": "001",
@@ -172,7 +172,7 @@
       "border": "solid .4vmin #3C7132",
       "border-bottom-left-radius": "20px",
       "border-bottom-right-radius": "20px",
-      "border-top": "none",
+      "border-top": "0px",
       "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
     },
     "wrong_style_header": {
