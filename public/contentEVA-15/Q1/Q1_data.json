@@ -127,6 +127,10 @@
                 "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
                 "location": "assets"
             },
+            "peechey_jayein_disabled": {
+                "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+                "location": "assets"
+            },
             "peechey_jayein_original": {
                 "url": "assets/images/EVAGlobal/prevBtn.svg",
                 "location": "assets"
@@ -418,20 +422,12 @@
 
         },
         "show_ans_popup": {
-            "enabled": false,
-            "text": "",
-            "image": {
-                "url": "optBase3.svg",
-                "location": "content"
-            },
-            "imgsrc": {
-                "url":"option3.svg",
-                "location":"content"
-            },
-            "sound": ""
-        },
+            "video": {
+               "url":"video.ogv",
+               "location": "content"
+            }
+         },
         
- 
         "right_ans_sound": {
             "enabled": true,
             "path": {
@@ -449,14 +445,8 @@
                 "url": "wrongFeedback.ogg",
                 "location": "content"
             }
-        },
-        "show_ans_sound": {
-            "enabled": true,
-            "path": {
-                "url": "showanswerFeedback.ogg",
-                "location": "content"
-            }
         }
+   
 
     }
 }

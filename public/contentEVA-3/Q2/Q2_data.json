@@ -792,17 +792,13 @@
             }
 
         },
-        "show_ans_popup": {
-            "enabled": false,
-            "text": "",
-            "videoAnimation": {
-                "url": "Main Animation Box_Without Shadow Animation Ka_02.ogg",
-                "location": "content"
-            },
-            "sound": ""
-        },
+		"show_ans_popup": {
+			"video": {
+			   "url":"video.ogv",
+			   "location": "content"
+			}
+		 },
         
- 
         "right_ans_sound": {
             "enabled": true,
             "path": {
@@ -820,13 +816,6 @@
                 "url": "wrongFeedback.ogg",
                 "location": "content"
             }
-        },
-        "show_ans_sound": {
-            "enabled": true,
-            "path": {
-                "url": "showanswerFeedback.ogg",
-                "location": "content"
-            }
-	}
+        }
 	}
 }

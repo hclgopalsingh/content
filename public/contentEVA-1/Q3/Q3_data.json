@@ -386,7 +386,12 @@
             }
 
         },
-         
+        "show_ans_popup": {
+            "video": {
+				"url":"video.ogv",
+				"location": "content"
+			 }
+         },
         "right_ans_sound": {
             "enabled": true,
             "path": {
@@ -402,13 +407,6 @@
             "enabled": true,
             "path": {
                 "url": "wrongFeedback.ogg",
-                "location": "content"
-            }
-        },
-        "show_ans_sound": {
-            "enabled": true,
-            "path": {
-                "url": "showanswerFeedback.ogg",
                 "location": "content"
             }
         }
