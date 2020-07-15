@@ -270,157 +270,272 @@
         },
         "sound": ""
     },
-    "options": [
-        {
-            "id": "001",
-            "matravalue": "ee",
-            "optBg": {
-                "url": "option1.png",
-                "location": "content"
-            },
-            "image": {
-                "url": "assets/images/letters/hindi/matra/ee.png",
-                "location": "assets"
-            },
-            "optBg_hover": {
-                "url": "option1_hover.png",
-                "location": "content"
-            },
-            "optBg_original": {
-                "url": "option1.png",
-                "location": "content"
-            },
-            "audio": {
-                "url": "Audioforka.ogg",
+    "options": {
+        "keypad": {
+            "background": {
+                "url": "../commonassets/keybase.png",
                 "location": "content"
             }
         },
-        {
-            "id": "002",
-            "matravalue": "oo",
-            "optBg": {
-                "url": "option2.png",
-                "location": "content"
+        "optionsArr": [
+            {
+                "id": "1",
+                "image": {
+                    "url": "../commonassets/key1.png",
+                    "location": "content"
+                },
+                "image_hover": {
+                    "url": "../commonassets/key1_hover.png",
+                    "location": "content"
+                },
+                "image_original": {
+                    "url": "../commonassets/key1.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
             },
-            "image": {
-                "url": "assets/images/letters/hindi/matra/oo.png",
-                "location": "assets"
+            {
+                "id": "2",
+                "image": {
+                    "url": "../commonassets/key2.png",
+                    "location": "content"
+                },
+                "image_hover": {
+                    "url": "../commonassets/key2_hover.png",
+                    "location": "content"
+                },
+                "image_original": {
+                    "url": "../commonassets/key2.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
             },
-            "optBg_hover": {
-                "url": "option2_hover.png",
-                "location": "content"
+            {
+                "id": "3",
+                "image": {
+                    "url": "../commonassets/key3.png",
+                    "location": "content"
+                },
+                "image_hover": {
+                    "url": "../commonassets/key3_hover.png",
+                    "location": "content"
+                },
+                "image_original": {
+                    "url": "../commonassets/key3.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
             },
-            "optBg_original": {
-                "url": "option2.png",
-                "location": "content"
+            {
+                "id": "4",
+                "image": {
+                    "url": "../commonassets/key4.png",
+                    "location": "content"
+                },
+                "image_hover": {
+                    "url": "../commonassets/key4_hover.png",
+                    "location": "content"
+                },
+                "image_original": {
+                    "url": "../commonassets/key4.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
             },
-            "audio": {
-                "url": "",
-                "location": "content"
+            {
+                "id": "5",
+                "image": {
+                    "url": "../commonassets/key5.png",
+                    "location": "content"
+                },
+                "image_hover": {
+                    "url": "../commonassets/key5_hover.png",
+                    "location": "content"
+                },
+                "image_original": {
+                    "url": "../commonassets/key5.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "6",
+                "image": {
+                    "url": "../commonassets/key6.png",
+                    "location": "content"
+                },
+                "image_hover": {
+                    "url": "../commonassets/key6_hover.png",
+                    "location": "content"
+                },
+                "image_original": {
+                    "url": "../commonassets/key6.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "7",
+                "image": {
+                    "url": "../commonassets/key7.png",
+                    "location": "content"
+                },
+                "image_hover": {
+                    "url": "../commonassets/key7_hover.png",
+                    "location": "content"
+                },
+                "image_original": {
+                    "url": "../commonassets/key7.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "8",
+                "image": {
+                    "url": "../commonassets/key8.png",
+                    "location": "content"
+                },
+                "image_hover": {
+                    "url": "../commonassets/key8_hover.png",
+                    "location": "content"
+                },
+                "image_original": {
+                    "url": "../commonassets/key8.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "9",
+                "image": {
+                    "url": "../commonassets/key9.png",
+                    "location": "content"
+                },
+                "image_hover": {
+                    "url": "../commonassets/key9_hover.png",
+                    "location": "content"
+                },
+                "image_original": {
+                    "url": "../commonassets/key9.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "0",
+                "image": {
+                    "url": "../commonassets/key0.png",
+                    "location": "content"
+                },
+                "image_hover": {
+                    "url": "../commonassets/key0_hover.png",
+                    "location": "content"
+                },
+                "image_original": {
+                    "url": "../commonassets/key0.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
             }
-        },
-        {
-            "id": "003",
-            "matravalue": "i",
-            "optBg": {
-                "url": "option3.png",
-                "location": "content"
-            },
-            "image": {
-                "url": "assets/images/letters/hindi/matra/i.png",
-                "location": "assets"
-            },
-            "optBg_hover": {
-                "url": "option3_hover.png",
-                "location": "content"
-            },
-            "optBg_original": {
-                "url": "option3.png",
-                "location": "content"
-            },
-            "audio": {
-                "url": "",
-                "location": "content"
-            }
-        }
-    ],
+        ]
+    },
     "quesObj": {
         "quesInstruction": {
             "url": "Instruction.ogg",
             "location": "content",
             "autoPlay": true
         },
-        "quesBackground": {
-            "url": "ques_base_box.png",
-            "location": "content"
-        },
-        "hintImg": {
-            "url": "hint.png",
-            "location": "content"
-        },
-        "showanswerpopup": {
-            "url": "answerimage.png",
-            "location": "content"
-        },
-        "letters": [
-            {
-                "url": "assets/images/letters/hindi/akshar/ka.png",
-                "location": "assets",
-                "hasmatra": false,
-                "matraadded": [],
-                "matravalue": "",
-                "matra": {
-                    "url": "",
-                    "location": "assets"
-                }
+        "tablet": {
+            "background": {
+                "url": "../commonassets/tablet.png",
+                "location": "content"
             },
-            {
-                "url": "assets/images/letters/hindi/akshar/ba.png",
-                "location": "assets",
-                "hasmatra": false,
-                "matraadded": [],
-                "matravalue": "",
-                "matra": {
-                    "url": "",
-                    "location": "assets"
-                },
-                "iscorrect_ans": true,
-                "matra_selected": 0,
-                "correct_ans": {
-                    "correct_ans_obj": {
-                        "oo": {
-                            "url": "bu_ans.png",
-                            "location": "content"
+            "questionText": [
+                {
+                    "rowid": "1",
+                    "rowValues": [
+                        {
+                            "id":"1",
+                            "value": "7"
+                        },
+                        {
+                            "id": "2",
+                            "value": "9"
                         }
-                    }
+                    ]
                 },
-                "correct_index": [
-                    "002"
-                ]
-            },
-            {
-                "url": "assets/images/letters/hindi/akshar/tta.png",
-                "location": "assets",
-                "hasmatra": false,
-                "matraadded": [],
-                "matravalue": "",
-                "matra": {
-                    "url": "",
-                    "location": "assets"
+                {
+                    "rowid": "2",
+                    "rowValues": [
+                        {
+                            "id": "1",
+                            "url": "../commonassets/multiply.png",
+                            "location": "content",
+                            "operator": true,
+                            "blank": false
+                        },
+                        {
+                            "id": "2",
+                            "value": "5"
+                        }
+                    ],
+                    "bottomLine": true
+                },
+                {
+                    "rowid": "3",
+                    "rowValues": [
+                        {
+                            "id":"1",
+                            "value": "",
+                            "operator": false,
+                            "blank": true,
+                            "correctValue": "3",
+                            "blinkIndex":"0"
+                        },
+                        {
+                            "id": "2",
+                            "value": "9"
+                        },
+                        {
+                            "id": "3",
+                            "value": "5"
+                        }
+                    ],
+                    "bottomLine": true
                 }
-            },
-            {
-                "url": "assets/images/letters/hindi/akshar/ra.png",
-                "location": "assets",
-                "hasmatra": false,
-                "matraadded": [],
-                "matravalue": "",
-                "matra": {
-                    "url": "",
-                    "location": "assets"
-                }
-            }
-        ]
+            ]
+        }
     },
     "feedback": {
         "popupassets": {
@@ -489,17 +604,10 @@
             "url": "assets/images/EVAGlobal/clap.ogg",
             "location": "assets"
         },
-        "wrong_ans_sound_akshar": {
+        "wrong_ans_sound": {
             "enabled": true,
             "path": {
-                "url": "wrongFeedbackOnAkshar.ogg",
-                "location": "content"
-            }
-        },
-        "wrong_ans_sound_matra": {
-            "enabled": true,
-            "path": {
-                "url": "wrongFeedbackOnMatra.ogg",
+                "url": "wrongFeedback.ogg",
                 "location": "content"
             }
         },

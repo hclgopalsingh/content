@@ -1,6 +1,5 @@
 {
     "id": "Q001",
-    "imgCount": "18",
     "instructiontext": "म से शुरू होने वाला चित्र पहचानें।",
     "speaker": {
         "enabled": "",
@@ -279,7 +278,7 @@
         },
         "optionsArr": [
             {
-                "id": "001",
+                "id": "1",
                 "image": {
                     "url": "../commonassets/key1.png",
                     "location": "content"
@@ -298,7 +297,7 @@
                 }
             },
             {
-                "id": "002",
+                "id": "2",
                 "image": {
                     "url": "../commonassets/key2.png",
                     "location": "content"
@@ -317,7 +316,7 @@
                 }
             },
             {
-                "id": "003",
+                "id": "3",
                 "image": {
                     "url": "../commonassets/key3.png",
                     "location": "content"
@@ -336,7 +335,7 @@
                 }
             },
             {
-                "id": "004",
+                "id": "4",
                 "image": {
                     "url": "../commonassets/key4.png",
                     "location": "content"
@@ -355,7 +354,7 @@
                 }
             },
             {
-                "id": "005",
+                "id": "5",
                 "image": {
                     "url": "../commonassets/key5.png",
                     "location": "content"
@@ -374,7 +373,7 @@
                 }
             },
             {
-                "id": "006",
+                "id": "6",
                 "image": {
                     "url": "../commonassets/key6.png",
                     "location": "content"
@@ -393,7 +392,7 @@
                 }
             },
             {
-                "id": "007",
+                "id": "7",
                 "image": {
                     "url": "../commonassets/key7.png",
                     "location": "content"
@@ -412,7 +411,7 @@
                 }
             },
             {
-                "id": "008",
+                "id": "8",
                 "image": {
                     "url": "../commonassets/key8.png",
                     "location": "content"
@@ -431,7 +430,7 @@
                 }
             },
             {
-                "id": "009",
+                "id": "9",
                 "image": {
                     "url": "../commonassets/key9.png",
                     "location": "content"
@@ -450,7 +449,7 @@
                 }
             },
             {
-                "id": "010",
+                "id": "0",
                 "image": {
                     "url": "../commonassets/key0.png",
                     "location": "content"
@@ -481,182 +480,119 @@
                 "url": "../commonassets/tablet.png",
                 "location": "content"
             },
-            "image": {
-                "url": "refImage.png",
-                "location": "content"
-            },
             "questionText": [
                 {
+                    "rowid": "1",
                     "rowValues": [
                         {
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets",
+                            "id":"1",
                             "value": "9"
                         },
                         {
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets",
+                            "id": "2",
                             "value": "9"
                         }
                     ]
                 },
                 {
+                    "rowid": "2",
                     "rowValues": [
                         {
+                            "id":"1",
                             "url": "../commonassets/multiply.png",
-                            "location": "content"
+                            "location": "content",
+                            "operator": true,
+                            "blank": false
                         },
                         {
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets",
+                            "id": "2",
                             "value": "9"
                         },
                         {
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets",
+                            "id": "3",
                             "value": "9"
                         }
-                    ]
-                },
-                {
+                    ],
                     "bottomLine": true
                 },
                 {
+                    "rowid": "3",
                     "rowValues": [
                         {
-                            "url": "../commonassets/multiply.png",
-                            "location": "content",
-                            "value": "1"
-                        },
-                        {
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets",
-                            "value": "9"
-                        },
-                        {
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets",
+                            "id":"1",
                             "value": "8"
+                        },
+                        {
+                            "id": "2",
+                            "value": "",
+                            "operator": false,
+                            "blank": true,
+                            "correctValue": "9",
+                            "blinkIndex":"1"
+                        },
+                        {
+                            "id": "3",
+                            "value": "1"
                         }
                     ]
                 },
                 {
+                    "rowid": "4",
                     "rowValues": [
                         {
-                            "url": "../commonassets/multiply.png",
-                            "location": "content"
+                            "id":"1",
+                            "value": "8"
                         },
                         {
-                            "url": "../commonassets/multiply.png",
-                            "location": "content",
-                            "value": "1"
-                        },
-                        {
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets",
+                            "id": "2",
                             "value": "9"
                         },
                         {
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets",
-                            "value": "8"
+                            "id": "3",
+                            "value": "1"
+                        },
+                        {
+                            "id": "4",
+                            "url": "../commonassets/multiply.png",
+                            "location": "content",
+                            "operator": true,
+                            "blank": false
                         }
-                    ]
-                },
-                {
+                    ],
                     "bottomLine": true
                 },
                 {
+                    "rowid": "5",
                     "rowValues": [
                         {
-                            "url": "../commonassets/multiply.png",
-                            "location": "content",
-                            "value": "1"
+                            "id":"1",
+                            "value": "9"
                         },
                         {
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets",
+                            "id": "2",
+                            "value": "",
+                            "operator": false,
+                            "blank": true,
+                            "correctValue": "8",
+                            "blinkIndex":"2"
+                        },
+                        {
+                            "id": "3",
                             "value": "0"
                         },
                         {
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets",
-                            "value": "8"
-                        },
-                        {
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets",
-                            "value": "9"
+                            "id": "4",
+                            "value": "",
+                            "operator": false,
+                            "blank": true,
+                            "correctValue": "1",
+                            "blinkIndex":"0"
                         }
-                    ]
-                },
-                {
+                    ],
                     "bottomLine": true
                 }
             ]
-        },
-        "questionText": [
-            {
-                "image": {
-                    "url": "",
-                    "location": ""
-                },
-                "background": {
-                    "url": "quesBase.png",
-                    "location": "content"
-                }
-            },
-            {
-                "image": {
-                    "url": "",
-                    "location": ""
-                },
-                "background": {
-                    "url": "quesBase.png",
-                    "location": "content"
-                }
-            },
-            {
-                "image": {
-                    "url": "",
-                    "location": ""
-                },
-                "background": {
-                    "url": "quesBase.png",
-                    "location": "content"
-                }
-            },
-            {
-                "image": {
-                    "url": "",
-                    "location": ""
-                },
-                "background": {
-                    "url": "quesBase.png",
-                    "location": "content"
-                }
-            },
-            {
-                "image": {
-                    "url": "",
-                    "location": ""
-                },
-                "background": {
-                    "url": "quesBase.png",
-                    "location": "content"
-                }
-            },
-            {
-                "image": {
-                    "url": "",
-                    "location": ""
-                },
-                "background": {
-                    "url": "quesBase.png",
-                    "location": "content"
-                }
-            }
-        ]
+        }
     },
     "feedback": {
         "popupassets": {
@@ -725,17 +661,10 @@
             "url": "assets/images/EVAGlobal/clap.ogg",
             "location": "assets"
         },
-        "wrong_ans_sound_akshar": {
+        "wrong_ans_sound": {
             "enabled": true,
             "path": {
-                "url": "wrongFeedbackOnAkshar.ogg",
-                "location": "content"
-            }
-        },
-        "wrong_ans_sound_matra": {
-            "enabled": true,
-            "path": {
-                "url": "wrongFeedbackOnMatra.ogg",
+                "url": "wrongFeedback.ogg",
                 "location": "content"
             }
         },
