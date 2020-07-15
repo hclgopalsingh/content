@@ -10,10 +10,6 @@
       "url": "assets/instructionAudio.ogg",
       "location": "content"
     },
-    "narrator": {
-      "url": "assets/narrator.ogg",
-      "location": "content"
-    },
     "background": {
 			"urlglobal": "global/tabs/bg/bg_1.svg",
 			"location": "theme"
@@ -298,7 +294,7 @@
     "quesInstruction": {
       "url": "assets/instructionAudio.ogg",
       "location": "content",
-      "autoPlay": true
+      "autoPlay": false
     },
     "submitRequired": true,
     "replayRequired": true
