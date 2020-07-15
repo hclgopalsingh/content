@@ -1,5 +1,40 @@
 {	
 	"instructiontext": "म से शुरू होने वाला चित्र पहचानें।",
+	"speaker": {
+        "enabled": "",
+        "imgsrc": {
+            "url": "assets/images/EVAGlobal/speakerBtn.svg",
+            "location": "assets"
+        },
+        "imgorigional": {
+            "url": "assets/images/EVAGlobal/speakerBtn.svg",
+            "location": "assets"
+        },
+        "imghover": {
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
+            "location": "assets"
+        },
+        "imgactive": {
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
+            "location": "assets"
+        },
+        "wave1": {
+            "url": "assets/images/EVAGlobal/speakerWave1.svg",
+            "location": "assets"
+        },
+        "wave2": {
+            "url": "assets/images/EVAGlobal/speakerWave2.svg",
+            "location": "assets"
+        },
+        "wave3": {
+            "url": "assets/images/EVAGlobal/speakerWave3.svg",
+            "location": "assets"
+        },
+        "sound": {
+            "url": "Question.ogg",
+            "location": "content"
+        }
+    },
 	"commonassets": {
 		"tooltipImg": {
 			"url": "assets/images/tooltip.svg",
@@ -103,6 +138,10 @@
 				  "location": "assets"
 			  },
 			  "submit_btn": {
+                "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+                "location": "assets"
+			},
+			"submitBtnDisabled": {
                 "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
                 "location": "assets"
             },
@@ -3070,17 +3109,17 @@
 			"location": "content",
 			"autoPlay": true
 		},
-		"localMachineDate":true,
+		"localMachineDate":false,
 		"givenDate": {
-		  "year":"",
-		  "month":"",
+		  "year":"2020",
+		  "month":"June",
 		  "date":""
 		},
 		"multi_date":true,
 		"multi_day":true,
-		"multi_month":true,
+		"multi_month":false,
 		"multi_year":false,
-		"disableyear":false,
+		"disableyear":true,
 		"disablemonth":false,
 		"disableweekDay":false,
 		"disableDate":false,
@@ -3108,6 +3147,40 @@
 		"correct_year":"",
 		"correct_month":"October",
 		"correct_weekDay":"",
+		"right_date":[7,14,21,28],
+		"right_month":["July"],
+		"right_weekDay" : [],
+		"right_year":[],
+		"confirmation_popUp" : {
+			"close_button": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_origional": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_hover": {
+                "url": "assets/images/EVAGlobal/popupCloseBtnHover.svg",
+                "location": "assets"
+			},
+			"body":{
+				"url": "assets/images/EVAGlobal/confirmation_body.png",
+                "location": "assets"
+			},
+			"yesButton":{
+				"url": "assets/images/EVAGlobal/yes.png",
+                "location": "assets"
+			},
+			"noButton":{
+				"url": "assets/images/EVAGlobal/no.png",
+                "location": "assets"
+			},
+			"btn_base":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			}
+		},
 		"style_header": {
 			"border": "solid .4vmin #85d222",
 			"border-top-left-radius": "20px",
