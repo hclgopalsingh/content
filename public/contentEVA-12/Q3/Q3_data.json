@@ -497,25 +497,25 @@
                     "rowValues": [
                         {
                             "id":"1",
-                            "url": "../commonassets/ikai.png",
+                            "url": "../commonassets/hazaar.png",
                             "location": "content",
                             "placevalue": true
                         },
                         {
                             "id": "2",
-                            "url": "../commonassets/dhai.png",
-                            "location": "content",
-                            "placevalue": true
-                        },
-                        {
-                            "id": "3",
                             "url": "../commonassets/sekada.png",
                             "location": "content",
                             "placevalue": true
                         },
                         {
+                            "id": "3",
+                            "url": "../commonassets/dhai.png",
+                            "location": "content",
+                            "placevalue": true
+                        },
+                        {
                             "id": "4",
-                            "url": "../commonassets/hazaar.png",
+                            "url": "../commonassets/ikai.png",
                             "location": "content",
                             "placevalue": true
                         }

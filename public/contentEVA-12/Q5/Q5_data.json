@@ -490,16 +490,6 @@
                 "location": "content"
             },
             "quesType": "divide",
-            "divisor": [
-                {
-                    "id": "1",
-                    "value": "1"
-                },
-                {
-                    "id": "2",
-                    "value": "0"
-                }
-            ],
             "questionText": [
                 {
                     "rowid": "1",
@@ -511,7 +501,11 @@
                     "rowValues": [
                         {
                             "id": "1",
-                            "value": "2"
+                            "value": "",
+                            "operator": false,
+                            "blank": true,
+                            "correctValue": "2",
+                            "blinkIndex":"0"
                         }
                     ]
                 },
@@ -565,7 +559,11 @@
                         },
                         {
                             "id": "3",
-                            "value": "0"
+                            "value": "",
+                            "operator": false,
+                            "blank": true,
+                            "correctValue": "0",
+                            "blinkIndex":"1"
                         }
                     ],
                     "bottomLine": true
@@ -575,7 +573,11 @@
                     "rowValues": [
                         {
                             "id": "1",
-                            "value": "0"
+                            "value": "",
+                            "operator": false,
+                            "blank": true,
+                            "correctValue": "0",
+                            "blinkIndex":"2"
                         },
                         {
                             "id": "2",
