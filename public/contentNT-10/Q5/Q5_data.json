@@ -54,24 +54,24 @@
 			"location": "theme"
 		},		
 		"opt_shadow": {
-			"urlglobal": "type_36/options/optshadow.png",
-			"location": "theme"
+			"url": "assets/options/optshadow.png",
+			"location": "content"
 		},
 		"speaker_img": {
-			"url": "assets/question/Speaker.png",
-			"location": "content"
+			"url": "question/speaker.png",
+			"location": "theme"
 		},		
 		"ref_base":{
-			"url":"assets/question/text_board.png",
-			"location":"content"
+			"url":"question/text_board.png",
+			"location":"theme"
 		},
 		"skip":{
-			"url":"assets/question/skip.png",
-			"location":"content"
+			"url":"question/skip.png",
+			"location":"theme"
 		},
 		"skip_hover":{
-			"url":"assets/question/skip_hover.png",
-			"location":"content"
+			"url":"question/skip_hover.png",
+			"location":"theme"
 		},	
 		"imgCount": "15",
 		"maxNosOpt": "7",
