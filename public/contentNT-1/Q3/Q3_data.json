@@ -10,10 +10,6 @@
             "url": "instructionAudio.ogg",
             "location": "content"
         },
-        "narrator": {
-            "url": "narrator.ogg",
-            "location": "content"
-        },
         "background": {
 			"urlglobal": "global/tabs/bg/bg_3.svg",
 			"location": "theme"
@@ -127,9 +123,6 @@
             "url": "SkipButtonHover.svg",
             "location": "content"
         },
-        "bgColor": {
-            "background": "#000000"
-        },
         "quesInstruction": {
             "url": "narrator.ogg",
             "location": "content",
@@ -139,7 +132,13 @@
             "url": "quesImg.png",
             "location": "content"
         },
-        "quesType": "video"
+        "quesType": "imagewithAudio",
+        "quesAudio":{
+            "url": "Remarks.ogg",
+            "location": "content" 
+        },
+        "submitRequired": true,
+        "replayRequired": false
     },
 
 

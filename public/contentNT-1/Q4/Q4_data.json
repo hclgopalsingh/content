@@ -10,10 +10,6 @@
             "url": "instructionAudio.ogg",
             "location": "content"
         },
-        "narrator": {
-            "url": "narrator.ogg",
-            "location": "content"
-        },
         "background": {
 			"urlglobal": "global/tabs/bg/bg_4.svg",
 			"location": "theme"

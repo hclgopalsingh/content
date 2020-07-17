@@ -8,11 +8,6 @@
         },
         "instruction": {
             "url": "instructionAudio.ogg",
-            "location": "content",
-            "autoplay":true
-        },
-        "narrator": {
-            "url": "narrator.ogg",
             "location": "content"
         },
         "background": {
@@ -257,6 +252,11 @@
         "quesImg": {
             "url": "quesImg.png",
             "location": "content"
+        },
+        "quesInstruction": {
+            "url": "narrator.ogg",
+            "location": "content",
+            "autoPlay": true
         },
         "quesType": "image",
         "submitRequired": true,
