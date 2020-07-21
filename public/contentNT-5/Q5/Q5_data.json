@@ -155,7 +155,7 @@
     "quesInstruction": {
       "url": "assets/instructionAudio.ogg",
       "location": "content",
-      "autoPlay": true
+      "autoPlay": false
     },
     "submitRequired":false,
     "replayRequired":false
