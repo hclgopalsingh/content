@@ -487,11 +487,15 @@
                     "rowValues": [
                         {
                             "id":"1",
-                            "value": "7"
+                            "value": "7",
+                            "url": "assets/images/numbers/cropped/00007.png",
+                            "location": "assets"
                         },
                         {
                             "id": "2",
-                            "value": "9"
+                            "value": "9",
+                            "url": "assets/images/numbers/cropped/00009.png",
+                            "location": "assets"
                         }
                     ]
                 },
@@ -507,7 +511,9 @@
                         },
                         {
                             "id": "2",
-                            "value": "5"
+                            "value": "5",
+                            "url": "assets/images/numbers/cropped/00005.png",
+                            "location": "assets"
                         }
                     ],
                     "bottomLine": true
@@ -520,16 +526,22 @@
                             "value": "",
                             "operator": false,
                             "blank": true,
+                            "url": "assets/images/numbers/cropped/00003.png",
+                            "location": "assets",
                             "correctValue": "3",
                             "blinkIndex":"0"
                         },
                         {
                             "id": "2",
-                            "value": "9"
+                            "value": "9",
+                            "url": "assets/images/numbers/cropped/00009.png",
+                            "location": "assets"
                         },
                         {
                             "id": "3",
-                            "value": "5"
+                            "value": "5",
+                            "url": "assets/images/numbers/cropped/00005.png",
+                            "location": "assets"
                         }
                     ],
                     "bottomLine": true

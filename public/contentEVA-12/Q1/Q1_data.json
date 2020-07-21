@@ -486,11 +486,15 @@
                     "rowValues": [
                         {
                             "id":"1",
-                            "value": "9"
+                            "value": "9",
+                            "url": "assets/images/numbers/cropped/00009.png",
+                            "location": "assets"
                         },
                         {
                             "id": "2",
-                            "value": "9"
+                            "value": "9",
+                            "url": "assets/images/numbers/cropped/00009.png",
+                            "location": "assets"
                         }
                     ]
                 },
@@ -506,11 +510,15 @@
                         },
                         {
                             "id": "2",
-                            "value": "9"
+                            "value": "9",
+                            "url": "assets/images/numbers/cropped/00009.png",
+                            "location": "assets"
                         },
                         {
                             "id": "3",
-                            "value": "9"
+                            "value": "9",
+                            "url": "assets/images/numbers/cropped/00009.png",
+                            "location": "assets"
                         }
                     ],
                     "bottomLine": true
@@ -520,19 +528,25 @@
                     "rowValues": [
                         {
                             "id":"1",
-                            "value": "8"
+                            "value": "8",
+                            "url": "assets/images/numbers/cropped/00008.png",
+                            "location": "assets"
                         },
                         {
                             "id": "2",
                             "value": "",
                             "operator": false,
                             "blank": true,
+                            "url": "assets/images/numbers/cropped/00009.png",
+                            "location": "assets",
                             "correctValue": "9",
                             "blinkIndex":"1"
                         },
                         {
                             "id": "3",
-                            "value": "1"
+                            "value": "1",
+                            "url": "assets/images/numbers/cropped/00001.png",
+                            "location": "assets"
                         }
                     ]
                 },
@@ -541,15 +555,21 @@
                     "rowValues": [
                         {
                             "id":"1",
-                            "value": "8"
+                            "value": "8",
+                            "url": "assets/images/numbers/cropped/00008.png",
+                            "location": "assets"
                         },
                         {
                             "id": "2",
-                            "value": "9"
+                            "value": "9",
+                            "url": "assets/images/numbers/cropped/00009.png",
+                            "location": "assets"
                         },
                         {
                             "id": "3",
-                            "value": "1"
+                            "value": "1",
+                            "url": "assets/images/numbers/cropped/00001.png",
+                            "location": "assets"
                         },
                         {
                             "id": "4",
@@ -566,25 +586,33 @@
                     "rowValues": [
                         {
                             "id":"1",
-                            "value": "9"
+                            "value": "9",
+                            "url": "assets/images/numbers/cropped/00009.png",
+                            "location": "assets"
                         },
                         {
                             "id": "2",
                             "value": "",
                             "operator": false,
                             "blank": true,
+                            "url": "assets/images/numbers/cropped/00008.png",
+                            "location": "assets",
                             "correctValue": "8",
                             "blinkIndex":"2"
                         },
                         {
                             "id": "3",
-                            "value": "0"
+                            "value": "0",
+                            "url": "assets/images/numbers/cropped/00000.png",
+                            "location": "assets"
                         },
                         {
                             "id": "4",
                             "value": "",
                             "operator": false,
                             "blank": true,
+                            "url": "assets/images/numbers/cropped/00001.png",
+                            "location": "assets",
                             "correctValue": "1",
                             "blinkIndex":"0"
                         }

@@ -490,24 +490,61 @@
                     "rowValues": [
                         {
                             "id":"1",
-                            "value": "9"
+                            "url": "../commonassets/hazaar.png",
+                            "location": "content",
+                            "placevalue": true
                         },
                         {
                             "id": "2",
-                            "value": "5"
+                            "url": "../commonassets/sekada.png",
+                            "location": "content",
+                            "placevalue": true
                         },
                         {
                             "id": "3",
-                            "value": "6"
+                            "url": "../commonassets/dhai.png",
+                            "location": "content",
+                            "placevalue": true
                         },
                         {
                             "id": "4",
-                            "value": "2"
+                            "url": "../commonassets/ikai.png",
+                            "location": "content",
+                            "placevalue": true
                         }
                     ]
                 },
                 {
                     "rowid": "2",
+                    "rowValues": [
+                        {
+                            "id":"1",
+                            "value": "9",
+                            "url": "assets/images/numbers/cropped/00009.png",
+                            "location": "assets"
+                        },
+                        {
+                            "id": "2",
+                            "value": "5",
+                            "url": "assets/images/numbers/cropped/00005.png",
+                            "location": "assets"
+                        },
+                        {
+                            "id": "3",
+                            "value": "6",
+                            "url": "assets/images/numbers/cropped/00006.png",
+                            "location": "assets"
+                        },
+                        {
+                            "id": "4",
+                            "value": "2",
+                            "url": "assets/images/numbers/cropped/00002.png",
+                            "location": "assets"
+                        }
+                    ]
+                },
+                {
+                    "rowid": "3",
                     "rowValues": [
                         {
                             "id":"1",
@@ -518,51 +555,67 @@
                         },
                         {
                             "id": "2",
-                            "value": "7"
+                            "value": "7",
+                            "url": "assets/images/numbers/cropped/00007.png",
+                            "location": "assets"
                         },
                         {
                             "id": "3",
                             "value": "",
                             "operator": false,
                             "blank": true,
+                            "url": "assets/images/numbers/cropped/00002.png",
+                            "location": "assets",
                             "correctValue": "2",
                             "blinkIndex":"1"
                         },
                         {
                             "id": "4",
-                            "value": "2"
+                            "value": "2",
+                            "url": "assets/images/numbers/cropped/00002.png",
+                            "location": "assets"
                         },
                         {
                             "id": "5",
-                            "value": "1"
+                            "value": "9",
+                            "url": "assets/images/numbers/cropped/00009.png",
+                            "location": "assets"
                         }
                     ],
                     "bottomLine": true
                 },
                 {
-                    "rowid": "3",
+                    "rowid": "4",
                     "rowValues": [
                         {
                             "id":"1",
                             "value": "",
                             "operator": false,
                             "blank": true,
+                            "url": "assets/images/numbers/cropped/00002.png",
+                            "location": "assets",
                             "correctValue": "2",
                             "blinkIndex":"2"
                         },
                         {
                             "id": "2",
-                            "value": "3"
+                            "value": "3",
+                            "url": "assets/images/numbers/cropped/00003.png",
+                            "location": "assets"
                         },
                         {
                             "id": "3",
-                            "value": "4"
+                            "value": "4",
+                            "url": "assets/images/numbers/cropped/00004.png",
+                            "location": "assets"
                         },
                         {
                             "id": "4",
                             "value": "",
                             "operator": false,
                             "blank": true,
+                            "url": "assets/images/numbers/cropped/00001.png",
+                            "location": "assets",
                             "correctValue": "1",
                             "blinkIndex":"0"
                         }
