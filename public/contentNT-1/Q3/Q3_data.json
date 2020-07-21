@@ -133,6 +133,7 @@
             "location": "content"
         },
         "quesType": "imagewithAudio",
+        "timegap":2000,
         "quesAudio":{
             "url": "Remarks.ogg",
             "location": "content" 

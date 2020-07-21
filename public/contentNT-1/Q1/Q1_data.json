@@ -138,79 +138,6 @@
                         "url": "opt5.png",
                         "location": "content"
                     }
-                },
-                {
-                    "id": "006",
-                    "imgsrc": {
-                        "url": "opt6.png",
-                        "location": "content"
-                    },
-                    "imgsrc_audio": {
-                        "url": "option6.ogg",
-                        "location": "content"
-                    },
-                    "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio6.ogg",
-                        "location": "content"
-                    },
-                    "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio6.ogg",
-                        "location": "content"
-                    },
-                    "imgsrc_original": {
-                        "url": "opt6.png",
-                        "location": "content"
-                    }
-                }
-            ]
-        },
-        {
-            "optionsArr": [
-                {
-                    "id": "007",
-                    "imgsrc": {
-                        "url": "opt7.png",
-                        "location": "content"
-                    },
-                    "imgsrc_audio": {
-                        "url": "option7.ogg",
-                        "location": "content"
-                    },
-                    "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio7.ogg",
-                        "location": "content"
-                    },
-                    "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio7.ogg",
-                        "location": "content"
-                    },
-                    "imgsrc_original": {
-                        "url": "opt7.png",
-                        "location": "content"
-                    }
-                },
-                {
-                    "id": "008",
-                    "imgsrc": {
-                        "url": "opt8.png",
-                        "location": "content"
-                    },
-                    "imgsrc_audio": {
-                        "url": "option8.ogg",
-                        "location": "content"
-                    },
-                    "imgrightfeedback_audio": {
-                        "url": "rightFeedbackAudio8.ogg",
-                        "location": "content"
-                    },
-                    "imgwrongfeedback_audio": {
-                        "url": "wrongFeedbackAudio8.ogg",
-                        "location": "content"
-                    },
-                    "imgsrc_original": {
-                        "url": "opt8.png",
-                        "location": "content"
-                    }
                 }
             ]
         }
@@ -246,9 +173,6 @@
             "url": "SkipButtonHover.svg",
             "location": "content"
         },
-        "bgColor": {
-            "background": "#000000"
-        },
         "quesImg": {
             "url": "quesImg.png",
             "location": "content"
@@ -258,7 +182,8 @@
             "location": "content",
             "autoPlay": true
         },
-        "quesType": "image",
+        "quesType": "video",
+        "timegap":2000,
         "submitRequired": true,
         "replayRequired": false
     },
@@ -266,7 +191,7 @@
 
 
     "feedback": {
-        "correct_ans_index": [ "001" ],
+        "correct_ans_index": [ "005" ],
         "style_header": {
             "border": "solid .4vmin #85d222",
             "border-top-left-radius": "20px",
@@ -347,29 +272,21 @@
         },
         "right_ans_popup": [
             {
-                "id": "001",
+                "id": "005",
                 "imgsrc": {
-                    "url": "opt1.png",
-                    "location": "content"
-                },
-                "imgsrc_hover": {
-                    "url": "",
-                    "location": "content"
-                },
-                "imgsrc_txt": {
-                    "url": "",
+                    "url": "opt5.png",
                     "location": "content"
                 },
                 "imgsrc_audio": {
-                    "url": "option1.ogg",
+                    "url": "option5.ogg",
                     "location": "content"
                 },
                 "imgrightfeedback_audio": {
-                    "url": "showAns_option1.ogg",
+                    "url": "showAns_option5.ogg",
                     "location": "content"
                 },
                 "imgsrc_original": {
-                    "url": "opt1.png",
+                    "url": "opt5.png",
                     "location": "content"
                 }
             }
