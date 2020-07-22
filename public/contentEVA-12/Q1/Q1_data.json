@@ -534,7 +534,7 @@
                         },
                         {
                             "id": "2",
-                            "value": "",
+                            "value": "9",
                             "operator": false,
                             "blank": true,
                             "url": "assets/images/numbers/cropped/00009.png",
@@ -592,7 +592,7 @@
                         },
                         {
                             "id": "2",
-                            "value": "",
+                            "value": "8",
                             "operator": false,
                             "blank": true,
                             "url": "assets/images/numbers/cropped/00008.png",
@@ -608,7 +608,7 @@
                         },
                         {
                             "id": "4",
-                            "value": "",
+                            "value": "1",
                             "operator": false,
                             "blank": true,
                             "url": "assets/images/numbers/cropped/00001.png",
