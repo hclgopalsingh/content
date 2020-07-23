@@ -4,30 +4,52 @@
 	"id": "Q001",
 	"ques": [{
 		"sound": {
-			"url": "assets/options/Aa.ogg",
+			"url": "assets/options/2.ogg",
 			"location": "content"
 		},
 		"index": "0"
 	}, {
 		"sound": {
-			"url": "assets/options/Da.ogg",
+			"url": "assets/options/4.ogg",
 			"location": "content"
 		},
 		"index": "1"
 	}, {
 		"sound": {
-			"url": "assets/options/Ga.ogg",
+			"url": "assets/options/6.ogg",
 			"location": "content"
 		},
 		"index": "2"
 	},
 	{
 		"sound": {
-			"url": "assets/options/Na.ogg",
+			"url": "assets/options/8.ogg",
 			"location": "content"
 		},
 		"index": "3"
-	}],
+    },
+    {
+		"sound": {
+			"url": "assets/options/10.ogg",
+			"location": "content"
+		},
+		"index": "4"
+    },
+    {
+		"sound": {
+			"url": "assets/options/12.ogg",
+			"location": "content"
+		},
+		"index": "5"
+    },
+    {
+		"sound": {
+			"url": "assets/options/14.ogg",
+			"location": "content"
+		},
+		"index": "6"
+	}
+    ],
 	"commonassets": {		
 		"instruction_bg": {
             "url": "assets/instructionBar.png",
@@ -86,11 +108,11 @@
 			"custom_id": "0",
 			"index": "0",
 			"imgsrc": {
-				"url": "assets/options/Aa.png",
+				"url": "assets/options/2.png",
 				"location": "content"
 			},
 			"bgImgsrc": {
-				"url": "assets/options/Green.png",
+				"url": "assets/options/Apple.png",
 				"location": "content"
 			}
 		},
@@ -99,11 +121,11 @@
 			"custom_id": "1",
 			"index": "1",
 			"imgsrc": {
-				"url": "assets/options/Da.png",
+				"url": "assets/options/4.png",
 				"location": "content"
 			},
 			"bgImgsrc": {
-				"url": "assets/options/Pink.png",
+				"url": "assets/options/Apple.png",
 				"location": "content"
 			}
 		},
@@ -113,23 +135,59 @@
 			"custom_id": "2",
 			"index": "2",
 			"imgsrc": {
-				"url": "assets/options/Ga.png",
+				"url": "assets/options/6.png",
 				"location": "content"
 			},
 			"bgImgsrc": {
-				"url": "assets/options/Red.png",
+				"url": "assets/options/Apple.png",
 				"location": "content"
 			}
 		},
-{
+        {
 			"id": "004",
 			"custom_id": "3",
 			"imgsrc": {
-				"url": "assets/options/Na.png",
+				"url": "assets/options/8.png",
 				"location": "content"
 			},
 			"bgImgsrc": {
-				"url": "assets/options/Purple.png",
+				"url": "assets/options/Apple.png",
+				"location": "content"
+			}
+        },
+        {
+			"id": "005",
+			"custom_id": "4",
+			"imgsrc": {
+				"url": "assets/options/10.png",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "assets/options/Apple.png",
+				"location": "content"
+			}
+        },
+        {
+			"id": "006",
+			"custom_id": "5",
+			"imgsrc": {
+				"url": "assets/options/12.png",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "assets/options/Apple.png",
+				"location": "content"
+			}
+        },
+        {
+			"id": "007",
+			"custom_id": "6",
+			"imgsrc": {
+				"url": "assets/options/14.png",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "assets/options/Apple.png",
 				"location": "content"
 			}
 		}
@@ -179,7 +237,7 @@
             "border-bottom-right-radius": "20px",
             "border-top": "none",
             "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
-        },               
+        },              
         "popup_commmon_imgs": {
             "bg_img": {
                 "url": "",

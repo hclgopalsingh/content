@@ -27,6 +27,18 @@
 			"location": "content"
 		},
 		"index": "3"
+	},{
+		"sound": {
+			"url": "assets/options/Ma.ogg",
+			"location": "content"
+		},
+		"index": "4"
+	},{
+		"sound": {
+			"url": "assets/options/La.ogg",
+			"location": "content"
+		},
+		"index": "5"
 	}],
 	"commonassets": {		
 		"instruction_bg": {
@@ -76,7 +88,7 @@
 		"imgCount": "15",
 		"maxNosOpt": "7",
 		"isFirstQues": false,
-		"noOfQues": "4",
+		"noOfQues": "6",
 		"textRemoveTime": "4000"
 
 	},
@@ -117,11 +129,11 @@
 				"location": "content"
 			},
 			"bgImgsrc": {
-				"url": "assets/options/Red.png",
+				"url": "assets/options/Yellow.png",
 				"location": "content"
 			}
 		},
-{
+        {
 			"id": "004",
 			"custom_id": "3",
 			"imgsrc": {
@@ -130,6 +142,28 @@
 			},
 			"bgImgsrc": {
 				"url": "assets/options/Purple.png",
+				"location": "content"
+			}
+		},{
+			"id": "005",
+			"custom_id": "4",
+			"imgsrc": {
+				"url": "assets/options/Ma.png",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "assets/options/Blue.png",
+				"location": "content"
+			}
+		},{
+			"id": "006",
+			"custom_id": "5",
+			"imgsrc": {
+				"url": "assets/options/La.png",
+				"location": "content"
+			},
+			"bgImgsrc": {
+				"url": "assets/options/Orange.png",
 				"location": "content"
 			}
 		}
