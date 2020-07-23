@@ -1,5 +1,5 @@
 {	
-	"instructiontext": "म से शुरू होने वाला चित्र पहचानें।",
+	"instructiontext": "ये कौन सा महीना है और इसमें कुल कितने इतवार हैं",
 	"speaker": {
         "enabled": "",
         "imgsrc": {
@@ -36,6 +36,38 @@
         }
     },
 	"commonassets": {
+		"aagey_badhein": {
+			"url": "assets/images/EVAGlobal/nextBtn.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_original": {
+			"url": "assets/images/EVAGlobal/nextBtn.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_hover": {
+			"url": "assets/images/EVAGlobal/nextBtnHover.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_blink": {
+			"url": "assets/images/EVAGlobal/nextBtnBlink.svg",
+			"location": "assets"
+		},
+		"peechey_jayein": {
+			"url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+			"location": "assets"
+		},
+		"peechey_jayein_disabled": {
+			"url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+			"location": "assets"
+		},
+		"peechey_jayein_original": {
+			"url": "assets/images/EVAGlobal/prevBtn.svg",
+			"location": "assets"
+		},
+		"peechey_jayein_hover": {
+			"url": "assets/images/EVAGlobal/prevBtnHover.svg",
+			"location": "assets"
+		},
 		"tooltipImg": {
 			"url": "assets/images/tooltip.svg",
 			"location": "assets"
@@ -101,6 +133,7 @@
           "location":"assets"
        },
 		"ques_control": {
+			"isLastQues":false,
 			"blink_btn1": {
 				"url": "blink_btn1.svg",
 				"location": "content"
@@ -109,34 +142,38 @@
 				"url": "blink_btn2.svg",
 				"location": "content"
 			},
-			"peechey_jayein":{
-				"url":"assets/images/EVAGlobal/prevBtn.svg",
-				"location":"assets"
-			 },
-			 "peechey_jayein_original":{
-				"url":"assets/images/EVAGlobal/prevBtn.svg",
-				"location":"assets"
-			 },
-			 "peechey_jayein_hover":{
-				"url":"assets/images/EVAGlobal/prevBtn.svg",
-				"location":"assets"
-			 },
-			 "aagey_badhein_hover": {
-			  "url": "assets/images/EVAGlobal/nextBtn.svg",
-			  "location": "assets"
-			  },
-			  "aagey_badhein": {
-				  "url": "assets/images/EVAGlobal/nextBtn.svg",
-				  "location": "assets"
-			  },
-			  "aagey_badhein_original": {
-				  "url": "assets/images/EVAGlobal/nextBtn.svg",
-				  "location": "assets"
-			  },
-			  "aagey_badhein_blink": {
-				  "url": "assets/images/EVAGlobal/nextBtnBlink.svg",
-				  "location": "assets"
-			  },
+			"aagey_badhein": {
+                "url": "assets/images/EVAGlobal/nextBtn.svg",
+                "location": "assets"
+            },
+            "aagey_badhein_original": {
+                "url": "assets/images/EVAGlobal/nextBtn.svg",
+                "location": "assets"
+            },
+            "aagey_badhein_hover": {
+                "url": "assets/images/EVAGlobal/nextBtnHover.svg",
+                "location": "assets"
+            },
+            "aagey_badhein_blink": {
+                "url": "assets/images/EVAGlobal/nextBtnBlink.svg",
+                "location": "assets"
+            },
+            "peechey_jayein": {
+                "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+                "location": "assets"
+            },
+            "peechey_jayein_original": {
+                "url": "assets/images/EVAGlobal/prevBtn.svg",
+                "location": "assets"
+			},
+			"peechey_jayein_disabled": {
+				"url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+				"location": "assets"
+			},
+            "peechey_jayein_hover": {
+                "url": "assets/images/EVAGlobal/prevBtnHover.svg",
+                "location": "assets"
+            },
 			  "submit_btn": {
                 "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
                 "location": "assets"
@@ -443,6 +480,10 @@
 			"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
 			"location":"assets"
 		},
+		"weekDayImginpopUp_original":{
+			"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
+			"location":"assets"
+		},
 		 "weekDayOriginalImg":{
 			"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/weekDay01.png",
 			"location":"assets" 
@@ -502,6 +543,10 @@
 				"location":"assets" 
 			 },
 			 "weekDayImginpopUp":{
+				"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
+				"location":"assets"
+			},
+			"weekDayImginpopUp_original":{
 				"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
 				"location":"assets"
 			},
@@ -567,6 +612,10 @@
 				"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
 				"location":"assets"
 			},
+			"weekDayImginpopUp_original":{
+				"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
+				"location":"assets"
+			},
 			"weekDayOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay03.png",
 			   "location":"assets" 
@@ -626,6 +675,10 @@
 				"location":"assets" 
 			 },
 			 "weekDayImginpopUp":{
+				"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
+				"location":"assets"
+			},
+			"weekDayImginpopUp_original":{
 				"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
 				"location":"assets"
 			},
@@ -691,6 +744,10 @@
 				"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
 				"location":"assets"
 			},
+			"weekDayImginpopUp_original":{
+				"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
+				"location":"assets"
+			},
 			"weekDayOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay05.png",
 			   "location":"assets" 
@@ -753,6 +810,10 @@
 				"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
 				"location":"assets"
 			},
+			"weekDayImginpopUp_original":{
+				"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
+				"location":"assets"
+			},
 			"weekDayOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Weeks/Weeks Normal/weekDay06.png",
 			   "location":"assets" 
@@ -812,6 +873,10 @@
 				"location":"assets" 
 			 },
 			"weekDayImginpopUp":{
+				"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
+				"location":"assets"
+			},
+			"weekDayImginpopUp_original":{
 				"url":"assets/images/EVAGlobal/template_14/Weeks/Weeks Normal/base.png",
 				"location":"assets"
 			},
@@ -883,6 +948,10 @@
 		 "ImginpopUp":{
 			"url":"assets/images/EVAGlobal/template_14/Years/base.png",
 			"location":"assets"
+		},
+		"ImginpopUp_original":{
+			"url":"assets/images/EVAGlobal/template_14/Years/base.png",
+			"location":"assets"
 		}
 		},
 		{
@@ -943,6 +1012,10 @@
 				"location":"content" 
 			},
 			"ImginpopUp":{
+				"url":"assets/images/EVAGlobal/template_14/Years/base.png",
+				"location":"assets"
+			},
+			"ImginpopUp_original":{
 				"url":"assets/images/EVAGlobal/template_14/Years/base.png",
 				"location":"assets"
 			}
@@ -1007,6 +1080,10 @@
 			"ImginpopUp":{
 				"url":"assets/images/EVAGlobal/template_14/Years/base.png",
 				"location":"assets"
+			},
+			"ImginpopUp_original":{
+				"url":"assets/images/EVAGlobal/template_14/Years/base.png",
+				"location":"assets"
 			}
 		   },
 		   {
@@ -1067,6 +1144,10 @@
 				"location":"content" 
 			},
 			"ImginpopUp":{
+				"url":"assets/images/EVAGlobal/template_14/Years/base.png",
+				"location":"assets"
+			},
+			"ImginpopUp_original":{
 				"url":"assets/images/EVAGlobal/template_14/Years/base.png",
 				"location":"assets"
 			}
@@ -1131,6 +1212,10 @@
 			"ImginpopUp":{
 				"url":"assets/images/EVAGlobal/template_14/Years/base.png",
 				"location":"assets"
+			},
+			"ImginpopUp_original":{
+				"url":"assets/images/EVAGlobal/template_14/Years/base.png",
+				"location":"assets"
 			}
 		   },
 		   {
@@ -1191,6 +1276,10 @@
 				"location":"content" 
 			},
 			"ImginpopUp":{
+				"url":"assets/images/EVAGlobal/template_14/Years/base.png",
+				"location":"assets"
+			},
+			"ImginpopUp_original":{
 				"url":"assets/images/EVAGlobal/template_14/Years/base.png",
 				"location":"assets"
 			}
@@ -1255,6 +1344,10 @@
 			"ImginpopUp":{
 				"url":"assets/images/EVAGlobal/template_14/Years/base.png",
 				"location":"assets"
+			},
+			"ImginpopUp_original":{
+				"url":"assets/images/EVAGlobal/template_14/Years/base.png",
+				"location":"assets"
 			}
 		   }
 	],
@@ -1315,6 +1408,10 @@
 			"location":"assets" 
 		 },
 		"ImginpopUp":{
+			"url":"assets/images/EVAGlobal/template_14/Months/base.png",
+			"location":"assets"
+		},
+		"ImginpopUp_original":{
 			"url":"assets/images/EVAGlobal/template_14/Months/base.png",
 			"location":"assets"
 		},
@@ -1381,6 +1478,10 @@
 				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
 				"location":"assets"
 			},
+			"ImginpopUp_original":{
+				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
+				"location":"assets"
+			},
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month02.png",
 			   "location":"assets" 
@@ -1441,6 +1542,10 @@
 				"location":"assets" 
 			 },
 			 "ImginpopUp":{
+				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
+				"location":"assets"
+			},
+			"ImginpopUp_original":{
 				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
 				"location":"assets"
 			},
@@ -1507,6 +1612,10 @@
 				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
 				"location":"assets"
 			},
+			"ImginpopUp_original":{
+				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
+				"location":"assets"
+			},
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month04.png",
 			   "location":"assets" 
@@ -1567,6 +1676,10 @@
 				"location":"assets" 
 			 },
 			 "ImginpopUp":{
+				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
+				"location":"assets"
+			},
+			"ImginpopUp_original":{
 				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
 				"location":"assets"
 			},
@@ -1633,6 +1746,10 @@
 				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
 				"location":"assets"
 			},
+			"ImginpopUp_original":{
+				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
+				"location":"assets"
+			},
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month06.png",
 			   "location":"assets" 
@@ -1693,6 +1810,10 @@
 				"location":"assets" 
 			 },
 			 "ImginpopUp":{
+				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
+				"location":"assets"
+			},
+			"ImginpopUp_original":{
 				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
 				"location":"assets"
 			},
@@ -1759,6 +1880,10 @@
 				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
 				"location":"assets"
 			},
+			"ImginpopUp_original":{
+				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
+				"location":"assets"
+			},
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month08.png",
 			   "location":"assets" 
@@ -1819,6 +1944,10 @@
 				"location":"assets" 
 			 },
 			 "ImginpopUp":{
+				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
+				"location":"assets"
+			},
+			"ImginpopUp_original":{
 				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
 				"location":"assets"
 			},
@@ -1885,6 +2014,10 @@
 				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
 				"location":"assets"
 			},
+			"ImginpopUp_original":{
+				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
+				"location":"assets"
+			},
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month10.png",
 			   "location":"assets" 
@@ -1948,6 +2081,10 @@
 				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
 				"location":"assets"
 			},
+			"ImginpopUp_original":{
+				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
+				"location":"assets"
+			},
 			"monthOriginalImg":{
 			   "url":"assets/images/Template-22/English/Images English/Months/Months Normal/month11.png",
 			   "location":"assets" 
@@ -2008,6 +2145,10 @@
 				"location":"assets" 
 			 },
 			 "ImginpopUp":{
+				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
+				"location":"assets"
+			},
+			"ImginpopUp_original":{
 				"url":"assets/images/EVAGlobal/template_14/Months/base.png",
 				"location":"assets"
 			},
@@ -2076,6 +2217,10 @@
 			"location":"assets"  
 		 },
 		 "ImginpopUp":{
+			"url":"assets/images/EVAGlobal/template_14/Days/base.png",
+			"location":"assets"
+		},
+		"ImginpopUp_original":{
 			"url":"assets/images/EVAGlobal/template_14/Days/base.png",
 			"location":"assets"
 		}
@@ -3201,19 +3346,19 @@
 		"localMachineDate":false,
 		"givenDate": {
 		  "year":"2020",
-		  "month":"June",
-		  "date":"5"
+		  "month":"July",
+		  "date":""
 		},
 		"multi_date":true,
-		"multi_day":true,
-		"multi_month":true,
-		"multi_year":true,
-		"disableyear":false,
+		"multi_day":false,
+		"multi_month":false,
+		"multi_year":false,
+		"disableyear":true,
 		"disablemonth":false,
-		"disableweekDay":false,
+		"disableweekDay":true,
 		"disableDate":false,
 		"yearSelected":true,
-		"monthSelected":true,
+		"monthSelected":false,
 		"dateSelected":false,
 		"weekdaySelected":false,
 		"`quesImg": {
@@ -3232,14 +3377,11 @@
 
 
 	"feedback": {
-		"correct_date": "2",
-		"correct_year":"",
-		"correct_month":"October",
-		"correct_weekDay":"",
-		"right_date":[7,14,21,28],
-		"right_month":["January"],
-		"right_weekDay" : ["Sunday", "Monday"], 
-		"right_year":["2022"],
+		
+		"right_date":[5,12,19,26],
+		"right_month":["July"],
+		"right_weekDay" : [], 
+		"right_year":[],
 		"popupassets": {
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",
@@ -3300,6 +3442,30 @@
                 "location": "assets"
 			}
 		},
+		"show_ans_popup": {
+			"video": {
+			   "url":"video.ogv",
+			   "location": "content"
+			}
+		 },
+		 "right_ans_sound":{
+			"enabled":true,
+			"path":{
+			   "url":"rightFeedback.ogg",
+			   "location":"content"
+			}
+		 },
+		 "right_ans_clap_sound":{
+			"url":"assets/images/EVAGlobal/clap.ogg",
+			"location":"assets"
+		 },
+		 "wrong_ans_sound":{
+			"enabled":true,
+			"path":{
+			   "url":"wrongFeedback.ogg",
+			   "location":"content"
+			}
+		 },
 		"style_header": {
 			"border": "solid .4vmin #85d222",
 			"border-top-left-radius": "20px",
