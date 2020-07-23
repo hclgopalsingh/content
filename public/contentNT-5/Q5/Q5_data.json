@@ -153,7 +153,7 @@
   ],
   "quesObj": {
     "quesInstruction": {
-      "url": "assets/instructionAudio.ogg",
+      "url": "",
       "location": "content",
       "autoPlay": false
     },
