@@ -526,15 +526,11 @@
                             "operator": true,
                             "blank": false,
                             "isDivideImage": true
-                        }
-                    ]
-                },
-                {
-                    "rowid": "3",
-                    "rowValues": [
+                        },
                         {
                             "id": "1",
                             "value": "2",
+                            "isTensDigit": true,
                             "url": "assets/images/numbers/cropped/00002.png",
                             "location": "assets"
                         },
@@ -547,7 +543,7 @@
                     ]
                 },
                 {
-                    "rowid": "4",
+                    "rowid": "3",
                     "rowValues": [
                         {
                             "id": "1",
@@ -559,6 +555,7 @@
                         {
                             "id": "2",
                             "value": "2",
+                            "isTensDigit": true,
                             "url": "assets/images/numbers/cropped/00002.png",
                             "location": "assets"
                         },
@@ -577,7 +574,7 @@
                     "bottomLine": true
                 },
                 {
-                    "rowid": "5",
+                    "rowid": "4",
                     "rowValues": [
                         {
                             "id": "1",
@@ -588,11 +585,13 @@
                             "location": "assets",
                             "highlight": true,
                             "correctValue": "0",
+                            "isTensDigit": true,
                             "blinkIndex":"2"
                         },
                         {
                             "id": "2",
                             "value": "0",
+                            "isTensDigit": true,
                             "url": "assets/images/numbers/cropped/00000.png",
                             "location": "assets"
                         }
