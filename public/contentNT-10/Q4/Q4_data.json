@@ -33,12 +33,6 @@
 			"location": "content"
 		},
 		"index": "4"
-	},{
-		"sound": {
-			"url": "assets/options/La.ogg",
-			"location": "content"
-		},
-		"index": "5"
 	}],
 	"commonassets": {		
 		"instruction_bg": {
@@ -74,21 +68,21 @@
 			"location": "theme"
 		},		
 		"ref_base":{
-			"url":"question/text_board.png",
+			"url":"tabs/tab4/text_board.png",
 			"location":"theme"
 		},
 		"skip":{
-			"url":"question/skip.png",
+			"url":"question/skip.svg",
 			"location":"theme"
 		},
 		"skip_hover":{
-			"url":"question/skip_hover.png",
+			"url":"question/skip_hover.svg",
 			"location":"theme"
 		},	
 		"imgCount": "15",
 		"maxNosOpt": "7",
 		"isFirstQues": false,
-		"noOfQues": "6",
+		"noOfQues": "5",
 		"textRemoveTime": "4000"
 
 	},
@@ -155,19 +149,7 @@
 				"url": "assets/options/Blue.png",
 				"location": "content"
 			}
-		},{
-			"id": "006",
-			"custom_id": "5",
-			"imgsrc": {
-				"url": "assets/options/La.png",
-				"location": "content"
-			},
-			"bgImgsrc": {
-				"url": "assets/options/Orange.png",
-				"location": "content"
-			}
 		}
-
 
 	],
     "quesObj": 
