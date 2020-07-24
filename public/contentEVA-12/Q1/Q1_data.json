@@ -577,6 +577,7 @@
                             "url": "../commonassets/multiply.png",
                             "location": "content",
                             "operator": true,
+                            "escape": true,
                             "blank": false
                         }
                     ],
