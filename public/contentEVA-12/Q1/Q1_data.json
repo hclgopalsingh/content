@@ -1,6 +1,6 @@
 {
     "id": "Q001",
-    "instructiontext": "म से शुरू होने वाला चित्र पहचानें।",
+    "instructiontext": "नीचे दिए प्रश्न को हल करे।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -537,9 +537,10 @@
                             "value": "9",
                             "operator": false,
                             "blank": true,
-                            "url": "assets/images/numbers/cropped/00009.png",
+                            "url": "assets/images/numbers/pink_cropped/00009.png",
                             "location": "assets",
                             "correctValue": "9",
+                            "highlight": true,
                             "blinkIndex":"1"
                         },
                         {
@@ -595,8 +596,9 @@
                             "value": "8",
                             "operator": false,
                             "blank": true,
-                            "url": "assets/images/numbers/cropped/00008.png",
+                            "url": "assets/images/numbers/pink_cropped/00008.png",
                             "location": "assets",
+                            "highlight": true,
                             "correctValue": "8",
                             "blinkIndex":"2"
                         },
@@ -611,8 +613,9 @@
                             "value": "1",
                             "operator": false,
                             "blank": true,
-                            "url": "assets/images/numbers/cropped/00001.png",
+                            "url": "assets/images/numbers/pink_cropped/00001.png",
                             "location": "assets",
+                            "highlight": true,
                             "correctValue": "1",
                             "blinkIndex":"0"
                         }

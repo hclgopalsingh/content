@@ -1,7 +1,7 @@
 {
     "id": "Q004",
     "imgCount": "14",
-    "instructiontext": "म से शुरू होने वाला चित्र पहचानें।",
+    "instructiontext": "नीचे दिए प्रश्न को हल करे।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -481,21 +481,26 @@
                 "url": "../commonassets/tablet.png",
                 "location": "content"
             },
+            "quesType": "divide",
             "questionText": [
                 {
                     "rowid": "1",
+                    "rowType": "quotient",
+                    "divide_image": {
+                        "url": "../commonassets/divide.png",
+                        "location": "content"
+                    },
                     "rowValues": [
                         {
-                            "id":"1",
-                            "value": "7",
-                            "url": "assets/images/numbers/cropped/00007.png",
-                            "location": "assets"
-                        },
-                        {
-                            "id": "2",
-                            "value": "9",
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets"
+                            "id": "1",
+                            "value": "2",
+                            "operator": false,
+                            "blank": true,
+                            "url": "assets/images/numbers/pink_cropped/00002.png",
+                            "location": "assets",
+                            "highlight": true,
+                            "correctValue": "2",
+                            "blinkIndex":"0"
                         }
                     ]
                 },
@@ -504,43 +509,91 @@
                     "rowValues": [
                         {
                             "id": "1",
-                            "url": "../commonassets/multiply.png",
+                            "value": "1",
+                            "url": "assets/images/numbers/cropped/00001.png",
+                            "location": "assets"
+                        },
+                        {
+                            "id": "2",
+                            "value": "0",
+                            "url": "assets/images/numbers/cropped/00000.png",
+                            "location": "assets"
+                        },
+                        {
+                            "id": "3",
+                            "url": "../commonassets/divide.png",
+                            "location": "content",
+                            "operator": true,
+                            "blank": false,
+                            "isDivideImage": true
+                        }
+                    ]
+                },
+                {
+                    "rowid": "3",
+                    "rowValues": [
+                        {
+                            "id": "1",
+                            "value": "2",
+                            "url": "assets/images/numbers/cropped/00002.png",
+                            "location": "assets"
+                        },
+                        {
+                            "id": "2",
+                            "value": "0",
+                            "url": "assets/images/numbers/cropped/00000.png",
+                            "location": "assets"
+                        }
+                    ]
+                },
+                {
+                    "rowid": "4",
+                    "rowValues": [
+                        {
+                            "id": "1",
+                            "url": "../commonassets/minus.png",
                             "location": "content",
                             "operator": true,
                             "blank": false
                         },
                         {
                             "id": "2",
-                            "value": "5",
-                            "url": "assets/images/numbers/cropped/00005.png",
+                            "value": "2",
+                            "url": "assets/images/numbers/cropped/00002.png",
                             "location": "assets"
+                        },
+                        {
+                            "id": "3",
+                            "value": "0",
+                            "operator": false,
+                            "blank": true,
+                            "url": "assets/images/numbers/pink_cropped/00000.png",
+                            "location": "assets",
+                            "highlight": true,
+                            "correctValue": "0",
+                            "blinkIndex":"1"
                         }
                     ],
                     "bottomLine": true
                 },
                 {
-                    "rowid": "3",
+                    "rowid": "5",
                     "rowValues": [
                         {
-                            "id":"1",
-                            "value": "",
+                            "id": "1",
+                            "value": "0",
                             "operator": false,
                             "blank": true,
-                            "url": "assets/images/numbers/cropped/00003.png",
+                            "url": "assets/images/numbers/pink_cropped/00000.png",
                             "location": "assets",
-                            "correctValue": "3",
-                            "blinkIndex":"0"
+                            "highlight": true,
+                            "correctValue": "0",
+                            "blinkIndex":"2"
                         },
                         {
                             "id": "2",
-                            "value": "9",
-                            "url": "assets/images/numbers/cropped/00009.png",
-                            "location": "assets"
-                        },
-                        {
-                            "id": "3",
-                            "value": "5",
-                            "url": "assets/images/numbers/cropped/00005.png",
+                            "value": "0",
+                            "url": "assets/images/numbers/cropped/00000.png",
                             "location": "assets"
                         }
                     ],

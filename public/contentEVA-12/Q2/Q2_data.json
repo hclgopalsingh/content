@@ -1,6 +1,6 @@
 {
     "id": "Q002",
-    "instructiontext": "म से शुरू होने वाला चित्र पहचानें।",
+    "instructiontext": "नीचे दिए प्रश्न को हल करे।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -484,6 +484,7 @@
                 "url": "../commonassets/tablet.png",
                 "location": "content"
             },
+            "quesType": "subt",
             "questionText": [
                 {
                     "rowid": "1",
@@ -561,12 +562,13 @@
                         },
                         {
                             "id": "3",
-                            "value": "",
+                            "value": "5",
                             "operator": false,
                             "blank": true,
-                            "url": "assets/images/numbers/cropped/00002.png",
+                            "url": "assets/images/numbers/pink_cropped/00005.png",
                             "location": "assets",
-                            "correctValue": "2",
+                            "highlight": true,
+                            "correctValue": "5",
                             "blinkIndex":"1"
                         },
                         {
@@ -589,34 +591,36 @@
                     "rowValues": [
                         {
                             "id":"1",
-                            "value": "",
+                            "value": "2",
                             "operator": false,
                             "blank": true,
-                            "url": "assets/images/numbers/cropped/00002.png",
+                            "url": "assets/images/numbers/pink_cropped/00002.png",
                             "location": "assets",
+                            "highlight": true,
                             "correctValue": "2",
                             "blinkIndex":"2"
                         },
                         {
                             "id": "2",
+                            "value": "0",
+                            "url": "assets/images/numbers/cropped/00000.png",
+                            "location": "assets"
+                        },
+                        {
+                            "id": "3",
                             "value": "3",
                             "url": "assets/images/numbers/cropped/00003.png",
                             "location": "assets"
                         },
                         {
-                            "id": "3",
-                            "value": "4",
-                            "url": "assets/images/numbers/cropped/00004.png",
-                            "location": "assets"
-                        },
-                        {
                             "id": "4",
-                            "value": "",
+                            "value": "3",
                             "operator": false,
                             "blank": true,
-                            "url": "assets/images/numbers/cropped/00001.png",
+                            "url": "assets/images/numbers/pink_cropped/00003.png",
                             "location": "assets",
-                            "correctValue": "1",
+                            "highlight": true,
+                            "correctValue": "3",
                             "blinkIndex":"0"
                         }
                     ],
