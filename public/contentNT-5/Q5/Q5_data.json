@@ -153,9 +153,9 @@
   ],
   "quesObj": {
     "quesInstruction": {
-      "url": "assets/instructionAudio.ogg",
+      "url": "",
       "location": "content",
-      "autoPlay": true
+      "autoPlay": false
     },
     "submitRequired":false,
     "replayRequired":false
