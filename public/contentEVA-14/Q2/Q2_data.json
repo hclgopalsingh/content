@@ -3441,7 +3441,19 @@
 				"url": "assets/images/EVAGlobal/no_txt.png",
                 "location": "assets"
 			},
-			"btn_base":{
+			"yes_btn_base":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			},
+			"no_btn_base":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			},
+			"btn_base_hover":{
+				"url": "assets/images/EVAGlobal/button_base_hover.png",
+                "location": "assets"
+			},
+			"btn_base_original":{
 				"url": "assets/images/EVAGlobal/button_base.png",
                 "location": "assets"
 			}

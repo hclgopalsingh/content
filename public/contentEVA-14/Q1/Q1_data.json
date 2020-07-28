@@ -3344,10 +3344,11 @@
 			"autoPlay": true
 		},
 		"localMachineDate":false,
+		"smart_calendar": false,
 		"givenDate": {
 		  "year":"2020",
-		  "month":"July",
-		  "date":""
+		  "month":"August",
+		  "date":"22"
 		},
 		"multi_date":true,
 		"multi_day":false,
@@ -3357,9 +3358,9 @@
 		"disablemonth":false,
 		"disableweekDay":true,
 		"disableDate":false,
-		"yearSelected":true,
+		"yearSelected":false,
 		"monthSelected":false,
-		"dateSelected":false,
+		"dateSelected":false, 
 		"weekdaySelected":false,
 		"`quesImg": {
 			"url": "",
@@ -3437,7 +3438,19 @@
 				"url": "assets/images/EVAGlobal/no_txt.png",
                 "location": "assets"
 			},
-			"btn_base":{
+			"yes_btn_base":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			},
+			"no_btn_base":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			},
+			"btn_base_hover":{
+				"url": "assets/images/EVAGlobal/button_base_hover.png",
+                "location": "assets"
+			},
+			"btn_base_original":{
 				"url": "assets/images/EVAGlobal/button_base.png",
                 "location": "assets"
 			}
