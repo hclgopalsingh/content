@@ -159,6 +159,10 @@
                 "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
                 "location": "assets"
             },
+            "submitBtnDisabled": {
+                "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+                "location": "assets"
+            },
             "quesTabs": [
                 {
                     "ques_tab": {
