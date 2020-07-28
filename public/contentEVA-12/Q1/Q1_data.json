@@ -505,8 +505,7 @@
                             "id":"1",
                             "url": "../commonassets/multiply.png",
                             "location": "content",
-                            "operator": true,
-                            "blank": false
+                            "operator": true
                         },
                         {
                             "id": "2",
@@ -520,11 +519,16 @@
                             "url": "assets/images/numbers/cropped/00009.png",
                             "location": "assets"
                         }
+                    ]
+                },
+                {
+                    "rowid": "3",
+                    "rowValues": [
                     ],
                     "bottomLine": true
                 },
                 {
-                    "rowid": "3",
+                    "rowid": "4",
                     "rowValues": [
                         {
                             "id":"1",
@@ -534,14 +538,13 @@
                         },
                         {
                             "id": "2",
-                            "value": "9",
+                            "value": "",
                             "operator": false,
-                            "blank": true,
                             "url": "assets/images/numbers/pink_cropped/00009.png",
                             "location": "assets",
                             "correctValue": "9",
                             "highlight": true,
-                            "blinkIndex":"1"
+                            "blinkIndex":"0"
                         },
                         {
                             "id": "3",
@@ -552,7 +555,7 @@
                     ]
                 },
                 {
-                    "rowid": "4",
+                    "rowid": "5",
                     "rowValues": [
                         {
                             "id":"1",
@@ -577,14 +580,18 @@
                             "url": "../commonassets/multiply.png",
                             "location": "content",
                             "operator": true,
-                            "escape": true,
-                            "blank": false
+                            "escape": true
                         }
+                    ]
+                },
+                {
+                    "rowid": "6",
+                    "rowValues": [
                     ],
                     "bottomLine": true
                 },
                 {
-                    "rowid": "5",
+                    "rowid": "7",
                     "rowValues": [
                         {
                             "id":"1",
@@ -594,9 +601,8 @@
                         },
                         {
                             "id": "2",
-                            "value": "8",
+                            "value": "",
                             "operator": false,
-                            "blank": true,
                             "url": "assets/images/numbers/pink_cropped/00008.png",
                             "location": "assets",
                             "highlight": true,
@@ -611,15 +617,19 @@
                         },
                         {
                             "id": "4",
-                            "value": "1",
+                            "value": "",
                             "operator": false,
-                            "blank": true,
                             "url": "assets/images/numbers/pink_cropped/00001.png",
                             "location": "assets",
                             "highlight": true,
                             "correctValue": "1",
-                            "blinkIndex":"0"
+                            "blinkIndex":"1"
                         }
+                    ]
+                },
+                {
+                    "rowid": "8",
+                    "rowValues": [
                     ],
                     "bottomLine": true
                 }

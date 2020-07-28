@@ -539,9 +539,8 @@
                         },
                         {
                             "id": "3",
-                            "value": "7",
+                            "value": "",
                             "operator": false,
-                            "blank": true,
                             "url": "assets/images/numbers/pink_cropped/00007.png",
                             "location": "assets",
                             "highlight": true,
@@ -563,8 +562,7 @@
                             "id":"1",
                             "url": "../commonassets/plus.png",
                             "location": "content",
-                            "operator": true,
-                            "blank": false
+                            "operator": true
                         },
                         {
                             "id": "2",
@@ -574,9 +572,8 @@
                         },
                         {
                             "id": "3",
-                            "value": "7",
+                            "value": "",
                             "operator": false,
-                            "blank": true,
                             "url": "assets/images/numbers/pink_cropped/00007.png",
                             "location": "assets",
                             "highlight": true,
@@ -595,17 +592,21 @@
                             "url": "assets/images/numbers/cropped/00002.png",
                             "location": "assets"
                         }
-                    ],
-                    "bottomLine": true
+                    ]
                 },
                 {
                     "rowid": "4",
                     "rowValues": [
+                    ],
+                    "bottomLine": true
+                },
+                {
+                    "rowid": "5",
+                    "rowValues": [
                         {
                             "id":"1",
-                            "value": "1",
+                            "value": "",
                             "operator": false,
-                            "blank": true,
                             "url": "assets/images/numbers/pink_cropped/00001.png",
                             "location": "assets",
                             "highlight": true,
@@ -636,6 +637,11 @@
                             "url": "assets/images/numbers/cropped/00000.png",
                             "location": "assets"
                         }
+                    ]
+                },
+                {
+                    "rowid": "6",
+                    "rowValues": [
                     ],
                     "bottomLine": true
                 }

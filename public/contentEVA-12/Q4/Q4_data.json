@@ -493,9 +493,8 @@
                     "rowValues": [
                         {
                             "id": "1",
-                            "value": "2",
+                            "value": "",
                             "operator": false,
-                            "blank": true,
                             "url": "assets/images/numbers/pink_cropped/00002.png",
                             "location": "assets",
                             "highlight": true,
@@ -524,7 +523,6 @@
                             "url": "../commonassets/divide.png",
                             "location": "content",
                             "operator": true,
-                            "blank": false,
                             "isDivideImage": true
                         },
                         {
@@ -549,8 +547,7 @@
                             "id": "1",
                             "url": "../commonassets/minus.png",
                             "location": "content",
-                            "operator": true,
-                            "blank": false
+                            "operator": true
                         },
                         {
                             "id": "2",
@@ -561,9 +558,8 @@
                         },
                         {
                             "id": "3",
-                            "value": "0",
+                            "value": "",
                             "operator": false,
-                            "blank": true,
                             "url": "assets/images/numbers/pink_cropped/00000.png",
                             "location": "assets",
                             "highlight": true,
@@ -578,9 +574,8 @@
                     "rowValues": [
                         {
                             "id": "1",
-                            "value": "0",
+                            "value": "",
                             "operator": false,
-                            "blank": true,
                             "url": "assets/images/numbers/pink_cropped/00000.png",
                             "location": "assets",
                             "highlight": true,
