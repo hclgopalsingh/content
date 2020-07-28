@@ -1,0 +1,848 @@
+{
+   "id": "Q001",
+   "imgCount": "16",
+   "instructiontext": "नीचे दिए विकल्पों को ध्यान से देखें] पढ़ें और पाँच का पहाड़ा पूरा करें।",
+   "speaker": {
+     "enabled": "",
+     "imgsrc": {
+       "url": "assets/images/EVAGlobal/speakerBtn.svg",
+       "location": "assets"
+     },
+     "imgorigional": {
+       "url": "assets/images/EVAGlobal/speakerBtn.svg",
+       "location": "assets"
+     },
+     "imghover": {
+       "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
+       "location": "assets"
+     },
+     "imgactive": {
+       "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
+       "location": "assets"
+     },
+     "sound": {
+       "url": "speaker.ogg",
+       "location": "content"
+     },
+     "wave1": {
+       "url": "assets/images/EVAGlobal/speakerWave1.svg",
+       "location": "assets"
+     },
+     "wave2": {
+       "url": "assets/images/EVAGlobal/speakerWave2.svg",
+       "location": "assets"
+     },
+     "wave3": {
+       "url": "assets/images/EVAGlobal/speakerWave3.svg",
+       "location": "assets"
+     }
+   },
+   "commonassets": {
+     "header_bar": {
+       "url": "assets/images/EVAGlobal/headerBar.svg",
+       "location": "assets"
+     },
+     "instruction_bg": {
+       "url": "assets/images/EVAGlobal/instructionBase.svg",
+       "location": "assets"
+     },
+     "instruction": {
+       "url": "Instruction.ogg",
+       "location": "content"
+     },
+     "instruction_img": {
+       "url": "assets/images/EVAGlobal/instructionText.svg",
+       "location": "assets"
+     },
+     "burst": {
+       "url": "assets/images/burst.gif",
+       "location": "assets"
+     },
+     "bg": {
+       "url": "assets/images/EVAGlobal/bg.jpg",
+       "location": "assets"
+     },
+     "peechey_jayein": {
+       "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+       "location": "assets"
+     },
+     "peechey_jayein_original": {
+       "url": "assets/images/EVAGlobal/prevBtn.svg",
+       "location": "assets"
+     },
+     "peechey_jayein_hover": {
+       "url": "assets/images/EVAGlobal/prevBtn.svg",
+       "location": "assets"
+     },
+     "aagey_badhein_hover": {
+       "url": "assets/images/EVAGlobal/nextBtn.svg",
+       "location": "assets"
+     },
+     "aagey_badhein": {
+       "url": "assets/images/EVAGlobal/nextBtn.svg",
+       "location": "assets"
+     },
+     "aagey_badhein_original": {
+       "url": "assets/images/EVAGlobal/nextBtn.svg",
+       "location": "assets"
+     },
+     "aagey_badhein_blink": {
+       "url": "assets/images/EVAGlobal/nextBtnBlink.svg",
+       "location": "assets"
+     },
+     "background": {
+       "url": "assets/images/EVAGlobal/bg.jpg",
+       "location": "assets"
+     },
+     "footer": {
+       "url": "assets/images/EVAGlobal/footerBg.svg",
+       "location": "assets"
+     },
+     "ques_control": {
+       "isLastQues": false,
+       "footer": {
+         "url": "assets/images/EVAGlobal/footerBg.svg",
+         "location": "assets"
+       },
+       "aagey_badhein_disabled": {
+         "url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
+         "location": "assets"
+       },
+       "aagey_badhein": {
+         "url": "assets/images/EVAGlobal/nextBtn.svg",
+         "location": "assets"
+       },
+       "aagey_badhein_original": {
+         "url": "assets/images/EVAGlobal/nextBtn.svg",
+         "location": "assets"
+       },
+       "aagey_badhein_hover": {
+         "url": "assets/images/EVAGlobal/nextBtnHover.svg",
+         "location": "assets"
+       },
+       "aagey_badhein_blink": {
+         "url": "assets/images/EVAGlobal/nextBtnBlink.svg",
+         "location": "assets"
+       },
+       "peechey_jayein": {
+         "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+         "location": "assets"
+       },
+       "peechey_jayein_original": {
+         "url": "assets/images/EVAGlobal/prevBtn.svg",
+         "location": "assets"
+       },
+       "peechey_jayein_hover": {
+         "url": "assets/images/EVAGlobal/prevBtnHover.svg",
+         "location": "assets"
+       },
+       "peechey_jayein_disabled": {
+        "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+        "location": "assets"
+        },
+       "uttar_dikhayein": {
+         "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
+         "location": "assets"
+       },
+       "uttar_dikhayein_disable": {
+         "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
+         "location": "assets"
+       },
+       "uttar_dikhayein_original": {
+         "url": "assets/images/EVAGlobal/ansBtnActive.svg",
+         "location": "assets"
+       },
+       "uttar_dikhayein_hover": {
+         "url": "assets/images/EVAGlobal/ansBtnHover.svg",
+         "location": "assets"
+       },
+       "submit_btn": {
+         "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+         "location": "assets"
+       },
+       "submit_btn_hover": {
+         "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+         "location": "assets"
+       },
+       "submit_btn_original": {
+         "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+         "location": "assets"
+       },
+       "rightTick_img": {
+         "url": "assets/images/EVAGlobal/right.svg",
+         "location": "assets"
+       },
+       "wrongTick_img": {
+         "url": "assets/images/EVAGlobal/wrong.svg",
+         "location": "assets"
+       },
+       "quesTabs": [
+         {
+            "ques_tab":{
+               "id":"001",
+               "tabcircle":{
+                  "url":"assets/images/EVAGlobal/quesBulletActive.png",
+                  "location":"assets"
+               },
+               "tabcircleActive":{
+                  "url":"assets/images/EVAGlobal/quesBullet.png",
+                  "location":"assets"
+               },
+               "tabcircleVisited":{
+                  "url":"assets/images/EVAGlobal/quesBulletVisited.png",
+                  "location":"assets"
+               },
+               "tabIdx":{
+                  "url":"tab1Idx.svg",
+                  "location":"assets"
+               }
+            }
+         },
+         {
+            "ques_tab":{
+               "id":"002",
+               "tabcircle":{
+                  "url":"assets/images/EVAGlobal/quesBullet.png",
+                  "location":"assets"
+               },
+               "tabcircleActive":{
+                  "url":"assets/images/EVAGlobal/quesBulletActive.png",
+                  "location":"assets"
+               },
+               "tabcircleVisited":{
+                  "url":"assets/images/EVAGlobal/quesBulletVisited.png",
+                  "location":"assets"
+               },
+               "tabIdx": {
+                  "url": "tab1Idx.svg",
+                  "location": "content"
+                }
+            }
+         },
+         {
+           "ques_tab": {
+             "id": "003",
+             "tabcircle": {
+               "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
+               "location": "assets"
+             },
+             "tabcircleActive": {
+               "url": "assets/images/EVAGlobal/quesBulletActive.png",
+               "location": "assets"
+             },
+             "tabcircleVisited": {
+               "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+               "location": "assets"
+             },
+             "tabIdx": {
+               "url": "tab1Idx.svg",
+               "location": "content"
+             }
+           }
+         },
+         {
+           "ques_tab": {
+             "id": "004",
+             "tabcircle": {
+               "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
+               "location": "assets"
+             },
+             "tabcircleActive": {
+               "url": "assets/images/EVAGlobal/quesBulletActive.png",
+               "location": "assets"
+             },
+             "tabcircleVisited": {
+               "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+               "location": "assets"
+             },
+             "tabIdx": {
+               "url": "tab1Idx.svg",
+               "location": "content"
+             }
+           }
+         },
+         {
+           "ques_tab": {
+             "id": "005",
+             "tabcircle": {
+               "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
+               "location": "assets"
+             },
+             "tabcircleActive": {
+               "url": "assets/images/EVAGlobal/quesBulletActive.png",
+               "location": "assets"
+             },
+             "tabcircleVisited": {
+               "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+               "location": "assets"
+             },
+             "tabIdx": {
+               "url": "tab1Idx.svg",
+               "location": "content"
+             }
+           }
+         }
+       ]
+     },
+     "isFirstQues": true
+   },
+   "options": {     
+     "leftoption": [
+       {
+         "id": "001",
+         "optBg": {
+           "url": "optionBg1.png",
+           "location": "content"
+         },
+         "image": {
+           "url": "circle0001.png",
+           "location": "content"
+         },
+         "optBg_hover": {
+           "url": "optionBgHover1.png",
+           "location": "content"
+         },
+         "optBg_original": {
+           "url": "optionBg1.png",
+           "location": "content"
+         },
+         "audio": {
+           "url": "",
+           "location": ""
+         },
+         "correct_order": "1",
+         "totalDigits":2,
+         "isShow":true
+       },
+       {
+         "id": "002",
+         "optBg": {
+           "url": "optionBg2.png",
+           "location": "content"
+         },
+         "image": {
+           "url": "circle0002.png",
+           "location": "content"
+         },
+         "optBg_hover": {
+           "url": "optionBgHover2.png",
+           "location": "content"
+         },
+         "optBg_original": {
+           "url": "optionBg2.png",
+           "location": "content"
+         },
+         "audio": {
+           "url": "",
+           "location": ""
+         },
+         "correct_order": "2",
+         "totalDigits":2,
+         "isShow":true
+       },
+       {
+         "id": "003",
+         "optBg": {
+           "url": "optionBg3.png",
+           "location": "content"
+         },
+         "image": {
+           "url": "circle0003.png",
+           "location": "content"
+         },
+         "optBg_hover": {
+           "url": "optionBgHover3.png",
+           "location": "content"
+         },
+         "optBg_original": {
+           "url": "optionBg3.png",
+           "location": "content"
+         },
+         "audio": {
+           "url": "",
+           "location": "content"
+         },
+         "correct_order": "3",
+         "totalDigits":2,
+         "isShow":true
+       },
+       {
+         "id": "004",
+         "optBg": {
+           "url": "optionBg4.png",
+           "location": "content"
+         },
+         "image": {
+           "url": "circle0004.png",
+           "location": "content"
+         },
+         "optBg_hover": {
+           "url": "optionBgHover4.png",
+           "location": "content"
+         },
+         "optBg_original": {
+           "url": "optionBg4.png",
+           "location": "content"
+         },
+         "audio": {
+           "url": "",
+           "location": "content"
+         },
+         "correct_order": "4",
+         "totalDigits":2,
+         "isShow":true
+       },
+       {
+         "id": "005",
+         "optBg": {
+           "url": "optionBg5.png",
+           "location": "content"
+         },
+         "image": {
+           "url": "circle0005.png",
+           "location": "content"
+         },
+         "optBg_hover": {
+           "url": "optionBgHover5.png",
+           "location": "content"
+         },
+         "optBg_original": {
+           "url": "optionBg5.png",
+           "location": "content"
+         },
+         "audio": {
+           "url": "twenty-five.ogg",
+           "location": "content"
+         },
+         "correct_order": "5",
+         "totalDigits":2,
+         "isShow":true
+       }
+     ],
+     "rightoption": [
+       {
+         "id": "006",
+         "optBg": {
+           "url": "optionBg6.png",
+           "location": "content"
+         },
+         "image": {
+           "url": "circle0006.png",
+           "location": "content"
+         },
+         "optBg_hover": {
+           "url": "optionBgHover6.png",
+           "location": "content"
+         },
+         "optBg_original": {
+           "url": "optionBg6.png",
+           "location": "content"
+         },
+         "audio": {
+           "url": "thirty.ogg",
+           "location": "content"
+         },
+         "correct_order": "6",
+         "totalDigits":2,
+         "isShow":true
+       },
+       {
+         "id": "007",
+         "optBg": {
+           "url": "optionBg7.png",
+           "location": "content"
+         },
+         "image": {
+           "url": "circle0007.png",
+           "location": "content"
+         },
+         "optBg_hover": {
+           "url": "optionBgHover7.png",
+           "location": "content"
+         },
+         "optBg_original": {
+           "url": "optionBg7.png",
+           "location": "content"
+         },
+         "audio": {
+           "url": "",
+           "location": "content"
+         },
+         "correct_order": "7",
+         "totalDigits":2,
+         "isShow":true
+       },
+       {
+         "id": "008",
+         "optBg": {
+           "url": "optionBg8.png",
+           "location": "content"
+         },
+         "image": {
+           "url": "circle0008.png",
+           "location": "content"
+         },
+         "optBg_hover": {
+           "url": "optionBgHover8.png",
+           "location": "content"
+         },
+         "optBg_original": {
+           "url": "optionBg8.png",
+           "location": "content"
+         },
+         "audio": {
+           "url": "",
+           "location": "content"
+         },
+         "correct_order": "8",
+         "totalDigits":2,
+         "isShow":true
+       },
+       {
+         "id": "009",
+         "optBg": {
+           "url": "optionBg9.png",
+           "location": "content"
+         },
+         "image": {
+           "url": "circle0009.png",
+           "location": "content"
+         },
+         "optBg_hover": {
+           "url": "optionBgHover9.png",
+           "location": "content"
+         },
+         "optBg_original": {
+           "url": "optionBg9.png",
+           "location": "content"
+         },
+         "audio": {
+           "url": "",
+           "location": "content"
+         },
+         "correct_order": "9",
+         "totalDigits":2,
+         "isShow":true
+       },
+       {
+         "id": "010",
+         "optBg": {
+           "url": "optionBg10.png",
+           "location": "content"
+         },
+         "image": {
+           "url": "circle0010.png",
+           "location": "content"
+         },
+         "optBg_hover": {
+           "url": "optionBgHover10.png",
+           "location": "content"
+         },
+         "optBg_original": {
+           "url": "optionBg10.png",
+           "location": "content"
+         },
+         "audio": {
+           "url": "",
+           "location": "content"
+         },
+         "correct_order": "10",
+         "totalDigits":2,
+         "isShow":true
+       }
+     ]
+   },
+   "quesObj": {
+     "quesType":1,
+     "quesInstruction": {
+       "url": "Instruction.ogg",
+       "location": "content",
+       "autoPlay": true
+     },
+     "background": {
+       "url": "questionBase.png",
+       "location": "content"
+     },
+     "highlight": {
+       "url": "highlightRow.png",
+       "location": "content"
+     },
+     "number": {
+      "url": "assets/images/numbers/cropped/00005.png",
+      "location": "assets"
+    },
+    "multiply": {
+      "url": "multiply.png",
+      "location": "content"
+    },
+    "equal": {
+      "url": "equals.png",
+      "location": "content"
+    },
+    "answer": {
+      "background": {
+        "url": "emptyBox.png",
+        "location": "content"
+      }
+    },
+     "questionText": [
+       {
+         "id": "1",         
+         "order": {
+           "url": "assets/images/numbers/00001.png",
+           "location": "assets"
+         },        
+         "answer": {
+           "image": {
+             "url": "",
+             "location": ""
+           }
+         },
+         "audio": {
+           "url": "speech_1.ogg",
+           "location": "content"
+         },
+         "totalDigits":2,
+         "isfilled": false
+       },
+       {
+         "id": "2",
+         "order": {
+           "url": "assets/images/numbers/00002.png",
+           "location": "assets"
+         },
+         "answer": {
+           "image": {
+             "url": "",
+             "location": ""
+           }
+         },
+         "audio": {
+           "url": "speech_2.ogg",
+           "location": "content"
+         },
+         "totalDigits":2,
+         "isfilled": false
+       },
+       {
+         "id": "3",
+         "order": {
+           "url": "assets/images/numbers/00003.png",
+           "location": "assets"
+         },
+         "answer": {
+           "image": {
+             "url": "",
+             "location": "content"
+           }
+         },
+         "audio": {
+           "url": "speech_3.ogg",
+           "location": "content"
+         },
+         "totalDigits":2,
+         "isfilled": false
+       },
+       {
+         "id": "4",
+         "order": {
+           "url": "assets/images/numbers/00004.png",
+           "location": "assets"
+         },
+         "answer": {
+           "image": {
+             "url": "",
+             "location": ""
+           }
+         },
+         "audio": {
+           "url": "speech_4.ogg",
+           "location": "content"
+         },
+         "totalDigits":2,
+         "isfilled": false
+       },
+       {
+         "id": "5",
+         "order": {
+           "url": "assets/images/numbers/00005.png",
+           "location": "assets"
+         },
+         "answer": {
+           "image": {
+             "url": "",
+             "location": ""
+           }
+         },
+         "audio": {
+           "url": "speech_5.ogg",
+           "location": "content"
+         },
+         "totalDigits":2,
+         "isfilled": false
+       },
+       {
+         "id": "6",
+         "order": {
+           "url": "assets/images/numbers/00006.png",
+           "location": "assets"
+         },
+         "answer": {
+           "image": {
+             "url": "",
+             "location": ""
+           }
+         },
+         "audio": {
+           "url": "speech_6.ogg",
+           "location": "content"
+         },
+         "totalDigits":2,
+         "isfilled": false
+       },
+       {
+         "id": "7",
+         "order": {
+           "url": "assets/images/numbers/00007.png",
+           "location": "assets"
+         },
+         "answer": {
+           "image": {
+             "url": "",
+             "location": ""
+           }
+         },
+         "audio": {
+           "url": "speech_7.ogg",
+           "location": "content"
+         },
+         "totalDigits":2,
+         "isfilled": false
+       },
+       {
+         "id": "8",
+         "order": {
+           "url": "assets/images/numbers/00008.png",
+           "location": "assets"
+         },
+         "answer": {
+           "image": {
+             "url": "",
+             "location": ""
+           }
+         },
+         "audio": {
+           "url": "speech_8.ogg",
+           "location": "content"
+         },
+         "totalDigits":2,
+         "isfilled": false
+       },
+       {
+         "id": "9",
+         "order": {
+           "url": "assets/images/numbers/00009.png",
+           "location": "assets"
+         },
+         "answer": {
+           "image": {
+             "url": "",
+             "location": ""
+           }
+         },
+         "audio": {
+           "url": "speech_9.ogg",
+           "location": "content"
+         },
+         "totalDigits":2,
+         "isfilled": false
+       },
+       {
+         "id": "10",
+         "order": {
+           "url": "assets/images/numbers/00010.png",
+           "location": "assets"
+         },
+         "answer": {
+           "image": {
+             "url": "",
+             "location": ""
+           }
+         },
+         "audio": {
+           "url": "speech_10.ogg",
+           "location": "content"
+         },
+         "totalDigits":2,
+         "isfilled": false
+       }
+     ]
+   },
+   "feedback": {
+     "correct_ans_index": "",
+     "popupassets": {
+       "pop_up_base": {
+         "url": "assets/images/EVAGlobal/popupBase.svg",
+         "location": "assets"
+       },
+       "close_button": {
+         "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+         "location": "assets"
+       },
+       "close_button_origional": {
+         "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+         "location": "assets"
+       },
+       "close_button_hover": {
+         "url": "assets/images/EVAGlobal/popupCloseBtnHover.svg",
+         "location": "assets"
+       },
+       "right_icon": {
+         "url": "assets/images/EVAGlobal/rightAnsIcon.svg",
+         "location": "assets"
+       },
+       "wrong_icon": {
+         "url": "assets/images/EVAGlobal/wrongAnsIcon.svg",
+         "location": "assets"
+       }
+     },
+     "show_ans_popup": {      
+      "video": {
+          "url": "video.ogv",
+          "location": "content"
+      }
+    },
+     "right_ans_sound": {
+       "enabled": true,
+       "path": {
+         "url": "correctans.ogg",
+         "location": "content"
+       }
+     },
+     "right_ans_clap_sound": {
+       "url": "assets/images/EVAGlobal/clap.ogg",
+       "location": "assets"
+     },
+     "wrong_ans_sound": {
+       "enabled": true,
+       "path": {
+         "url": "wrongans.ogg",
+         "location": "content"
+       }
+     },
+     "show_ans_sound": {
+       "enabled": true,
+       "path": {
+         "url": "showanswerFeedback.ogg",
+         "location": "content"
+       }
+     },
+     "right_ansPop_sound": {
+       "enabled": true,
+       "path": {
+         "url": "rightFeedback.ogg",
+         "location": "content"
+       }
+     }
+   }
+ }

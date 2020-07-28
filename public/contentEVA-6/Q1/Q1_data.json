@@ -97,6 +97,10 @@
 			"url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
 			"location": "assets"
 		  },
+		"peechey_jayein_disabled": {
+			"url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+			"location": "assets"
+		  },
 		  "peechey_jayein_original": {
 			"url": "assets/images/EVAGlobal/prevBtn.svg",
 			"location": "assets"
