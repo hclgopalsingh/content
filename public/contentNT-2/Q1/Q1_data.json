@@ -19,20 +19,20 @@
 	},
 	"option_common_assets": {
 		"option_base": {
-			"url": "assets/options/optBase.svg",
-			"location": "content"
+			"url": "",
+			"location": ""
 		},
 		"option_base_hover": {
-			"url": "assets/options/optBaseHover.svg",
-			"location": "content"
+			"url": "",
+			"location": ""
 		}
 	},
 	"optionObj": {
 		"leftOptions": [{
-			"id": "004",
-			"matchingId": "011",
+			"id": "001",
+			"matchingId": "005",
 			"imgsrc": {
-				"url": "assets/options/left_opt4.png",
+				"url": "assets/options/left_opt1.png",
 				"location": "content"
 			},
 			"imgsrc_audio": {
@@ -40,10 +40,10 @@
 				"location": "content"
 			}
 		}, {
-			"id": "005",
-			"matchingId": "010",
+			"id": "002",
+			"matchingId": "007",
 			"imgsrc": {
-				"url": "assets/options/left_opt5.png",
+				"url": "assets/options/left_opt2.png",
 				"location": "content"
 			},
 			"imgsrc_audio": {
@@ -51,10 +51,21 @@
 				"location": "content"
 			}
 		}, {
-			"id": "006",
-			"matchingId": "007",
+			"id": "003",
+			"matchingId": "008",
 			"imgsrc": {
-				"url": "assets/options/left_opt6.png",
+				"url": "assets/options/left_opt3.png",
+				"location": "content"
+			},
+			"imgsrc_audio": {
+				"url": "assets/options/skip.ogg",
+				"location": "content"
+			}
+		},{
+			"id": "004",
+			"matchingId": "006",
+			"imgsrc": {
+				"url": "assets/options/left_opt4.png",
 				"location": "content"
 			},
 			"imgsrc_audio": {
@@ -67,8 +78,8 @@
 			"location": "content"
 		},
 		"rightOptions": [{
-			"id": "007",
-			"matchingId": "006",
+			"id": "005",
+			"matchingId": "001",
 			"imgsrc": {
 				"url": "assets/options/right_opt1.png",
 				"location": "content"
@@ -78,10 +89,10 @@
 				"location": "content"
 			}
 		},{
-			"id": "010",
-			"matchingId": "005",
+			"id": "006",
+			"matchingId": "004",
 			"imgsrc": {
-				"url": "assets/options/right_opt4.png",
+				"url": "assets/options/right_opt2.png",
 				"location": "content"
 			},
 			"imgsrc_audio": {
@@ -89,10 +100,21 @@
 				"location": "content"
 			}
 		}, {
-			"id": "011",
-			"matchingId": "004",
+			"id": "007",
+			"matchingId": "002",
 			"imgsrc": {
-				"url": "assets/options/right_opt5.png",
+				"url": "assets/options/right_opt3.png",
+				"location": "content"
+			},
+			"imgsrc_audio": {
+				"url": "assets/options/run.ogg",
+				"location": "content"
+			}
+		},{
+			"id": "008",
+			"matchingId": "003",
+			"imgsrc": {
+				"url": "assets/options/right_opt4.png",
 				"location": "content"
 			},
 			"imgsrc_audio": {
@@ -126,7 +148,7 @@
 
 
 	"feedback": {
-		"noOfSubQues": 3,
+		"noOfSubQues": 4,
 		"style_header": {
 			"border": "solid .4vmin #057499",
 			"border-top-left-radius": "20px",
@@ -168,11 +190,11 @@
 		},
 		"popupAssets": [{
 				"imgLeft": {
-					"url": "assets/options/left_opt4.png",
+					"url": "assets/options/left_opt1.png",
 					"location": "content"
 				},
 				"imgRight": {
-					"url": "assets/options/right_opt5.png",
+					"url": "assets/options/right_opt1.png",
 					"location": "content"
 				},
 				"feedbackAudio": {
@@ -181,11 +203,11 @@
 				}
 		}, {
 				"imgLeft": {
-					"url": "assets/options/left_opt5.png",
+					"url": "assets/options/left_opt2.png",
 					"location": "content"
 				},
 				"imgRight": {
-					"url": "assets/options/right_opt4.png",
+					"url": "assets/options/right_opt3.png",
 					"location": "content"
 				},
 				"feedbackAudio": {
@@ -194,17 +216,31 @@
 				}
 		}, {
 				"imgLeft": {
-					"url": "assets/options/left_opt6.png",
+					"url": "assets/options/left_opt3.png",
 					"location": "content"
 				},
 				"imgRight": {
-					"url": "assets/options/right_opt1.png",
+					"url": "assets/options/right_opt4.png",
 					"location": "content"
 				},
 				"feedbackAudio": {
 					"url": "assets/options/yeskiph.ogg",
 					"location": "content"
 				}
+		},
+		{
+			"imgLeft": {
+				"url": "assets/options/left_opt4.png",
+				"location": "content"
+			},
+			"imgRight": {
+				"url": "assets/options/right_opt2.png",
+				"location": "content"
+			},
+			"feedbackAudio": {
+				"url": "assets/options/yeskiph.ogg",
+				"location": "content"
+			}
 		}],
 		"wrong_ans_popup": {
 
@@ -220,6 +256,10 @@
 			},
 			{
 				"url": "assets/options/fortap.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/options/forskip.ogg",
 				"location": "content"
 			},
 			{

@@ -1,32 +1,49 @@
 {
+	"theme_name":"theme1",
+	"productType":"elementary",
 	"titleScreen":true,
 	"imgCount":"3",
 	"titleText": {
-		"url":"titleText.svg",
-		"location":"content"
+		"url":"titleText.png",
+		"location":"content",
+		"position":{
+			"top":"1%",
+			 "width":"28.7%"		
+		}
 	},
 	"narrator": {
 		"url": "narrator.ogg",
 		"location": "content"
 	},
 	"background": {
-		"url": "assets/images/titleBg.jpg",
-		"location": "assets"
+		"url": "titleBg.png",
+		"location": "theme"
 	},
 	"krikalapText": {
-		"url": "assets/images/kriyakalaap.svg",
-		"location": "assets"
+		"url": "kriyakalaap.png",
+		"location": "content",
+		"position":{
+			"top":"auto",
+			"left":"0px",
+			"bottom":"18%"			
+		}
 	},
 	"jariRakheinBtn": {
-		"url": "assets/images/zaariRakhein.svg",
-		"location": "assets"
+		"url": "zaariRakhein.png",
+		"location": "content",
+		"position":{
+			"top":" 82.5%",
+			"left":" "
+			 			
+		}
 	},
 	"jariRakheinBtn_original": {
-		"url": "assets/images/zaariRakhein.svg",
-		"location": "assets"
+		"url": "zaariRakhein.png",
+		"location": "content"
 	},
 	"jariRakheinBtn_hover": {
-		"url": "assets/images/zaariRakhein_hover.svg",
-		"location": "assets"
+		"url": "zaariRakhein_hover.png",
+		"location": "content"
 	}
+	
 }
