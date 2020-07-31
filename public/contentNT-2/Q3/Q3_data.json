@@ -36,7 +36,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
+				"url": "assets/options/ant.ogg",
 				"location": "content"
 			}
 		}, {
@@ -47,7 +47,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/tap.ogg",
+				"url": "assets/options/cup.ogg",
 				"location": "content"
 			}
 		}, {
@@ -58,7 +58,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
+				"url": "assets/options/bus.ogg",
 				"location": "content"
 			}
 		},{
@@ -69,7 +69,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
+				"url": "assets/options/umbrella.ogg",
 				"location": "content"
 			}
 		}],
@@ -85,7 +85,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
+				"url": "assets/options/ant.ogg",
 				"location": "content"
 			}
 		},{
@@ -96,7 +96,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/tap.ogg",
+				"url": "assets/options/cup.ogg",
 				"location": "content"
 			}
 		}, {
@@ -107,7 +107,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
+				"url": "assets/options/bus.ogg",
 				"location": "content"
 			}
 		},{
@@ -118,7 +118,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
+				"url": "assets/options/umbrella.ogg",
 				"location": "content"
 			}
 		}]
@@ -198,7 +198,7 @@
 					"location": "content"
 				},
 				"feedbackAudio": {
-					"url": "assets/options/yerunh.ogg",
+					"url": "assets/feedback/correct_Ant.ogg",
 					"location": "content"
 				}
 		}, {
@@ -211,7 +211,7 @@
 					"location": "content"
 				},
 				"feedbackAudio": {
-					"url": "assets/options/yetaph.ogg",
+					"url": "assets/feedback/correct_Cup.ogg",
 					"location": "content"
 				}
 		}, {
@@ -224,7 +224,7 @@
 					"location": "content"
 				},
 				"feedbackAudio": {
-					"url": "assets/options/yeskiph.ogg",
+					"url": "assets/feedback/correct_Bus.ogg",
 					"location": "content"
 				}
 		},
@@ -238,7 +238,7 @@
 				"location": "content"
 			},
 			"feedbackAudio": {
-				"url": "assets/options/yeskiph.ogg",
+				"url": "assets/feedback/correct_Umbrella.ogg",
 				"location": "content"
 			}
 		}],
@@ -251,24 +251,24 @@
 		},
 		"single_right_ans":[
 			{
-				"url": "assets/options/forRun.ogg",
+				"url": "assets/feedback/single_correct/singleCorrect_Ant.ogg",
 				"location": "content"
 			},
 			{
-				"url": "assets/options/fortap.ogg",
+				"url": "assets/feedback/single_correct/singleCorrect_Cup.ogg",
 				"location": "content"
 			},
 			{
-				"url": "assets/options/forskip.ogg",
+				"url": "assets/feedback/single_correct/singleCorrect_Bus.ogg",
 				"location": "content"
 			},
 			{
-				"url": "assets/options/forskip.ogg",
+				"url": "assets/feedback/single_correct/singleCorrect_Umbrella.ogg",
 				"location": "content"
 			}
 		],
 		"wrong_ans_sound": {
-			"url": "assets/feedback/newWrong.ogg",
+			"url": "assets/feedback/wrong.ogg",
 			"location": "content"
 		}
 	},

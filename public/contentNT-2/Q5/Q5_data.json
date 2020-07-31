@@ -303,7 +303,7 @@
 			}
 		],
 		"wrong_ans_sound": {
-			"url": "assets/feedback/newWrong.ogg",
+			"url": "assets/feedback/wrong.ogg",
 			"location": "content"
 		}
 	},

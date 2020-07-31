@@ -36,7 +36,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
+				"url": "assets/options/204.ogg",
 				"location": "content"
 			}
 		}, {
@@ -47,7 +47,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/tap.ogg",
+				"url": "assets/options/542.ogg",
 				"location": "content"
 			}
 		}, {
@@ -58,7 +58,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
+				"url": "assets/options/524.ogg",
 				"location": "content"
 			}
 		},{
@@ -69,7 +69,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
+				"url": "assets/options/240.ogg",
 				"location": "content"
 			}
 		}],
@@ -85,7 +85,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
+				"url": "assets/options/200plus4.ogg",
 				"location": "content"
 			}
 		},{
@@ -96,7 +96,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/tap.ogg",
+				"url": "assets/options/200plus40.ogg",
 				"location": "content"
 			}
 		}, {
@@ -107,7 +107,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
+				"url": "assets/options/500plus40plus2.ogg",
 				"location": "content"
 			}
 		},{
@@ -118,7 +118,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
+				"url": "assets/options/500plus20plus4.ogg",
 				"location": "content"
 			}
 		}]
