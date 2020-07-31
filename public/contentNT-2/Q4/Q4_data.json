@@ -36,7 +36,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
+				"url": "assets/options/Peas_hindi.ogg",
 				"location": "content"
 			}
 		}, {
@@ -47,7 +47,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/tap.ogg",
+				"url": "assets/options/Apple_hindi.ogg",
 				"location": "content"
 			}
 		}, {
@@ -58,7 +58,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
+				"url": "assets/options/Butterfly_hindi.ogg",
 				"location": "content"
 			}
 		},{
@@ -69,7 +69,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
+				"url": "assets/options/Elephant_hindi.ogg",
 				"location": "content"
 			}
 		},{
@@ -80,7 +80,18 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
+				"url": "assets/options/Rhino_hindi.ogg",
+				"location": "content"
+			}
+		},{
+			"id": "006",
+			"matchingId": "008",
+			"imgsrc": {
+				"url": "assets/options/left_opt6.png",
+				"location": "content"
+			},
+			"imgsrc_audio": {
+				"url": "assets/options/Mango_hindi.ogg",
 				"location": "content"
 			}
 		}],
@@ -96,7 +107,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
+				"url": "assets/options/Butterfly.ogg",
 				"location": "content"
 			}
 		},{
@@ -107,7 +118,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/tap.ogg",
+				"url": "assets/options/Mango.ogg",
 				"location": "content"
 			}
 		}, {
@@ -118,7 +129,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
+				"url": "assets/options/Apple.ogg",
 				"location": "content"
 			}
 		},{
@@ -129,7 +140,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
+				"url": "assets/options/Peas.ogg",
 				"location": "content"
 			}
 		},{
@@ -140,7 +151,18 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
+				"url": "assets/options/Rhino.ogg",
+				"location": "content"
+			}
+		},{
+			"id": "012",
+			"matchingId": "004",
+			"imgsrc": {
+				"url": "assets/options/right_opt6.png",
+				"location": "content"
+			},
+			"imgsrc_audio": {
+				"url": "assets/options/Elephant.ogg",
 				"location": "content"
 			}
 		}]
@@ -170,7 +192,7 @@
 
 
 	"feedback": {
-		"noOfSubQues": 5,
+		"noOfSubQues": 6,
 		"style_header": {
 			"border": "solid .4vmin #057499",
 			"border-top-left-radius": "20px",
@@ -220,7 +242,7 @@
 					"location": "content"
 				},
 				"feedbackAudio": {
-					"url": "assets/options/yerunh.ogg",
+					"url": "assets/feedback/correct_Peas.ogg",
 					"location": "content"
 				}
 		}, {
@@ -233,7 +255,7 @@
 					"location": "content"
 				},
 				"feedbackAudio": {
-					"url": "assets/options/yetaph.ogg",
+					"url": "assets/feedback/correct_Apple.ogg",
 					"location": "content"
 				}
 		}, {
@@ -246,7 +268,7 @@
 					"location": "content"
 				},
 				"feedbackAudio": {
-					"url": "assets/options/yeskiph.ogg",
+					"url": "assets/feedback/correct_Butterfly.ogg",
 					"location": "content"
 				}
 		},
@@ -256,11 +278,11 @@
 				"location": "content"
 			},
 			"imgRight": {
-				"url": "assets/options/right_opt2.png",
+				"url": "assets/options/right_opt6.png",
 				"location": "content"
 			},
 			"feedbackAudio": {
-				"url": "assets/options/yeskiph.ogg",
+				"url": "assets/feedback/correct_Elephant.ogg",
 				"location": "content"
 			}
 		},{
@@ -273,7 +295,20 @@
 				"location": "content"
 			},
 			"feedbackAudio": {
-				"url": "assets/options/yeskiph.ogg",
+				"url": "assets/feedback/correct_Rhino.ogg",
+				"location": "content"
+			}
+		},{
+			"imgLeft": {
+				"url": "assets/options/left_opt6.png",
+				"location": "content"
+			},
+			"imgRight": {
+				"url": "assets/options/right_opt2.png",
+				"location": "content"
+			},
+			"feedbackAudio": {
+				"url": "assets/feedback/correct_Mango.ogg",
 				"location": "content"
 			}
 		}],
@@ -286,24 +321,32 @@
 		},
 		"single_right_ans":[
 			{
-				"url": "assets/options/forRun.ogg",
+				"url": "assets/feedback/single_correct/singleCorrect_Peas.ogg",
 				"location": "content"
 			},
 			{
-				"url": "assets/options/fortap.ogg",
+				"url": "assets/feedback/single_correct/singleCorrect_Apple.ogg",
 				"location": "content"
 			},
 			{
-				"url": "assets/options/forskip.ogg",
+				"url": "assets/feedback/single_correct/singleCorrect_Butterfly.ogg",
 				"location": "content"
 			},
 			{
-				"url": "assets/options/forskip.ogg",
+				"url": "assets/feedback/single_correct/singleCorrect_Elephant.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Rhino.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Mango.ogg",
 				"location": "content"
 			}
 		],
 		"wrong_ans_sound": {
-			"url": "assets/feedback/newWrong.ogg",
+			"url": "assets/feedback/wrong.ogg",
 			"location": "content"
 		}
 	},
