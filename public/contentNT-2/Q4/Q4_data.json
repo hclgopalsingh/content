@@ -83,6 +83,17 @@
 				"url": "assets/options/skip.ogg",
 				"location": "content"
 			}
+		},{
+			"id": "006",
+			"matchingId": "008",
+			"imgsrc": {
+				"url": "assets/options/left_opt6.png",
+				"location": "content"
+			},
+			"imgsrc_audio": {
+				"url": "assets/options/skip.ogg",
+				"location": "content"
+			}
 		}],
 		"centralImg": {
 			"url": "assets/question/central_holder.png",
@@ -143,6 +154,17 @@
 				"url": "assets/options/run.ogg",
 				"location": "content"
 			}
+		},{
+			"id": "012",
+			"matchingId": "004",
+			"imgsrc": {
+				"url": "assets/options/right_opt6.png",
+				"location": "content"
+			},
+			"imgsrc_audio": {
+				"url": "assets/options/run.ogg",
+				"location": "content"
+			}
 		}]
 	},
 
@@ -170,7 +192,7 @@
 
 
 	"feedback": {
-		"noOfSubQues": 5,
+		"noOfSubQues": 6,
 		"style_header": {
 			"border": "solid .4vmin #057499",
 			"border-top-left-radius": "20px",
@@ -256,7 +278,7 @@
 				"location": "content"
 			},
 			"imgRight": {
-				"url": "assets/options/right_opt2.png",
+				"url": "assets/options/right_opt6.png",
 				"location": "content"
 			},
 			"feedbackAudio": {
@@ -270,6 +292,19 @@
 			},
 			"imgRight": {
 				"url": "assets/options/right_opt5.png",
+				"location": "content"
+			},
+			"feedbackAudio": {
+				"url": "assets/options/yeskiph.ogg",
+				"location": "content"
+			}
+		},{
+			"imgLeft": {
+				"url": "assets/options/left_opt6.png",
+				"location": "content"
+			},
+			"imgRight": {
+				"url": "assets/options/right_opt2.png",
 				"location": "content"
 			},
 			"feedbackAudio": {

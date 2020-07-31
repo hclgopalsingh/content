@@ -41,7 +41,7 @@
 			}
 		}, {
 			"id": "002",
-			"matchingId": "006",
+			"matchingId": "007",
 			"imgsrc": {
 				"url": "assets/options/left_opt2.png",
 				"location": "content"
@@ -52,7 +52,7 @@
 			}
 		}, {
 			"id": "003",
-			"matchingId": "007",
+			"matchingId": "008",
 			"imgsrc": {
 				"url": "assets/options/left_opt3.png",
 				"location": "content"
@@ -63,7 +63,7 @@
 			}
 		},{
 			"id": "004",
-			"matchingId": "008",
+			"matchingId": "006",
 			"imgsrc": {
 				"url": "assets/options/left_opt4.png",
 				"location": "content"
@@ -90,7 +90,7 @@
 			}
 		},{
 			"id": "006",
-			"matchingId": "002",
+			"matchingId": "004",
 			"imgsrc": {
 				"url": "assets/options/right_opt2.png",
 				"location": "content"
@@ -101,7 +101,7 @@
 			}
 		}, {
 			"id": "007",
-			"matchingId": "003",
+			"matchingId": "002",
 			"imgsrc": {
 				"url": "assets/options/right_opt3.png",
 				"location": "content"
@@ -112,7 +112,7 @@
 			}
 		},{
 			"id": "008",
-			"matchingId": "004",
+			"matchingId": "003",
 			"imgsrc": {
 				"url": "assets/options/right_opt4.png",
 				"location": "content"
@@ -207,7 +207,7 @@
 					"location": "content"
 				},
 				"imgRight": {
-					"url": "assets/options/right_opt2.png",
+					"url": "assets/options/right_opt3.png",
 					"location": "content"
 				},
 				"feedbackAudio": {
@@ -220,7 +220,7 @@
 					"location": "content"
 				},
 				"imgRight": {
-					"url": "assets/options/right_opt3.png",
+					"url": "assets/options/right_opt4.png",
 					"location": "content"
 				},
 				"feedbackAudio": {
@@ -234,7 +234,7 @@
 				"location": "content"
 			},
 			"imgRight": {
-				"url": "assets/options/right_opt4.png",
+				"url": "assets/options/right_opt2.png",
 				"location": "content"
 			},
 			"feedbackAudio": {

@@ -52,20 +52,9 @@
 			}
 		}, {
 			"id": "003",
-			"matchingId": "008",
-			"imgsrc": {
-				"url": "assets/options/left_opt3.png",
-				"location": "content"
-			},
-			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
-				"location": "content"
-			}
-		},{
-			"id": "004",
 			"matchingId": "006",
 			"imgsrc": {
-				"url": "assets/options/left_opt4.png",
+				"url": "assets/options/left_opt3.png",
 				"location": "content"
 			},
 			"imgsrc_audio": {
@@ -90,7 +79,7 @@
 			}
 		},{
 			"id": "006",
-			"matchingId": "004",
+			"matchingId": "003",
 			"imgsrc": {
 				"url": "assets/options/right_opt2.png",
 				"location": "content"
@@ -104,17 +93,6 @@
 			"matchingId": "002",
 			"imgsrc": {
 				"url": "assets/options/right_opt3.png",
-				"location": "content"
-			},
-			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
-				"location": "content"
-			}
-		},{
-			"id": "008",
-			"matchingId": "003",
-			"imgsrc": {
-				"url": "assets/options/right_opt4.png",
 				"location": "content"
 			},
 			"imgsrc_audio": {
@@ -148,7 +126,7 @@
 
 
 	"feedback": {
-		"noOfSubQues": 4,
+		"noOfSubQues": 3,
 		"style_header": {
 			"border": "solid .4vmin #057499",
 			"border-top-left-radius": "20px",
@@ -220,28 +198,15 @@
 					"location": "content"
 				},
 				"imgRight": {
-					"url": "assets/options/right_opt4.png",
+					"url": "assets/options/right_opt2.png",
 					"location": "content"
 				},
 				"feedbackAudio": {
 					"url": "assets/options/yeskiph.ogg",
 					"location": "content"
 				}
-		},
-		{
-			"imgLeft": {
-				"url": "assets/options/left_opt4.png",
-				"location": "content"
-			},
-			"imgRight": {
-				"url": "assets/options/right_opt2.png",
-				"location": "content"
-			},
-			"feedbackAudio": {
-				"url": "assets/options/yeskiph.ogg",
-				"location": "content"
-			}
-		}],
+		}
+		],
 		"wrong_ans_popup": {
 
 		},
