@@ -1,0 +1,64 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="936px" height="720px" viewBox="0 0 936 720">
+<defs>
+<radialGradient id="Gradient_1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="402.45000000000005" fx="0" fy="0" gradientTransform="matrix( 1, 0, 0, 1, 2.25,14.4) " spreadMethod="pad">
+<stop  offset="0%" stop-color="#FFF1C6"/>
+
+<stop  offset="100%" stop-color="#FFE89C"/>
+</radialGradient>
+
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#000000" flood-opacity="1" in="SourceGraphic" result="result1"/>
+
+<feComposite in2="SourceGraphic" in="result1" operator="in" result="result2"/>
+
+<feGaussianBlur in="result2" stdDeviation="3.3333333333333335,3.3333333333333335" result="result3"/>
+
+<feOffset dx="3.5355339059327378" dy="3.5355339059327378" in="result3" result="result4"/>
+
+<feComposite in2="result4" in="SourceGraphic" operator="over" result="result5"/>
+</filter>
+
+<g id="Symbol_1_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 312.2 -208.55
+Q 300.5 -220.25 283.95 -220.25
+L -283.9 -220.25
+Q -300.45 -220.25 -312.15 -208.55 -323.85 -196.85 -323.85 -180.3
+L -323.85 236.25
+Q -323.85 252.8 -312.15 264.5 -300.45 276.2 -283.9 276.2
+L 283.95 276.2
+Q 300.5 276.2 312.2 264.5 323.9 252.8 323.9 236.25
+L 323.9 -180.3
+Q 323.9 -196.85 312.2 -208.55 Z"/>
+</g>
+
+<g id="Paper_copy_3_Layer1_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 312.2 -208.55
+Q 300.5 -220.25 283.95 -220.25
+L -283.9 -220.25
+Q -300.45 -220.25 -312.15 -208.55 -323.85 -196.85 -323.85 -180.3
+L -323.85 236.25
+Q -323.85 252.8 -312.15 264.5 -300.45 276.2 -283.9 276.2
+L 283.95 276.2
+Q 300.5 276.2 312.2 264.5 323.9 252.8 323.9 236.25
+L 323.9 -180.3
+Q 323.9 -196.85 312.2 -208.55 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1.395599365234375, 0, 0, 1.395599365234375, 461.15,314.7) ">
+<g filter="url(#Filter_1)" transform="matrix( 0.7165374755859375, 0, 0, 0.7165374755859375, -330.4,-225.45) ">
+<g transform="matrix( 1.395599365234375, 0, 0, 1.395599365234375, 461.15,353.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,-27.95) ">
+<use xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Paper_copy_3_Layer1_0_FILL"/>
+</g>
+</g>
+</svg>
