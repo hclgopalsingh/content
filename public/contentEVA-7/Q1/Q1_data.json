@@ -340,7 +340,8 @@
     },
 	"optionArray": [
             {
-                "id": 1,
+				"id": 1,
+				"value": "क",
                 "imgsrc": {
                     "url": "option_Box.png",
                     "location": "content"
@@ -383,7 +384,8 @@
 				}
             },
             {
-                "id": 2,
+				"id": 2,
+				"value": "नि",
                 "imgsrc": {
                     "url": "option_Box.png",
                     "location": "content"
@@ -426,7 +428,8 @@
 				}
             },
             {
-                "id": 3,
+				"id": 3,
+				"value": "स",
                 "imgsrc": {
                     "url": "option_Box.png",
                     "location": "content"
@@ -468,8 +471,47 @@
 					"location": "content"
 				}
             }
-        ],
-
+		],
+		"ansArray":[
+			{
+				"id":"field1",
+				"value":"",
+				"disabled":false,
+				"lock": {
+                    "url": "option_Box.png",
+                    "location": "content"
+				},
+				"lock_hover": {
+                    "url": "lock_hover.png",
+                    "location": "content"
+				},
+				"unlock": {
+                    "url": "unlock.png",
+                    "location": "content"
+				},
+				"unlock_hover": {
+                    "url": "unlock_hover.png",
+                    "location": "content"
+				},
+				"unlock_original": {
+                    "url": "unlock.png",
+                    "location": "content"
+				},
+				"refresh":{
+					"url":"refresh.png",
+					"location":"content"
+				},
+				"refresh_original":{
+					"url":"refresh.png",
+					"location":"content"
+				},
+				"refresh_hover":{
+					"url":"refresh_hover.png",
+					"location":"content"
+				}
+			}
+			
+		],
 	"quesObj": {
 		"quesVideo": {
 			"urlOgv": "video.ogg",
