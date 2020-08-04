@@ -482,6 +482,11 @@
                     "url": "lock.png",
                     "location": "content"
 				},
+				"typing_box":{
+					"url": "typing_box.png",
+                    "location": "content"
+				},
+				"locked" : false,
 				"lock_hover": {
                     "url": "lock_hover.png",
                     "location": "content"
@@ -516,8 +521,13 @@
 				"value":"",
 				"disabled":true,
 				"disable_ip":true,
+				"locked" : false,
 				"lock": {
                     "url": "lock.png",
+                    "location": "content"
+				},
+				"typing_box":{
+					"url": "typing_box.png",
                     "location": "content"
 				},
 				"lock_hover": {
@@ -554,8 +564,13 @@
 				"value":"",
 				"disabled":true,
 				"disable_ip":true,
+				"locked" : false,
 				"lock": {
                     "url": "lock.png",
+                    "location": "content"
+				},
+				"typing_box":{
+					"url": "typing_box.png",
                     "location": "content"
 				},
 				"lock_hover": {
