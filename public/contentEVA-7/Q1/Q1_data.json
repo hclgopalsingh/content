@@ -477,8 +477,85 @@
 				"id":"field1",
 				"value":"",
 				"disabled":false,
+				"disable_ip":true,
 				"lock": {
-                    "url": "option_Box.png",
+                    "url": "lock.png",
+                    "location": "content"
+				},
+				"lock_hover": {
+                    "url": "lock_hover.png",
+                    "location": "content"
+				},
+				"unlock": {
+                    "url": "unlock.png",
+                    "location": "content"
+				},
+				"unlock_hover": {
+                    "url": "unlock_hover.png",
+                    "location": "content"
+				},
+				"unlock_original": {
+                    "url": "unlock.png",
+                    "location": "content"
+				},
+				"refresh":{
+					"url":"refresh.png",
+					"location":"content"
+				},
+				"refresh_original":{
+					"url":"refresh.png",
+					"location":"content"
+				},
+				"refresh_hover":{
+					"url":"refresh_hover.png",
+					"location":"content"
+				}
+			},
+			{
+				"id":"field2",
+				"value":"",
+				"disabled":true,
+				"disable_ip":true,
+				"lock": {
+                    "url": "lock.png",
+                    "location": "content"
+				},
+				"lock_hover": {
+                    "url": "lock_hover.png",
+                    "location": "content"
+				},
+				"unlock": {
+                    "url": "unlock.png",
+                    "location": "content"
+				},
+				"unlock_hover": {
+                    "url": "unlock_hover.png",
+                    "location": "content"
+				},
+				"unlock_original": {
+                    "url": "unlock.png",
+                    "location": "content"
+				},
+				"refresh":{
+					"url":"refresh.png",
+					"location":"content"
+				},
+				"refresh_original":{
+					"url":"refresh.png",
+					"location":"content"
+				},
+				"refresh_hover":{
+					"url":"refresh_hover.png",
+					"location":"content"
+				}
+			},
+			{
+				"id":"field3",
+				"value":"",
+				"disabled":true,
+				"disable_ip":true,
+				"lock": {
+                    "url": "lock.png",
                     "location": "content"
 				},
 				"lock_hover": {
