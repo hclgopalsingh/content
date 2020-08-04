@@ -63,7 +63,7 @@
 			}
 		},{
 			"id": "004",
-			"matchingId": "010",
+			"matchingId": "012",
 			"imgsrc": {
 				"url": "assets/options/left_opt4.png",
 				"location": "content"
@@ -112,7 +112,7 @@
 			}
 		},{
 			"id": "008",
-			"matchingId": "004",
+			"matchingId": "006",
 			"imgsrc": {
 				"url": "assets/options/right_opt2.png",
 				"location": "content"
