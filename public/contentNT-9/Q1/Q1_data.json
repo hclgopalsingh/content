@@ -10,34 +10,12 @@
             "url": "narrator.ogg",
             "location": "content"
         },
-        "instruction_img": {
-            "url": "instructionText.svg",
-            "location": "content"
-        },
-        "narrator": {
-            "url": "narrator.ogg",
-            "location": "content"
-        },
         "background": {
-            "url": "bg_1.svg",
-            "location": "content"
-        },
+			"urlglobal": "global/tabs/bg/bg_1.svg",
+			"location": "theme"
+		},
         "isFirstQues": true,
         "imgCount": 6
-    },
-    "option_common_assets": {
-        "option_base": {
-            "url": "optBase.svg",
-            "location": "content"
-        },
-        "option_base_hover": {
-            "url": "optBaseHover.svg",
-            "location": "content"
-        },
-        "option_base_original": {
-            "url": "optBase.svg",
-            "location": "content"
-        }
     },
     "optionObj": [
         {
@@ -54,16 +32,8 @@
                 "url": "emptyBlock1.png",
                 "location": "content"
             },
-            "imgsrc_hover": {
+            "imgsrc_blink": {
                 "url": "emptyBlockHover1.png",
-                "location": "content"
-            },
-            "imgsrc_txt": {
-                "url": "",
-                "location": "content"
-            },
-            "imgsrc_audio": {
-                "url": "option1.ogg",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -93,16 +63,8 @@
                 "url": "emptyBlock2.png",
                 "location": "content"
             },
-            "imgsrc_hover": {
+            "imgsrc_blink": {
                 "url": "emptyBlockHover2.png",
-                "location": "content"
-            },
-            "imgsrc_txt": {
-                "url": "",
-                "location": "content"
-            },
-            "imgsrc_audio": {
-                "url": "option2.ogg",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -132,16 +94,8 @@
                 "url": "emptyBlock3.png",
                 "location": "content"
             },
-            "imgsrc_hover": {
+            "imgsrc_blink": {
                 "url": "emptyBlockHover3.png",
-                "location": "content"
-            },
-            "imgsrc_txt": {
-                "url": "",
-                "location": "content"
-            },
-            "imgsrc_audio": {
-                "url": "option3.ogg",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -171,16 +125,8 @@
                 "url": "emptyBlock4.png",
                 "location": "content"
             },
-            "imgsrc_hover": {
+            "imgsrc_blink": {
                 "url": "emptyBlockHover4.png",
-                "location": "content"
-            },
-            "imgsrc_txt": {
-                "url": "",
-                "location": "content"
-            },
-            "imgsrc_audio": {
-                "url": "option4.ogg",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -198,10 +144,6 @@
         },
         {
             "imgsrc": {
-                "url": "puzzleImage.png",
-                "location": "content"
-            },
-            "imgsrc_hover": {
                 "url": "puzzleImage.png",
                 "location": "content"
             },
@@ -223,10 +165,6 @@
         },
         {
             "imgsrc": {
-                "url": "puzzleBase.png",
-                "location": "content"
-            },
-            "imgsrc_hover": {
                 "url": "puzzleBase.png",
                 "location": "content"
             },
@@ -263,18 +201,6 @@
                 "url": "ansBlockOriginal4.png",
                 "location": "content"
             },
-            "imgsrc_hover": {
-                "url": "ansBlockHover4.png",
-                "location": "content"
-            },
-            "imgsrc_txt": {
-                "url": "",
-                "location": "content"
-            },
-            "imgsrc_audio": {
-                "url": "option4.ogg",
-                "location": "content"
-            },
             "imgrightfeedback_audio": {
                 "url": "part-4.ogg",
                 "location": "content"
@@ -303,18 +229,6 @@
             },
             "imgsrcOriginalSize": {
                 "url": "ansBlockOriginal2.png",
-                "location": "content"
-            },
-            "imgsrc_hover": {
-                "url": "ansBlockHover2.png",
-                "location": "content"
-            },
-            "imgsrc_txt": {
-                "url": "",
-                "location": "content"
-            },
-            "imgsrc_audio": {
-                "url": "option2.ogg",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -347,18 +261,6 @@
                 "url": "ansBlockOriginal1.png",
                 "location":  "content"
             },
-            "imgsrc_hover": {
-                "url": "ansBlockHover1.png",
-                "location": "content"
-            },
-            "imgsrc_txt": {
-                "url": "",
-                "location": "content"
-            },
-            "imgsrc_audio": {
-                "url": "option1.ogg",
-                "location": "content"
-            },
             "imgrightfeedback_audio": {
                 "url": "part-1.ogg",
                 "location": "content"
@@ -389,18 +291,6 @@
                 "url": "ansBlockOriginal3.png",
                 "location": "content"
             },
-            "imgsrc_hover": {
-                "url": "ansBlockHover3.png",
-                "location": "content"
-            },
-            "imgsrc_txt": {
-                "url": "",
-                "location": "content"
-            },
-            "imgsrc_audio": {
-                "url": "option3.ogg",
-                "location": "content"
-            },
             "imgrightfeedback_audio": {
                 "url": "part-3.ogg",
                 "location": "content"
@@ -418,19 +308,13 @@
 
 
     "quesObj": {
-        "quesVideo": {
-            "urlOgv": "",
-            "urlMP4": "",
-            "location": "content"
-        },
-        "bgColor": {
-            "background": "#000000"
-        },
         "quesInstruction": {
             "url": "narrator.ogg",
             "location": "content",
             "autoPlay": true
         },
+        "submitRequired": false,
+        "replayRequired": false,
         "noOfBlocks": 4
     },
 
