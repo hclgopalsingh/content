@@ -36,7 +36,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
+				"url": "assets/options/204.ogg",
 				"location": "content"
 			}
 		}, {
@@ -47,7 +47,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/tap.ogg",
+				"url": "assets/options/542.ogg",
 				"location": "content"
 			}
 		}, {
@@ -58,7 +58,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
+				"url": "assets/options/524.ogg",
 				"location": "content"
 			}
 		}],
@@ -74,7 +74,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/skip.ogg",
+				"url": "assets/options/200plus4.ogg",
 				"location": "content"
 			}
 		},{
@@ -85,7 +85,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/tap.ogg",
+				"url": "assets/options/500plus20plus4.ogg",
 				"location": "content"
 			}
 		}, {
@@ -96,7 +96,7 @@
 				"location": "content"
 			},
 			"imgsrc_audio": {
-				"url": "assets/options/run.ogg",
+				"url": "assets/options/500plus40plus2.ogg",
 				"location": "content"
 			}
 		}]
@@ -167,46 +167,45 @@
 			}
 		},
 		"popupAssets": [{
-				"imgLeft": {
-					"url": "assets/options/left_opt1.png",
-					"location": "content"
-				},
-				"imgRight": {
-					"url": "assets/options/right_opt1.png",
-					"location": "content"
-				},
-				"feedbackAudio": {
-					"url": "assets/options/yerunh.ogg",
-					"location": "content"
-				}
-		}, {
-				"imgLeft": {
-					"url": "assets/options/left_opt2.png",
-					"location": "content"
-				},
-				"imgRight": {
-					"url": "assets/options/right_opt3.png",
-					"location": "content"
-				},
-				"feedbackAudio": {
-					"url": "assets/options/yetaph.ogg",
-					"location": "content"
-				}
-		}, {
-				"imgLeft": {
-					"url": "assets/options/left_opt3.png",
-					"location": "content"
-				},
-				"imgRight": {
-					"url": "assets/options/right_opt2.png",
-					"location": "content"
-				},
-				"feedbackAudio": {
-					"url": "assets/options/yeskiph.ogg",
-					"location": "content"
-				}
-		}
-		],
+			"imgLeft": {
+				"url": "assets/options/left_opt1.png",
+				"location": "content"
+			},
+			"imgRight": {
+				"url": "assets/options/right_opt1.png",
+				"location": "content"
+			},
+			"feedbackAudio": {
+				"url": "assets/feedback/correct204.ogg",
+				"location": "content"
+			}
+	}, {
+			"imgLeft": {
+				"url": "assets/options/left_opt2.png",
+				"location": "content"
+			},
+			"imgRight": {
+				"url": "assets/options/right_opt3.png",
+				"location": "content"
+			},
+			"feedbackAudio": {
+				"url": "assets/feedback/correct542.ogg",
+				"location": "content"
+			}
+	}, {
+			"imgLeft": {
+				"url": "assets/options/left_opt3.png",
+				"location": "content"
+			},
+			"imgRight": {
+				"url": "assets/options/right_opt2.png",
+				"location": "content"
+			},
+			"feedbackAudio": {
+				"url": "assets/feedback/correct524.ogg",
+				"location": "content"
+			}
+	}],
 		"wrong_ans_popup": {
 
 		},
@@ -216,24 +215,20 @@
 		},
 		"single_right_ans":[
 			{
-				"url": "assets/options/forRun.ogg",
+				"url": "assets/feedback/single_correct/singleCorrect204.ogg",
 				"location": "content"
 			},
 			{
-				"url": "assets/options/fortap.ogg",
+				"url": "assets/feedback/single_correct/singleCorrect542.ogg",
 				"location": "content"
 			},
 			{
-				"url": "assets/options/forskip.ogg",
-				"location": "content"
-			},
-			{
-				"url": "assets/options/forskip.ogg",
+				"url": "assets/feedback/single_correct/singleCorrect524.ogg",
 				"location": "content"
 			}
 		],
 		"wrong_ans_sound": {
-			"url": "assets/feedback/newWrong.ogg",
+			"url": "assets/feedback/wrong.ogg",
 			"location": "content"
 		}
 	},

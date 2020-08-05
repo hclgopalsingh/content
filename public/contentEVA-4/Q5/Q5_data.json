@@ -1,6 +1,6 @@
 {
-    "id": "Q001",
-    "imgCount": "11",
+    "id": "Q005",
+    "imgCount": "19",
     "instructiontext": "अक्षर मिलाओ कलम बनाओ ।",
     "speaker": {
         "enabled": "",
@@ -50,52 +50,8 @@
             "url": "Instruction.ogg",
             "location": "content"
         },
-        "instruction_img": {
-            "url": "assets/images/EVAGlobal/instructionText.svg",
-            "location": "assets"
-        },
-        "burst": {
-            "url": "assets/images/burst.gif",
-            "location": "assets"
-        },
-        "bg": {
-            "url": "assets/images/EVAGlobal/bg.jpg",
-            "location": "assets"
-        },
-        "peechey_jayein": {
-            "url": "assets/images/EVAGlobal/prevBtn.svg",
-            "location": "assets"
-        },
-        "peechey_jayein_original": {
-            "url": "assets/images/EVAGlobal/prevBtn.svg",
-            "location": "assets"
-        },
-        "peechey_jayein_hover": {
-            "url": "assets/images/EVAGlobal/prevBtn.svg",
-            "location": "assets"
-        },
-        "aagey_badhein_hover": {
-            "url": "assets/images/EVAGlobal/nextBtn.svg",
-            "location": "assets"
-        },
-        "aagey_badhein": {
-            "url": "assets/images/EVAGlobal/nextBtn.svg",
-            "location": "assets"
-        },
-        "aagey_badhein_original": {
-            "url": "assets/images/EVAGlobal/nextBtn.svg",
-            "location": "assets"
-        },
-        "aagey_badhein_blink": {
-            "url": "assets/images/EVAGlobal/nextBtnBlink.svg",
-            "location": "assets"
-        },
         "background": {
             "url": "assets/images/EVAGlobal/bg.jpg",
-            "location": "assets"
-        },
-        "footer": {
-            "url": "assets/images/EVAGlobal/footerBg.svg",
             "location": "assets"
         },
         "ques_control": {
@@ -109,7 +65,7 @@
 				"location": "assets"
 			},
             "aagey_badhein": {
-                "url": "assets/images/EVAGlobal/nextBtn.svg",
+                "url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
                 "location": "assets"
             },
             "aagey_badhein_original": {
@@ -516,6 +472,12 @@
 
         },
         "show_ans_popup": {
+			 "video": {
+				"url":"video.ogv",
+				"location": "content"
+			 }
+		  },
+		"right_ans_popup": {
             "enabled": false,
             "text": "",
             "correct_order":{
@@ -538,7 +500,7 @@
                   },
                   {  
                      "url":"",
-                     "location":"content"
+                     "location":""
                   },
                   {  
                      "url":"markCrossed.png",
@@ -546,7 +508,7 @@
                   },
                   {  
                      "url":"",
-                     "location":"content"
+                     "location":""
                   },
                   {  
                      "url":"markCrossed.png",
@@ -554,7 +516,7 @@
                   },
                   {  
                      "url":"",
-                     "location":"content"
+                     "location":""
                   },
                   {  
                      "url":"traveller.png",
