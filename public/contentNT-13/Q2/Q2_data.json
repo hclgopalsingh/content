@@ -5,11 +5,11 @@
         "text": "",
         "sound": "",
         "imgsrc": {
-            "url": "q1.png",
+            "url": "assets/options/q1.png",
             "location": "content"
         },
         "bgImgsrc": {
-            "url": "q_bg.png",
+            "url": "assets/options/q_bg.png",
             "location": "content"
         }
     },
@@ -42,7 +42,7 @@
             "url": "assets/sounds/shake.ogg",
             "location": "assets"
         },
-        "isFirstQues": false,
+         "isFirstQues": false,
         "imgCount": 6
   },
     "optionObj": [
@@ -65,7 +65,15 @@
             "sound": {
                 "url": "assets/options/option1.ogg",
                 "location": "content"
-            }
+            },
+            "imgrightfeedback_audio": {
+            "url": "",
+            "location": "content"
+          },
+          "imgwrongfeedback_audio": {
+            "url": "assets/options/WrongAnswerFeedback.ogg",
+            "location": "content"
+          }
         },
         {
             "id": "002",
@@ -86,7 +94,15 @@
             "sound": {
                 "url": "assets/options/option2.ogg",
                 "location": "content"
-            }
+            },
+            "imgrightfeedback_audio": {
+            "url": "",
+            "location": "content"
+          },
+          "imgwrongfeedback_audio": {
+            "url": "assets/options/WrongAnswerFeedback.ogg",
+            "location": "content"
+          }
         },
         {
             "id": "003",
@@ -107,7 +123,15 @@
             "sound": {
                 "url": "assets/options/option3.ogg",
                 "location": "content"
-            }
+            },
+            "imgrightfeedback_audio": {
+            "url": "assets/options/RightAnswerFeedback.ogg",
+            "location": "content"
+          },
+          "imgwrongfeedback_audio": {
+            "url": "",
+            "location": "content"
+          }
         }
     ],
     "quesObj": {
