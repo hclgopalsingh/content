@@ -1,0 +1,952 @@
+{
+    "id": "Q003",
+    "instructiontext": "शब्दजाल में से सुनाया गया शब्द बनाये।",
+    "speaker": {
+        "enabled": "",
+        "imgsrc": {
+            "url": "assets/images/EVAGlobal/speakerBtn.svg",
+            "location": "assets"
+        },
+        "imgorigional": {
+            "url": "assets/images/EVAGlobal/speakerBtn.svg",
+            "location": "assets"
+        },
+        "imghover": {
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
+            "location": "assets"
+        },
+        "imgactive": {
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
+            "location": "assets"
+        },
+        "wave1": {
+            "url": "assets/images/EVAGlobal/speakerWave1.svg",
+            "location": "assets"
+        },
+        "wave2": {
+            "url": "assets/images/EVAGlobal/speakerWave2.svg",
+            "location": "assets"
+        },
+        "wave3": {
+            "url": "assets/images/EVAGlobal/speakerWave3.svg",
+            "location": "assets"
+        },
+        "sound": {
+            "url": "Instruction.ogg",
+            "location": "content"
+        }
+    },
+    "commonassets": {
+        "header_bar": {
+            "url": "assets/images/EVAGlobal/headerBar.svg",
+            "location": "assets"
+        },
+        "instruction_bg": {
+            "url": "assets/images/EVAGlobal/instructionBase.svg",
+            "location": "assets"
+        },
+        "instruction": {
+            "url": "Instruction.ogg",
+            "location": "content"
+        },
+        "instruction_img": {
+            "url": "assets/images/EVAGlobal/instructionText.svg",
+            "location": "assets"
+        },
+        "burst": {
+            "url": "assets/images/burst.gif",
+            "location": "assets"
+        },
+        "bg": {
+            "url": "assets/images/EVAGlobal/bg.jpg",
+            "location": "assets"
+        },
+        "peechey_jayein": {
+            "url": "assets/images/EVAGlobal/prevBtn.svg",
+            "location": "assets"
+        },
+        "peechey_jayein_original": {
+            "url": "assets/images/EVAGlobal/prevBtn.svg",
+            "location": "assets"
+        },
+        "peechey_jayein_hover": {
+            "url": "assets/images/EVAGlobal/prevBtn.svg",
+            "location": "assets"
+        },
+        "aagey_badhein_hover": {
+            "url": "assets/images/EVAGlobal/nextBtn.svg",
+            "location": "assets"
+        },
+        "aagey_badhein": {
+            "url": "assets/images/EVAGlobal/nextBtn.svg",
+            "location": "assets"
+        },
+        "aagey_badhein_original": {
+            "url": "assets/images/EVAGlobal/nextBtn.svg",
+            "location": "assets"
+        },
+        "aagey_badhein_blink": {
+            "url": "assets/images/EVAGlobal/nextBtnBlink.svg",
+            "location": "assets"
+        },
+        "background": {
+            "url": "assets/images/EVAGlobal/bg.jpg",
+            "location": "assets"
+        },
+        "footer": {
+            "url": "assets/images/EVAGlobal/footerBg.svg",
+            "location": "assets"
+        },
+        "ques_control": {
+            "isLastQues": true,
+            "footer": {
+                "url": "assets/images/EVAGlobal/footerBg.svg",
+                "location": "assets"
+            },
+            "aagey_badhein": {
+                "url": "assets/images/EVAGlobal/nextBtn.svg",
+                "location": "assets"
+            },
+            "aagey_badhein_original": {
+                "url": "assets/images/EVAGlobal/nextBtn.svg",
+                "location": "assets"
+            },
+            "aagey_badhein_disabled": {
+                "url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
+                "location": "assets"
+            },
+            "aagey_badhein_hover": {
+                "url": "assets/images/EVAGlobal/nextBtnHover.svg",
+                "location": "assets"
+            },
+            "aagey_badhein_blink": {
+                "url": "assets/images/EVAGlobal/nextBtnBlink.svg",
+                "location": "assets"
+            },
+            "peechey_jayein": {
+                "url": "assets/images/EVAGlobal/prevBtn.svg",
+                "location": "assets"
+            },
+            "peechey_jayein_original": {
+                "url": "assets/images/EVAGlobal/prevBtn.svg",
+                "location": "assets"
+            },
+            "peechey_jayein_hover": {
+                "url": "assets/images/EVAGlobal/prevBtnHover.svg",
+                "location": "assets"
+            },
+            "uttar_dikhayein": {
+                "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
+                "location": "assets"
+            },
+            "uttar_dikhayein_disable": {
+                "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
+                "location": "assets"
+            },
+            "uttar_dikhayein_original": {
+                "url": "assets/images/EVAGlobal/ansBtnActive.svg",
+                "location": "assets"
+            },
+            "uttar_dikhayein_hover": {
+                "url": "assets/images/EVAGlobal/ansBtnHover.svg",
+                "location": "assets"
+            },
+            "submit_btn": {
+                "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+                "location": "assets"
+            },
+            "submit_btn_hover": {
+                "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+                "location": "assets"
+            },
+            "submit_btn_original": {
+                "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+                "location": "assets"
+            },
+            "submitBtnDisabled": {
+                "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+                "location": "assets"
+            },
+            "quesTabs": [
+                {
+                    "ques_tab": {
+                        "id": "001",
+                        "tabcircle": {
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        },
+                        "tabcircleActive": {
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
+                            "location": "assets"
+                        },
+                        "tabcircleVisited": {
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
+                            "location": "assets"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "id": "002",
+                        "tabcircle": {
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        },
+                        "tabcircleActive": {
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "location": "assets"
+                        },
+                        "tabcircleVisited": {
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
+                            "location": "assets"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "id": "003",
+                        "tabcircle": {
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "location": "assets"
+                        },
+                        "tabcircleActive": {
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "location": "assets"
+                        },
+                        "tabcircleVisited": {
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
+                            "location": "assets"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "id": "004",
+                        "tabcircle": {
+                            "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
+                            "location": "assets"
+                        },
+                        "tabcircleActive": {
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "location": "assets"
+                        },
+                        "tabcircleVisited": {
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
+                            "location": "assets"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "id": "005",
+                        "tabcircle": {
+                            "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
+                            "location": "assets"
+                        },
+                        "tabcircleActive": {
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "location": "assets"
+                        },
+                        "tabcircleVisited": {
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
+                            "location": "assets"
+                        }
+                    }
+                }
+            ]
+        },
+        "isFirstQues": false
+    },
+    "ques": {
+        "text": "",
+        "imgsrc": {
+            "url": "ansbase.svg",
+            "location": "content"
+        },
+        "narrator_voice": {
+            "url": "Q2.ogg",
+            "location": "content"
+        }
+    },
+    "options": {
+        "keypad": {
+            "background": {
+                "url": "keybase.png",
+                "location": "content"
+            }
+        },
+        "optionsArr": [
+            {
+                "id": "1",
+                "image": {
+                    "url": "khe.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key1.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key1_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key1.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key1_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key1_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "2",
+                "image": {
+                    "url": "ja.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key4.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key4_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key4.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key4_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key4_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "3",
+                "image": {
+                    "url": "oo.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key2.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key2_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key2.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key2_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key2_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "4",
+                "image": {
+                    "url": "ta.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key3.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key3_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key3.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key3_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key3_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "5",
+                "image": {
+                    "url": "la.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key3.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key3_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key3.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key3_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key3_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "6",
+                "image": {
+                    "url": "pe.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key2.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key2_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key2.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key2_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key2_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "7",
+                "image": {
+                    "url": "ka.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key4.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key4_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key4.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key4_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key4_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "8",
+                "image": {
+                    "url": "raa.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key1.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key1_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key1.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key1_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key1_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "9",
+                "image": {
+                    "url": "naa.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key1.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key1_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key1.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key1_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key1_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "10",
+                "image": {
+                    "url": "ee.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key4.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key4_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key4.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key4_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key4_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "11",
+                "image": {
+                    "url": "ma.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key2.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key2_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key2.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key1_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key2_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "12",
+                "image": {
+                    "url": "eee.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key3.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key3_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key3.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key3_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key3_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "13",
+                "image": {
+                    "url": "la.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key4.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key4_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key4.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key4_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key4_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "14",
+                "image": {
+                    "url": "da1.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key2.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key2_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key2.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key2_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key2_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "15",
+                "image": {
+                    "url": "la.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key3.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key3_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key3.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key3_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key3_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "16",
+                "image": {
+                    "url": "aa.png",
+                    "location": "content"
+                },
+                "image_bg": {
+                    "url": "../commonassets/key1.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/key1_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/key1.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/key1_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_selected": {
+                    "url": "../commonassets/key1_selected.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "",
+                    "location": "content"
+                }
+            }
+        ]
+    },
+    "quesObj": {
+        "quesInstruction": {
+            "url": "Instruction.ogg",
+            "location": "content",
+            "autoPlay": true
+        },
+        "quesBackground": {
+            "url": "../commonassets/ques_box.png",
+            "location": "content"
+        },
+        "questionText": [
+            {
+                "audio": {
+                    "url": "speech_1.ogg",
+                    "location": "content"
+                }
+            },
+            {
+                "audio": {
+                    "url": "speech_2.ogg",
+                    "location": "content"
+                }
+            },
+            {
+                "audio": {
+                    "url": "speech_3.ogg",
+                    "location": "content"
+                }
+            }
+        ]
+    },
+    "feedback": {
+        "correct_ans": [
+            {
+                "correct_img": {
+                    "url": "ans1.png",
+                    "location": "content"
+                },
+                "correct_index": [
+                    "7",
+                    "11",
+                    "15"
+                ]
+            },
+            {
+                "correct_img": {
+                    "url": "ans2.png",
+                    "location": "content"
+                },
+                "correct_index": [
+                    "2",
+                    "3",
+                    "4"
+                ]
+            },
+            {
+                "correct_img": {
+                    "url": "ans3.png",
+                    "location": "content"
+                },
+                "correct_index": [
+                    "1",
+                    "5",
+                    "9"
+                ]
+            }
+        ],
+        "popupassets": {
+            "pop_up_base": {
+                "url": "assets/images/EVAGlobal/popupBase.svg",
+                "location": "assets"
+            },
+            "close_button": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_origional": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_hover": {
+                "url": "assets/images/EVAGlobal/popupCloseBtnHover.svg",
+                "location": "assets"
+            },
+            "right_icon": {
+                "url": "assets/images/EVAGlobal/rightAnsIcon.svg",
+                "location": "assets"
+            },
+            "wrong_icon": {
+                "url": "assets/images/EVAGlobal/wrongAnsIcon.svg",
+                "location": "assets"
+            },
+            "celebrations": {
+                "url": "celebrations.svg",
+                "location": "content"
+            }
+        },
+        "show_ans_popup": {
+            "video": {
+                "url": "video.ogv",
+                "location": "content"
+            }
+        },
+        "right_ans_popup": {
+            "image": {
+                "url": "ques_base_box.png",
+                "location": "content"
+            },
+            "imgsrc": {
+                "url": "answerimage.png",
+                "location": "content"
+            },
+            "img_org": {
+                "url": "answerimage.png",
+                "location": "content"
+            },
+            "img_blink": {
+                "url": "answerimage_blink.png",
+                "location": "content"
+            },
+            "sound": ""
+        },
+        "right_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "rightFeedback.ogg",
+                "location": "content"
+            }
+        },
+        "right_ans_clap_sound": {
+            "url": "assets/images/EVAGlobal/clap.ogg",
+            "location": "assets"
+        },
+        "wrong_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "wrongFeedback.ogg",
+                "location": "content"
+            }
+        },
+        "all_correct_sound": {
+            "enabled": true,
+            "path": {
+                "url": "rightFeedbackFinal.ogg",
+                "location": "content"
+            }
+        },
+        "show_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "showanswerFeedback.ogg",
+                "location": "content"
+            }
+        }
+    }
+}
