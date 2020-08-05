@@ -77,6 +77,10 @@
       "aagey_badhein_hover": {
         "url": "assets/images/EVAGlobal/nextBtn.svg",
         "location": "assets"
+      },	
+      "opt_shadow": {
+        "url": "optionShadow.png",
+        "location": "content"
       },
       "aagey_badhein": {
         "url": "assets/images/EVAGlobal/nextBtn.svg",
@@ -313,7 +317,7 @@
         {
           "id": "002",
           "optBg": {
-            "url": "optionBg2.png",
+            "url": "optionBg1.png",
             "location": "content"
           },
           "image": {
@@ -321,11 +325,11 @@
             "location": "content"
           },
           "optBg_hover": {
-            "url": "optionBgHover2.png",
+            "url": "optionBgHover1.png",
             "location": "content"
           },
           "optBg_original": {
-            "url": "optionBg2.png",
+            "url": "optionBg1.png",
             "location": "content"
           },
           "audio": {
