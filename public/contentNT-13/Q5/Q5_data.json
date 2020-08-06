@@ -43,7 +43,7 @@
          "location":"assets"
       },
       "isFirstQues": false,
-      "imgCount":"6"
+      "imgCount":"7"
    },
    "optionObj": [
         {
@@ -96,11 +96,11 @@
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-            "url": "",
+            "url": "assets/options/RightAnswerFeedback.ogg",
             "location": "content"
           },
           "imgwrongfeedback_audio": {
-            "url": "assets/options/WrongAnswerFeedback.ogg",
+            "url": "",
             "location": "content"
           }
         },
@@ -125,22 +125,16 @@
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-            "url": "assets/options/RightAnswerFeedback.ogg",
+            "url": "",
             "location": "content"
           },
           "imgwrongfeedback_audio": {
-            "url": "",
+            "url": "assets/options/WrongAnswerFeedback.ogg",
             "location": "content"
           }
         }
     ],
    "quesObj":{
-      "quesVideo":{
-         "urlOgv":"assets/video.ogg",
-         "urlMP4":"assets/video.mp4",
-         "location":"content",
-         "autoPlay":true
-      },
       "quesInstruction":{
          "url":"assets/instructionAudio.ogg",
          "location":"content",
@@ -218,7 +212,7 @@
       }
    },
    "feedback":{
-      "correct_ans_index":2,
+      "correct_ans_index":1,
       "style_header":{
          "border":"solid .4vmin #3C7132",
          "border-top-left-radius":"20px",

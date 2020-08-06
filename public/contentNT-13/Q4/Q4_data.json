@@ -135,13 +135,7 @@
         }
     ],
  "quesObj": {
-        "quesVideo": {
-            "urlOgv": "assets/video.ogg",
-            "urlMP4": "assets/video.mp4",
-            "location": "content",
-            "autoPlay": true
-        },
-         "quesInstruction": {
+      "quesInstruction": {
       "url": "assets/instructionAudio.ogg",
       "location": "content",
       "autoPlay": true
