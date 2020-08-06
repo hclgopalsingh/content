@@ -1,7 +1,7 @@
 ﻿{
 	"id": "Q001",
     "imgCount": "12",
-    "instructiontext": "क लिखने का सही तरीका पहचानिए।",
+    "instructiontext": "दिए गए अक्षर का उपयोग करके शब्द बनाएं",
 	"commonassets": {
 		"header_bar": {
 		  "url": "assets/images/EVAGlobal/headerBar.svg",
@@ -128,15 +128,19 @@
 		  "submit_btn": {
 			"url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
 			"location": "assets"
-		  },
-		  "submit_btn_hover": {
+		},
+		"submitBtnDisabled": {
+			"url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+			"location": "assets"
+		},
+		"submit_btn_hover": {
 			"url": "assets/images/EVAGlobal/submitBtnHover.svg",
 			"location": "assets"
-		  },
-		  "submit_btn_original": {
-			"url": "assets/images/EVAGlobal/submitBtn.svg",
+		},
+		"submit_btn_original": {
+			"url": "assets/images/EVAGlobal/submitBtnActive.svg",
 			"location": "assets"
-		  },
+		},
 		  "replay_btn": {
 			"url": "video_btn.png",
 			"location": "content"
@@ -385,7 +389,7 @@
             },
             {
 				"id": 2,
-				"value": "नि",
+				"value": "ल",
                 "imgsrc": {
                     "url": "option_Box.png",
                     "location": "content"
@@ -429,7 +433,7 @@
             },
             {
 				"id": 3,
-				"value": "स",
+				"value": "न",
                 "imgsrc": {
                     "url": "option_Box.png",
                     "location": "content"
@@ -478,6 +482,7 @@
 				"value":"",
 				"disabled":false,
 				"disable_ip":true,
+				"isRight":true,
 				"lock": {
                     "url": "lock.png",
                     "location": "content"
@@ -521,6 +526,7 @@
 				"value":"",
 				"disabled":true,
 				"disable_ip":true,
+				"isRight":true,
 				"locked" : false,
 				"lock": {
                     "url": "lock.png",
@@ -563,6 +569,7 @@
 				"id":"field3",
 				"value":"",
 				"disabled":true,
+				"isRight":true,
 				"disable_ip":true,
 				"locked" : false,
 				"lock": {
@@ -644,6 +651,49 @@
 
 	"feedback": {
 		"correct_answer": 2,
+		"answer_key":["नकल","कल","नल"],
+		"confirmation_popUp" : {
+			"close_button": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_origional": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_hover": {
+                "url": "assets/images/EVAGlobal/popupCloseBtnHover.svg",
+                "location": "assets"
+			},
+			"body":{
+				"url": "assets/images/EVAGlobal/confirmation_body.png",
+                "location": "assets"
+			},
+			"yesButton":{
+				"url": "assets/images/EVAGlobal/yes_txt.png",
+                "location": "assets"
+			},
+			"noButton":{
+				"url": "assets/images/EVAGlobal/no_txt.png",
+                "location": "assets"
+			},
+			"yes_btn_base":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			},
+			"no_btn_base":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			},
+			"btn_base_hover":{
+				"url": "assets/images/EVAGlobal/button_base_hover.png",
+                "location": "assets"
+			},
+			"btn_base_original":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			}
+		},
 		"popupassets":{
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",
