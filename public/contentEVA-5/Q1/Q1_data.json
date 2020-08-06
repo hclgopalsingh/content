@@ -284,7 +284,7 @@
             {
                 "id": "1",
                 "highlightWord_bg":{
-                    "url": "../commonassets/3VYellow.png",
+                    "url": "../commonassets/3VGreen.png",
                     "location": "content"
                 },
                 "image": {
@@ -292,23 +292,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key1.png",
+                    "url": "../commonassets/key_green.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key1_hover.png",
+                    "url": "../commonassets/key_green_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key1.png",
+                    "url": "../commonassets/key_green.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key1_disabled.png",
+                    "url": "../commonassets/key_green_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key1_selected.png",
+                    "url": "../commonassets/key_green_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -323,23 +323,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key4.png",
+                    "url": "../commonassets/key_orange.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key4_hover.png",
+                    "url": "../commonassets/key_orange_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key4.png",
+                    "url": "../commonassets/key_orange.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key4_disabled.png",
+                    "url": "../commonassets/key_orange_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key4_selected.png",
+                    "url": "../commonassets/key_orange_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -354,23 +354,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key2.png",
+                    "url": "../commonassets/key_blue.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key2_hover.png",
+                    "url": "../commonassets/key_blue_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key2.png",
+                    "url": "../commonassets/key_blue.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key2_disabled.png",
+                    "url": "../commonassets/key_blue_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key2_selected.png",
+                    "url": "../commonassets/key_blue_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -389,23 +389,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key3.png",
+                    "url": "../commonassets/key_pink.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key3_hover.png",
+                    "url": "../commonassets/key_pink_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key3.png",
+                    "url": "../commonassets/key_pink.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key3_disabled.png",
+                    "url": "../commonassets/key_pink_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key3_selected.png",
+                    "url": "../commonassets/key_pink_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -420,23 +420,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key3.png",
+                    "url": "../commonassets/key_pink.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key3_hover.png",
+                    "url": "../commonassets/key_pink_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key3.png",
+                    "url": "../commonassets/key_pink.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key3_disabled.png",
+                    "url": "../commonassets/key_pink_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key3_selected.png",
+                    "url": "../commonassets/key_pink_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -451,23 +451,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key2.png",
+                    "url": "../commonassets/key_blue.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key2_hover.png",
+                    "url": "../commonassets/key_blue_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key2.png",
+                    "url": "../commonassets/key_blue.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key2_disabled.png",
+                    "url": "../commonassets/key_blue_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key2_selected.png",
+                    "url": "../commonassets/key_blue_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -482,23 +482,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key4.png",
+                    "url": "../commonassets/key_orange.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key4_hover.png",
+                    "url": "../commonassets/key_orange_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key4.png",
+                    "url": "../commonassets/key_orange.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key4_disabled.png",
+                    "url": "../commonassets/key_orange_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key4_selected.png",
+                    "url": "../commonassets/key_orange_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -513,23 +513,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key1.png",
+                    "url": "../commonassets/key_green.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key1_hover.png",
+                    "url": "../commonassets/key_green_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key1.png",
+                    "url": "../commonassets/key_green.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key1_disabled.png",
+                    "url": "../commonassets/key_green_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key1_selected.png",
+                    "url": "../commonassets/key_green_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -544,23 +544,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key1.png",
+                    "url": "../commonassets/key_green.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key1_hover.png",
+                    "url": "../commonassets/key_green_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key1.png",
+                    "url": "../commonassets/key_green.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key1_disabled.png",
+                    "url": "../commonassets/key_green_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key1_selected.png",
+                    "url": "../commonassets/key_green_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -575,23 +575,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key4.png",
+                    "url": "../commonassets/key_orange.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key4_hover.png",
+                    "url": "../commonassets/key_orange_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key4.png",
+                    "url": "../commonassets/key_orange.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key4_disabled.png",
+                    "url": "../commonassets/key_orange_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key4_selected.png",
+                    "url": "../commonassets/key_orange_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -606,23 +606,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key2.png",
+                    "url": "../commonassets/key_blue.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key2_hover.png",
+                    "url": "../commonassets/key_blue_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key2.png",
+                    "url": "../commonassets/key_blue.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key1_disabled.png",
+                    "url": "../commonassets/key_green_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key2_selected.png",
+                    "url": "../commonassets/key_blue_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -637,23 +637,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key3.png",
+                    "url": "../commonassets/key_pink.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key3_hover.png",
+                    "url": "../commonassets/key_pink_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key3.png",
+                    "url": "../commonassets/key_pink.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key3_disabled.png",
+                    "url": "../commonassets/key_pink_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key3_selected.png",
+                    "url": "../commonassets/key_pink_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -672,23 +672,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key4.png",
+                    "url": "../commonassets/key_orange.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key4_hover.png",
+                    "url": "../commonassets/key_orange_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key4.png",
+                    "url": "../commonassets/key_orange.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key4_disabled.png",
+                    "url": "../commonassets/key_orange_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key4_selected.png",
+                    "url": "../commonassets/key_orange_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -703,23 +703,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key2.png",
+                    "url": "../commonassets/key_blue.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key2_hover.png",
+                    "url": "../commonassets/key_blue_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key2.png",
+                    "url": "../commonassets/key_blue.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key2_disabled.png",
+                    "url": "../commonassets/key_blue_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key2_selected.png",
+                    "url": "../commonassets/key_blue_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -734,23 +734,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key3.png",
+                    "url": "../commonassets/key_pink.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key3_hover.png",
+                    "url": "../commonassets/key_pink_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key3.png",
+                    "url": "../commonassets/key_pink.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key3_disabled.png",
+                    "url": "../commonassets/key_pink_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key3_selected.png",
+                    "url": "../commonassets/key_pink_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -765,23 +765,23 @@
                     "location": "content"
                 },
                 "image_bg": {
-                    "url": "../commonassets/key1.png",
+                    "url": "../commonassets/key_green.png",
                     "location": "content"
                 },
                 "image_bg_hover": {
-                    "url": "../commonassets/key1_hover.png",
+                    "url": "../commonassets/key_green_hover.png",
                     "location": "content"
                 },
                 "image_bg_original": {
-                    "url": "../commonassets/key1.png",
+                    "url": "../commonassets/key_green.png",
                     "location": "content"
                 },
                 "image_bg_disabled": {
-                    "url": "../commonassets/key1_disabled.png",
+                    "url": "../commonassets/key_green_disabled.png",
                     "location": "content"
                 },
                 "image_bg_selected": {
-                    "url": "../commonassets/key1_selected.png",
+                    "url": "../commonassets/key_green_selected.png",
                     "location": "content"
                 },
                 "audio": {
@@ -833,7 +833,11 @@
                     "4",
                     "8",
                     "12"
-                ]
+                ],
+                "rightfeedback_audio": {
+                    "url": "Instruction.ogg",
+                    "location": "content"
+                  }
             },
             {
                 "correct_img": {
@@ -845,7 +849,11 @@
                     "14",
                     "15",
                     "16"
-                ]
+                ],
+                "rightfeedback_audio": {
+                    "url": "rightFeedback.ogg",
+                    "location": "content"
+                  }
             },
             {
                 "correct_img": {
@@ -856,7 +864,11 @@
                     "1",
                     "5",
                     "9"
-                ]
+                ],
+                "rightfeedback_audio": {
+                    "url": "showanswerFeedback.ogg",
+                    "location": "content"
+                  }
             }
         ],
         "popupassets": {
