@@ -3,12 +3,12 @@
     "theme_name": "theme1",
     "commonassets": {
         "instruction_bg": {
-            "url": "instructionBar.png",
-            "location": "content"
+        "url": "assets/instructionBar.png",
+        "location": "content"
         },
         "instruction": {
-            "url": "narrator.ogg",
-            "location": "content"
+        "url": "assets/instructionAudio.ogg",
+        "location": "content"
         },
         "background": {
 			"urlglobal": "global/tabs/bg/bg_1.svg",
@@ -29,11 +29,11 @@
                 "pointer-events": "none"
             },
             "imgsrc": {
-                "url": "emptyBlock1.png",
+                "url": "assets/emptyblocks/emptyBlock1.png",
                 "location": "content"
             },
             "imgsrc_blink": {
-                "url": "emptyBlockHover1.png",
+                "url": "assets/emptyblocks/emptyBlockBlink1.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -60,11 +60,11 @@
                 "pointer-events": "none"
             },
             "imgsrc": {
-                "url": "emptyBlock2.png",
+                "url": "assets/emptyblocks/emptyBlock2.png",
                 "location": "content"
             },
             "imgsrc_blink": {
-                "url": "emptyBlockHover2.png",
+                "url": "assets/emptyblocks/emptyBlockBlink2.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -91,11 +91,11 @@
                 "pointer-events": "none"
             },
             "imgsrc": {
-                "url": "emptyBlock3.png",
+                "url": "assets/emptyblocks/emptyBlock3.png",
                 "location": "content"
             },
             "imgsrc_blink": {
-                "url": "emptyBlockHover3.png",
+                "url": "assets/emptyblocks/emptyBlockBlink3.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -122,11 +122,11 @@
                 "pointer-events": "none"
             },
             "imgsrc": {
-                "url": "emptyBlock4.png",
+                "url": "assets/emptyblocks/emptyBlock4.png",
                 "location": "content"
             },
             "imgsrc_blink": {
-                "url": "emptyBlockHover4.png",
+                "url": "assets/emptyblocks/emptyBlockBlink4.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -153,19 +153,11 @@
                 "right": "16%",
                 "width": "17%",
                 "pointer-events": "none"
-            },
-            "imgsrcOriginalSize": {
-                "url": "puzzleImage.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "puzzleImage.png",
-                "location": "content"
             }
         },
         {
             "imgsrc": {
-                "url": "puzzleBase.png",
+                "url": "assets/puzzleBase.png",
                 "location": "content"
             },
             "style_block": {
@@ -174,14 +166,6 @@
                 "right": "6.5%",
                 "width": "36%",
                 "pointer-events": "none"
-            },
-            "imgsrcOriginalSize": {
-                "url": "puzzleBase.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "puzzleBase.png",
-                "location": "content"
             }
         },
         {
@@ -194,23 +178,23 @@
                 "cursor": "pointer"
             },
             "imgsrc": {
-                "url": "ansBlock4.png",
+                "url": "assets/puzzleblocks/ansBlock4.png",
                 "location": "content"
             },
             "imgsrcOriginalSize": {
-                "url": "ansBlockOriginal4.png",
+                "url": "assets/puzzleblocks/ansBlockOriginal4.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "part-4.ogg",
+                "url": "assets/puzzleblocks/part-4.ogg",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedback.ogg",
+                "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "ansBlock4.png",
+                "url": "assets/puzzleblocks/ansBlock4.png",
                 "location": "content"
             }
         },
@@ -224,23 +208,23 @@
                 "cursor": "pointer"
             },
             "imgsrc": {
-                "url": "ansBlock2.png",
+                "url": "assets/puzzleblocks/ansBlock2.png",
                 "location": "content"
             },
             "imgsrcOriginalSize": {
-                "url": "ansBlockOriginal2.png",
+                "url": "assets/puzzleblocks/ansBlockOriginal2.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "part-2.ogg",
+                "url": "assets/puzzleblocks/part-2.ogg",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedback.ogg",
+                "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "ansBlock2.png",
+                "url": "assets/puzzleblocks/ansBlock2.png",
                 "location": "content"
             }
         },
@@ -254,23 +238,23 @@
                 "cursor": "pointer"
             },
             "imgsrc": {
-                "url": "ansBlock1.png",
+                "url": "assets/puzzleblocks/ansBlock1.png",
                 "location": "content"
             },
             "imgsrcOriginalSize": {
-                "url": "ansBlockOriginal1.png",
+                "url": "assets/puzzleblocks/ansBlock1.png",
                 "location":  "content"
             },
             "imgrightfeedback_audio": {
-                "url": "part-1.ogg",
+                "url": "assets/puzzleblocks/part-1.ogg",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedback.ogg",
+                "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "ansBlock1.png",
+                "url": "assets/puzzleblocks/ansBlock1.png",
                 "location": "content"
             }
         },
@@ -284,23 +268,23 @@
                 "cursor": "pointer"
             },
             "imgsrc": {
-                "url": "ansBlock3.png",
+                "url": "assets/puzzleblocks/ansBlock3.png",
                 "location": "content"
             },
             "imgsrcOriginalSize": {
-                "url": "ansBlockOriginal3.png",
+                "url": "assets/puzzleblocks/ansBlockOriginal3.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "part-3.ogg",
+                "url": "assets/puzzleblocks/part-3.ogg",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedback.ogg",
+                "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "ansBlock3.png",
+                "url": "assets/puzzleblocks/ansBlock3.png",
                 "location": "content"
             }
         }
@@ -309,7 +293,7 @@
 
     "quesObj": {
         "quesInstruction": {
-            "url": "narrator.ogg",
+            "url": "assets/instructionAudio.ogg",
             "location": "content",
             "autoPlay": true
         },
