@@ -105,11 +105,11 @@
             "location": "content"
           },
           "imgrightfeedback_audio": {
-            "url": "",
+            "url": "assets/options/RightAnswerFeedback.ogg",
             "location": "content"
           },
           "imgwrongfeedback_audio": {
-            "url": "assets/options/WrongAnswerFeedback3.ogg",
+            "url": "",
             "location": "content"
           },
           "imgsrc_original": {
