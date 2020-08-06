@@ -5,11 +5,11 @@
         "text": "",
         "sound": "",
         "imgsrc": {
-            "url": "q1.png",
+            "url": "assets/options/q1.png",
             "location": "content"
         },
         "bgImgsrc": {
-            "url": "q_bg.png",
+            "url": "assets/options/q_bg.png",
             "location": "content"
         }
     },
@@ -43,7 +43,7 @@
             "location": "assets"
         },
         "isFirstQues": true,
-        "imgCount": 6
+        "imgCount": 7
   },
     "optionObj": [
         {
@@ -65,7 +65,15 @@
             "sound": {
                 "url": "assets/options/option1.ogg",
                 "location": "content"
-            }
+            },
+            "imgrightfeedback_audio": {
+            "url": "",
+            "location": "content"
+          },
+          "imgwrongfeedback_audio": {
+            "url": "assets/options/WrongAnswerFeedback.ogg",
+            "location": "content"
+          }
         },
         {
             "id": "002",
@@ -86,7 +94,15 @@
             "sound": {
                 "url": "assets/options/option2.ogg",
                 "location": "content"
-            }
+            },
+            "imgrightfeedback_audio": {
+            "url": "",
+            "location": "content"
+          },
+          "imgwrongfeedback_audio": {
+            "url": "assets/options/WrongAnswerFeedback.ogg",
+            "location": "content"
+          }
         },
         {
             "id": "003",
@@ -107,17 +123,19 @@
             "sound": {
                 "url": "assets/options/option3.ogg",
                 "location": "content"
-            }
+            },
+            "imgrightfeedback_audio": {
+            "url": "assets/options/RightAnswerFeedback.ogg",
+            "location": "content"
+          },
+          "imgwrongfeedback_audio": {
+            "url": "",
+            "location": "content"
+          }
         }
     ],
     "quesObj": {
-        "quesVideo": {
-            "urlOgv": "assets/video.ogg",
-            "urlMP4": "assets/video.mp4",
-            "location": "content",
-            "autoPlay": true
-        },
-         "quesInstruction": {
+      "quesInstruction": {
       "url": "assets/instructionAudio.ogg",
       "location": "content",
       "autoPlay": true
@@ -194,6 +212,7 @@
         }
     },
     "feedback": {
+      "closeDelayTime":10000,
         "correct_ans_index": 2,
         "style_header": {
           "border": "solid .4vmin #3C7132",
@@ -318,9 +337,9 @@
         },
         "right_ans_popup":  
           {
-            "id": "004",
+            "id": "003",
             "imgsrc": { 
-              "url": "assets/options/opt4.png",
+              "url": "assets/options/opt3.png",
               "location": "content"
             },
             "imgsrc_hover": {

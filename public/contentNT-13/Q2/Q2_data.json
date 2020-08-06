@@ -1,19 +1,19 @@
 {
-   "productType": "elementary",
+    "productType": "elementary",
    "theme_name": "theme1",
-   "ques": {
-        "text": "",
-        "sound": "",
-        "imgsrc": {
-            "url": "q1.png",
-            "location": "content"
-        },
-        "bgImgsrc": {
-            "url": "q_bg.png",
-            "location": "content"
-        }
-    },
-  "commonassets": {
+	"ques": {
+		"text": "",
+		"sound": "",
+		"imgsrc": {
+			"url": "assets/options/q2.png",
+			"location": "content"
+		},
+		"bgImgsrc": {
+			"url": "assets/options/q_bg.png",
+			"location": "content"
+		}
+	},
+	"commonassets": {
         "instruction_bg": {
           "url": "assets/instructionBar.png",
           "location": "content"
@@ -43,81 +43,98 @@
             "location": "assets"
         },
         "isFirstQues": false,
-        "imgCount": 6
+        "imgCount": 7
   },
-    "optionObj": [
-        {
-            "id": "001",
-            "custom_id": "0",
-            "showWave": true,
-            "imgsrc": {
-                "url": "assets/options/opt1.png",
-                "location": "content"
-            },
-            "imgsrc_hover": {
-                "url": "assets/options/opt1_hover.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/options/opt1.png",
-                "location": "content"
-            },
-            "sound": {
-                "url": "assets/options/option1.ogg",
-                "location": "content"
-            }
-        },
-        {
-            "id": "002",
-            "custom_id": "1",
-            "showWave": true,
-            "imgsrc": {
-                "url": "assets/options/opt2.png",
-                "location": "content"
-            },
-            "imgsrc_hover": {
-                "url": "assets/options/opt2_hover.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/options/opt2.png",
-                "location": "content"
-            },
-            "sound": {
-                "url": "assets/options/option2.ogg",
-                "location": "content"
-            }
-        },
-        {
-            "id": "003",
-            "custom_id": "2",
-            "showWave": true,
-            "imgsrc": {
-                "url": "assets/options/opt3.png",
-                "location": "content"
-            },
-            "imgsrc_hover": {
-                "url": "assets/options/opt3_hover.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/options/opt3.png",
-                "location": "content"
-            },
-            "sound": {
-                "url": "assets/options/option3.ogg",
-                "location": "content"
-            }
-        }
-    ],
-    "quesObj": {
-        "quesVideo": {
-            "urlOgv": "assets/video.ogg",
-            "urlMP4": "assets/video.mp4",
-            "location": "content",
-            "autoPlay": true
-        },
-         "quesInstruction": {
+	"optionObj": [{
+			"id": "001",
+			"custom_id": "0",
+			"showWave": true,
+			"imgsrc": {
+				"url": "assets/options/opt1.png",
+				"location": "content"
+			},
+			"imgsrc_hover": {
+				"url": "assets/options/opt1_hover.png",
+				"location": "content"
+			},
+			"imgsrc_original": {
+				"url": "assets/options/opt1.png",
+				"location": "content"
+			},
+			"sound": {
+				"url": "assets/options/option1.ogg",
+				"location": "content"
+			},
+       "imgrightfeedback_audio": {
+            "url": "",
+            "location": "content"
+          },
+          "imgwrongfeedback_audio": {
+            "url": "assets/options/WrongAnswerFeedback.ogg",
+            "location": "content"
+          }
+		},
+		{
+			"id": "002",
+			"custom_id": "1",
+			"showWave": true,
+			"imgsrc": {
+				"url": "assets/options/opt2.png",
+				"location": "content"
+			},
+			"imgsrc_hover": {
+				"url": "assets/options/opt2_hover.png",
+				"location": "content"
+			},
+			"imgsrc_original": {
+				"url": "assets/options/opt2.png",
+				"location": "content"
+			},
+			"sound": {
+				"url": "assets/options/option2.ogg",
+				"location": "content"
+			},
+       "imgrightfeedback_audio": {
+            "url": "assets/options/RightAnswerFeedback.ogg",
+            "location": "content"
+          },
+          "imgwrongfeedback_audio": {
+            "url": "",
+            "location": "content"
+          }
+		},
+		{
+			"id": "003",
+			"custom_id": "2",
+			"showWave": true,
+			"imgsrc": {
+				"url": "assets/options/opt3.png",
+				"location": "content"
+			},
+			"imgsrc_hover": {
+				"url": "assets/options/opt3_hover.png",
+				"location": "content"
+			},
+			"imgsrc_original": {
+				"url": "assets/options/opt3.png",
+				"location": "content"
+			},
+			"sound": {
+				"url": "assets/options/option3.ogg",
+				"location": "content"
+			},
+       "imgrightfeedback_audio": {
+            "url": "",
+            "location": "content"
+          },
+          "imgwrongfeedback_audio": {
+            "url": "assets/options/WrongAnswerFeedback.ogg",
+            "location": "content"
+          }
+		}
+	],
+ "quesObj": {
+      "quesInstruction": {
       "url": "assets/instructionAudio.ogg",
       "location": "content",
       "autoPlay": true
@@ -125,76 +142,79 @@
     "submitRequired":false,
     "replayRequired":false
     },
-    "wrongFeedback": {
-        "style_header": {
-            "border": "solid .4vmin #F63A39",
-            "border-top-left-radius": "20px",
-            "border-top-right-radius": "20px",
-            "background": "#E90101"
-        },
-        "style_body": {
-            "border": "solid .4vmin #DB4A4D",
-            "border-bottom-left-radius": "20px",
-            "border-bottom-right-radius": "20px",
-            "background": "#FFFFFF"
-        },
-        "headerTxt_img": {
-            "url": "header_confirm_text_wrong.png",
-            "location": "content"
-        },
-        "close_btn": {
-            "url": "closeBtn.png",
-            "location": "content"
-        },
-        "close_btn_hover": {
-            "url": "closeBtnHover.png",
-            "location": "content"
-        },
-        "close_btn_original": {
-            "url": "closeBtn.png",
-            "location": "content"
-        },
-        "feedbackVo": {
-            "url": "wrongFeedback.ogg",
-            "location": "content"
-        }
-    },
-    "rightFeedback": {
-        "style_header": {
-            "border": "solid .4vmin #85d222",
-            "border-top-left-radius": "20px",
-            "border-top-right-radius": "20px",
-            "background": "#248446"
-        },
-        "style_body": {
-            "border": "solid .4vmin #85d222",
-            "border-bottom-left-radius": "20px",
-            "border-bottom-right-radius": "20px",
-            "background": "#afdec0"
-        },
-        "headerTxt_img": {
-            "url": "header_confirm_text_right.png",
-            "location": "content"
-        },
-        "close_btn": {
-            "url": "closeBtn.png",
-            "location": "content"
-        },
-        "close_btn_hover": {
-            "url": "closeBtnHover.png",
-            "location": "content"
-        },
-        "close_btn_original": {
-            "url": "closeBtn.png",
-            "location": "content"
-        },
-        "feedbackVo": {
-            "url": "rightFeedback.ogg",
-            "location": "content"
-        }
-    },
-    "feedback": {
-        "correct_ans_index": 2,
+"wrongFeedback": {
+		"style_header": {
+			"border": "solid .4vmin #F63A39",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#E90101"
+		},
+		"style_body": {
+			"border": "solid .4vmin #DB4A4D",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"background": "#FFFFFF"
+		},
+		"headerTxt_img": {
+			"url": "header_confirm_text_wrong.png",
+			"location": "content"
+		},
+		"close_btn": {
+			"url": "closeBtn.png",
+			"location": "content"
+		},
+		"close_btn_hover": {
+			"url": "closeBtnHover.png",
+			"location": "content"
+		},
+		"close_btn_original": {
+			"url": "closeBtn.png",
+			"location": "content"
+		},	
+		"feedbackVo": {
+			"url": "wrongFeedback.ogg",
+			"location": "content"
+		}
+	},
+	"rightFeedback": {
+		"style_header": {
+			"border": "solid .4vmin #85d222",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#248446"
+		},
+		"style_body": {
+			"border": "solid .4vmin #85d222",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"background": "#afdec0"
+		},
+		"headerTxt_img": {
+			"url": "header_confirm_text_right.png",
+			"location": "content"
+		},
+		"close_btn": {
+			"url": "closeBtn.png",
+			"location": "content"
+		},
+		"close_btn_hover": {
+			"url": "closeBtnHover.png",
+			"location": "content"
+		},
+		"close_btn_original": {
+			"url": "closeBtn.png",
+			"location": "content"
+		},
+		"feedbackVo": {
+			"url": "rightFeedback.ogg",
+			"location": "content"
+		}
+	},
+
+
+	"feedback": {
+        "closeDelayTime":10000,
+        "correct_ans_index": 1,
         "style_header": {
           "border": "solid .4vmin #3C7132",
           "border-top-left-radius": "20px",
