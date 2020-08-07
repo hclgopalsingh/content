@@ -283,7 +283,7 @@
         "optionsArr": [
             {
                 "id": "1",
-                "highlightWord_bg":{
+                "highlightWord_bg": {
                     "url": "../commonassets/3VGreen.png",
                     "location": "content"
                 },
@@ -380,7 +380,7 @@
             },
             {
                 "id": "4",
-                "highlightWord_bg":{
+                "highlightWord_bg": {
                     "url": "../commonassets/3VPink.png",
                     "location": "content"
                 },
@@ -663,7 +663,7 @@
             },
             {
                 "id": "13",
-                "highlightWord_bg":{
+                "highlightWord_bg": {
                     "url": "../commonassets/4HOrange.png",
                     "location": "content"
                 },
@@ -760,6 +760,7 @@
             },
             {
                 "id": "16",
+                "isMatra": true,
                 "image": {
                     "url": "aa.png",
                     "location": "content"
@@ -834,10 +835,10 @@
                     "8",
                     "12"
                 ],
-                "rightfeedback_audio": {
-                    "url": "Instruction.ogg",
+                "correct_word_audio": {
+                    "url": "correctWordVO_1.ogg",
                     "location": "content"
-                  }
+                }
             },
             {
                 "correct_img": {
@@ -850,10 +851,10 @@
                     "15",
                     "16"
                 ],
-                "rightfeedback_audio": {
-                    "url": "rightFeedback.ogg",
+                "correct_word_audio": {
+                    "url": "correctWordVO_2.ogg",
                     "location": "content"
-                  }
+                }
             },
             {
                 "correct_img": {
@@ -865,10 +866,10 @@
                     "5",
                     "9"
                 ],
-                "rightfeedback_audio": {
-                    "url": "showanswerFeedback.ogg",
+                "correct_word_audio": {
+                    "url": "correctWordVO_3.ogg",
                     "location": "content"
-                  }
+                }
             }
         ],
         "popupassets": {
@@ -895,10 +896,6 @@
             "wrong_icon": {
                 "url": "assets/images/EVAGlobal/wrongAnsIcon.svg",
                 "location": "assets"
-            },
-            "celebrations": {
-                "url": "celebrations.svg",
-                "location": "content"
             }
         },
         "show_ans_popup": {
@@ -907,56 +904,41 @@
                 "location": "content"
             }
         },
-        "right_ans_popup": {
-            "image": {
-                "url": "ques_base_box.png",
-                "location": "content"
+        "right_ans_popup": [
+            {
+                "rightfeedback_audio": {
+                    "url": "Instruction.ogg",
+                    "location": "content"
+                }
             },
-            "imgsrc": {
-                "url": "answerimage.png",
-                "location": "content"
+            {
+                "rightfeedback_audio": {
+                    "url": "showanswerFeedback.ogg",
+                    "location": "content"
+                }
             },
-            "img_org": {
-                "url": "answerimage.png",
-                "location": "content"
-            },
-            "img_blink": {
-                "url": "answerimage_blink.png",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        "right_ans_sound": {
-            "enabled": true,
-            "path": {
-                "url": "rightFeedback.ogg",
-                "location": "content"
+            {
+                "rightfeedback_audio": {
+                    "url": "showanswerFeedback.ogg",
+                    "location": "content"
+                }
             }
+        ],
+        "right_ans_sound_akshar": {
+                "url": "../commonassets/rightFeedback_akshar.ogg",
+                "location": "content"
+        },
+        "right_ans_sound_matra": {
+                "url": "../commonassets/rightFeedback_matra.ogg",
+                "location": "content"
         },
         "right_ans_clap_sound": {
             "url": "assets/images/EVAGlobal/clap.ogg",
             "location": "assets"
         },
         "wrong_ans_sound": {
-            "enabled": true,
-            "path": {
-                "url": "wrongFeedback.ogg",
+                "url": "../commonassets/wrongFeedback.ogg",
                 "location": "content"
-            }
-        },
-        "all_correct_sound": {
-            "enabled": true,
-            "path": {
-                "url": "rightFeedbackFinal.ogg",
-                "location": "content"
-            }
-        },
-        "show_ans_sound": {
-            "enabled": true,
-            "path": {
-                "url": "showanswerFeedback.ogg",
-                "location": "content"
-            }
         }
     }
 }
