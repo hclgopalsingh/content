@@ -288,7 +288,7 @@
                     "location": "content"
                 },
                 "image": {
-                    "url": "khe.png",
+                    "url": "fa.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -349,8 +349,12 @@
             },
             {
                 "id": "3",
+                "highlightWord_bg": {
+                    "url": "../commonassets/3VBlue.png",
+                    "location": "content"
+                },
                 "image": {
-                    "url": "sa.png",
+                    "url": "ma.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -380,12 +384,8 @@
             },
             {
                 "id": "4",
-                "highlightWord_bg": {
-                    "url": "../commonassets/3VPink.png",
-                    "location": "content"
-                },
                 "image": {
-                    "url": "su.png",
+                    "url": "fa.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -416,7 +416,7 @@
             {
                 "id": "5",
                 "image": {
-                    "url": "la.png",
+                    "url": "sa.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -447,7 +447,7 @@
             {
                 "id": "6",
                 "image": {
-                    "url": "pe.png",
+                    "url": "la.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -478,7 +478,7 @@
             {
                 "id": "7",
                 "image": {
-                    "url": "da.png",
+                    "url": "ma.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -540,7 +540,7 @@
             {
                 "id": "9",
                 "image": {
-                    "url": "naa.png",
+                    "url": "la.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -602,7 +602,7 @@
             {
                 "id": "11",
                 "image": {
-                    "url": "ja.png",
+                    "url": "taa.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -664,11 +664,11 @@
             {
                 "id": "13",
                 "highlightWord_bg": {
-                    "url": "../commonassets/4HOrange.png",
+                    "url": "../commonassets/3HOrange.png",
                     "location": "content"
                 },
                 "image": {
-                    "url": "la.png",
+                    "url": "ka.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -699,7 +699,7 @@
             {
                 "id": "14",
                 "image": {
-                    "url": "da1.png",
+                    "url": "ttaa.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -730,7 +730,7 @@
             {
                 "id": "15",
                 "image": {
-                    "url": "ka.png",
+                    "url": "eee.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -760,7 +760,6 @@
             },
             {
                 "id": "16",
-                "isMatra": true,
                 "image": {
                     "url": "aa.png",
                     "location": "content"
@@ -831,9 +830,9 @@
                     "location": "content"
                 },
                 "correct_index": [
-                    "4",
-                    "8",
-                    "12"
+                    "3",
+                    "7",
+                    "11"
                 ],
                 "correct_word_audio": {
                     "url": "correctWordVO_1.ogg",
@@ -848,8 +847,7 @@
                 "correct_index": [
                     "13",
                     "14",
-                    "15",
-                    "16"
+                    "15"
                 ],
                 "correct_word_audio": {
                     "url": "correctWordVO_2.ogg",
@@ -907,38 +905,38 @@
         "right_ans_popup": [
             {
                 "rightfeedback_audio": {
-                    "url": "Instruction.ogg",
+                    "url": "correctWordVO_1.ogg",
                     "location": "content"
                 }
             },
             {
                 "rightfeedback_audio": {
-                    "url": "showanswerFeedback.ogg",
+                    "url": "correctWordVO_2.ogg",
                     "location": "content"
                 }
             },
             {
                 "rightfeedback_audio": {
-                    "url": "showanswerFeedback.ogg",
+                    "url": "correctWordVO_3.ogg",
                     "location": "content"
                 }
             }
         ],
         "right_ans_sound_akshar": {
-                "url": "../commonassets/rightFeedback_akshar.ogg",
-                "location": "content"
+            "url": "../commonassets/rightFeedback_akshar.ogg",
+            "location": "content"
         },
         "right_ans_sound_matra": {
-                "url": "../commonassets/rightFeedback_matra.ogg",
-                "location": "content"
+            "url": "../commonassets/rightFeedback_matra.ogg",
+            "location": "content"
         },
         "right_ans_clap_sound": {
             "url": "assets/images/EVAGlobal/clap.ogg",
             "location": "assets"
         },
         "wrong_ans_sound": {
-                "url": "../commonassets/wrongFeedback.ogg",
-                "location": "content"
+            "url": "../commonassets/wrongFeedback.ogg",
+            "location": "content"
         }
     }
 }
