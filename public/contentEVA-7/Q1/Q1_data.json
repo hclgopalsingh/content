@@ -64,6 +64,7 @@
 		  "location": "assets"
 		},
 		"ques_control": {
+			"isLastQues":false,
 		  "footer": {
 			"url": "assets/images/EVAGlobal/footerBg.svg",
 			"location": "assets"
@@ -237,42 +238,42 @@
 			  "ques_tab": {
 				"id": "004",
 				"tabcircle": {
-				  "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
-				  "location": "assets"
-				},
-				"tabcircleActive": {
-				  "url": "assets/images/EVAGlobal/quesBulletActive.png",
-				  "location": "assets"
-				},
-				"tabcircleVisited": {
-				  "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-				  "location": "assets"
-				},
-				"tabIdx": {
-				  "url": "tab1Idx.svg",
-				  "location": "content"
-				}
+					"url": "assets/images/EVAGlobal/quesBullet.png",
+					"location": "assets"
+				  },
+				  "tabcircleActive": {
+					"url": "assets/images/EVAGlobal/quesBulletActive.png",
+					"location": "assets"
+				  },
+				  "tabcircleVisited": {
+					"url": "assets/images/EVAGlobal/quesBulletVisited.png",
+					"location": "assets"
+				  },
+				  "tabIdx": {
+					"url": "tab1Idx.svg",
+					"location": "content"
+				  }
 			  }
 			},
 			{
 			  "ques_tab": {
 				"id": "005",
 				"tabcircle": {
-				  "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
-				  "location": "assets"
-				},
-				"tabcircleActive": {
-				  "url": "assets/images/EVAGlobal/quesBulletActive.png",
-				  "location": "assets"
-				},
-				"tabcircleVisited": {
-				  "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-				  "location": "assets"
-				},
-				"tabIdx": {
-				  "url": "tab1Idx.svg",
-				  "location": "content"
-				}
+					"url": "assets/images/EVAGlobal/quesBullet.png",
+					"location": "assets"
+				  },
+				  "tabcircleActive": {
+					"url": "assets/images/EVAGlobal/quesBulletActive.png",
+					"location": "assets"
+				  },
+				  "tabcircleVisited": {
+					"url": "assets/images/EVAGlobal/quesBulletVisited.png",
+					"location": "assets"
+				  },
+				  "tabIdx": {
+					"url": "tab1Idx.svg",
+					"location": "content"
+				  }
 			  }
 			}
 		  ]
@@ -433,7 +434,7 @@
             },
             {
 				"id": 3,
-				"value": "न",
+				"value": "म",
                 "imgsrc": {
                     "url": "option_Box.png",
                     "location": "content"
@@ -482,7 +483,7 @@
 				"value":"",
 				"disabled":false,
 				"disable_ip":true,
-				"isRight":true,
+				"isRight":false,
 				"lock": {
                     "url": "lock.png",
                     "location": "content"
@@ -651,7 +652,7 @@
 
 	"feedback": {
 		"correct_answer": 2,
-		"answer_key":["नकल","कल","नल"],
+		"answer_key":["कम","कल","मल", "कलम","कमल","ललक","मलमल"],
 		"confirmation_popUp" : {
 			"close_button": {
                 "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
@@ -739,6 +740,13 @@
                 "location": "content"
         },
         "wrong_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "wrongFeedback.ogg",
+                "location": "content"
+            }
+		},
+		"partial_ans_sound": {
             "enabled": true,
             "path": {
                 "url": "wrongFeedback.ogg",
