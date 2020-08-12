@@ -22,6 +22,10 @@
             "url": "optionBase.png",
             "location": "content"
         },
+        "qus_base": {
+            "url": "options/qus_base.png",
+            "location": "theme"
+        },
         "background": {
             "urlglobal": "global/tabs/bg/bg_4.svg",
                 "location": "theme"
@@ -71,6 +75,10 @@
                 "url": "rightFeedbackAudio1.ogg",
                 "location": "content"
             },
+            "baseImg":{
+                "url":"options/option_base1.png",
+                "location":"theme"
+            },
             "imgwrongfeedback_audio": {
                 "url": "wrongFeedbackAudio1.ogg",
                 "location": "content"
@@ -85,6 +93,10 @@
             "imgrightfeedback_audio": {
                 "url": "rightFeedbackAudio2.ogg",
                 "location": "content"
+            },
+            "baseImg":{
+                "url":"options/option_base2.png",
+                "location":"theme"
             },
             "imgwrongfeedback_audio": {
                 "url": "wrongFeedbackAudio2.ogg",
@@ -101,6 +113,10 @@
                 "url": "rightFeedbackAudio3.ogg",
                 "location": "content"
             },
+            "baseImg":{
+                "url":"options/option_base3.png",
+                "location":"theme"
+            },
             "imgwrongfeedback_audio": {
                 "url": "wrongFeedbackAudio3.ogg",
                 "location": "content"
@@ -115,6 +131,10 @@
             "imgrightfeedback_audio": {
                 "url": "rightFeedbackAudio4.ogg",
                 "location": "content"
+            },
+            "baseImg":{
+                "url":"options/option_base4.png",
+                "location":"theme"
             },
             "imgwrongfeedback_audio": {
                 "url": "wrongFeedbackAudio4.ogg",
@@ -131,6 +151,10 @@
                 "url": "rightFeedbackAudio5.ogg",
                 "location": "content"
             },
+            "baseImg":{
+                "url":"options/option_base5.png",
+                "location":"theme"
+            },
             "imgwrongfeedback_audio": {
                 "url": "wrongFeedbackAudio5.ogg",
                 "location": "content"
@@ -139,47 +163,6 @@
                 "url": "rightFeedbackAudio5.ogg",
                 "location": "content"
             }
-        }
-    ],
-    "AnswerObj": [
-        {
-            "AnswerArr": [
-                {
-                    "id": "001",
-                    "imgsrc": {
-                        "url": "T.png",
-                        "location": "content"
-                    }
-                },
-                {
-                    "id": "002",
-                    "imgsrc": {
-                        "url": "L.png",
-                        "location": "content"
-                    }
-                },
-                {
-                    "id": "003",
-                    "imgsrc": {
-                        "url": "K.png",
-                        "location": "content"
-                    }
-                },
-                {
-                    "id": "004",
-                    "imgsrc": {
-                        "url": "A.png",
-                        "location": "content"
-                    }
-                },
-                {
-                    "id": "005",
-                    "imgsrc": {
-                        "url": "H.png",
-                        "location": "content"
-                    }
-                }
-            ]
         }
     ],
 
@@ -266,155 +249,10 @@
             "location": ""
         }
     },
-
-    "show_answer_confirm": {
-        "style_header": {
-            "border": "solid .4vmin #85d222",
-            "border-top-left-radius": "20px",
-            "border-top-right-radius": "20px",
-            "background": "#248446"
-        },
-        "style_body": {
-            "border": "solid .4vmin #85d222",
-            "border-bottom-left-radius": "20px",
-            "border-bottom-right-radius": "20px",
-            "border-top": "none",
-            "background": "#afdec0"
-        },
-        "wrong_style_header": {
-            "border": "solid .4vmin #F63A39",
-            "border-top-left-radius": "20px",
-            "border-top-right-radius": "20px",
-            "background": "#E90101"
-        },
-        "wrong_style_body": {
-            "border": "solid .4vmin #DB4A4D",
-            "border-bottom-left-radius": "20px",
-            "border-bottom-right-radius": "20px",
-            "background": "#FFFFFF"
-        },
-        "confirm_headerTxt_img": {
-            "url": "PopupHeaderTitle.png",
-            "location": "content"
-        },
-        "rightAnswerheaderTxt_img": {
-            "url": "PopupHeaderTitle1.png",
-            "location": "content"
-        },
-        "wrongAnswerheaderTxt_img": {
-            "url": "PopupHeaderTitle2.png",
-            "location": "content"
-        },
-        "showAnswerheaderTxt_img": {
-            "url": "PopupHeaderTitle3.png",
-            "location": "content"
-        },
-        "close_btn": {
-            "url": "closeBtn.png",
-            "location": "content"
-        },
-        "close_btn_hover": {
-            "url": "closeBtnHover.png",
-            "location": "content"
-        },
-        "close_btn_original": {
-            "url": "closeBtn.png",
-            "location": "content"
-        },
-        "confirm_text": {
-            "url": "confirmation_popup_text.png",
-            "location": "content"
-        },
-        "confirm_btn": {
-            "url": "yes_btn.png",
-            "location": "content"
-        },
-        "confirm_btn_hover": {
-            "url": "yes_btn_Hover.png",
-            "location": "content"
-        },
-        "confirm_btn_original": {
-            "url": "yes_btn.png",
-            "location": "content"
-        },
-        "decline_btn": {
-            "url": "no_btn.png",
-            "location": "content"
-        },
-        "decline_btn_hover": {
-            "url": "no_btn_Hover.png",
-            "location": "content"
-        },
-        "decline_btn_original": {
-            "url": "no_btn.png",
-            "location": "content"
-        }
-    },
-
-    "replay_confirm": {
-        "style_header": {
-            "border": "solid .4vmin #85d222",
-            "border-top-left-radius": "20px",
-            "border-top-right-radius": "20px",
-            "background": "#248446"
-        },
-        "style_body": {
-            "border": "solid .4vmin #85d222",
-            "border-bottom-left-radius": "20px",
-            "border-bottom-right-radius": "20px",
-            "background": "#afdec0"
-        },
-        "headerTxt_img": {
-            "url": "header_confirm_text.png",
-            "location": "content"
-        },
-        "close_btn": {
-            "url": "closeBtn.png",
-            "location": "content"
-        },
-        "close_btn_hover": {
-            "url": "closeBtnHover.png",
-            "location": "content"
-        },
-        "close_btn_original": {
-            "url": "closeBtn.png",
-            "location": "content"
-        },
-        "confirm_text": {
-            "url": "replay_popup_text.png",
-            "location": "content"
-        },
-        "confirm_btn": {
-            "url": "yes_btn.png",
-            "location": "content"
-        },
-        "confirm_btn_hover": {
-            "url": "yes_btn_Hover.png",
-            "location": "content"
-        },
-        "confirm_btn_original": {
-            "url": "yes_btn.png",
-            "location": "content"
-        },
-        "decline_btn": {
-            "url": "no_btn.png",
-            "location": "content"
-        },
-        "decline_btn_hover": {
-            "url": "no_btn_Hover.png",
-            "location": "content"
-        },
-        "decline_btn_original": {
-            "url": "no_btn.png",
-            "location": "content"
-        }
-    },
-
    "feedback": {
-      "closeDelayTime":10000,
-         "correct_ans_array": [ "L25", "L49", "M1", "L56", "L74" ],
-        "correct_option_number": 2,
-        "correct_matra_number": 2,
+        "correct_ans_array": [ "M11", "L66", "L41"],
+        "correct_option_number": 1,
+        "correct_matra_number": 1,
         "style_header": {
           "border": "solid .4vmin #3C7132",
           "border-top-left-radius": "20px",
