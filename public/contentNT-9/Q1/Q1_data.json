@@ -15,7 +15,7 @@
 			"location": "theme"
 		},
         "isFirstQues": true,
-        "imgCount": 6
+        "imgCount": 12
     },
     "optionObj": [
         {
@@ -29,23 +29,23 @@
                 "pointer-events": "none"
             },
             "imgsrc": {
-                "url": "assets/emptyblocks/emptyBlock1.png",
+                "url": "assets/puzzleblocks/emptyBlock1.png",
                 "location": "content"
             },
             "imgsrc_blink": {
-                "url": "assets/emptyblocks/emptyBlockBlink1.png",
+                "url": "assets/puzzleblocks/emptyBlockBlink1.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "part-1.ogg",
+                "url": "assets/puzzleblocks/part-1.ogg",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedback.ogg",
+                "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "emptyBlock1.png",
+                "url": "assets/puzzleblocks/emptyBlock1.png",
                 "location": "content"
             }
         },
@@ -60,23 +60,23 @@
                 "pointer-events": "none"
             },
             "imgsrc": {
-                "url": "assets/emptyblocks/emptyBlock2.png",
+                "url": "assets/puzzleblocks/emptyBlock2.png",
                 "location": "content"
             },
             "imgsrc_blink": {
-                "url": "assets/emptyblocks/emptyBlockBlink2.png",
+                "url": "assets/puzzleblocks/emptyBlockBlink2.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "part-2.ogg",
+                "url": "assets/puzzleblocks/part-2.ogg",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedback.ogg",
+                "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "emptyBlock2.png",
+                "url": "assets/puzzleblocks/emptyBlock2.png",
                 "location": "content"
             }
         },
@@ -91,23 +91,23 @@
                 "pointer-events": "none"
             },
             "imgsrc": {
-                "url": "assets/emptyblocks/emptyBlock3.png",
+                "url": "assets/puzzleblocks/emptyBlock3.png",
                 "location": "content"
             },
             "imgsrc_blink": {
-                "url": "assets/emptyblocks/emptyBlockBlink3.png",
+                "url": "assets/puzzleblocks/emptyBlockBlink3.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "part-3.ogg",
+                "url": "assets/puzzleblocks/part-3.ogg",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedback.ogg",
+                "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "emptyBlock3.png",
+                "url": "assets/puzzleblocks/emptyBlock3.png",
                 "location": "content"
             }
         },
@@ -122,11 +122,11 @@
                 "pointer-events": "none"
             },
             "imgsrc": {
-                "url": "assets/emptyblocks/emptyBlock4.png",
+                "url": "assets/puzzleblocks/emptyBlock4.png",
                 "location": "content"
             },
             "imgsrc_blink": {
-                "url": "assets/emptyblocks/emptyBlockBlink4.png",
+                "url": "assets/puzzleblocks/emptyBlockBlink4.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -134,17 +134,17 @@
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedback.ogg",
+                "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "emptyBlock4.png",
+                "url": "assets/puzzleblocks/emptyBlock4.png",
                 "location": "content"
             }
         },
         {
             "imgsrc": {
-                "url": "puzzleImage.png",
+                "url": "assets/puzzleImage.png",
                 "location": "content"
             },
             "style_block": {
@@ -242,7 +242,7 @@
                 "location": "content"
             },
             "imgsrcOriginalSize": {
-                "url": "assets/puzzleblocks/ansBlock1.png",
+                "url": "assets/puzzleblocks/ansBlockOriginal1.png",
                 "location":  "content"
             },
             "imgrightfeedback_audio": {
@@ -303,130 +303,114 @@
     },
 
 
-    "feedback": {
-        "correct_ans_index": [ "001", "003" ],
-        "style_header": {
-            "border": "solid .4vmin #85d222",
-            "border-top-left-radius": "20px",
-            "border-top-right-radius": "20px",
-            "background": "#248446"
-        },
-        "style_body": {
-            "border": "solid .4vmin #85d222",
-            "border-bottom-left-radius": "20px",
-            "border-bottom-right-radius": "20px",
-            "background": "#afdec0"
-        },
-        "headerTxt_img": {
-            "url": "PopupHeaderTitle.png",
+  "feedback": {
+    "style_header": {
+      "border": "solid .4vmin #3C7132",
+      "border-top-left-radius": "20px",
+      "border-top-right-radius": "20px",
+      "background": "#519843"
+    },
+    "style_body": {
+      "border": "solid .4vmin #3C7132",
+      "border-bottom-left-radius": "20px",
+      "border-bottom-right-radius": "20px",
+      "border-top": "none",
+      "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+    },
+    "rightAnswerheaderTxt_img": {
+      "url": "assets/popups/right_feedback/PopupHeaderTitle1.png",
+      "location": "content"
+    },
+    "showAnswerheaderTxt_img": {
+      "url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
+      "location": "content"
+    },
+    "popup_instruction_bg": {
+      "url": "instructionBase.svg",
+      "location": "content"
+    },
+    "popup_commmon_imgs": {
+      "close_btn": {
+        "urlglobal": "global/popups/closeBtn.png",
+        "location": "theme"
+      },
+      "close_btn_hover": {
+        "urlglobal": "global/popups/closeBtnHover.png",
+        "location": "theme"
+      },
+      "close_btn_original": {
+        "urlglobal": "global/popups/closeBtn.png",
+        "location": "theme"
+      }
+    },
+    "right_ans_popup": {
+        "imgsrc": {
+            "url": "assets/puzzleImage.png",
             "location": "content"
         },
-        "rightAnswerheaderTxt_img": {
-            "url": "PopupHeaderTitle1.png",
+        "imgrightfeedback_audio": {
+            "url": "assets/puzzleblocks/rightFeedback.ogg",
             "location": "content"
-        },
-        "showAnswerheaderTxt_img": {
-            "url": "PopupHeaderTitle3.png",
-            "location": "content"
-        },
-        "popup_instruction_bg": {
-            "url": "instructionBase.svg",
-            "location": "content"
-        },
-        "popup_instruction_img": {
-            "url": "instructionText.svg",
-            "location": "content"
-        },
-        "popup_commmon_imgs": {
-            "bg_img": {
-                "url": "",
-                "location": "content"
-            },
-            "close_btn": {
-                "url": "closeBtn.png",
-                "location": "content"
-            },
-            "close_btn_hover": {
-                "url": "closeBtnHover.png",
-                "location": "content"
-            },
-            "close_btn_original": {
-                "url": "closeBtn.png",
-                "location": "content"
-            }
-        },
-        "right_ans_popup": {
-            "imgsrc": {
-                "url": "puzzleImage.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "rightFeedback.ogg",
-                "location": "content"
-            }
-
-        },
-        "confirm_popup": {
-            "style_header": {
-                "border": "solid .4vmin #85d222",
-                "border-top-left-radius": "20px",
-                "border-top-right-radius": "20px",
-                "background": "#248446"
-            },
-            "style_body": {
-                "border": "solid .4vmin #85d222",
-                "border-bottom-left-radius": "20px",
-                "border-bottom-right-radius": "20px",
-                "background": "#afdec0"
-            },
-            "headerTxt_img": {
-                "url": "PopupConfirmHeader.png",
-                "location": "content"
-            },
-            "bg_img": {
-                "url": "",
-                "location": "content"
-            },
-            "close_btn": {
-                "url": "closeBtn.png",
-                "location": "content"
-            },
-            "close_btn_hover": {
-                "url": "closeBtnHover.png",
-                "location": "content"
-            },
-            "close_btn_original": {
-                "url": "closeBtn.png",
-                "location": "content"
-            },
-            "confirm_text": {
-                "url": "confirmation_popup_text.png",
-                "location": "content"
-            },
-            "confirm_btn": {
-                "url": "yes_btn.png",
-                "location": "content"
-            },
-            "confirm_btn_hover": {
-                "url": "yes_btn_Hover.png",
-                "location": "content"
-            },
-            "confirm_btn_original": {
-                "url": "yes_btn.png",
-                "location": "content"
-            },
-            "decline_btn": {
-                "url": "no_btn.png",
-                "location": "content"
-            },
-            "decline_btn_hover": {
-                "url": "no_btn_Hover.png",
-                "location": "content"
-            },
-            "decline_btn_original": {
-                "url": "no_btn.png",
-                "location": "content"
-            }
         }
+    },
+    "confirm_popup": {
+      "style_header": {
+        "border": "solid .4vmin #057499",
+        "border-top-left-radius": "20px",
+        "border-top-right-radius": "20px",
+        "background": "#129fc1"
+      },
+      "style_body": {
+        "border": "solid .4vmin #057499",
+        "border-bottom-left-radius": "20px",
+        "border-bottom-right-radius": "20px",
+        "border-top": "none",
+        "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+      },
+      "headerTxt_img": {
+        "url": "assets/popups/show_answer_confirmation/PopupHeaderTitle3.png",
+        "location": "content"
+      },
+      "close_btn": {
+        "urlglobal": "global/popups/closeBtn.png",
+        "location": "theme"
+      },
+      "close_btn_hover": {
+        "urlglobal": "global/popups/closeBtnHover.png",
+        "location": "theme"
+      },
+      "close_btn_original": {
+        "urlglobal": "global/popups/closeBtn.png",
+        "location": "theme"
+      },
+      "confirm_text": {
+        "url": "assets/popups/show_answer_confirmation/confirmation_popup_text.png",
+        "location": "content"
+      },
+      "confirm_btn": {
+        "urlglobal": "global/popups/yes_btn.png",
+        "location": "theme"
+      },
+      "confirm_btn_hover": {
+        "urlglobal": "global/popups/yes_btn_Hover.png",
+        "location": "theme"
+      },
+      "confirm_btn_original": {
+        "urlglobal": "global/popups/yes_btn.png",
+        "location": "theme"
+      },
+      "decline_btn": {
+        "urlglobal": "global/popups/no_btn.png",
+        "location": "theme"
+      },
+      "decline_btn_hover": {
+        "urlglobal": "global/popups/no_btn_Hover.png",
+        "location": "theme"
+      },
+      "decline_btn_original": {
+        "urlglobal": "global/popups/no_btn.png",
+        "location": "theme"
+      }
     }
+  }
 }
