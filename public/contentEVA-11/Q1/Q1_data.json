@@ -62,6 +62,10 @@
        "url": "assets/images/EVAGlobal/bg.jpg",
        "location": "assets"
      },
+     "opt_shadow": {
+			"url": "optionShadow.png",
+			"location": "content"
+		},
      "peechey_jayein": {
        "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
        "location": "assets"
