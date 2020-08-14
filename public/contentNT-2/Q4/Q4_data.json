@@ -315,10 +315,32 @@
 		"wrong_ans_popup": {
 
 		},
-		"right_ans_sound": {
-			"url": "assets/feedback/correctans.ogg",
-			"location": "content"
-		},
+		"right_ans_sound": [
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Butterfly.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Mango.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Apple.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Peas.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Rhino.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Elephant.ogg",
+				"location": "content"
+			}
+		],
 		"single_right_ans":[
 			{
 				"url": "assets/feedback/single_correct/singleCorrect_Peas.ogg",
