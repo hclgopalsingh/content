@@ -351,6 +351,10 @@
         "imgrightfeedback_audio": {
             "url": "assets/puzzleblocks/rightFeedback.ogg",
             "location": "content"
+        },
+        "imgshowAnsfeedback_audio": {
+            "url": "assets/puzzleblocks/showAnswerFeedback.ogg",
+            "location": "content"
         }
     },
     "confirm_popup": {

@@ -654,7 +654,11 @@
             "location": "content"
         },
         "imgrightfeedback_audio": {
-            "url": "assets/puzzleblocks/rightFeedback.ogg",
+            "url": "assets/puzzleblocks/showAnswerFeedback.ogg",
+            "location": "content"
+        },
+        "imgshowAnsfeedback_audio": {
+            "url": "assets/puzzleblocks/showAnswerFeedback.ogg",
             "location": "content"
         }
     },
