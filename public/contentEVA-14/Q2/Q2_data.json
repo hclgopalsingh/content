@@ -1,5 +1,5 @@
 {	"id":"Q002",
-	"instructiontext": "दिसंबर का महीना कितने दिन का होता है ",
+	"instructiontext": "पिछले वर्ष दिवाली और दशहरा कब थे साल महीना तारीख़ और दिन पहचानें !",
 	"speaker": {
         "enabled": "",
         "imgsrc": {
@@ -2695,19 +2695,19 @@
 		"localMachineDate":false,
 		"givenDate": {
 		  "year":"2020",
-		  "month":"December",
+		  "month":"August",
 		  "date":""
 		},
-		"multi_date":false,
-		"multi_day":false,
+		"multi_date":true,
+		"multi_day":true,
 		"multi_month":false,
 		"multi_year":false,
-		"disableyear":true,
-		"disablemonth":true,
-		"disableweekDay":true,
+		"disableyear":false,
+		"disablemonth":false,
+		"disableweekDay":false,
 		"disableDate":false,
-		"yearSelected":true,
-		"monthSelected":true,
+		"yearSelected":false,
+		"monthSelected":false,
 		"dateSelected":false,
 		"weekdaySelected":false,
 		"`quesImg": {
@@ -2728,12 +2728,12 @@
 	"feedback": {
 		"correct_date": "",
 		"correct_year":"",
-		"correct_month":"July",
+		"correct_month":"",
 		"correct_weekDay":"",
-		"right_date":[31],
-		"right_month":[],
-		"right_weekDay" : [], 
-		"right_year":[],
+		"right_date":[8,27],
+		"right_month":["October"],
+		"right_weekDay" : ["Tuesday", "Sunday"], 
+		"right_year":["2019"],
 		"popupassets": {
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",

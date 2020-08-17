@@ -1,5 +1,5 @@
 {	"id":"Q004",
-	"instructiontext": "स्वतंत्रा दिवस यानी भारत की आजादी का दिन किस महीने में मनाया जाता है",
+	"instructiontext": "गणतंत्र दिवस किस दिन मनाया जाता है तारीख़ और दिन पहचानें",
 	"speaker": {
         "enabled": "",
         "imgsrc": {
@@ -3156,20 +3156,20 @@
 			"location": "content",
 			"autoPlay": true
 		},
-		"localMachineDate":false,
+		"localMachineDate":true,
 		"givenDate": {
 		  "year":"2020",
 		  "month":"July",
 		  "date":""
 		},
-		"multi_date":true,
+		"multi_date":false,
 		"multi_day":false,
 		"multi_month":false,
 		"multi_year":false,
 		"disableyear":true,
 		"disablemonth":false,
-		"disableweekDay":true,
-		"disableDate":true,
+		"disableweekDay":false,
+		"disableDate":false,
 		"yearSelected":true,
 		"monthSelected":false,
 		"dateSelected":false,
@@ -3194,9 +3194,9 @@
 		"correct_year":"",
 		"correct_month":"July",
 		"correct_weekDay":"",
-		"right_date":[],
-		"right_month":["August"],
-		"right_weekDay" : [], 
+		"right_date":[26],
+		"right_month":["January"],
+		"right_weekDay" : ["Sunday"], 
 		"right_year":[],
 		"popupassets": {
             "pop_up_base": {
