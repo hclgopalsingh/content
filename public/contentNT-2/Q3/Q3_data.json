@@ -245,10 +245,24 @@
 		"wrong_ans_popup": {
 
 		},
-		"right_ans_sound": {
-			"url": "assets/feedback/correctans.ogg",
-			"location": "content"
-		},
+		"right_ans_sound": [
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Ant.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Cup.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Bus.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Umbrella.ogg",
+				"location": "content"
+			}
+		],
 		"single_right_ans":[
 			{
 				"url": "assets/feedback/single_correct/singleCorrect_Ant.ogg",
