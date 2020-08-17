@@ -3,19 +3,19 @@
     "theme_name": "theme1",
     "commonassets": {
         "instruction_img": {
-            "url": "instructionBar.png",
+            "url": "assets/instructionBar.png",
             "location": "content"
         },
         "instruction_vo": {
-            "url": "ques_vo.ogg",
+            "url": "assets/narrator.ogg",
             "location": "content"
         },
         "speaker": {
-            "url": "speaker.png",
+            "url": "assets/options/speaker.png",
             "location": "content"
         },
         "speaker_vo": {
-            "url": "question.ogg",
+            "url": "assets/question.ogg",
             "location": "content"
         },
         "optionBase": {
@@ -29,28 +29,7 @@
         "background": {
             "urlglobal": "global/tabs/bg/bg_4.svg",
                 "location": "theme"
-        },
-        
-        "animation": {
-            "img": {
-                "url": "happyFixedAnimation.webp"
-            },
-            "audio": {
-                "url": "clap.ogg"
-            },
-            "location": "content",
-            "timeout": 5000
-        },
-        "wrongAnimationAssts": {
-            "img": {
-                "url": "sadFixedAnimation.gif"
-            },
-            "audio": {
-                "url": "shake.ogg"
-            },
-            "location": "content",
-            "timeout": 5000
-        },
+        }, 
         "isFirstQues": false,
         "imgCount": 2
     },
@@ -72,7 +51,7 @@
         {
             "optionID": "M13",
             "imgrightfeedback_audio": {
-                "url": "rightFeedbackAudio1.ogg",
+                "url": "assets/options/rightFeedbackAudio1.ogg",
                 "location": "content"
             },
             "baseImg":{
@@ -80,18 +59,18 @@
                 "location":"theme"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedbackAudio1.ogg",
+                "url": "assets/options/wrongFeedbackAudio1.ogg",
                 "location": "content"
             },
             "showAnswerfeedback_audio": {
-                "url": "rightFeedbackAudio1.ogg",
+                "url": "assets/options/rightFeedbackAudio1.ogg",
                 "location": "content"
             }
         },
         {
             "optionID": "M11",
             "imgrightfeedback_audio": {
-                "url": "rightFeedbackAudio2.ogg",
+                "url": "assets/options/rightFeedbackAudio2.ogg",
                 "location": "content"
             },
             "baseImg":{
@@ -99,18 +78,18 @@
                 "location":"theme"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedbackAudio2.ogg",
+                "url": "assets/options/wrongFeedbackAudio2.ogg",
                 "location": "content"
             },
             "showAnswerfeedback_audio": {
-                "url": "rightFeedbackAudio2.ogg",
+                "url": "assets/options/rightFeedbackAudio2.ogg",
                 "location": "content"
             }
         },
         {
             "optionID": "M2",
             "imgrightfeedback_audio": {
-                "url": "rightFeedbackAudio3.ogg",
+                "url": "assets/options/rightFeedbackAudio3.ogg",
                 "location": "content"
             },
             "baseImg":{
@@ -118,18 +97,18 @@
                 "location":"theme"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedbackAudio3.ogg",
+                "url": "assets/options/wrongFeedbackAudio3.ogg",
                 "location": "content"
             },
             "showAnswerfeedback_audio": {
-                "url": "rightFeedbackAudio3.ogg",
+                "url": "assets/options/rightFeedbackAudio3.ogg",
                 "location": "content"
             }
         },
         {
             "optionID": "M3",
             "imgrightfeedback_audio": {
-                "url": "rightFeedbackAudio4.ogg",
+                "url": "assets/options/rightFeedbackAudio4.ogg",
                 "location": "content"
             },
             "baseImg":{
@@ -137,18 +116,18 @@
                 "location":"theme"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedbackAudio4.ogg",
+                "url": "assets/options/wrongFeedbackAudio4.ogg",
                 "location": "content"
             },
             "showAnswerfeedback_audio": {
-                "url": "rightFeedbackAudio4.ogg",
+                "url": "assets/options/rightFeedbackAudio4.ogg",
                 "location": "content"
             }
         },
         {
             "optionID": "M6",
             "imgrightfeedback_audio": {
-                "url": "rightFeedbackAudio5.ogg",
+                "url": "assets/options/rightFeedbackAudio5.ogg",
                 "location": "content"
             },
             "baseImg":{
@@ -156,11 +135,11 @@
                 "location":"theme"
             },
             "imgwrongfeedback_audio": {
-                "url": "wrongFeedbackAudio5.ogg",
+                "url": "assets/options/wrongFeedbackAudio5.ogg",
                 "location": "content"
             },
             "showAnswerfeedback_audio": {
-                "url": "rightFeedbackAudio5.ogg",
+                "url": "assets/options/rightFeedbackAudio5.ogg",
                 "location": "content"
             }
         }
@@ -200,54 +179,59 @@
 
     "quesObj": {
         "quesVideo": {
-            "urlOgv": "video.ogg",
-            "urlMP4": "video.mp4",
+            "urlOgv": "assets/video.ogv",
+            "urlMP4": "assets/video.mp4",
             "location": "content",
             "autoPlay": false
         },
-
-        "quesPlayPause": {
-            "url": "pause.svg",
-            "location": "content"
-        },
-        "quesPlay": {
-            "url": "play.svg",
-            "location": "content"
-        },
-        "quesPause": {
-            "url": "pause.svg",
-            "location": "content"
-        },
-        "quesSkip": {
-            "urlOgv": "SkipButton.svg",                
-            "location": "content"
-        },
-        "quesSkipOrigenal": {
-            "urlOgv": "SkipButton.svg",                
-            "location": "content"
-        },
-        "quesSkipHover": {                
-            "urlOgv": "SkipButtonHover.svg",
-            "location": "content"
-        },
+"submitRequired":false,
+    "replayRequired":true,
         
-        "quesInstruction": {
-            "url": "ques_vo.ogg",
-            "location": "content",
-            "autoPlay": true
-        },
-        "`quesImg": {
-            "url": "",
-            "location": ""
-        },
-        "quesImgHover": {
-            "url": "",
-            "location": ""
-        },
-        "quesImgOriginal": {
-            "url": "",
-            "location": ""
-        }
+        "quesPlayPause": {
+      "urlglobal": "global/buttons/commonvideo/pause.svg",
+      "location": "theme"
+    },
+    "quesPlayOriginal": {
+      "urlglobal": "global/buttons/commonvideo/play.svg",
+      "location": "theme"
+    },
+    "quesPlay": {
+      "urlglobal": "global/buttons/commonvideo/play.svg",
+      "location": "theme"
+    },
+    "quesPlayHover": {
+      "urlglobal": "global/buttons/commonvideo/PlayHover.svg",
+      "location": "theme"
+    },
+    "quesPause": {
+      "urlglobal": "global/buttons/commonvideo/pause.svg",
+      "location": "theme"
+    },
+    "quesPauseOriginal": {
+      "urlglobal": "global/buttons/commonvideo/pause.svg",
+      "location": "theme"
+    },
+    "quesPauseHover": {
+      "urlglobal": "global/buttons/commonvideo/PauseHover.svg",
+      "location": "theme"
+    },
+    "quesSkip": {
+      "urlglobal": "global/buttons/commonvideo/SkipButton.svg",
+      "location": "theme"
+    },
+    "quesSkipOrigenal": {
+      "urlglobal": "global/buttons/commonvideo/SkipButton.svg",
+      "location": "theme"
+    },
+    "quesSkipHover": {
+      "urlglobal": "global/buttons/commonvideo/SkipButtonHover.svg",
+      "location": "theme"
+    },
+    "quesInstruction": {
+      "url": "assets/instructionAudio.ogg",
+      "location": "content",
+      "autoPlay": true
+    }
     },
    "feedback": {
         "correct_ans_array": [ "M11", "L66", "L41"],
