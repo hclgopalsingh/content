@@ -586,18 +586,6 @@
                     "url": "correctWordVO_1.ogg",
                     "location": "content"
                 }
-            },
-            {
-                "rightfeedback_audio": {
-                    "url": "showanswerFeedback.ogg",
-                    "location": "content"
-                }
-            },
-            {
-                "rightfeedback_audio": {
-                    "url": "showanswerFeedback.ogg",
-                    "location": "content"
-                }
             }
         ],
         "right_ans_sound_akshar": {
