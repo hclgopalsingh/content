@@ -30,19 +30,19 @@
 			"style_class": "option1"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option1.ogg",
+			"url": "assets/options/Duck.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt1_correct.ogg",
+			"url": "assets/options/Duck_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt1_show.ogg",
+			"url": "assets/options/Duck_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt1_incorrect.ogg",
+			"url": "assets/options/Duck_incorrect.ogg",
 			"location": "content"
 		},
 		"category": "A"
@@ -54,22 +54,22 @@
 			"style_class": "option2"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option2.ogg",
+			"url": "assets/options/Monkey.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt2_correct.ogg",
+			"url": "assets/options/Monkey_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt2_show.ogg",
+			"url": "assets/options/Monkey_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt2_incorrect.ogg",
+			"url": "assets/options/Monkey_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "A"
+		"category": "B"
 	}, {
 		"index": 2,
 		"imgsrc": {
@@ -78,22 +78,22 @@
 			"style_class": "option3"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option3.ogg",
+			"url": "assets/options/Peacock.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt3_correct.ogg",
+			"url": "assets/options/Peacock_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt3_show.ogg",
+			"url": "assets/options/Peacock_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt3_incorrect.ogg",
+			"url": "assets/options/Peacock_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "B"
+		"category": "A"
 	}, {
 		"index": 3,
 		"imgsrc": {
@@ -102,19 +102,19 @@
 			"style_class": "option4"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option4.ogg",
+			"url": "assets/options/Cow.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt4_correct.ogg",
+			"url": "assets/options/Cow_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt4_show.ogg",
+			"url": "assets/options/Cow_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt4_incorrect.ogg",
+			"url": "assets/options/Cow_incorrect.ogg",
 			"location": "content"
 		},
 		"category": "B"
@@ -126,19 +126,19 @@
 			"style_class": "option5"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option5.ogg",
+			"url": "assets/options/Parrot.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt5_correct.ogg",
+			"url": "assets/options/Parrot_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt5_show.ogg",
+			"url": "assets/options/Parrot_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt5_incorrect.ogg",
+			"url": "assets/options/Parrot_incorrect.ogg",
 			"location": "content"
 		},
 		"category": "A"
@@ -150,22 +150,22 @@
 			"style_class": "option6"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option6.ogg",
+			"url": "assets/options/Horse.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt6_correct.ogg",
+			"url": "assets/options/Horse_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt6_show.ogg",
+			"url": "assets/options/Horse_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt6_incorrect.ogg",
+			"url": "assets/options/Horse_incorrect.ogg",
 			"location": "content"
 		},
-		"category": ""
+		"category": "B"
 	}, {
 		"index": 6,
 		"imgsrc": {
@@ -174,19 +174,19 @@
 			"style_class": "option7"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option7.ogg",
+			"url": "assets/options/Crow.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt7_correct.ogg",
+			"url": "assets/options/Crow_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt7_show.ogg",
+			"url": "assets/options/Crow_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt7_incorrect.ogg",
+			"url": "assets/options/Crow_incorrect.ogg",
 			"location": "content"
 		},
 		"category": "A"
@@ -198,22 +198,22 @@
 			"style_class": "option8"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option8.ogg",
+			"url": "assets/options/Goat.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt8_correct.ogg",
+			"url": "assets/options/Goat_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt8_show.ogg",
+			"url": "assets/options/Goat_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt8_incorrect.ogg",
+			"url": "assets/options/Goat_incorrect.ogg",
 			"location": "content"
 		},
-		"category": ""
+		"category": "B"
 	}, {
 		"index": 8,
 		"imgsrc": {
@@ -222,22 +222,22 @@
 			"style_class": "option9"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option9.ogg",
+			"url": "assets/options/Cat.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt9_correct.ogg",
+			"url": "assets/options/Cat_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt9_show.ogg",
+			"url": "assets/options/Cat_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt9_incorrect.ogg",
+			"url": "assets/options/Cat_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "A"
+		"category": "B"
 	}, {
 		"index": 9,
 		"imgsrc": {
@@ -246,22 +246,22 @@
 			"style_class": "option10"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option10.ogg",
+			"url": "assets/options/Grapes.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt10_correct.ogg",
+			"url": "",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt10_show.ogg",
+			"url": "",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt10_incorrect.ogg",
+			"url": "assets/options/Grapes_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "A"
+		"category": ""
 	}, {
 		"index": 10,
 		"imgsrc": {
@@ -270,22 +270,22 @@
 			"style_class": "option11"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option11.ogg",
+			"url": "assets/options/Hen.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt11_correct.ogg",
+			"url": "assets/options/Hen_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt11_show.ogg",
+			"url": "assets/options/Hen_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt11_incorrect.ogg",
+			"url": "assets/options/Hen_incorrect.ogg",
 			"location": "content"
 		},
-		"category": ""
+		"category": "A"
 	}],
 
 	"option_holder": {
@@ -301,7 +301,7 @@
 			"url": "assets/question/left_holder.png",
 			"location": "content"
 		},
-		"left_random_index": [0, 1, 4, 6, 8, 9],
+		"left_random_index": [0, 2, 4, 6, 10],
 
 		"rightHolder": {
 			"url": "assets/question/right_holder.png",
@@ -315,7 +315,7 @@
 			"url": "assets/question/right_holder.png",
 			"location": "content"
 		},
-		"right_random_index": [2, 3]
+		"right_random_index": [1, 3, 5, 7, 8]
 	},
 
 	"quesObj": {
@@ -370,7 +370,7 @@
 			"location": "content",
 			"autoPlay": true
 		},		 		 
-		"noOfOptions": 8,
+		"noOfOptions": 10,
 		"submitRequired": true,
         "replayRequired": true
 	},
