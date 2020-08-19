@@ -1,0 +1,2832 @@
+{	
+	"instructiontext": "जुलाई का महीना पहचानें और उसमे कुल इतवारों की संख्या बताएं",
+	"speaker": {
+        "enabled": "",
+        "imgsrc": {
+            "url": "assets/images/EVAGlobal/speakerBtn.svg",
+            "location": "assets"
+        },
+        "imgorigional": {
+            "url": "assets/images/EVAGlobal/speakerBtn.svg",
+            "location": "assets"
+        },
+        "imghover": {
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
+            "location": "assets"
+        },
+        "imgactive": {
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
+            "location": "assets"
+        },
+        "wave1": {
+            "url": "assets/images/EVAGlobal/speakerWave1.svg",
+            "location": "assets"
+        },
+        "wave2": {
+            "url": "assets/images/EVAGlobal/speakerWave2.svg",
+            "location": "assets"
+        },
+        "wave3": {
+            "url": "assets/images/EVAGlobal/speakerWave3.svg",
+            "location": "assets"
+        },
+        "sound": {
+            "url": "Question.ogg",
+            "location": "content"
+        }
+    },
+	"commonassets": {
+		"aagey_badhein": {
+			"url": "assets/images/EVAGlobal/nextBtn.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_original": {
+			"url": "assets/images/EVAGlobal/nextBtn.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_hover": {
+			"url": "assets/images/EVAGlobal/nextBtnHover.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_blink": {
+			"url": "assets/images/EVAGlobal/nextBtnBlink.svg",
+			"location": "assets"
+		},
+		"peechey_jayein": {
+			"url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+			"location": "assets"
+		},
+		"peechey_jayein_disabled": {
+			"url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+			"location": "assets"
+		},
+		"peechey_jayein_original": {
+			"url": "assets/images/EVAGlobal/prevBtn.svg",
+			"location": "assets"
+		},
+		"peechey_jayein_hover": {
+			"url": "assets/images/EVAGlobal/prevBtnHover.svg",
+			"location": "assets"
+		},
+		"tooltipImg": {
+			"url": "assets/images/tooltip.svg",
+			"location": "assets"
+		},
+		"lineImg": {
+			"url": "assets/images/line.svg",
+			"location": "assets"
+		},
+		"QuestionAudio": {
+			"url": "Question.ogg",
+			"location": "content"
+		},
+		"CorrectAudio": {
+			"url": "correct.ogg",
+			"location": "content"
+		},
+		"WrongAudio": {
+			"url": "wrong.ogg",
+			"location": "content"
+		},
+		"showAnsAudio": {
+			"url": "showAnswerSound.ogg",
+			"location": "content"
+		},
+		"PartiallyCorrectAudio": {
+			"url": "partialFeedback.ogg",
+			"location": "content"
+		},
+		"moreOptCorrectAudio": {
+			"url": "partiallyCorrect.ogg",
+			"location": "content"
+		},
+		"header_bar":{
+          "url":"assets/images/EVAGlobal/headerBar.svg",
+          "location":"assets"
+       },
+       "instruction_bg":{
+          "url":"assets/images/EVAGlobal/instructionBase.svg",
+          "location":"assets"
+       },
+       "instruction":{
+          "url":"Instruction.ogg",
+          "location":"content"
+       },
+       "instruction_img":{
+          "url":"assets/images/EVAGlobal/instructionText.svg",
+          "location":"assets"
+       },
+       "burst":{
+          "url":"assets/images/burst.gif",
+          "location":"assets"
+       },
+       "bg":{
+          "url":"assets/images/EVAGlobal/bg.jpg",
+          "location":"assets"
+       },
+       "background":{
+          "url":"assets/images/EVAGlobal/bg.jpg",
+          "location":"assets"
+       },
+       "footer":{
+          "url":"assets/images/EVAGlobal/footerBg.svg",
+          "location":"assets"
+       },
+		"ques_control": {
+			"isLastQues":false,
+			"blink_btn1": {
+				"url": "blink_btn1.svg",
+				"location": "content"
+			},
+			"blink_btn2": {
+				"url": "blink_btn2.svg",
+				"location": "content"
+			},
+			"aagey_badhein": {
+                "url": "assets/images/EVAGlobal/nextBtn.svg",
+                "location": "assets"
+            },
+            "aagey_badhein_original": {
+                "url": "assets/images/EVAGlobal/nextBtn.svg",
+                "location": "assets"
+            },
+            "aagey_badhein_hover": {
+                "url": "assets/images/EVAGlobal/nextBtnHover.svg",
+                "location": "assets"
+            },
+            "aagey_badhein_blink": {
+                "url": "assets/images/EVAGlobal/nextBtnBlink.svg",
+                "location": "assets"
+            },
+            "peechey_jayein": {
+                "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+                "location": "assets"
+            },
+            "peechey_jayein_original": {
+                "url": "assets/images/EVAGlobal/prevBtn.svg",
+                "location": "assets"
+			},
+			"peechey_jayein_disabled": {
+				"url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+				"location": "assets"
+			},
+            "peechey_jayein_hover": {
+                "url": "assets/images/EVAGlobal/prevBtnHover.svg",
+                "location": "assets"
+            },
+			  "submit_btn": {
+                "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+                "location": "assets"
+			},
+			"submitBtnDisabled": {
+                "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+                "location": "assets"
+            },
+            "submit_btn_hover": {
+                "url": "assets/images/EVAGlobal/submitBtnHover.svg",
+                "location": "assets"
+            },
+            "submit_btn_original": {
+                "url": "assets/images/EVAGlobal/submitBtnActive.svg",
+                "location": "assets"
+            },
+			"uttar_dikhayein": {
+                "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
+                "location": "assets"
+            },
+            "uttar_dikhayein_disable": {
+                "url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
+                "location": "assets"
+            },
+            "uttar_dikhayein_original": {
+                "url": "assets/images/EVAGlobal/ansBtnActive.svg",
+                "location": "assets"
+            },
+            "uttar_dikhayein_hover": {
+                "url": "assets/images/EVAGlobal/ansBtnHover.svg",
+                "location": "assets"
+            },
+			 "background":{
+				"url":"assets/images/EVAGlobal/bg.jpg",
+				"location":"assets"
+			 },
+			 "footer":{
+				"url":"assets/images/EVAGlobal/footerBg.svg",
+				"location":"assets"
+			 },
+			"quesTabs": [
+                {
+                    "ques_tab": {
+                        "id": "001",
+                        "tabcircle": {
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "location": "assets"
+                        },
+                        "tabcircleActive": {
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
+                            "location": "assets"
+                        },
+                        "tabcircleVisited": {
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
+                            "location": "assets"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "id": "002",
+                        "tabcircle": {
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
+                            "location": "assets"
+                        },
+                        "tabcircleActive": {
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "location": "assets"
+                        },
+                        "tabcircleVisited": {
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "id": "003",
+                        "tabcircle": {
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
+                            "location": "assets"
+                        },
+                        "tabcircleActive": {
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "location": "assets"
+                        },
+                        "tabcircleVisited": {
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "id": "004",
+                        "tabcircle": {
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
+                            "location": "assets"
+                        },
+                        "tabcircleActive": {
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "location": "assets"
+                        },
+                        "tabcircleVisited": {
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "id": "005",
+                        "tabcircle": {
+                            "url": "assets/images/EVAGlobal/quesBullet.png",
+                            "location": "assets"
+                        },
+                        "tabcircleActive": {
+                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                            "location": "assets"
+                        },
+                        "tabcircleVisited": {
+                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                            "location": "assets"
+                        }
+                    }
+                }
+            ],
+
+			"nav_base": {
+				"url": "navBase.svg",
+				"location": "content"
+			},
+			"ques_nav_base": {
+				"url": "quesNavBase.svg",
+				"location": "content"
+			},
+			"rightTick_img": {
+				"url": "right.svg",
+				"location": "content"
+			},
+			"wrongTick_img": {
+				"url": "wrong.svg",
+				"location": "content"
+			}
+		},
+		"animation":{
+			"img":{
+				"url":"happyFixedAnimation.webp"
+			},
+			"audio":{
+				"url":"clap.ogg"
+			},
+			"location":"content",
+			"timeout":5000
+		},
+		"wrongAnimationAssts":{
+			"img":{
+				"url":"sadFixedAnimation.gif"
+			},
+			"audio":{
+				"url":"shake.ogg"
+			},
+			"location":"content",
+			"timeout":5000
+		},
+		"isFirstQues": true,
+		"imgCount": 0,
+         "backgroundMonths": {
+			 "url":"baseMonths.png",
+			 "location":"content"
+		 },
+		 "backgroundYears":{
+			"url":"baseYears.png",
+			"location":"content"
+		 },
+		 "backgroundDaysWeeks":{
+			"url":"baseDaysWeeks.png",
+			"location":"content"
+		 }
+	},	
+	"submit_confirm": {
+		"style_header": {
+			"border": "solid .4vmin #85d222",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#248446"
+		},
+		"style_body": {
+			"border": "solid .4vmin #85d222",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"background": "#afdec0"
+		},
+		"headerTxt_img": {
+			"url": "header_confirm_text.png",
+			"location": "content"
+		},
+		"bg_img": {
+			"url": "confirmation_popup_base.png",
+			"location": "content"
+		},
+		"close_btn": {
+			"url": "closeBtn.png",
+			"location": "content"
+		},
+		"close_btn_hover": {
+			"url": "closeBtnHover.png",
+			"location": "content"
+		},
+		"close_btn_original": {
+			"url": "closeBtn.png",
+			"location": "content"
+		},
+		"confirm_text": {
+			"url": "submit_popup_text.png",
+			"location": "content"
+		},
+		"confirm_btn": {
+			"url": "yes_btn.png",
+			"location": "content"
+		},
+		"confirm_btn_hover": {
+			"url": "yes_btn_Hover.png",
+			"location": "content"
+		},
+		"confirm_btn_original": {
+			"url": "yes_btn.png",
+			"location": "content"
+		},
+		"decline_btn": {
+			"url": "no_btn.png",
+			"location": "content"
+		},
+		"decline_btn_hover": {
+			"url": "no_btn_Hover.png",
+			"location": "content"
+		},
+		"decline_btn_original": {
+			"url": "no_btn.png",
+			"location": "content"
+		}
+	},
+	
+
+	"ArrweekDays": [
+		{
+		 "id":"Monday",
+		 "selected":false,
+		 "disabled":false,
+		 "checkRightorWrong":false,
+		 "weekDayImg":{
+			"url":"weeks/day1.png",
+			"location":"content" 
+		 },
+		"base":{
+			"url":"weeks/base.png",
+			"location":"content"
+		 },
+		 "base_hover":{
+			"url":"weeks/base_hover.png",
+			"location":"content"
+		 },
+		 "base_original":{
+			"url":"weeks/base.png",
+			"location":"content"
+		 },
+		 "base_right":{
+			"url":"weeks/base_green.png",
+			"location":"content"
+		 },
+		 "base_wrong":{
+			"url":"weeks/base_red.png",
+			"location":"content"
+		 },
+		 "base_selected":{
+			"url":"weeks/base_selected.png",
+			"location":"content"
+		 },
+		 "weekDayImginpopUp":{
+			"url":"weeks/base.png",
+			"location":"content"
+		},
+		"weekDayImginpopUp_original":{
+			"url":"weeks/base.png",
+			"location":"content"
+		}
+		},
+		{
+			"id":"Tuesday",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"weekDayImg":{
+				"url":"weeks/day2.png",
+				"location":"content" 
+			 },
+			"base":{
+				"url":"weeks/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"weeks/base_hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"weeks/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"weeks/base_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"weeks/base_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"weeks/base_selected.png",
+				"location":"content"
+			 },
+			 "weekDayImginpopUp":{
+				"url":"weeks/base.png",
+				"location":"content"
+			},
+			"weekDayImginpopUp_original":{
+				"url":"weeks/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"Wednesday",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"weekDayImg":{
+				"url":"weeks/day3.png",
+				"location":"content" 
+			 },
+			"base":{
+				"url":"weeks/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"weeks/base_hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"weeks/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"weeks/base_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"weeks/base_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"weeks/base_selected.png",
+				"location":"content"
+			 },
+			 "weekDayImginpopUp":{
+				"url":"weeks/base.png",
+				"location":"content"
+			},
+			"weekDayImginpopUp_original":{
+				"url":"weeks/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"Thursday",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"weekDayImg":{
+				"url":"weeks/day4.png",
+				"location":"content" 
+			 },
+			"base":{
+				"url":"weeks/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"weeks/base_hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"weeks/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"weeks/base_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"weeks/base_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"weeks/base_selected.png",
+				"location":"content"
+			 },
+			 "weekDayImginpopUp":{
+				"url":"weeks/base.png",
+				"location":"content"
+			},
+			"weekDayImginpopUp_original":{
+				"url":"weeks/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"Friday",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"weekDayImg":{
+				"url":"weeks/day5.png",
+				"location":"content" 
+			 },
+			"base":{
+				"url":"weeks/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"weeks/base_hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"weeks/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"weeks/base_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"weeks/base_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"weeks/base_selected.png",
+				"location":"content"
+			 },
+			 "weekDayImginpopUp":{
+				"url":"weeks/base.png",
+				"location":"content"
+			},
+			"weekDayImginpopUp_original":{
+				"url":"weeks/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"Saturday",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"weekDayImg":{
+				"url":"weeks/day6.png",
+				"location":"content" 
+			 },
+			"base":{
+				"url":"weeks/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"weeks/base_hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"weeks/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"weeks/base_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"weeks/base_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"weeks/base_selected.png",
+				"location":"content"
+			 },
+			 "weekDayImginpopUp":{
+				"url":"weeks/base.png",
+				"location":"content"
+			},
+			"weekDayImginpopUp_original":{
+				"url":"weeks/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"Sunday",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"weekDayImg":{
+				"url":"weeks/day7.png",
+				"location":"content" 
+			 },
+			"base":{
+				"url":"weeks/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"weeks/base_hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"weeks/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"weeks/base_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"weeks/base_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"weeks/base_selected.png",
+				"location":"content"
+			 },
+			 "weekDayImginpopUp":{
+				"url":"weeks/base.png",
+				"location":"content"
+			},
+			"weekDayImginpopUp_original":{
+				"url":"weeks/base.png",
+				"location":"content"
+			}
+		   }
+	],
+
+	"Arryears": [
+		{
+		 "id":"2018",
+		 "selected":false,
+		 "disabled":false,
+		 "checkRightorWrong":false,
+		 "yearsImg":{
+			"url":"Years/year2018.png",
+			"location":"content" 
+		 },
+		 "year_base":{
+			"url":"Years/base.png",
+			"location":"content" 
+		 },
+		 "base_hover":{
+			"url":"Years/base_hover.png",
+			"location":"content" 
+		 },
+		 "base_original":{
+			"url":"Years/base.png",
+			"location":"content" 
+		 },
+		 "base_right":{
+			"url":"Years/base_green.png",
+			"location":"content" 
+		 },
+		 "base_selected":{
+			"url":"Years/base_selected.png",
+			"location":"content" 
+		 },
+		 "base_wrong":{
+			"url":"Years/base_red.png",
+			"location":"content" 
+		 },
+		 "ImginpopUp":{
+			"url":"Years/base.png",
+			"location":"content"
+		},
+		"ImginpopUp_original":{
+			"url":"Years/base.png",
+			"location":"content"
+		}
+		},
+		{
+			"id":"2019",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"yearsImg":{
+				"url":"Years/year2019.png",
+				"location":"content" 
+			 },
+			 "year_base":{
+				"url":"Years/base.png",
+				"location":"content" 
+			 },
+			 "base_hover":{
+				"url":"Years/base_hover.png",
+				"location":"content" 
+			 },
+			 "base_original":{
+				"url":"Years/base.png",
+				"location":"content" 
+			 },
+			 "base_right":{
+				"url":"Years/base_green.png",
+				"location":"content" 
+			 },
+			 "base_selected":{
+				"url":"Years/base_selected.png",
+				"location":"content" 
+			 },
+			 "base_wrong":{
+				"url":"Years/base_red.png",
+				"location":"content" 
+			 },
+			 "ImginpopUp":{
+				"url":"Years/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Years/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"2020",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"yearsImg":{
+				"url":"Years/year2020.png",
+				"location":"content" 
+			 },
+			 "year_base":{
+				"url":"Years/base.png",
+				"location":"content" 
+			 },
+			 "base_hover":{
+				"url":"Years/base_hover.png",
+				"location":"content" 
+			 },
+			 "base_original":{
+				"url":"Years/base.png",
+				"location":"content" 
+			 },
+			 "base_right":{
+				"url":"Years/base_green.png",
+				"location":"content" 
+			 },
+			 "base_selected":{
+				"url":"Years/base_selected.png",
+				"location":"content" 
+			 },
+			 "base_wrong":{
+				"url":"Years/base_red.png",
+				"location":"content" 
+			 },
+			 "ImginpopUp":{
+				"url":"Years/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Years/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"2021",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"yearsImg":{
+				"url":"Years/year2021.png",
+				"location":"content" 
+			 },
+			 "year_base":{
+				"url":"Years/base.png",
+				"location":"content" 
+			 },
+			 "base_hover":{
+				"url":"Years/base_hover.png",
+				"location":"content" 
+			 },
+			 "base_original":{
+				"url":"Years/base.png",
+				"location":"content" 
+			 },
+			 "base_right":{
+				"url":"Years/base_green.png",
+				"location":"content" 
+			 },
+			 "base_selected":{
+				"url":"Years/base_selected.png",
+				"location":"content" 
+			 },
+			 "base_wrong":{
+				"url":"Years/base_red.png",
+				"location":"content" 
+			 },
+			 "ImginpopUp":{
+				"url":"Years/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Years/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"2022",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"yearsImg":{
+				"url":"Years/year2022.png",
+				"location":"content" 
+			 },
+			 "year_base":{
+				"url":"Years/base.png",
+				"location":"content" 
+			 },
+			 "base_hover":{
+				"url":"Years/base_hover.png",
+				"location":"content" 
+			 },
+			 "base_original":{
+				"url":"Years/base.png",
+				"location":"content" 
+			 },
+			 "base_right":{
+				"url":"Years/base_green.png",
+				"location":"content" 
+			 },
+			 "base_selected":{
+				"url":"Years/base_selected.png",
+				"location":"content" 
+			 },
+			 "base_wrong":{
+				"url":"Years/base_red.png",
+				"location":"content" 
+			 },
+			 "ImginpopUp":{
+				"url":"Years/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Years/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"2023",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"yearsImg":{
+				"url":"Years/year2023.png",
+				"location":"content" 
+			 },
+			 "year_base":{
+				"url":"Years/base.png",
+				"location":"content" 
+			 },
+			 "base_hover":{
+				"url":"Years/base_hover.png",
+				"location":"content" 
+			 },
+			 "base_original":{
+				"url":"Years/base.png",
+				"location":"content" 
+			 },
+			 "base_right":{
+				"url":"Years/base_green.png",
+				"location":"content" 
+			 },
+			 "base_selected":{
+				"url":"Years/base_selected.png",
+				"location":"content" 
+			 },
+			 "base_wrong":{
+				"url":"Years/base_red.png",
+				"location":"content" 
+			 },
+			 "ImginpopUp":{
+				"url":"Years/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Years/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"2024",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"yearsImg":{
+			"url":"Years/year2024.png",
+			"location":"content" 
+		 },
+		 "year_base":{
+			"url":"Years/base.png",
+			"location":"content" 
+		 },
+		 "base_hover":{
+			"url":"Years/base_hover.png",
+			"location":"content" 
+		 },
+		 "base_original":{
+			"url":"Years/base.png",
+			"location":"content" 
+		 },
+		 "base_right":{
+			"url":"Years/base_green.png",
+			"location":"content" 
+		 },
+		 "base_selected":{
+			"url":"Years/base_selected.png",
+			"location":"content" 
+		 },
+		 "base_wrong":{
+			"url":"Years/base_red.png",
+			"location":"content" 
+		 },
+		 "ImginpopUp":{
+			"url":"Years/base.png",
+			"location":"content"
+		},
+		"ImginpopUp_original":{
+			"url":"Years/base.png",
+			"location":"content"
+		}
+		   }
+	],
+
+	"monthsArr": [
+		{
+		 "id":"January",
+		 "selected":false,
+		 "disabled":false,
+		 "checkRightorWrong":false,
+		 "days":31,
+		 "monthImg":{
+			"url":"Months/jan.png",
+			"location":"content" 
+		 },
+		 "base":{
+			"url":"Months/base.png",
+			"location":"content"
+		 },
+		 "base_hover":{
+			"url":"Months/hover.png",
+			"location":"content"
+		 },
+		 "base_original":{
+			"url":"Months/base.png",
+			"location":"content"
+		 },
+		 "base_right":{
+			"url":"Months/month_green.png",
+			"location":"content"
+		 },
+		 "base_wrong":{
+			"url":"Months/month_red.png",
+			"location":"content"
+		 },
+		 "slectedBaseImg":{
+			"url":"Months/month_selected.png",
+			"location":"content"
+		 },
+		"ImginpopUp":{
+			"url":"Months/base.png",
+			"location":"content"
+		},
+		"ImginpopUp_original":{
+			"url":"Months/base.png",
+			"location":"content"
+		}
+		},
+		{
+			"id":"February",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"days":28,
+			"monthImg":{
+				"url":"Months/Feb.png",
+				"location":"content" 
+			 },
+			 "base":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Months/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Months/month_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Months/month_red.png",
+				"location":"content"
+			 },
+			 "slectedBaseImg":{
+				"url":"Months/month_selected.png",
+				"location":"content"
+			 },
+			"ImginpopUp":{
+				"url":"Months/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"March",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"days":31,
+			"monthImg":{
+				"url":"Months/march.png",
+				"location":"content" 
+			 },
+			 "base":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Months/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Months/month_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Months/month_red.png",
+				"location":"content"
+			 },
+			 "slectedBaseImg":{
+				"url":"Months/month_selected.png",
+				"location":"content"
+			 },
+			"ImginpopUp":{
+				"url":"Months/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"April",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"days":30,
+			"monthImg":{
+				"url":"Months/apr.png",
+				"location":"content" 
+			 },
+			 "base":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Months/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Months/month_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Months/month_red.png",
+				"location":"content"
+			 },
+			 "slectedBaseImg":{
+				"url":"Months/month_selected.png",
+				"location":"content"
+			 },
+			"ImginpopUp":{
+				"url":"Months/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"May",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"days":31,
+			"monthImg":{
+				"url":"Months/may.png",
+				"location":"content" 
+			 },
+			 "base":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Months/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Months/month_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Months/month_red.png",
+				"location":"content"
+			 },
+			 "slectedBaseImg":{
+				"url":"Months/month_selected.png",
+				"location":"content"
+			 },
+			"ImginpopUp":{
+				"url":"Months/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"June",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"days":30,
+			"monthImg":{
+				"url":"Months/june.png",
+				"location":"content" 
+			 },
+			 "base":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Months/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Months/month_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Months/month_red.png",
+				"location":"content"
+			 },
+			 "slectedBaseImg":{
+				"url":"Months/month_selected.png",
+				"location":"content"
+			 },
+			"ImginpopUp":{
+				"url":"Months/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"July",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"days":31,
+			"monthImg":{
+				"url":"Months/july.png",
+				"location":"content" 
+			 },
+			 "base":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Months/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Months/month_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Months/month_red.png",
+				"location":"content"
+			 },
+			 "slectedBaseImg":{
+				"url":"Months/month_selected.png",
+				"location":"content"
+			 },
+			"ImginpopUp":{
+				"url":"Months/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"August",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"days":31,
+			"monthImg":{
+				"url":"Months/aug.png",
+				"location":"content" 
+			 },
+			 "base":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Months/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Months/month_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Months/month_red.png",
+				"location":"content"
+			 },
+			 "slectedBaseImg":{
+				"url":"Months/month_selected.png",
+				"location":"content"
+			 },
+			"ImginpopUp":{
+				"url":"Months/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"September",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"days":30,
+			"monthImg":{
+				"url":"Months/sept.png",
+				"location":"content" 
+			 },
+			 "base":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Months/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Months/month_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Months/month_red.png",
+				"location":"content"
+			 },
+			 "slectedBaseImg":{
+				"url":"Months/month_selected.png",
+				"location":"content"
+			 },
+			"ImginpopUp":{
+				"url":"Months/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"October",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"days":31,
+			"monthImg":{
+				"url":"Months/oct.png",
+				"location":"content" 
+			 },
+			 "base":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Months/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Months/month_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Months/month_red.png",
+				"location":"content"
+			 },
+			 "slectedBaseImg":{
+				"url":"Months/month_selected.png",
+				"location":"content"
+			 },
+			"ImginpopUp":{
+				"url":"Months/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"November",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"days":30,
+			"monthImg":{
+				"url":"Months/nov.png",
+				"location":"content" 
+			 },
+			 "base":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Months/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Months/month_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Months/month_red.png",
+				"location":"content"
+			 },
+			 "slectedBaseImg":{
+				"url":"Months/month_selected.png",
+				"location":"content"
+			 },
+			"ImginpopUp":{
+				"url":"Months/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"December",
+			"selected":false,
+			"disabled":false,
+			"checkRightorWrong":false,
+			"days":31,
+			"monthImg":{
+				"url":"Months/dec.png",
+				"location":"content" 
+			 },
+			 "base":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Months/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Months/month_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Months/month_red.png",
+				"location":"content"
+			 },
+			 "slectedBaseImg":{
+				"url":"Months/month_selected.png",
+				"location":"content"
+			 },
+			"ImginpopUp":{
+				"url":"Months/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Months/base.png",
+				"location":"content"
+			}
+		   }
+	],
+
+	"datesArr": [
+		{
+		 "id":"1",
+		 "selected":false,
+		 "disable":false, 
+		 "base":{
+			"url":"Days/base.png",
+			"location":"content"
+		 },
+		 "base_hover":{
+			"url":"Days/hover.png",
+			"location":"content"
+		 },
+		 "base_original":{
+			"url":"Days/base.png",
+			"location":"content"
+		 },
+		 "base_right":{
+			"url":"Days/day_green.png",
+			"location":"content"
+		 },
+		 "base_wrong":{
+			"url":"Days/day_red.png",
+			"location":"content"
+		 },
+		 "base_selected":{
+			"url":"Days/day_selected.png",
+			"location":"content"
+		 },
+		 "ImginpopUp":{
+			"url":"Days/base.png",
+			"location":"content"
+		},
+		"ImginpopUp_original":{
+			"url":"Days/base.png",
+			"location":"content"
+		}
+		},
+		{
+			"id":"2",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"3",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"4",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"5",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"6",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"7",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"8",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"9",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"10",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"11",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"12",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"13",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"14",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"15",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"16",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"17",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"18",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"19",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"20",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"21",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"22",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"23",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"24",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"25",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"26",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"27",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"28",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"29",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"30",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   },
+		   {
+			"id":"31",
+			"selected":false,
+			"disable":false,
+			"base":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_hover":{
+				"url":"Days/hover.png",
+				"location":"content"
+			 },
+			 "base_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			 },
+			 "base_right":{
+				"url":"Days/day_green.png",
+				"location":"content"
+			 },
+			 "base_wrong":{
+				"url":"Days/day_red.png",
+				"location":"content"
+			 },
+			 "base_selected":{
+				"url":"Days/day_selected.png",
+				"location":"content"
+			 },
+			 "ImginpopUp":{
+				"url":"Days/base.png",
+				"location":"content"
+			},
+			"ImginpopUp_original":{
+				"url":"Days/base.png",
+				"location":"content"
+			}
+		   }
+	],
+
+	"quesObj": [{
+		"quesInstruction": {
+			"url": "Question.ogg",
+			"location": "content",
+			"autoPlay": true
+		},
+		"localMachineDate":false,
+		"smart_calendar": false,
+		"givenDate": {
+		  "year":"2020",
+		  "month":"August",
+		  "date":"22"
+		},
+		"multi_date":true,
+		"multi_day":false,
+		"multi_month":false,
+		"multi_year":false,
+		"disableyear":true,
+		"disablemonth":false,
+		"disableweekDay":true,
+		"disableDate":false,
+		"yearSelected":true,
+		"monthSelected":false,
+		"dateSelected":false, 
+		"weekdaySelected":false,
+		"`quesImg": {
+			"url": "",
+			"location": ""
+		},
+		"quesImgHover": {
+			"url": "",
+			"location": ""
+		},
+		"quesImgOriginal": {
+			"url": "",
+			"location": ""
+		}
+	}],
+
+
+	"feedback": {
+		
+		"right_date":[5,12,19,26],
+		"right_month":["July"],
+		"right_weekDay" : [], 
+		"right_year":[],
+		"popupassets": {
+            "pop_up_base": {
+                "url": "assets/images/EVAGlobal/popupBase.svg",
+                "location": "assets"
+            },
+            "close_button": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_origional": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_hover": {
+                "url": "assets/images/EVAGlobal/popupCloseBtnHover.svg",
+                "location": "assets"
+            },
+            "right_icon": {
+                "url": "assets/images/EVAGlobal/rightAnsIcon.svg",
+                "location": "assets"
+            },
+            "wrong_icon": {
+                "url": "assets/images/EVAGlobal/wrongAnsIcon.svg",
+                "location": "assets"
+            },
+            "celebrations": {
+                "url": "celebrations.svg",
+                "location": "content"
+            }
+        },
+		"confirmation_popUp" : {
+			"close_button": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_origional": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_hover": {
+                "url": "assets/images/EVAGlobal/popupCloseBtnHover.svg",
+                "location": "assets"
+			},
+			"body":{
+				"url": "assets/images/EVAGlobal/confirmation_body.png",
+                "location": "assets"
+			},
+			"yesButton":{
+				"url": "assets/images/EVAGlobal/yes_txt.png",
+                "location": "assets"
+			},
+			"noButton":{
+				"url": "assets/images/EVAGlobal/no_txt.png",
+                "location": "assets"
+			},
+			"yes_btn_base":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			},
+			"no_btn_base":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			},
+			"btn_base_hover":{
+				"url": "assets/images/EVAGlobal/button_base_hover.png",
+                "location": "assets"
+			},
+			"btn_base_original":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			}
+		},
+		"show_ans_popup": {
+			"video": {
+			   "url":"video.ogv",
+			   "location": "content"
+			}
+		 },
+		 "right_ans_sound":{
+			"enabled":true,
+			"path":{
+			   "url":"rightFeedback.ogg",
+			   "location":"content"
+			}
+		 },
+		 "right_ans_clap_sound":{
+			"url":"assets/images/EVAGlobal/clap.ogg",
+			"location":"assets"
+		 },
+		 "wrong_ans_sound":{
+			"enabled":true,
+			"path":{
+			   "url":"wrongFeedback.ogg",
+			   "location":"content"
+			}
+		 }
+	}
+
+}
