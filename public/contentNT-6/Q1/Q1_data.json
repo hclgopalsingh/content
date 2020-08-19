@@ -32,7 +32,7 @@
         },     
          
         "isFirstQues": true,
-        "imgCount": 2
+        "imgCount": 3
     },
     "option_common_assets": {
         "option_base": {
@@ -56,8 +56,8 @@
                 "location": "content"
             },
             "baseImg":{
-                "url":"options/option_base1.png",
-                "location":"theme"
+                "url":"assets/options/option_base1.png",
+                "location":"content"
             },
             "imgwrongfeedback_audio": {
                 "url": "assets/options/wrongFeedbackAudio1.ogg",
@@ -75,8 +75,8 @@
                 "location": "content"
             },
             "baseImg":{
-                "url":"options/option_base2.png",
-                "location":"theme"
+                "url":"assets/options/option_base2.png",
+                "location":"content"
             },
             "imgwrongfeedback_audio": {
                 "url": "assets/options/wrongFeedbackAudio2.ogg",
@@ -94,8 +94,8 @@
                 "location": "content"
             },
             "baseImg":{
-                "url":"options/option_base3.png",
-                "location":"theme"
+                "url":"assets/options/option_base3.png",
+                "location":"content"
             },
             "imgwrongfeedback_audio": {
                 "url": "assets/options/wrongFeedbackAudio3.ogg",
@@ -113,8 +113,8 @@
                 "location": "content"
             },
             "baseImg":{
-                "url":"options/option_base4.png",
-                "location":"theme"
+                "url":"assets/options/option_base4.png",
+                "location":"content"
             },
             "imgwrongfeedback_audio": {
                 "url": "assets/options/wrongFeedbackAudio4.ogg",
@@ -132,8 +132,8 @@
                 "location": "content"
             },
             "baseImg":{
-                "url":"options/option_base5.png",
-                "location":"theme"
+                "url":"assets/options/option_base5.png",
+                "location":"content"
             },
             "imgwrongfeedback_audio": {
                 "url": "assets/options/wrongFeedbackAudio5.ogg",
