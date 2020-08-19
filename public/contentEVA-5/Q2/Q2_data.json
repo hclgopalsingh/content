@@ -495,7 +495,7 @@
                     "location": "content"
                 },
                 "audio": {
-                    "url": "Instruction.ogg",
+                    "url": "",
                     "location": "content"
                 }
             }
@@ -584,18 +584,6 @@
             {
                 "rightfeedback_audio": {
                     "url": "correctWordVO_1.ogg",
-                    "location": "content"
-                }
-            },
-            {
-                "rightfeedback_audio": {
-                    "url": "showanswerFeedback.ogg",
-                    "location": "content"
-                }
-            },
-            {
-                "rightfeedback_audio": {
-                    "url": "showanswerFeedback.ogg",
                     "location": "content"
                 }
             }
