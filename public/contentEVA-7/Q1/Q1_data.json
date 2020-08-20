@@ -1,0 +1,669 @@
+﻿{
+	"id": "Q001",
+    "imgCount": "12",
+    "instructiontext": "दिए गए अक्षर का उपयोग करके शब्द बनाएं",
+	"commonassets": {
+		"header_bar": {
+		  "url": "assets/images/EVAGlobal/headerBar.svg",
+		  "location": "assets"
+		},
+		"instruction_bg": {
+		  "url": "instructionBase.svg",
+		  "location": "content"
+		},
+		"instruction": {
+		  "url": "Instruction.ogg",
+		  "location": "content"
+		},
+		"instruction_img": {
+		  "url": "instructionText.svg",
+		  "location": "content"
+		},
+		"burst": {
+		  "url": "assets/images/burst.gif",
+		  "location": "assets"
+		},
+		"bg": {
+		  "url": "assets/images/EVAGlobal/bg.jpg",
+		  "location": "assets"
+		},
+		"peechey_jayein": {
+		  "url": "assets/images/EVAGlobal/prevBtn.svg",
+		  "location": "assets"
+		},
+		"peechey_jayein_original": {
+		  "url": "assets/images/EVAGlobal/prevBtn.svg",
+		  "location": "assets"
+		},
+		"peechey_jayein_hover": {
+		  "url": "assets/images/EVAGlobal/prevBtn.svg",
+		  "location": "assets"
+		},
+		"aagey_badhein_hover": {
+		  "url": "assets/images/EVAGlobal/nextBtn.svg",
+		  "location": "assets"
+		},
+		"aagey_badhein": {
+		  "url": "assets/images/EVAGlobal/nextBtn.svg",
+		  "location": "assets"
+		},
+		"aagey_badhein_original": {
+		  "url": "assets/images/EVAGlobal/nextBtn.svg",
+		  "location": "assets"
+		},
+		"aagey_badhein_blink": {
+		  "url": "assets/images/EVAGlobal/aageyBlink.svg",
+		  "location": "assets"
+		},
+		"background": {
+			"url": "assets/images/EVAGlobal/bg.jpg",
+			"location": "assets"
+		},
+		"footer": {
+		  "url": "assets/images/EVAGlobal/footerBg.svg",
+		  "location": "assets"
+		},
+		"ques_control": {
+			"isLastQues":false,
+		  "footer": {
+			"url": "assets/images/EVAGlobal/footerBg.svg",
+			"location": "assets"
+		  },
+		  "aagey_badhein": {
+			"url": "assets/images/EVAGlobal/nextBtn.svg",
+			"location": "assets"
+		  },
+		  "aagey_badhein_original": {
+			"url": "assets/images/EVAGlobal/nextBtn.svg",
+			"location": "assets"
+		  },
+		  "aagey_badhein_hover": {
+			"url": "assets/images/EVAGlobal/nextBtnHover.svg",
+			"location": "assets"
+		  },
+		  "blinkingStatus":false,
+		  "aagey_badhein_blink": {
+			"url": "assets/images/EVAGlobal/nextBtnBlink.svg",
+			"location": "assets"
+		  },
+		  "blink_btn1": {
+			"url": "blink_btn1.svg",
+			"location": "content"
+		  },
+		  "blink_btn2": {
+			"url": "blink_btn2.svg",
+			"location": "content"
+		  },
+		  "peechey_jayein": {
+			"url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+			"location": "assets"
+		  },
+		  "peechey_jayein_disabled": {
+			"url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+			"location": "assets"
+		},
+		  "peechey_jayein_original": {
+			"url": "assets/images/EVAGlobal/prevBtn.svg",
+			"location": "assets"
+		  },
+		  "peechey_jayein_hover": {
+			"url": "assets/images/EVAGlobal/prevBtnHover.svg",
+			"location": "assets"
+		  },
+		  "uttar_dikhayein": {
+			"url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
+			"location": "assets"
+		  },
+		  "uttar_dikhayein_original": {
+			"url": "assets/images/EVAGlobal/ansBtnActive.svg",
+			"location": "assets"
+		  },
+		  "uttar_dikhayein_hover": {
+			"url": "assets/images/EVAGlobal/ansBtnHover.svg",
+			"location": "assets"
+		  },
+		  "uttar_dikhayein_disable": {
+			"url": "assets/images/EVAGlobal/ansBtnDisabled.svg",
+			"location": "assets"
+		  },
+		  "submit_btn": {
+			"url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+			"location": "assets"
+		},
+		"submitBtnDisabled": {
+			"url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
+			"location": "assets"
+		},
+		"submit_btn_hover": {
+			"url": "assets/images/EVAGlobal/submitBtnHover.svg",
+			"location": "assets"
+		},
+		"submit_btn_original": {
+			"url": "assets/images/EVAGlobal/submitBtnActive.svg",
+			"location": "assets"
+		},
+		  "replay_btn": {
+			"url": "video_btn.png",
+			"location": "content"
+		  },
+		  "replay_btn_hover": {
+			"url": "video_stream_btn.png",
+			"location": "content"
+		  },
+		  "replay_btn_original": {
+			"url": "video_btn.png",
+			"location": "content"
+		  },
+		  "nav_base": {
+			"url": "navBase.svg",
+			"location": "content"
+		  },
+		  "ques_nav_base": {
+			"url": "quesNavBase.svg",
+			"location": "content"
+		  },
+		  "rightTick_img": {
+			"url": "right.svg",
+			"location": "content"
+		  },
+		  "wrongTick_img": {
+			"url": "wrong.svg",
+			"location": "content"
+		  },
+		  "quesTabs": {
+			"quesID": 0,
+			"tabCircleDisabled": {
+				"url": "assets/images/EVAGlobal/quesBulletDisabled.png",
+				"location": "assets"
+			},
+			"tabCircleActive": {
+				"url": "assets/images/EVAGlobal/quesBulletActive.png",
+				"location": "assets"
+			},
+			"tabCircleVisited": {
+				"url": "assets/images/EVAGlobal/quesBulletVisited.png",
+				"location": "assets"
+			},
+			"tabCircleUnVisited": {
+				"url": "assets/images/EVAGlobal/quesBullet.png",
+				"location": "assets"
+			}
+		}
+		},
+		"animation": {
+		  "img": {
+			"url": "happyFixedAnimation.webp"
+		  },
+		  "audio": {
+			"url": "clap.ogg"
+		  },
+		  "location": "content",
+		  "timeout": 5000
+		},
+		"wrongAnimationAssts": {
+		  "img": {
+			"url": "sadFixedAnimation.gif"
+		  },
+		  "audio": {
+			"url": "shake.ogg"
+		  },
+		  "location": "content",
+		  "timeout": 5000
+		},
+		"animationBox" : {
+			"url":"box.png",
+			"location":"content"
+		},
+		"penpaperContent" : {
+			"url":"paperPenIcon.svg",
+			"location":"content"
+		},
+		"isFirstQues": true
+	  },
+	"speaker": {
+        "enabled": "",
+        "imgsrc": {
+            "url": "assets/images/EVAGlobal/speakerBtn.svg",
+            "location": "assets"
+        },
+        "imgorigional": {
+            "url": "assets/images/EVAGlobal/speakerBtn.svg",
+            "location": "assets"
+        },
+        "imghover": {
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
+            "location": "assets"
+        },
+        "imgactive": {
+            "url": "assets/images/EVAGlobal/speakerBtnHover.svg",
+            "location": "assets"
+		},
+		"wave1": {
+			"url": "assets/images/EVAGlobal/speakerWave1.svg",
+            "location": "assets"
+		},
+		"wave2": {
+			"url": "assets/images/EVAGlobal/speakerWave2.svg",
+            "location": "assets"
+		},
+		"wave3": {
+			"url": "assets/images/EVAGlobal/speakerWave3.svg",
+            "location": "assets"
+		},
+        "sound": {
+            "url": "Instruction.ogg",
+            "location": "content"
+        }
+    },
+	"optionArray": [
+            {
+				"id": 1,
+				"value": "क",
+                "imgsrc": {
+                    "url": "option_Box.png",
+                    "location": "content"
+				},
+				"imgsrc_letter": {
+                    "url": "Akshar Animation_KA.svg",
+                    "location": "content"
+				},
+                "imgsrc_hover": {
+                    "url": "option_Box_hover.png",
+                    "location": "content"
+				},
+				"image_original": {
+					"url": "option_Box.png",
+                    "location": "content"
+				},
+				"play_button_normal":{
+					"url": "Akshar Animation Box Option_Play Button_Normal.png",
+					"location": "content"
+				},
+				"play_button_hover":{
+					"url": "Akshar Animation Box Option_Play Button_Hover.png",
+					"location": "content"
+				},
+				"play_button_selected":{
+					"url": "Akshar Animation Box Option_Play Button_Selected.png",
+					"location": "content"
+				},
+				"play_button_original":{
+					"url": "Akshar Animation Box Option_Play Button_Normal.png",
+					"location": "content"
+				},
+				"videosrc":{
+					"url": "Main Animation Box_Without Shadow Animation Ka_01.ogg",
+					"location": "content"
+				},
+				"audio": {
+					"url": "",
+					"location": ""
+				}
+            },
+            {
+				"id": 2,
+				"value": "ल",
+                "imgsrc": {
+                    "url": "option_Box.png",
+                    "location": "content"
+				},
+				"imgsrc_letter": {
+                    "url": "Akshar Animation_KA.svg",
+                    "location": "content"
+				},
+                "imgsrc_hover": {
+                    "url": "option_Box_hover.png",
+                    "location": "content"
+				},
+				"image_original": {
+					"url": "option_Box.png",
+                    "location": "content"
+				},
+				"play_button_normal":{
+					"url": "Akshar Animation Box Option_Play Button_Normal.png",
+					"location": "content"
+				},
+				"play_button_hover":{
+					"url": "Akshar Animation Box Option_Play Button_Hover.png",
+					"location": "content"
+				},
+				"play_button_selected":{
+					"url": "Akshar Animation Box Option_Play Button_Selected.png",
+					"location": "content"
+				},
+				"play_button_original":{
+					"url": "Akshar Animation Box Option_Play Button_Normal.png",
+					"location": "content"
+				},
+				"videosrc":{
+					"url": "Main Animation Box_Without Shadow Animation Ka_02.ogg",
+					"location": "content"
+				},
+				"audio": {
+					"url": "",
+					"location": ""
+				}
+            },
+            {
+				"id": 3,
+				"value": "म",
+                "imgsrc": {
+                    "url": "option_Box.png",
+                    "location": "content"
+				},
+				"imgsrc_letter": {
+                    "url": "Akshar Animation_KA.svg",
+                    "location": "content"
+				},
+                "imgsrc_hover": {
+                    "url": "option_Box_hover.png",
+                    "location": "content"
+				},
+				"image_original": {
+					"url": "option_Box.png",
+                    "location": "content"
+				},
+				"play_button_normal":{
+					"url": "Akshar Animation Box Option_Play Button_Normal.png",
+					"location": "content"
+				},
+				"play_button_hover":{
+					"url": "Akshar Animation Box Option_Play Button_Hover.png",
+					"location": "content"
+				},
+				"play_button_selected":{
+					"url": "Akshar Animation Box Option_Play Button_Selected.png",
+					"location": "content"
+				},
+				"play_button_original":{
+					"url": "Akshar Animation Box Option_Play Button_Normal.png",
+					"location": "content"
+				},
+				"videosrc":{
+					"url": "Main Animation Box_Without Shadow Animation Ka_03.ogg",
+					"location": "content"
+				},
+				"audio": {
+					"url": "",
+					"location": "content"
+				}
+            }
+		],
+		"ansArray":[
+			{
+				"id":"field1",
+				"value":"",
+				"disabled":false,
+				"disable_ip":true,
+				"isRight":false,
+				"lock": {
+                    "url": "lock.png",
+                    "location": "content"
+				},
+				"typing_box":{
+					"url": "typing_box.png",
+                    "location": "content"
+				},
+				"locked" : false,
+				"lock_hover": {
+                    "url": "lock_hover.png",
+                    "location": "content"
+				},
+				"unlock": {
+                    "url": "unlock.png",
+                    "location": "content"
+				},
+				"unlock_hover": {
+                    "url": "unlock_hover.png",
+                    "location": "content"
+				},
+				"unlock_original": {
+                    "url": "unlock.png",
+                    "location": "content"
+				},
+				"refresh":{
+					"url":"refresh.png",
+					"location":"content"
+				},
+				"refresh_original":{
+					"url":"refresh.png",
+					"location":"content"
+				},
+				"refresh_hover":{
+					"url":"refresh_hover.png",
+					"location":"content"
+				}
+			},
+			{
+				"id":"field2",
+				"value":"",
+				"disabled":true,
+				"disable_ip":true,
+				"isRight":true,
+				"locked" : false,
+				"lock": {
+                    "url": "lock.png",
+                    "location": "content"
+				},
+				"typing_box":{
+					"url": "typing_box.png",
+                    "location": "content"
+				},
+				"lock_hover": {
+                    "url": "lock_hover.png",
+                    "location": "content"
+				},
+				"unlock": {
+                    "url": "unlock.png",
+                    "location": "content"
+				},
+				"unlock_hover": {
+                    "url": "unlock_hover.png",
+                    "location": "content"
+				},
+				"unlock_original": {
+                    "url": "unlock.png",
+                    "location": "content"
+				},
+				"refresh":{
+					"url":"refresh.png",
+					"location":"content"
+				},
+				"refresh_original":{
+					"url":"refresh.png",
+					"location":"content"
+				},
+				"refresh_hover":{
+					"url":"refresh_hover.png",
+					"location":"content"
+				}
+			},
+			{
+				"id":"field3",
+				"value":"",
+				"disabled":true,
+				"isRight":true,
+				"disable_ip":true,
+				"locked" : false,
+				"lock": {
+                    "url": "lock.png",
+                    "location": "content"
+				},
+				"typing_box":{
+					"url": "typing_box.png",
+                    "location": "content"
+				},
+				"lock_hover": {
+                    "url": "lock_hover.png",
+                    "location": "content"
+				},
+				"unlock": {
+                    "url": "unlock.png",
+                    "location": "content"
+				},
+				"unlock_hover": {
+                    "url": "unlock_hover.png",
+                    "location": "content"
+				},
+				"unlock_original": {
+                    "url": "unlock.png",
+                    "location": "content"
+				},
+				"refresh":{
+					"url":"refresh.png",
+					"location":"content"
+				},
+				"refresh_original":{
+					"url":"refresh.png",
+					"location":"content"
+				},
+				"refresh_hover":{
+					"url":"refresh_hover.png",
+					"location":"content"
+				}
+			}
+			
+		],
+	"quesObj": {
+		"quesVideo": {
+			"urlOgv": "video.ogg",
+			"urlMP4": "video.mp4",
+			"location": "content",
+			"autoPlay": true
+		},
+		"quesPlayPause": {
+			"url": "pause.svg",
+			"location": "content"
+		},
+		"quesPlay": {
+			"url": "play.svg",
+			"location": "content"
+		},
+		"quesPause": {
+			"url": "pause.svg",
+			"location": "content"
+		},
+		"quesSkip": {
+			"urlOgv": "SkipButton.svg",                
+			"location": "content"
+		},
+		"quesSkipOrigenal": {
+			"urlOgv": "SkipButton.svg",                
+			"location": "content"
+		},
+		"quesSkipHover": {                
+			"urlOgv": "SkipButtonHover.svg",
+			"location": "content"
+		},
+		"quesInstruction": {
+			"url": "Instruction.ogg",
+			"location": "content",
+			"autoPlay": true
+		}
+	},
+
+	"feedback": {
+		"correct_answer": 2,
+		"answer_key":["कम","कल","मल", "कलम","कमल","ललक","मलमल"],
+		"confirmation_popUp" : {
+			"close_button": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_origional": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_hover": {
+                "url": "assets/images/EVAGlobal/popupCloseBtnHover.svg",
+                "location": "assets"
+			},
+			"body":{
+				"url": "assets/images/EVAGlobal/confirmation_body.png",
+                "location": "assets"
+			},
+			"yesButton":{
+				"url": "assets/images/EVAGlobal/yes_txt.png",
+                "location": "assets"
+			},
+			"noButton":{
+				"url": "assets/images/EVAGlobal/no_txt.png",
+                "location": "assets"
+			},
+			"yes_btn_base":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			},
+			"no_btn_base":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			},
+			"btn_base_hover":{
+				"url": "assets/images/EVAGlobal/button_base_hover.png",
+                "location": "assets"
+			},
+			"btn_base_original":{
+				"url": "assets/images/EVAGlobal/button_base.png",
+                "location": "assets"
+			}
+		},
+		"popupassets":{
+            "pop_up_base": {
+                "url": "assets/images/EVAGlobal/popupBase.svg",
+                 "location": "assets"
+            },
+            "close_button": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_origional": {
+                "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
+                "location": "assets"
+            },
+            "close_button_hover": {
+                "url": "assets/images/EVAGlobal/popupCloseBtnHover.svg",
+                "location": "assets"
+            },
+            "right_icon": {
+                "url": "assets/images/EVAGlobal/rightAnsIcon.svg",
+                "location": "assets"
+            },
+            "wrong_icon": {
+                "url": "assets/images/EVAGlobal/wrongAnsIcon.svg",
+                "location": "assets"
+            }
+
+        },
+        "show_ans_popup": {
+			"video": {
+			   "url":"video.ogv",
+			   "location": "content"
+			}
+		 },
+        "right_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "rightFeedback.ogg",
+                "location": "content"
+            }
+        },
+        "right_ans_clap_sound": {        
+                "url": "clap.ogg",
+                "location": "content"
+        },
+        "wrong_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "wrongFeedback.ogg",
+                "location": "content"
+            }
+		},
+		"partial_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "wrongFeedback.ogg",
+                "location": "content"
+            }
+        }
+}
+}
