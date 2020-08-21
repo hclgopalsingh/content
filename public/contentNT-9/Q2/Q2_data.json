@@ -327,7 +327,7 @@
             "id": "1",
             "style_block": {
                 "position": "absolute",
-                "top": "32%",
+                "top": "34%",
                 "left": "61%",
                 "width": "9%",
                 "cursor": "pointer"
@@ -361,7 +361,7 @@
             "id": "0",
             "style_block": {
                 "position": "absolute",
-                "top": "32%",
+                "top": "34%",
                 "left": "71%",
                 "width": "9%",
                 "cursor": "pointer"
@@ -395,7 +395,7 @@
             "id": "3",
             "style_block": {
                 "position": "absolute",
-                "top": "32%",
+                "top": "34%",
                 "left": "81%",
                 "width": "9%",
                 "cursor": "pointer"
@@ -531,7 +531,7 @@
             "id": "6",
             "style_block": {
                 "position": "absolute",
-                "top": "76%",
+                "top": "74%",
                 "left": "61%",
                 "width": "9%",
                 "cursor": "pointer"
@@ -565,7 +565,7 @@
             "id": "8",
             "style_block": {
                 "position": "absolute",
-                "top": "76%",
+                "top": "74%",
                 "left": "71%",
                 "width": "9%",
                 "cursor": "pointer"
@@ -599,7 +599,7 @@
             "id": "5",
             "style_block": {
                 "position": "absolute",
-                "top": "76%",
+                "top": "74%",
                 "left": "81%",
                 "width": "9%",
                 "cursor": "pointer"
