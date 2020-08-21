@@ -336,6 +336,10 @@
                 "url": "assets/puzzleblocks/Piece_2/ansBlock2.png",
                 "location": "content"
             },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_2/ansBlockHover2.png",
+                "location": "content"
+            },
             "imgsrcOriginalSize": {
                 "url": "assets/puzzleblocks/Piece_2/ansBlockOriginal2.png",
                 "location": "content"
@@ -364,6 +368,10 @@
             },
             "imgsrc": {
                 "url": "assets/puzzleblocks/Piece_1/ansBlock1.png",
+                "location": "content"
+            },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_1/ansBlockHover1.png",
                 "location": "content"
             },
             "imgsrcOriginalSize": {
@@ -396,6 +404,10 @@
                 "url": "assets/puzzleblocks/Piece_4/ansBlock4.png",
                 "location": "content"
             },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_4/ansBlockHover4.png",
+                "location": "content"
+            },
             "imgsrcOriginalSize": {
                 "url": "assets/puzzleblocks/Piece_4/ansBlockOriginal4.png",
                 "location": "content"
@@ -424,6 +436,10 @@
             },
             "imgsrc": {
                 "url": "assets/puzzleblocks/Piece_3/ansBlock3.png",
+                "location": "content"
+            },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_3/ansBlockHover3.png",
                 "location": "content"
             },
             "imgsrcOriginalSize": {
@@ -456,6 +472,10 @@
                 "url": "assets/puzzleblocks/Piece_8/ansBlock8.png",
                 "location": "content"
             },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_8/ansBlockHover8.png",
+                "location": "content"
+            },
             "imgsrcOriginalSize": {
                 "url": "assets/puzzleblocks/Piece_8/ansBlockOriginal8.png",
                 "location": "content"
@@ -484,6 +504,10 @@
             },
             "imgsrc": {
                 "url": "assets/puzzleblocks/Piece_5/ansBlock5.png",
+                "location": "content"
+            },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_5/ansBlockHover5.png",
                 "location": "content"
             },
             "imgsrcOriginalSize": {
@@ -516,6 +540,10 @@
                 "url": "assets/puzzleblocks/Piece_7/ansBlock7.png",
                 "location": "content"
             },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_7/ansBlockHover7.png",
+                "location": "content"
+            },
             "imgsrcOriginalSize": {
                 "url": "assets/puzzleblocks/Piece_7/ansBlockOriginal7.png",
                 "location": "content"
@@ -546,6 +574,10 @@
                 "url": "assets/puzzleblocks/Piece_9/ansBlock9.png",
                 "location": "content"
             },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_9/ansBlockHover9.png",
+                "location": "content"
+            },
             "imgsrcOriginalSize": {
                 "url": "assets/puzzleblocks/Piece_9/ansBlockOriginal9.png",
                 "location": "content"
@@ -574,6 +606,10 @@
             },
             "imgsrc": {
                 "url": "assets/puzzleblocks/Piece_6/ansBlock6.png",
+                "location": "content"
+            },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_6/ansBlockHover6.png",
                 "location": "content"
             },
             "imgsrcOriginalSize": {
