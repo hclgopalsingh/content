@@ -1,0 +1,54 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="690px" height="549px" viewBox="0 0 690 549">
+<defs>
+<g id="Symbol_1_2_Layer2_0_FILL">
+<path fill="#000000" fill-opacity="0.4" stroke="none" d="
+M 43.25 -26.35
+L 43.25 -32.2 -33.15 -32.2 -33.15 -26.35 -10.05 -26.35 -10.05 -3.4 -21.2 -2.95 -22 -2.3
+Q -22.3 -1.85 -22.3 -0.8 -22.3 1.15 -20.75 3.85 -16.75 10.6 -10.35 15.25 -7.35 17 -5.95 17
+L -3.95 16.45
+Q -3.1 15.75 -2.8 14.3
+L -2.8 -26.35 19.65 -26.35 19.65 41.35 27.25 41.35 27.25 -26.35 43.25 -26.35 Z"/>
+</g>
+
+<g id="Symbol_1_2_Layer1_0_FILL">
+<path fill="#000000" stroke="none" d="
+M 23.05 -28.35
+L 39.05 -28.35 39.05 -34.2 -37.35 -34.2 -37.35 -28.35 -14.25 -28.35 -14.25 -5.4 -25.4 -4.95 -26.2 -4.3
+Q -26.5 -3.85 -26.5 -2.8 -26.5 -0.85 -24.95 1.85 -20.95 8.6 -14.55 13.25 -11.55 15 -10.15 15
+L -8.15 14.45
+Q -7.3 13.75 -7 12.3
+L -7 -28.35 15.45 -28.35 15.45 39.35 23.05 39.35 23.05 -28.35 Z"/>
+</g>
+
+<path id="Blank_P3_0_Layer0_0_1_STROKES" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 106.35 7.45
+Q 90.25 34.6 66.3 58.55 -5.4 130.3 -106.35 131.55 -11.7 0.6 -17.15 -131.5 63.55 -73.95 106.35 7.45 Z"/>
+
+<path id="Symbol_1_2_Layer1_0_1_STROKES" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 23.05 -28.35
+L 23.05 39.35 15.45 39.35 15.45 -28.35 -7 -28.35 -7 12.3
+Q -7.3 13.75 -8.15 14.45
+L -10.15 15
+Q -11.55 15 -14.55 13.25 -20.95 8.6 -24.95 1.85 -26.5 -0.85 -26.5 -2.8 -26.5 -3.85 -26.2 -4.3
+L -25.4 -4.95 -14.25 -5.4 -14.25 -28.35 -37.35 -28.35 -37.35 -34.2 39.05 -34.2 39.05 -28.35 23.05 -28.35 Z"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 454.85,392.1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Blank_P3_0_Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 25.7,6.75) ">
+<g transform="matrix( 1, 0, 0, 1, 0,1) ">
+<use xlink:href="#Symbol_1_2_Layer2_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_1_2_Layer1_0_FILL"/>
+
+<use xlink:href="#Symbol_1_2_Layer1_0_1_STROKES"/>
+</g>
+</g>
+</g>
+</svg>
