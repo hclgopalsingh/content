@@ -18,7 +18,7 @@
         "imgCount": 12
     },
 
-    "optionObj": [
+ "optionObj": [
         {
             "id": "0",
             "Matched": false,
@@ -26,15 +26,15 @@
                 "position": "absolute",
                 "top": "3%",
                 "left": "6.5%",
-                "width": "14%",
+                "width": "21%",
                 "pointer-events": "none"
             },
             "imgsrc": {
-                "url": "assets/puzzleblocks/emptyBlock1.png",
+                "url": "assets/puzzleblocks/Piece_1/emptyBlock1.png",
                 "location": "content"
             },
             "imgsrc_blink": {
-                "url": "assets/puzzleblocks/emptyBlockBlink1.png",
+                "url": "assets/puzzleblocks/Piece_1/emptyBlockBlink1.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -46,7 +46,7 @@
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "assets/puzzleblocks/emptyBlock1.png",
+                "url": "assets/puzzleblocks/Piece_1/emptyBlock1.png",
                 "location": "content"
             }
         },
@@ -56,16 +56,16 @@
             "style_block": {
                 "position": "absolute",
                 "top": "3%",
-                "left": "17.3%",
-                "width": "16.8%",
+                "left": "22.8%",
+                "width": "25.3%",
                 "pointer-events": "none"
             },
             "imgsrc": {
-                "url": "assets/puzzleblocks/emptyBlock2.png",
+                "url": "assets/puzzleblocks/Piece_2/emptyBlock2.png",
                 "location": "content"
             },
             "imgsrc_blink": {
-                "url": "assets/puzzleblocks/emptyBlockBlink2.png",
+                "url": "assets/puzzleblocks/Piece_2/emptyBlockBlink2.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -77,7 +77,7 @@
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "assets/puzzleblocks/emptyBlock2.png",
+                "url": "assets/puzzleblocks/Piece_2/emptyBlock2.png",
                 "location": "content"
             }
         },
@@ -86,17 +86,17 @@
             "Matched": false,
             "style_block": {
                 "position": "absolute",
-                "top": "3%",
-                "left": "30.9%",
-                "width": "16.8%",
+                "top": "49.6%",
+                "left": "6.5%",
+                "width": "25.3%",
                 "pointer-events": "none"
             },
             "imgsrc": {
-                "url": "assets/puzzleblocks/emptyBlock3.png",
+                "url": "assets/puzzleblocks/Piece_3/emptyBlock3.png",
                 "location": "content"
             },
             "imgsrc_blink": {
-                "url": "assets/puzzleblocks/emptyBlockBlink3.png",
+                "url": "assets/puzzleblocks/Piece_3/emptyBlockBlink3.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -108,7 +108,7 @@
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "assets/puzzleblocks/emptyBlock3.png",
+                "url": "assets/puzzleblocks/Piece_3/emptyBlock3.png",
                 "location": "content"
             }
         },
@@ -117,21 +117,21 @@
             "Matched": false,
             "style_block": {
                 "position": "absolute",
-                "top": "26%",
-                "left": "6.5%",
-                "width": "14%",
+                "top": "49.6%",
+                "left": "27.1%",
+                "width": "21%",
                 "pointer-events": "none"
             },
             "imgsrc": {
-                "url": "assets/puzzleblocks/emptyBlock4.png",
+                "url": "assets/puzzleblocks/Piece_4/emptyBlock4.png",
                 "location": "content"
             },
             "imgsrc_blink": {
-                "url": "assets/puzzleblocks/emptyBlockBlink4.png",
+                "url": "assets/puzzleblocks/Piece_4/emptyBlockBlink4.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-4.ogg",
+                "url": "part-4.ogg",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -139,162 +139,7 @@
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "assets/puzzleblocks/emptyBlock4.png",
-                "location": "content"
-            }
-        },
-        {
-            "id": "4",
-            "Matched": false,
-            "style_block": {
-                "position": "absolute",
-                "top": "33.7%",
-                "left": "17.3%",
-                "width": "16.8%",
-                "pointer-events": "none"
-            },
-            "imgsrc": {
-                "url": "assets/puzzleblocks/emptyBlock5.png",
-                "location": "content"
-            },
-            "imgsrc_blink": {
-                "url": "assets/puzzleblocks/emptyBlockBlink5.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-5.ogg",
-                "location": "content"
-            },
-            "imgwrongfeedback_audio": {
-                "url": "assets/puzzleblocks/wrongFeedback.ogg",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/puzzleblocks/emptyBlock5.png",
-                "location": "content"
-            }
-        },
-        {
-            "id": "5",
-            "Matched": false,
-            "style_block": {
-                "position": "absolute",
-                "top": "33.7%",
-                "left": "30.9%",
-                "width": "16.8%",
-                "pointer-events": "none"
-            },
-            "imgsrc": {
-                "url": "assets/puzzleblocks/emptyBlock6.png",
-                "location": "content"
-            },
-            "imgsrc_blink": {
-                "url": "assets/puzzleblocks/emptyBlockBlink6.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-6.ogg",
-                "location": "content"
-            },
-            "imgwrongfeedback_audio": {
-                "url": "assets/puzzleblocks/wrongFeedback.ogg",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/puzzleblocks/emptyBlock6.png",
-                "location": "content"
-            }
-        },
-        {
-            "id": "6",
-            "Matched": false,
-            "style_block": {
-                "position": "absolute",
-                "top": "64.4%",
-                "left": "6.5%",
-                "width": "14%",
-                "pointer-events": "none"
-            },
-            "imgsrc": {
-                "url": "assets/puzzleblocks/emptyBlock7.png",
-                "location": "content"
-            },
-            "imgsrc_blink": {
-                "url": "assets/puzzleblocks/emptyBlockBlink7.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-7.ogg",
-                "location": "content"
-            },
-            "imgwrongfeedback_audio": {
-                "url": "assets/puzzleblocks/wrongFeedback.ogg",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/puzzleblocks/emptyBlock7.png",
-                "location": "content"
-            }
-        },
-        {
-            "id": "7",
-            "Matched": false,
-            "style_block": {
-                "position": "absolute",
-                "top": "55.6%",
-                "left": "17.3%",
-                "width": "16.8%",
-                "pointer-events": "none"
-            },
-            "imgsrc": {
-                "url": "assets/puzzleblocks/emptyBlock8.png",
-                "location": "content"
-            },
-            "imgsrc_blink": {
-                "url": "assets/puzzleblocks/emptyBlockBlink8.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-8.ogg",
-                "location": "content"
-            },
-            "imgwrongfeedback_audio": {
-                "url": "assets/puzzleblocks/wrongFeedback.ogg",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/puzzleblocks/emptyBlock8.png",
-                "location": "content"
-            }
-        },
-        {
-            "id": "8",
-            "Matched": false,
-            "style_block": {
-                "position": "absolute",
-                "top": "55.6%",
-                "left": "30.9%",
-                "width": "16.8%",
-                "pointer-events": "none"
-            },
-            "imgsrc": {
-                "url": "assets/puzzleblocks/emptyBlock9.png",
-                "location": "content"
-            },
-            "imgsrc_blink": {
-                "url": "assets/puzzleblocks/emptyBlockBlink9.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-9.ogg",
-                "location": "content"
-            },
-            "imgwrongfeedback_audio": {
-                "url": "assets/puzzleblocks/wrongFeedback.ogg",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/puzzleblocks/emptyBlock9.png",
+                "url": "assets/puzzleblocks/Piece_4/emptyBlock4.png",
                 "location": "content"
             }
         },
@@ -325,80 +170,24 @@
             }
         },
         {
-            "id": "1",
-            "style_block": {
-                "position": "absolute",
-                "top": "32%",
-                "left": "61%",
-                "width": "9%",
-                "cursor": "pointer"
-            },
-            "imgsrc": {
-                "url": "assets/puzzleblocks/ansBlock2.png",
-                "location": "content"
-            },
-            "imgsrcOriginalSize": {
-                "url": "assets/puzzleblocks/ansBlockOriginal2.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-2.ogg",
-                "location": "content"
-            },
-            "imgwrongfeedback_audio": {
-                "url": "assets/puzzleblocks/wrongFeedback.ogg",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/puzzleblocks/ansBlock2.png",
-                "location": "content"
-            }
-        },
-        {
-            "id": "0",
-            "style_block": {
-                "position": "absolute",
-                "top": "32%",
-                "left": "71%",
-                "width": "9%",
-                "cursor": "pointer"
-            },
-            "imgsrc": {
-                "url": "assets/puzzleblocks/ansBlock1.png",
-                "location": "content"
-            },
-            "imgsrcOriginalSize": {
-                "url": "assets/puzzleblocks/ansBlockOriginal1.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-1.ogg",
-                "location": "content"
-            },
-            "imgwrongfeedback_audio": {
-                "url": "assets/puzzleblocks/wrongFeedback.ogg",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/puzzleblocks/ansBlock1.png",
-                "location": "content"
-            }
-        },
-        {
             "id": "3",
             "style_block": {
                 "position": "absolute",
-                "top": "32%",
-                "left": "81%",
-                "width": "9%",
+                "top": "34%",
+                "left": "61%",
+                "width": "13%",
                 "cursor": "pointer"
             },
             "imgsrc": {
-                "url": "assets/puzzleblocks/ansBlock4.png",
+                "url": "assets/puzzleblocks/Piece_4/ansBlock4.png",
+                "location": "content"
+            },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_4/ansBlockHover4.png",
                 "location": "content"
             },
             "imgsrcOriginalSize": {
-                "url": "assets/puzzleblocks/ansBlockOriginal4.png",
+                "url": "assets/puzzleblocks/Piece_4/ansBlockOriginal4.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -410,7 +199,75 @@
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "assets/puzzleblocks/ansBlock4.png",
+                "url": "assets/puzzleblocks/Piece_4/ansBlock4.png",
+                "location": "content"
+            }
+        },
+        {
+            "id": "1",
+            "style_block": {
+                "position": "absolute",
+                "top": "34%",
+                "left": "76%",
+                "width": "13%",
+                "cursor": "pointer"
+            },
+            "imgsrc": {
+                "url": "assets/puzzleblocks/Piece_2/ansBlock2.png",
+                "location": "content"
+            },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_2/ansBlockHover2.png",
+                "location": "content"
+            },
+            "imgsrcOriginalSize": {
+                "url": "assets/puzzleblocks/Piece_2/ansBlockOriginal2.png",
+                "location": "content"
+            },
+            "imgrightfeedback_audio": {
+                "url": "assets/puzzleblocks/part-2.ogg",
+                "location": "content"
+            },
+            "imgwrongfeedback_audio": {
+                "url": "assets/puzzleblocks/wrongFeedback.ogg",
+                "location": "content"
+            },
+            "imgsrc_original": {
+                "url": "assets/puzzleblocks/Piece_2/ansBlock2.png",
+                "location": "content"
+            }
+        },
+        {
+            "id": "0",
+            "style_block": {
+                "position": "absolute",
+                "top": "65%",
+                "left": "61%",
+                "width": "13%",
+                "cursor": "pointer"
+            },
+            "imgsrc": {
+                "url": "assets/puzzleblocks/Piece_1/ansBlock1.png",
+                "location": "content"
+            },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_1/ansBlockHover1.png",
+                "location": "content"
+            },
+            "imgsrcOriginalSize": {
+                "url": "assets/puzzleblocks/Piece_1/ansBlockOriginal1.png",
+                "location":  "content"
+            },
+            "imgrightfeedback_audio": {
+                "url": "assets/puzzleblocks/part-1.ogg",
+                "location": "content"
+            },
+            "imgwrongfeedback_audio": {
+                "url": "assets/puzzleblocks/wrongFeedback.ogg",
+                "location": "content"
+            },
+            "imgsrc_original": {
+                "url": "assets/puzzleblocks/Piece_1/ansBlock1.png",
                 "location": "content"
             }
         },
@@ -418,17 +275,21 @@
             "id": "2",
             "style_block": {
                 "position": "absolute",
-                "top": "54%",
-                "left": "61%",
-                "width": "9%",
+                "top": "65%",
+                "left": "76%",
+                "width": "13%",
                 "cursor": "pointer"
             },
             "imgsrc": {
-                "url": "assets/puzzleblocks/ansBlock3.png",
+                "url": "assets/puzzleblocks/Piece_3/ansBlock3.png",
+                "location": "content"
+            },
+            "imgsrc_hover": {
+                "url": "assets/puzzleblocks/Piece_3/ansBlockHover3.png",
                 "location": "content"
             },
             "imgsrcOriginalSize": {
-                "url": "assets/puzzleblocks/ansBlockOriginal3.png",
+                "url": "assets/puzzleblocks/Piece_3/ansBlockOriginal3.png",
                 "location": "content"
             },
             "imgrightfeedback_audio": {
@@ -440,157 +301,7 @@
                 "location": "content"
             },
             "imgsrc_original": {
-                "url": "assets/puzzleblocks/ansBlock3.png",
-                "location": "content"
-            }
-        },
-        {
-            "id": "7",
-            "style_block": {
-                "position": "absolute",
-                "top": "54%",
-                "left": "71%",
-                "width": "9%",
-                "cursor": "pointer"
-            },
-            "imgsrc": {
-                "url": "assets/puzzleblocks/ansBlock8.png",
-                "location": "content"
-            },
-            "imgsrcOriginalSize": {
-                "url": "assets/puzzleblocks/ansBlockOriginal8.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-8.ogg",
-                "location": "content"
-            },
-            "imgwrongfeedback_audio": {
-                "url": "assets/puzzleblocks/wrongFeedback.ogg",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/puzzleblocks/ansBlock8.png",
-                "location": "content"
-            }
-        },
-        {
-            "id": "4",
-            "style_block": {
-                "position": "absolute",
-                "top": "54%",
-                "left": "81%",
-                "width": "9%",
-                "cursor": "pointer"
-            },
-            "imgsrc": {
-                "url": "assets/puzzleblocks/ansBlock5.png",
-                "location": "content"
-            },
-            "imgsrcOriginalSize": {
-                "url": "assets/puzzleblocks/ansBlockOriginal5.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-5.ogg",
-                "location": "content"
-            },
-            "imgwrongfeedback_audio": {
-                "url": "assets/puzzleblocks/wrongFeedback.ogg",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/puzzleblocks/ansBlock5.png",
-                "location": "content"
-            }
-        },
-        {
-            "id": "6",
-            "style_block": {
-                "position": "absolute",
-                "top": "76%",
-                "left": "61%",
-                "width": "9%",
-                "cursor": "pointer"
-            },
-            "imgsrc": {
-                "url": "assets/puzzleblocks/ansBlock7.png",
-                "location": "content"
-            },
-            "imgsrcOriginalSize": {
-                "url": "assets/puzzleblocks/ansBlockOriginal7.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-7.ogg",
-                "location": "content"
-            },
-            "imgwrongfeedback_audio": {
-                "url": "assets/puzzleblocks/wrongFeedback.ogg",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/puzzleblocks/ansBlock7.png",
-                "location": "content"
-            }
-        },
-        {
-            "id": "8",
-            "style_block": {
-                "position": "absolute",
-                "top": "76%",
-                "left": "71%",
-                "width": "9%",
-                "cursor": "pointer"
-            },
-            "imgsrc": {
-                "url": "assets/puzzleblocks/ansBlock9.png",
-                "location": "content"
-            },
-            "imgsrcOriginalSize": {
-                "url": "assets/puzzleblocks/ansBlockOriginal9.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-9.ogg",
-                "location": "content"
-            },
-            "imgwrongfeedback_audio": {
-                "url": "assets/puzzleblocks/wrongFeedback.ogg",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/puzzleblocks/ansBlock9.png",
-                "location": "content"
-            }
-        },
-        {
-            "id": "5",
-            "style_block": {
-                "position": "absolute",
-                "top": "76%",
-                "left": "81%",
-                "width": "9%",
-                "cursor": "pointer"
-            },
-            "imgsrc": {
-                "url": "assets/puzzleblocks/ansBlock6.png",
-                "location": "content"
-            },
-            "imgsrcOriginalSize": {
-                "url": "assets/puzzleblocks/ansBlockOriginal6.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-6.ogg",
-                "location": "content"
-            },
-            "imgwrongfeedback_audio": {
-                "url": "assets/puzzleblocks/wrongFeedback.ogg",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/puzzleblocks/ansBlock6.png",
+                "url": "assets/puzzleblocks/Piece_3/ansBlock3.png",
                 "location": "content"
             }
         }
@@ -604,7 +315,7 @@
         },
         "submitRequired": false,
         "replayRequired": false,
-        "noOfBlocks": 9
+        "noOfBlocks": 4
     },
 
 
@@ -650,7 +361,7 @@
     },
     "right_ans_popup": {
         "imgsrc": {
-            "url": "assets/puzzleImage.png",
+            "url": "assets/rightFeedbackimg.png",
             "location": "content"
         },
         "imgrightfeedback_audio": {
