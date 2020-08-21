@@ -30,19 +30,19 @@
 			"style_class": "option1"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option1.ogg",
+			"url": "assets/options/Apple.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt1_correct.ogg",
+			"url": "assets/options/Apple_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt1_show.ogg",
+			"url": "assets/options/Apple_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt1_incorrect.ogg",
+			"url": "assets/options/Apple_incorrect.ogg",
 			"location": "content"
 		},
 		"category": "A"
@@ -54,19 +54,19 @@
 			"style_class": "option2"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option2.ogg",
+			"url": "assets/options/Banana.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt2_correct.ogg",
+			"url": "assets/options/Banana_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt2_show.ogg",
+			"url": "assets/options/Banana_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt2_incorrect.ogg",
+			"url": "assets/options/Banana_incorrect.ogg",
 			"location": "content"
 		},
 		"category": "A"
@@ -78,19 +78,19 @@
 			"style_class": "option3"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option3.ogg",
+			"url": "assets/options/Tomato.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt3_correct.ogg",
+			"url": "assets/options/Tomato_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt3_show.ogg",
+			"url": "assets/options/Tomato_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt3_incorrect.ogg",
+			"url": "assets/options/Tomato_incorrect.ogg",
 			"location": "content"
 		},
 		"category": "B"
@@ -102,22 +102,22 @@
 			"style_class": "option4"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option4.ogg",
+			"url": "assets/options/Mango.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt4_correct.ogg",
+			"url": "assets/options/Mango_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt4_show.ogg",
+			"url": "assets/options/Mango_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt4_incorrect.ogg",
+			"url": "assets/options/Mango_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "B"
+		"category": "A"
 	}, {
 		"index": 4,
 		"imgsrc": {
@@ -126,22 +126,22 @@
 			"style_class": "option5"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option5.ogg",
+			"url": "assets/options/papad.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt5_correct.ogg",
+			"url": "",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt5_show.ogg",
+			"url": "",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt5_incorrect.ogg",
+			"url": "assets/options/papad_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "A"
+		"category": ""
 	}, {
 		"index": 5,
 		"imgsrc": {
@@ -150,22 +150,22 @@
 			"style_class": "option6"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option6.ogg",
+			"url": "assets/options/Grapes.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt6_correct.ogg",
+			"url": "assets/options/Grapes_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt6_show.ogg",
+			"url": "assets/options/Grapes_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt6_incorrect.ogg",
+			"url": "assets/options/Grapes_incorrect.ogg",
 			"location": "content"
 		},
-		"category": ""
+		"category": "A"
 	}, {
 		"index": 6,
 		"imgsrc": {
@@ -174,22 +174,22 @@
 			"style_class": "option7"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option7.ogg",
+			"url": "assets/options/genda.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt7_correct.ogg",
+			"url": "",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt7_show.ogg",
+			"url": "",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt7_incorrect.ogg",
+			"url": "assets/options/genda_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "A"
+		"category": ""
 	}, {
 		"index": 7,
 		"imgsrc": {
@@ -198,22 +198,22 @@
 			"style_class": "option8"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option8.ogg",
+			"url": "assets/options/Peas.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt8_correct.ogg",
+			"url": "assets/options/Peas_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt8_show.ogg",
+			"url": "assets/options/Peas_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt8_incorrect.ogg",
+			"url": "assets/options/Peas_incorrect.ogg",
 			"location": "content"
 		},
-		"category": ""
+		"category": "B"
 	}, {
 		"index": 8,
 		"imgsrc": {
@@ -222,22 +222,22 @@
 			"style_class": "option9"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option9.ogg",
+			"url": "assets/options/Potato.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt9_correct.ogg",
+			"url": "assets/options/Potato_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt9_show.ogg",
+			"url": "assets/options/Potato_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt9_incorrect.ogg",
+			"url": "assets/options/Potato_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "A"
+		"category": "B"
 	}, {
 		"index": 9,
 		"imgsrc": {
@@ -246,22 +246,22 @@
 			"style_class": "option10"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option10.ogg",
+			"url": "assets/options/chilli.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt10_correct.ogg",
+			"url": "",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt10_show.ogg",
+			"url": "",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt10_incorrect.ogg",
+			"url": "assets/options/chilli_incorrect.ogg",
 			"location": "content"
 		},
-		"category": "A"
+		"category": ""
 	}, {
 		"index": 10,
 		"imgsrc": {
@@ -270,22 +270,22 @@
 			"style_class": "option11"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/option11.ogg",
+			"url": "assets/options/Brinjal.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/opt11_correct.ogg",
+			"url": "assets/options/Brinjal_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/opt11_show.ogg",
+			"url": "assets/options/Brinjal_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/opt11_incorrect.ogg",
+			"url": "assets/options/Brinjal_incorrect.ogg",
 			"location": "content"
 		},
-		"category": ""
+		"category": "B"
 	}],
 
 	"option_holder": {
@@ -301,7 +301,7 @@
 			"url": "assets/question/left_holder.png",
 			"location": "content"
 		},
-		"left_random_index": [0, 1, 4, 6, 8, 9],
+		"left_random_index": [0, 1, 3, 5],
 
 		"rightHolder": {
 			"url": "assets/question/right_holder.png",
@@ -315,7 +315,7 @@
 			"url": "assets/question/right_holder.png",
 			"location": "content"
 		},
-		"right_random_index": [2, 3]
+		"right_random_index": [2, 7, 8, 10]
 	},
 
 	"quesObj": {
@@ -621,12 +621,51 @@
 
 	"category_1": {
 		"style_header": {
+			"border": "solid .4vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#519843"
+		  },
+		  "style_body": {
+			"border": "solid .4vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		  },
+		  "right_style_header": {
+			"border": "solid .4vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#519843"
+		  },
+		  "right_style_body": {
+			"border": "solid .4vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		  },
+		  "wrong_style_header": {
+			"border": "solid .4vmin #b5282e",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#e2373d"
+		  },
+		  "wrong_style_body": {
+			"border": "solid .4vmin #b5282e",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
+		  },
+		  "partial_style_header": {
 			"border": "solid .4vmin #057499",
 			"border-top-left-radius": "20px",
 			"border-top-right-radius": "20px",
 			"background": "#129fc1"
 		  },
-		  "style_body": {
+		  "partial_style_body": {
 			"border": "solid .4vmin #057499",
 			"border-bottom-left-radius": "20px",
 			"border-bottom-right-radius": "20px",
@@ -650,11 +689,11 @@
 			"location": "theme"
 		},
 		"rightAttempt_placeholder": {
-			"url": "assets/popups/feedback/category1_right_placeholder.png",
+			"url": "assets/popups/feedback/category_right_placeholder.png",
 			"location": "content"
 		},
 		"wrongAttempt_placeHolder": {
-			"url": "assets/popups/feedback/category1_wrong_placeholder.png",
+			"url": "assets/popups/feedback/category_wrong_placeholder.png",
 			"location": "content"
 		},
 		"feedback_back_btn": {
@@ -684,12 +723,51 @@
 	},
 	"category_2": {
 		"style_header": {
+			"border": "solid .4vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#519843"
+		  },
+		  "style_body": {
+			"border": "solid .4vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		  },
+		  "right_style_header": {
+			"border": "solid .4vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#519843"
+		  },
+		  "right_style_body": {
+			"border": "solid .4vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		  },
+		  "wrong_style_header": {
+			"border": "solid .4vmin #b5282e",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#e2373d"
+		  },
+		  "wrong_style_body": {
+			"border": "solid .4vmin #b5282e",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
+		  },
+		  "partial_style_header": {
 			"border": "solid .4vmin #057499",
 			"border-top-left-radius": "20px",
 			"border-top-right-radius": "20px",
 			"background": "#129fc1"
 		  },
-		  "style_body": {
+		  "partial_style_body": {
 			"border": "solid .4vmin #057499",
 			"border-bottom-left-radius": "20px",
 			"border-bottom-right-radius": "20px",
@@ -713,11 +791,11 @@
 			"location": "theme"
 		},
 		"rightAttempt_placeholder": {
-			"url": "assets/popups/feedback/category2_right_placeholder.png",
+			"url": "assets/popups/feedback/category_right_placeholder.png",
 			"location": "content"
 		},
 		"wrongAttempt_placeHolder": {
-			"url": "assets/popups/feedback/category2_wrong_placeholder.png",
+			"url": "assets/popups/feedback/category_wrong_placeholder.png",
 			"location": "content"
 		},
 		"feedback_back_btn": {
@@ -747,17 +825,17 @@
 	},
 	"showans_2": {
 		"style_header": {
-			"border": "solid .4vmin #057499",
+			"border": "solid .4vmin #3C7132",
 			"border-top-left-radius": "20px",
 			"border-top-right-radius": "20px",
-			"background": "#129fc1"
+			"background": "#519843"
 		  },
 		  "style_body": {
-			"border": "solid .4vmin #057499",
+			"border": "solid .4vmin #3C7132",
 			"border-bottom-left-radius": "20px",
 			"border-bottom-right-radius": "20px",
 			"border-top": "none",
-			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
 		  },
 		"headerTxt_img": {
 			"url": "assets/popups/feedback/category2.png",
@@ -776,11 +854,11 @@
 			"location": "theme"
 		},
 		"rightAttempt_placeholder": {
-			"url": "assets/popups/feedback/category2_right_placeholder.png",
+			"url": "assets/popups/feedback/category_right_placeholder.png",
 			"location": "content"
 		},
 		"wrongAttempt_placeHolder": {
-			"url": "assets/popups/feedback/category2_wrong_placeholder.png",
+			"url": "assets/popups/feedback/category_wrong_placeholder.png",
 			"location": "content"
 		},
 		"feedback_back_btn": {
@@ -810,17 +888,17 @@
 	},
 	"showans_1": {
 		"style_header": {
-			"border": "solid .4vmin #057499",
+			"border": "solid .4vmin #3C7132",
 			"border-top-left-radius": "20px",
 			"border-top-right-radius": "20px",
-			"background": "#129fc1"
+			"background": "#519843"
 		  },
 		  "style_body": {
-			"border": "solid .4vmin #057499",
+			"border": "solid .4vmin #3C7132",
 			"border-bottom-left-radius": "20px",
 			"border-bottom-right-radius": "20px",
 			"border-top": "none",
-			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
 		  },
 		"headerTxt_img": {
 			"url": "assets/popups/feedback/category1.png",
@@ -839,11 +917,11 @@
 			"location": "theme"
 		},
 		"rightAttempt_placeholder": {
-			"url": "assets/popups/feedback/category1_right_placeholder.png",
+			"url": "assets/popups/feedback/category_right_placeholder.png",
 			"location": "content"
 		},
 		"wrongAttempt_placeHolder": {
-			"url": "assets/popups/feedback/category1_wrong_placeholder.png",
+			"url": "assets/popups/feedback/category_wrong_placeholder.png",
 			"location": "content"
 		},
 		"feedback_back_btn": {

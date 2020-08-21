@@ -650,11 +650,11 @@
 			"location": "theme"
 		},
 		"rightAttempt_placeholder": {
-			"url": "assets/popups/feedback/category1_right_placeholder.png",
+			"url": "assets/popups/feedback/category_right_placeholder.png",
 			"location": "content"
 		},
 		"wrongAttempt_placeHolder": {
-			"url": "assets/popups/feedback/category1_wrong_placeholder.png",
+			"url": "assets/popups/feedback/category_wrong_placeholder.png",
 			"location": "content"
 		},
 		"feedback_back_btn": {
@@ -713,11 +713,11 @@
 			"location": "theme"
 		},
 		"rightAttempt_placeholder": {
-			"url": "assets/popups/feedback/category2_right_placeholder.png",
+			"url": "assets/popups/feedback/category_right_placeholder.png",
 			"location": "content"
 		},
 		"wrongAttempt_placeHolder": {
-			"url": "assets/popups/feedback/category2_wrong_placeholder.png",
+			"url": "assets/popups/feedback/category_wrong_placeholder.png",
 			"location": "content"
 		},
 		"feedback_back_btn": {
@@ -776,11 +776,11 @@
 			"location": "theme"
 		},
 		"rightAttempt_placeholder": {
-			"url": "assets/popups/feedback/category2_right_placeholder.png",
+			"url": "assets/popups/feedback/category_right_placeholder.png",
 			"location": "content"
 		},
 		"wrongAttempt_placeHolder": {
-			"url": "assets/popups/feedback/category2_wrong_placeholder.png",
+			"url": "assets/popups/feedback/category_wrong_placeholder.png",
 			"location": "content"
 		},
 		"feedback_back_btn": {
@@ -839,11 +839,11 @@
 			"location": "theme"
 		},
 		"rightAttempt_placeholder": {
-			"url": "assets/popups/feedback/category1_right_placeholder.png",
+			"url": "assets/popups/feedback/category_right_placeholder.png",
 			"location": "content"
 		},
 		"wrongAttempt_placeHolder": {
-			"url": "assets/popups/feedback/category1_wrong_placeholder.png",
+			"url": "assets/popups/feedback/category_wrong_placeholder.png",
 			"location": "content"
 		},
 		"feedback_back_btn": {
