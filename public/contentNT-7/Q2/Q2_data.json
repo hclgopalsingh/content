@@ -3,17 +3,33 @@
     "theme_name": "theme1",
 	"commonassets": {
 		"instruction_img": {
-			"url": "instruction_bar.png",
-			"location": "content"
-		},
+            "url": "assets/instructionBar.png",
+            "location": "content"
+        },
 		"instruction_vo": {
 			"url": "ques_vo.ogg",
 			"location": "content"
 		},
+		"qus_base": {
+            "url": "options/qus_base.png",
+            "location": "theme"
+        },
 		"background": {
-			"url": "bg_2.svg",
+            "urlglobal": "global/tabs/bg/bg_2.svg",
+            "location": "theme"
+        },  
+        "rightfeedbackVo": {
+            "url": "rightFeedback.ogg",
+            "location": "content"
+        },
+        "wrongfeedbackVo": {
+			"url": "wrongFeedback.ogg",
 			"location": "content"
 		},
+		"showansSound": {
+            "url":"showAnsSound.ogg",
+            "location": "content"
+        },
 		 
 		"isFirstQues": false,
 		"imgCount": 9
@@ -28,37 +44,57 @@
 			"url": "assets/images/letters/english/small/m.png",
 			"location": "assets",
 			"audio":{
-				"url":"m.ogg",
+				"url":"assets/options/m.ogg",
 				"location":"content"
+			},
+			"baseImg":{
+				"url": "options/option_base1.png",
+            	"location": "theme"
 			}
 		}, {
 			"url": "assets/images/letters/english/small/d.png",
 			"location": "assets",
 			"audio":{
-				"url":"d.ogg",
+				"url":"assets/options/d.ogg",
 				"location":"content"
+			},
+			"baseImg":{
+				"url": "options/option_base2.png",
+            	"location": "theme"
 			}
 		}, {
 			"url": "assets/images/letters/english/small/l.png",
 			"location": "assets",
 			"audio":{
-				"url":"l.ogg",
+				"url":"assets/options/l.ogg",
 				"location":"content"
+			},
+			"baseImg":{
+				"url": "options/option_base3.png",
+            	"location": "theme"
 			},
 			"isCorrect": true
 		}, {
 			"url": "assets/images/letters/english/small/k.png",
 			"location": "assets",
 			"audio":{
-				"url":"k.ogg",
+				"url":"assets/options/k.ogg",
 				"location":"content"
+			},
+			"baseImg":{
+				"url": "options/option_base4.png",
+            	"location": "theme"
 			}
 		}, {
 			"url": "assets/images/letters/english/small/s.png",
 			"location": "assets",
 			"audio":{
-				"url":"s.ogg",
+				"url":"assets/options/s.ogg",
 				"location":"content"
+			},
+			"baseImg":{
+				"url": "options/option_base5.png",
+            	"location": "theme"
 			}
 		}]
 	},
@@ -69,12 +105,14 @@
 			"location": "content",
 			"autoPlay": true
 		},
+		"submitRequired":false,
+    	"replayRequired":false,
 		"questionBg": {
 			"url": "questionBg.png",
 			"location": "content"
 		},
 		"speaker": {
-			"url": "speaker.png",
+			"url": "assets/options/speaker.png",
 			"location": "content"
 		},
 		"questionVo": {
@@ -354,7 +392,285 @@
 	},
 
 
-	"feedback": {
-
-	}
+	 "feedback": {
+        "correct_ans_array": [ "L25", "L49", "M1", "L56", "L74" ],
+        "correct_option_number": 2,
+        "correct_matra_number": 2,
+        "style_header": {
+          "border": "solid .4vmin #3C7132",
+          "border-top-left-radius": "20px",
+          "border-top-right-radius": "20px",
+          "background": "#519843"
+        },
+        "style_body": {
+          "border": "solid .4vmin #3C7132",
+          "border-bottom-left-radius": "20px",
+          "border-bottom-right-radius": "20px",
+          "border-top": "0px",
+          "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+        },
+        "wrong_style_header": {
+          "border": "solid .4vmin #b5282e",
+          "border-top-left-radius": "20px",
+          "border-top-right-radius": "20px",
+          "background": "#e2373d"
+        },
+        "wrong_style_body": {
+          "border": "solid .4vmin #b5282e",
+          "border-bottom-left-radius": "20px",
+          "border-bottom-right-radius": "20px",
+          "border-top": "none",
+          "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
+        },
+        "partial_style_header": {
+          "border": "solid .4vmin #057499",
+          "border-top-left-radius": "20px",
+          "border-top-right-radius": "20px",
+          "background": "#129fc1"
+        },
+        "partial_style_body": {
+          "border": "solid .4vmin #057499",
+          "border-bottom-left-radius": "20px",
+          "border-bottom-right-radius": "20px",
+          "border-top": "none",
+          "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+        },
+        "partial_right_style_header": {
+          "border": "solid .2vmin #3C7132",
+          "border-top-left-radius": "20px",
+          "border-top-right-radius": "20px",
+          "border-bottom": "none",
+          "background": "#519843"
+        },
+        "partial_right_style_body": {
+          "border": "solid .2vmin #3C7132",
+          "border-bottom-left-radius": "20px",
+          "border-bottom-right-radius": "20px",
+          "border-top": "none",
+          "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+        },
+        "partial_wrong_style_header": {
+          "border": "solid .2vmin #b5282e",
+          "border-top-left-radius": "20px",
+          "border-top-right-radius": "20px",
+          "border-bottom": "none",
+          "background": "#e2373d"
+        },
+        "partial_wrong_style_body": {
+          "border": "solid .2vmin #b5282e",
+          "border-bottom-left-radius": "20px",
+          "border-bottom-right-radius": "20px",
+          "border-top": "none",
+          "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
+        },
+        "headerTxt_img": {
+          "url": "assets/popups/partial_feedback/PopupHeaderTitle.png",
+          "location": "content"
+        },
+        "rightAnswerheaderTxt_img": {
+          "url": "assets/popups/right_feedback/PopupHeaderTitle1.png",
+          "location": "content"
+        },
+        "wrongAnswerheaderTxt_img": {
+          "url": "assets/popups/wrong_feedback/PopupHeaderTitle2.png",
+          "location": "content"
+        },
+        "showAnswerheaderTxt_img": {
+          "url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
+          "location": "content"
+        },
+        "popup_instruction_bg": {
+          "url": "instructionBase.svg",
+          "location": "content"
+        },
+        "popup_instruction_img": {
+          "url": "instructionText.svg",
+          "location": "content"
+        },
+        "popup_commmon_imgs": {
+          "bg_img": {
+            "url": "",
+            "location": "content"
+          },
+          "close_btn": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "close_btn_hover": {
+            "urlglobal": "global/popups/closeBtnHover.png",
+            "location": "theme"
+          },
+          "close_btn_original": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "option_base": {
+            "url": "optBase.png",
+            "location": "content"
+          },
+          "correctimg": {
+            "urlglobal": "global/popups/correct.png",
+            "location": "theme"
+          },
+          "incorrectimg": {
+            "urlglobal": "global/popups/incorrect.png",
+            "location": "theme"
+          }
+        },
+        "right_ans_popup":  
+          {
+            "id": "003",
+            "imgsrc": { 
+              "url": "assets/options/opt3.png",
+              "location": "content"
+            },
+            "imgsrc_hover": {
+              "url": "",
+              "location": "content"
+            },
+            "imgsrc_txt": {
+              "url": "",
+              "location": "content"
+            },
+            "imgsrc_audio": {
+              "url": "",
+              "location": "content"
+            },
+            "imgrightfeedback_audio": {
+              "url": "assets/options/Show_ans.ogg",
+              "location": "content"
+            },
+            "imgwrongfeedback_audio": {
+              "url": "",
+              "location": "content"
+            },
+            "imgsrc_original": {
+              "url": "assets/options/opt4.png",
+              "location": "content"
+            }
+          } ,
+     
+        "confirm_popup": {
+          "style_header": {
+            "border": "solid .4vmin #057499",
+            "border-top-left-radius": "20px",
+            "border-top-right-radius": "20px",
+            "background": "#129fc1"
+          },
+          "style_body": {
+            "border": "solid .4vmin #057499",
+            "border-bottom-left-radius": "20px",
+            "border-bottom-right-radius": "20px",
+            "border-top": "none",
+            "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+          },
+          "headerTxt_img": {
+            "url": "assets/popups/show_answer_confirmation/PopupHeaderTitle3.png",
+            "location": "content"
+          },
+          "bg_img": {
+            "url": "",
+            "location": "content"
+          },
+          "close_btn": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "close_btn_hover": {
+            "urlglobal": "global/popups/closeBtnHover.png",
+            "location": "theme"
+          },
+          "close_btn_original": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "confirm_text": {
+            "url": "assets/popups/show_answer_confirmation/confirmation_popup_text.png",
+            "location": "content"
+          },
+          "confirm_btn": {
+            "urlglobal": "global/popups/yes_btn.png",
+            "location": "theme"
+          },
+          "confirm_btn_hover": {
+            "urlglobal": "global/popups/yes_btn_Hover.png",
+            "location": "theme"
+          },
+          "confirm_btn_original": {
+            "urlglobal": "global/popups/yes_btn.png",
+            "location": "theme"
+          },
+          "decline_btn": {
+            "urlglobal": "global/popups/no_btn.png",
+            "location": "theme"
+          },
+          "decline_btn_hover": {
+            "urlglobal": "global/popups/no_btn_Hover.png",
+            "location": "theme"
+          },
+          "decline_btn_original": {
+            "urlglobal": "global/popups/no_btn.png",
+            "location": "theme"
+          }
+        },
+        "replay_confirm": {
+          "style_header": {
+            "border": "solid .4vmin #057499",
+            "border-top-left-radius": "20px",
+            "border-top-right-radius": "20px",
+            "background": "#129fc1"
+          },
+          "style_body": {
+            "border": "solid .4vmin #057499",
+            "border-bottom-left-radius": "20px",
+            "border-bottom-right-radius": "20px",
+            "border-top": "none",
+            "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+          },
+          "headerTxt_img": {
+            "url": "assets/popups/video_replay_confirmation/header_confirm_text.png",
+            "location": "content"
+          },     
+          "close_btn": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "close_btn_hover": {
+            "urlglobal": "global/popups/closeBtnHover.png",
+            "location": "theme"
+          },
+          "close_btn_original": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "confirm_text": {
+            "url": "assets/popups/video_replay_confirmation/replay_popup_text.png",
+            "location": "content"
+          },
+          "confirm_btn": {
+            "urlglobal": "global/popups/yes_btn.png",
+            "location": "theme"
+          },
+          "confirm_btn_hover": {
+            "urlglobal": "global/popups/yes_btn_Hover.png",
+            "location": "theme"
+          },
+          "confirm_btn_original": {
+            "urlglobal": "global/popups/yes_btn.png",
+            "location": "theme"
+          },
+          "decline_btn": {
+            "urlglobal": "global/popups/no_btn.png",
+            "location": "theme"
+          },
+          "decline_btn_hover": {
+            "urlglobal": "global/popups/no_btn_Hover.png",
+            "location": "theme"
+          },
+          "decline_btn_original": {
+            "urlglobal": "global/popups/no_btn.png",
+            "location": "theme"
+          }
+        }
+    }
 }
