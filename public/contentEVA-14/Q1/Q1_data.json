@@ -2699,14 +2699,14 @@
 		  "date":"22"
 		},
 		"multi_date":true,
-		"multi_day":false,
-		"multi_month":false,
-		"multi_year":false,
-		"disableyear":true,
+		"multi_day":true,
+		"multi_month":true,
+		"multi_year":true,
+		"disableyear":false,
 		"disablemonth":false,
-		"disableweekDay":true,
+		"disableweekDay":false,
 		"disableDate":false,
-		"yearSelected":true,
+		"yearSelected":false,
 		"monthSelected":false,
 		"dateSelected":false, 
 		"weekdaySelected":false,
@@ -2729,8 +2729,8 @@
 		
 		"right_date":[5,12,19,26],
 		"right_month":["July"],
-		"right_weekDay" : [], 
-		"right_year":[],
+		"right_weekDay" : ["Monday","Tuesday"], 
+		"right_year":["2018","2019"],
 		"popupassets": {
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",
