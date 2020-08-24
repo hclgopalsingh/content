@@ -36,10 +36,6 @@
                 "url": "assets/puzzleblocks/Piece_1/emptyBlockBlink1.png",
                 "location": "content"
             },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-1.ogg",
-                "location": "content"
-            },
             "imgwrongfeedback_audio": {
                 "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
@@ -65,10 +61,6 @@
             },
             "imgsrc_blink": {
                 "url": "assets/puzzleblocks/Piece_2/emptyBlockBlink2.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-2.ogg",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -98,10 +90,6 @@
                 "url": "assets/puzzleblocks/Piece_3/emptyBlockBlink3.png",
                 "location": "content"
             },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-3.ogg",
-                "location": "content"
-            },
             "imgwrongfeedback_audio": {
                 "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
@@ -127,10 +115,6 @@
             },
             "imgsrc_blink": {
                 "url": "assets/puzzleblocks/Piece_4/emptyBlockBlink4.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-4.ogg",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -160,10 +144,6 @@
                 "url": "assets/puzzleblocks/Piece_5/emptyBlockBlink5.png",
                 "location": "content"
             },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-5.ogg",
-                "location": "content"
-            },
             "imgwrongfeedback_audio": {
                 "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
@@ -189,10 +169,6 @@
             },
             "imgsrc_blink": {
                 "url": "assets/puzzleblocks/Piece_6/emptyBlockBlink6.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-6.ogg",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -222,10 +198,6 @@
                 "url": "assets/puzzleblocks/Piece_7/emptyBlockBlink7.png",
                 "location": "content"
             },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-7.ogg",
-                "location": "content"
-            },
             "imgwrongfeedback_audio": {
                 "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
@@ -253,10 +225,6 @@
                 "url": "assets/puzzleblocks/Piece_8/emptyBlockBlink8.png",
                 "location": "content"
             },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-8.ogg",
-                "location": "content"
-            },
             "imgwrongfeedback_audio": {
                 "url": "assets/puzzleblocks/wrongFeedback.ogg",
                 "location": "content"
@@ -282,10 +250,6 @@
             },
             "imgsrc_blink": {
                 "url": "assets/puzzleblocks/Piece_9/emptyBlockBlink9.png",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-9.ogg",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -345,7 +309,7 @@
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-2.ogg",
+                "url": "",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -379,7 +343,7 @@
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-1.ogg",
+                "url": "",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -413,7 +377,7 @@
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-4.ogg",
+                "url": "",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -447,7 +411,7 @@
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-3.ogg",
+                "url": "",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -481,7 +445,7 @@
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-8.ogg",
+                "url": "",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -515,7 +479,7 @@
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-5.ogg",
+                "url": "",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -549,7 +513,7 @@
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-7.ogg",
+                "url": "",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -583,7 +547,7 @@
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-9.ogg",
+                "url": "",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
@@ -617,7 +581,7 @@
                 "location": "content"
             },
             "imgrightfeedback_audio": {
-                "url": "assets/puzzleblocks/part-6.ogg",
+                "url": "",
                 "location": "content"
             },
             "imgwrongfeedback_audio": {
