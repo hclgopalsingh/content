@@ -246,7 +246,7 @@
 			"style_class": "option10"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/chilli.ogg",
+			"url": "assets/options/Rose.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
@@ -258,7 +258,7 @@
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/chilli_incorrect.ogg",
+			"url": "assets/options/Rose_incorrect.ogg",
 			"location": "content"
 		},
 		"category": ""
