@@ -74,15 +74,15 @@
               },
               {
                 "Lid": "L49",
-                "style": { "left": "2" }
+                "style": { "left": "1.4" }
               },
               {
                 "Lid": "L56",
-                "style": { "left": "1" }
+                "style": { "left": "0.5" }
               },
               {
                 "Lid": "L74",
-                "style": { "left": "2" }
+                "style": { "left": "1.5" }
               }
             ]
         },
@@ -107,19 +107,19 @@
             "letterConfig": [
               {
                 "Lid": "L25",
-                "style": { "left": "0" }
+                "style": { "left": "-3" }
               },
               {
                 "Lid": "L49",
-                "style": { "left": "4" }
+                "style": { "left": "-3" }
               },
               {
                 "Lid": "L56",
-                "style": { "left": "4" }
+                "style": { "left": "-3" }
               },
               {
                 "Lid": "L74",
-                "style": { "left": "4" }
+                "style": { "left": "-3" }
               }
             ]
         },
@@ -144,19 +144,19 @@
             "letterConfig": [
               {
                 "Lid": "L25",
-                "style": { "left": "0" }
+                "style": { "left": "-2" }
               },
               {
                 "Lid": "L49",
-                "style": { "left": "-1.8" }
+                "style": { "left": "-2" }
               },
               {
                 "Lid": "L56",
-                "style": { "left": "4" }
+                "style": { "left": "-2" }
               },
               {
                 "Lid": "L74",
-                "style": { "left": "4" }
+                "style": { "left": "-2" }
               }
             ]
         },
@@ -185,15 +185,15 @@
               },
               {
                 "Lid": "L49",
-                "style": { "left": "4" }
+                "style": { "left": "3.1" }
               },
               {
                 "Lid": "L56",
-                "style": { "left": "4" }
+                "style": { "left": "2.2" }
               },
               {
                 "Lid": "L74",
-                "style": { "left": "4" }
+                "style": { "left": "3.2" }
               }
             ]
         },
