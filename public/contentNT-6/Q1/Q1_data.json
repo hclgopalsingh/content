@@ -292,7 +292,7 @@
             "urlOgv": "assets/video.ogv",
             "urlMP4": "assets/video.mp4",
             "location": "content",
-            "autoPlay": false
+            "autoPlay": true
         },
     "submitRequired":false,
     "replayRequired":true,
