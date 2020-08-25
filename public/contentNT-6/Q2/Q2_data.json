@@ -146,9 +146,20 @@
     ],
 
     "refQuesObj": {
-            "LetterConfig": [
-            ],
-        "quesIdConfig": [ "L49", "M1"]
+      "quesID": [
+        {
+          "Lid": "L49",
+          "url": "",
+          "location": "assets"
+        },
+        {
+          "Lid": "M1",
+          "url": "",
+          "location": "assets"
+        } 
+         
+      ]
+      
       },
     "optionInitPosObj": [
         {
