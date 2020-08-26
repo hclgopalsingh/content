@@ -218,19 +218,19 @@
             "letterConfig": [
               {
                 "Lid": "L25",
-                "style": { "left": "0" }
+                "style": { "left": "-1.2" }
               },
               {
                 "Lid": "L49",
-                "style": { "left": "-1" }
+                "style": { "left": "-1.2" }
               },
               {
                 "Lid": "L56",
-                "style": { "left": "4" }
+                "style": { "left": "-1.2" }
               },
               {
                 "Lid": "L74",
-                "style": { "left": "-1" }
+                "style": { "left": "-1.2" }
               }
             ]
         }
