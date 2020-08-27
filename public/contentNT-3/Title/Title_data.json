@@ -17,7 +17,7 @@
 	},
 	"background": {
 		"url": "titleBg.png",
-		"location": "content"
+		"location": "theme"
 	},
 	"krikalapText": {
 		"url": "kriyakalaap.png",

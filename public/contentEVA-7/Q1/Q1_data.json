@@ -296,8 +296,8 @@
 					"location": "content"
 				},
 				"audio": {
-					"url": "",
-					"location": ""
+					"url": "ka.ogg",
+					"location": "content"
 				}
             },
             {
@@ -340,8 +340,8 @@
 					"location": "content"
 				},
 				"audio": {
-					"url": "",
-					"location": ""
+					"url": "la.ogg",
+					"location": "content"
 				}
             },
             {
@@ -384,7 +384,7 @@
 					"location": "content"
 				},
 				"audio": {
-					"url": "",
+					"url": "clap.ogg",
 					"location": "content"
 				}
             }
@@ -662,6 +662,13 @@
             "enabled": true,
             "path": {
                 "url": "wrongFeedback.ogg",
+                "location": "content"
+            }
+		},
+		"repeat_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "repeatSound.ogg",
                 "location": "content"
             }
         }
