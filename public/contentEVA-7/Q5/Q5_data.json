@@ -664,6 +664,13 @@
                 "url": "wrongFeedback.ogg",
                 "location": "content"
             }
+		},
+		"repeat_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "repeatSound.ogg",
+                "location": "content"
+            }
         }
 }
 }

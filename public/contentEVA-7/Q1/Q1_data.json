@@ -296,7 +296,7 @@
 					"location": "content"
 				},
 				"audio": {
-					"url": "ka.ogg",
+					"url": "",
 					"location": "content"
 				}
             },
@@ -340,8 +340,8 @@
 					"location": "content"
 				},
 				"audio": {
-					"url": "la.ogg",
-					"location": "content"
+					"url": "",
+					"location": ""
 				}
             },
             {
@@ -384,8 +384,8 @@
 					"location": "content"
 				},
 				"audio": {
-					"url": "clap.ogg",
-					"location": "content"
+					"url": "",
+					"location": ""
 				}
             }
 		],
