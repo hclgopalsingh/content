@@ -66,7 +66,25 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio1.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L25",
+                "style": { "left": "0" }
+              },
+              {
+                "Lid": "L49",
+                "style": { "left": "1.4" }
+              },
+              {
+                "Lid": "L56",
+                "style": { "left": "0.5" }
+              },
+              {
+                "Lid": "L74",
+                "style": { "left": "1.5" }
+              }
+            ]
         },
         {
             "optionID": "M8",
@@ -85,7 +103,25 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio2.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L25",
+                "style": { "left": "-3" }
+              },
+              {
+                "Lid": "L49",
+                "style": { "left": "-3" }
+              },
+              {
+                "Lid": "L56",
+                "style": { "left": "-3" }
+              },
+              {
+                "Lid": "L74",
+                "style": { "left": "-3" }
+              }
+            ]
         },
         {
             "optionID": "M1",
@@ -104,7 +140,25 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio3.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L25",
+                "style": { "left": "-2" }
+              },
+              {
+                "Lid": "L49",
+                "style": { "left": "-2" }
+              },
+              {
+                "Lid": "L56",
+                "style": { "left": "-2" }
+              },
+              {
+                "Lid": "L74",
+                "style": { "left": "-2" }
+              }
+            ]
         },
         {
             "optionID": "M3",
@@ -123,7 +177,25 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio4.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L25",
+                "style": { "left": "0" }
+              },
+              {
+                "Lid": "L49",
+                "style": { "left": "3.1" }
+              },
+              {
+                "Lid": "L56",
+                "style": { "left": "2.2" }
+              },
+              {
+                "Lid": "L74",
+                "style": { "left": "3.2" }
+              }
+            ]
         },
         {
             "optionID": "M6",
@@ -142,15 +214,51 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio5.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L25",
+                "style": { "left": "-1.2" }
+              },
+              {
+                "Lid": "L49",
+                "style": { "left": "-1.2" }
+              },
+              {
+                "Lid": "L56",
+                "style": { "left": "-1.2" }
+              },
+              {
+                "Lid": "L74",
+                "style": { "left": "-1.2" }
+              }
+            ]
         }
     ],
 
     "refQuesObj": {
-            "LetterConfig": [
-            ],
-      "quesIdConfig": [ "L25", "L49", "L56", "L74" ]
-
+      "quesIdConfig": [ "L25", "L49", "L56", "L74" ],
+      "quesID": [
+        {
+          "Lid": "L25",
+          "url": "assets/options/ee.png",
+          "location": "content"
+        },
+        {
+          "Lid": "L49",
+          "url": "assets/options/ma.png",
+          "location": "content"
+        },
+        {
+          "Lid": "L56",
+          "location": "assets"
+        },
+        {
+          "Lid": "L74",
+          "url": "assets/options/tta.png",
+          "location": "content"
+        }
+      ]
     },
     "optionInitPosObj": [
         {
