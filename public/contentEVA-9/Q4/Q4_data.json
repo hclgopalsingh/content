@@ -1,7 +1,7 @@
 {
     "id": "Q004",
     "imgCount": "14",
-    "instructiontext": "नीचे दिए प्रश्न को हल करे।",
+    "instructiontext": "अक्षरों और गिनतियों के सही मिलान से चित्र पूरा करें।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -198,10 +198,15 @@
         },
         "sound": ""
     },
+    "svgInfo":{
+		"url": "Object.svg",
+		"location": "content",
+		"hoverColor":"#e6e8fa"
+     },
     "options": {
-        "keypad": {
-            "background": {
-                "url": "../commonassets/keybase.png",
+        "pencil": {
+            "image": {
+                "url": "../commonassets/Pencil_5_Option.png",
                 "location": "content"
             }
         },
@@ -209,17 +214,30 @@
             {
                 "id": "1",
                 "image": {
-                    "url": "../commonassets/key1.png",
+                    "url": "option1.png",
                     "location": "content"
                 },
-                "image_hover": {
-                    "url": "../commonassets/key1_hover.png",
+                "image_disabled": {
+                    "url": "option1_disabled.png",
                     "location": "content"
                 },
-                "image_original": {
-                    "url": "../commonassets/key1.png",
+                "image_bg": {
+                    "url": "../commonassets/opt_bg1.png",
                     "location": "content"
                 },
+                "image_bg_disabled": {
+                    "url": "../commonassets/opt_bg1_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/opt_bg1_hover.png",
+                    "location": "content"
+                },
+                "image_bg_original": {
+                    "url": "../commonassets/opt_bg1.png",
+                    "location": "content"
+                },
+                "image_bg_color": "#B4BF26",
                 "audio": {
                     "url": "",
                     "location": "content"
@@ -228,17 +246,30 @@
             {
                 "id": "2",
                 "image": {
-                    "url": "../commonassets/key2.png",
+                    "url": "option2.png",
                     "location": "content"
                 },
-                "image_hover": {
-                    "url": "../commonassets/key2_hover.png",
+                "image_disabled": {
+                    "url": "option2_disabled.png",
                     "location": "content"
                 },
-                "image_original": {
-                    "url": "../commonassets/key2.png",
+                "image_bg": {
+                    "url": "../commonassets/opt_bg2.png",
                     "location": "content"
                 },
+                "image_bg_original": {
+                    "url": "../commonassets/opt_bg2.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/opt_bg2_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/opt_bg2_hover.png",
+                    "location": "content"
+                },
+                "image_bg_color": "#F7B427",
                 "audio": {
                     "url": "",
                     "location": "content"
@@ -247,17 +278,30 @@
             {
                 "id": "3",
                 "image": {
-                    "url": "../commonassets/key3.png",
+                    "url": "option3.png",
                     "location": "content"
                 },
-                "image_hover": {
-                    "url": "../commonassets/key3_hover.png",
+                "image_disabled": {
+                    "url": "option3_disabled.png",
                     "location": "content"
                 },
-                "image_original": {
-                    "url": "../commonassets/key3.png",
+                "image_bg": {
+                    "url": "../commonassets/opt_bg3.png",
                     "location": "content"
                 },
+                "image_bg_original": {
+                    "url": "../commonassets/opt_bg3.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/opt_bg3_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/opt_bg3_hover.png",
+                    "location": "content"
+                },
+                "image_bg_color": "#D5B9FF",
                 "audio": {
                     "url": "",
                     "location": "content"
@@ -266,17 +310,30 @@
             {
                 "id": "4",
                 "image": {
-                    "url": "../commonassets/key4.png",
+                    "url": "option4.png",
                     "location": "content"
                 },
-                "image_hover": {
-                    "url": "../commonassets/key4_hover.png",
+                "image_disabled": {
+                    "url": "option4_disabled.png",
                     "location": "content"
                 },
-                "image_original": {
-                    "url": "../commonassets/key4.png",
+                "image_bg": {
+                    "url": "../commonassets/opt_bg4.png",
                     "location": "content"
                 },
+                "image_bg_original": {
+                    "url": "../commonassets/opt_bg4.png",
+                    "location": "content"
+                },
+                "image_bg_disabled": {
+                    "url": "../commonassets/opt_bg4_disabled.png",
+                    "location": "content"
+                },
+                "image_bg_hover": {
+                    "url": "../commonassets/opt_bg4_hover.png",
+                    "location": "content"
+                },
+                "image_bg_color": "#F48E96",
                 "audio": {
                     "url": "",
                     "location": "content"
@@ -285,112 +342,30 @@
             {
                 "id": "5",
                 "image": {
-                    "url": "../commonassets/key5.png",
+                    "url": "option5.png",
                     "location": "content"
                 },
-                "image_hover": {
-                    "url": "../commonassets/key5_hover.png",
+                "image_disabled": {
+                    "url": "option5_disabled.png",
                     "location": "content"
                 },
-                "image_original": {
-                    "url": "../commonassets/key5.png",
+                "image_bg_original": {
+                    "url": "../commonassets/opt_bg5.png",
                     "location": "content"
                 },
-                "audio": {
-                    "url": "",
-                    "location": "content"
-                }
-            },
-            {
-                "id": "6",
-                "image": {
-                    "url": "../commonassets/key6.png",
+                "image_bg": {
+                    "url": "../commonassets/opt_bg5.png",
                     "location": "content"
                 },
-                "image_hover": {
-                    "url": "../commonassets/key6_hover.png",
+                "image_bg_disabled": {
+                    "url": "../commonassets/opt_bg5_disabled.png",
                     "location": "content"
                 },
-                "image_original": {
-                    "url": "../commonassets/key6.png",
+                "image_bg_hover": {
+                    "url": "../commonassets/opt_bg5_hover.png",
                     "location": "content"
                 },
-                "audio": {
-                    "url": "",
-                    "location": "content"
-                }
-            },
-            {
-                "id": "7",
-                "image": {
-                    "url": "../commonassets/key7.png",
-                    "location": "content"
-                },
-                "image_hover": {
-                    "url": "../commonassets/key7_hover.png",
-                    "location": "content"
-                },
-                "image_original": {
-                    "url": "../commonassets/key7.png",
-                    "location": "content"
-                },
-                "audio": {
-                    "url": "",
-                    "location": "content"
-                }
-            },
-            {
-                "id": "8",
-                "image": {
-                    "url": "../commonassets/key8.png",
-                    "location": "content"
-                },
-                "image_hover": {
-                    "url": "../commonassets/key8_hover.png",
-                    "location": "content"
-                },
-                "image_original": {
-                    "url": "../commonassets/key8.png",
-                    "location": "content"
-                },
-                "audio": {
-                    "url": "",
-                    "location": "content"
-                }
-            },
-            {
-                "id": "9",
-                "image": {
-                    "url": "../commonassets/key9.png",
-                    "location": "content"
-                },
-                "image_hover": {
-                    "url": "../commonassets/key9_hover.png",
-                    "location": "content"
-                },
-                "image_original": {
-                    "url": "../commonassets/key9.png",
-                    "location": "content"
-                },
-                "audio": {
-                    "url": "",
-                    "location": "content"
-                }
-            },
-            {
-                "id": "0",
-                "image": {
-                    "url": "../commonassets/key0.png",
-                    "location": "content"
-                },
-                "image_hover": {
-                    "url": "../commonassets/key0_hover.png",
-                    "location": "content"
-                },
-                "image_original": {
-                    "url": "../commonassets/key0.png",
-                    "location": "content"
-                },
+                "image_bg_color": "#3AAFC1",
                 "audio": {
                     "url": "",
                     "location": "content"
@@ -409,118 +384,36 @@
                 "url": "../commonassets/tablet.png",
                 "location": "content"
             },
-            "quesType": "divide",
             "questionText": [
                 {
-                    "rowid": "1",
-                    "rowType": "quotient",
-                    "divide_image": {
-                        "url": "../commonassets/divide.png",
-                        "location": "content"
-                    },
-                    "rowValues": [
-                        {
-                            "id": "1",
-                            "value": "",
-                            "operator": false,
-                            "url": "assets/images/numbers/pink_cropped/00002.png",
-                            "location": "assets",
-                            "highlight": true,
-                            "correctValue": "2",
-                            "blinkIndex":"0"
-                        }
-                    ]
+                    "id":"#Q2_Blank_P1_0_Layer0_0_1_STROKES",
+                    "symbolFillId":"#Symbol_1_6_Layer1_0_FILL",
+                    "symbol2FillId":"#Symbol_1_6_Layer2_0_FILL",
+                    "symbolStrokeId":"#Symbol_1_6_Layer1_0_1_STROKES",
+                    "correctAnsId": "2"
                 },
                 {
-                    "rowid": "2",
-                    "rowValues": [
-                        {
-                            "id": "1",
-                            "value": "1",
-                            "url": "assets/images/numbers/cropped/00001.png",
-                            "location": "assets"
-                        },
-                        {
-                            "id": "2",
-                            "value": "0",
-                            "url": "assets/images/numbers/cropped/00000.png",
-                            "location": "assets"
-                        },
-                        {
-                            "id": "3",
-                            "url": "../commonassets/divide.png",
-                            "location": "content",
-                            "operator": true,
-                            "isDivideImage": true
-                        },
-                        {
-                            "id": "1",
-                            "value": "2",
-                            "isTensDigit": true,
-                            "url": "assets/images/numbers/cropped/00002.png",
-                            "location": "assets"
-                        },
-                        {
-                            "id": "2",
-                            "value": "0",
-                            "url": "assets/images/numbers/cropped/00000.png",
-                            "location": "assets"
-                        }
-                    ]
+                    "id":"#Q2_Blank_P2_0_Layer0_0_1_STROKES",
+                    "symbolFillId":"#Symbol_1_7_Layer1_0_FILL",
+                    "symbol2FillId":"#Symbol_1_7_Layer2_0_FILL",
+                    "symbolStrokeId":"#Symbol_1_7_Layer1_0_1_STROKES",
+                    "correctAnsId": "1"
                 },
                 {
-                    "rowid": "3",
-                    "rowValues": [
-                        {
-                            "id": "1",
-                            "url": "../commonassets/minus.png",
-                            "location": "content",
-                            "operator": true
-                        },
-                        {
-                            "id": "2",
-                            "value": "2",
-                            "isTensDigit": true,
-                            "url": "assets/images/numbers/cropped/00002.png",
-                            "location": "assets"
-                        },
-                        {
-                            "id": "3",
-                            "value": "",
-                            "operator": false,
-                            "url": "assets/images/numbers/pink_cropped/00000.png",
-                            "location": "assets",
-                            "highlight": true,
-                            "correctValue": "0",
-                            "blinkIndex":"1"
-                        }
-                    ],
-                    "bottomLine": true
+                    "id":"#Q2_Blank_P9_0_Layer0_0_1_STROKES",
+                    "symbolFillId":"#Symbol_1_8_Layer1_0_FILL",
+                    "symbol2FillId":"#Symbol_1_8_Layer2_0_FILL",
+                    "symbolStrokeId":"#Symbol_1_8_Layer1_0_1_STROKES",
+                    "correctAnsId": "4"
                 },
                 {
-                    "rowid": "4",
-                    "rowValues": [
-                        {
-                            "id": "1",
-                            "value": "",
-                            "operator": false,
-                            "url": "assets/images/numbers/pink_cropped/00000.png",
-                            "location": "assets",
-                            "highlight": true,
-                            "correctValue": "0",
-                            "isTensDigit": true,
-                            "blinkIndex":"2"
-                        },
-                        {
-                            "id": "2",
-                            "value": "0",
-                            "isTensDigit": true,
-                            "url": "assets/images/numbers/cropped/00000.png",
-                            "location": "assets"
-                        }
-                    ],
-                    "bottomLine": true
+                    "id":"#Q2_Blank_P4_0_Layer0_0_1_STROKES",
+                    "symbolFillId":"#Symbol_1_9_Layer1_0_FILL",
+                    "symbol2FillId":"#Symbol_1_9_Layer2_0_FILL",
+                    "symbolStrokeId":"#Symbol_1_9_Layer1_0_1_STROKES",
+                    "correctAnsId": "3"
                 }
+
             ]
         }
     },
@@ -583,7 +476,7 @@
         "right_ans_sound": {
             "enabled": true,
             "path": {
-                "url": "rightFeedback.ogg",
+                "url": "../commonassets/rightFeedback.ogg",
                 "location": "content"
             }
         },
@@ -594,21 +487,14 @@
         "wrong_ans_sound": {
             "enabled": true,
             "path": {
-                "url": "wrongFeedback.ogg",
+                "url": "../commonassets/wrongFeedback.ogg",
                 "location": "content"
             }
         },
         "all_correct_sound": {
             "enabled": true,
             "path": {
-                "url": "rightFeedbackFinal.ogg",
-                "location": "content"
-            }
-        },
-        "show_ans_sound": {
-            "enabled": true,
-            "path": {
-                "url": "showanswerFeedback.ogg",
+                "url": "../commonassets/rightFeedbackFinal.ogg",
                 "location": "content"
             }
         }
