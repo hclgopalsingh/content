@@ -13,9 +13,9 @@
 			"url": "ques_vo.ogg",
 			"location": "content"
 		},
-		"background": {
-			"url": "bg_1.svg",
-			"location": "content"
+        "background": {
+			"urlglobal": "global/tabs/bg/bg_1.svg",
+			"location": "theme"
 		},
 		"keyboard": {
 			"New": true
@@ -3049,15 +3049,15 @@
 			"location": "content"
 		},
 		"quesSkip": {
-			"urlOgv": "SkipButton.svg",
+			"url": "SkipButton.svg",
 			"location": "content"
 		},
 		"quesSkipOrigenal": {
-			"urlOgv": "SkipButton.svg",
+			"url": "SkipButton.svg",
 			"location": "content"
 		},
 		"quesSkipHover": {
-			"urlOgv": "SkipButtonHover.svg",
+			"url": "SkipButtonHover.svg",
 			"location": "content"
 		},
 		"bgColor": {
@@ -3081,6 +3081,9 @@
 			"location": ""
 		},
 		"quesType": "video",
+		"submitRequired": true,
+        "replayRequired": false,
+		"timegap":2000,
 		"isNewQues": true,
 		"lang": "hindi"
 	},
