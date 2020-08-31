@@ -305,7 +305,9 @@
   },
   "feedback": {
     "correct_ans_index": [
-      "003"
+      "003",
+      "004",
+      "005"
     ],
     "style_header": {
       "border": "solid .4vmin #3C7132",
