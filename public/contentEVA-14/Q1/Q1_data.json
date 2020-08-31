@@ -214,97 +214,25 @@
 				"url":"assets/images/EVAGlobal/footerBg.svg",
 				"location":"assets"
 			 },
-			"quesTabs": [
-                {
-                    "ques_tab": {
-                        "id": "001",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabIdx": {
-                            "url": "tab1Idx.svg",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "002",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "003",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "004",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "005",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
-                }
-            ],
+			 "quesTabs": {
+				"quesID": 0,
+				"tabCircleDisabled": {
+					"url": "assets/images/EVAGlobal/quesBulletDisabled.png",
+					"location": "assets"
+				},
+				"tabCircleActive": {
+					"url": "assets/images/EVAGlobal/quesBulletActive.png",
+					"location": "assets"
+				},
+				"tabCircleVisited": {
+					"url": "assets/images/EVAGlobal/quesBulletVisited.png",
+					"location": "assets"
+				},
+				"tabCircleUnVisited": {
+					"url": "assets/images/EVAGlobal/quesBullet.png",
+					"location": "assets"
+				}
+			},
 
 			"nav_base": {
 				"url": "navBase.svg",
@@ -2691,22 +2619,22 @@
 			"location": "content",
 			"autoPlay": true
 		},
-		"localMachineDate":false,
+		"localMachineDate":true,
 		"smart_calendar": false,
 		"givenDate": {
 		  "year":"2020",
-		  "month":"August",
+		  "month":"",
 		  "date":"22"
 		},
 		"multi_date":true,
-		"multi_day":true,
-		"multi_month":true,
-		"multi_year":true,
-		"disableyear":false,
+		"multi_day":false,
+		"multi_month":false,
+		"multi_year":false,
+		"disableyear":true,
 		"disablemonth":false,
-		"disableweekDay":false,
+		"disableweekDay":true,
 		"disableDate":false,
-		"yearSelected":false,
+		"yearSelected":true,
 		"monthSelected":false,
 		"dateSelected":false, 
 		"weekdaySelected":false,
@@ -2729,8 +2657,8 @@
 		
 		"right_date":[5,12,19,26],
 		"right_month":["July"],
-		"right_weekDay" : ["Monday","Tuesday"], 
-		"right_year":["2018","2019"],
+		"right_weekDay" : [], 
+		"right_year":[],
 		"popupassets": {
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",
