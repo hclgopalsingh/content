@@ -42,6 +42,18 @@
             "url": "assets/sounds/shake.ogg",
             "location": "assets"
         },
+        "ok_btn": {
+            "urlglobal": "global/popups/ok_btn_normal.png",
+            "location": "theme"
+          },
+          "ok_btn_hover": {
+            "urlglobal": "global/popups/ok_btn_Hover.png",
+            "location": "theme"
+          },
+          "ok_btn_original": {
+            "urlglobal": "global/popups/ok_btn_normal.png",
+            "location": "theme"
+          },
         "isFirstQues": true,
         "imgCount": 7
   },
