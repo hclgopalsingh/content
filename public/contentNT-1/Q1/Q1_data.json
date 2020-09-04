@@ -296,19 +296,23 @@
     },
     "rightAnswerpopupTxt": {
       "url":"assets/popups/right_feedback/rightAnswerpopupTxt.png",
-      "location":"content"
+      "location":"content",
+      "required":true
     },
     "wrongAnswerpopupTxt": {
       "url":"assets/popups/wrong_feedback/wronganspopupTxt.png",
-      "location":"content"
+      "location":"content",
+      "required":true
     },
     "showAnswerpopupTxt": {
       "url":"assets/popups/show_answer/rightAnswerpopupTxt.png",
-      "location":"content"
+      "location":"content",
+      "required":true
     },
     "partialIncorrAnswerpopupTxt": {
       "url":"assets/popups/partial_feedback/partialincorrectpopupTxt.png",
-      "location":"content"
+      "location":"content",
+      "required":true
     },
     "popup_instruction_img": {
       "url": "instructionText.svg",
