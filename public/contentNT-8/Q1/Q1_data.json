@@ -3,16 +3,30 @@
   	"theme_name": "theme1",
 	"commonassets": {
 		"instruction_img": {
-			"url": "instruction_bar.png",
+			"url": "assets/instructionBar.png",
 			"location": "content"
 		},
 		"instruction_vo": {
-			"url": "ques_vo.ogg",
+			"url": "assets/ques_vo.ogg",
 			"location": "content"
 		},
 		"background": {
 			"urlglobal": "global/tabs/bg/bg_1.svg",
 			"location": "theme"
+		},
+		"ques_control": {
+			"replay_btn": {
+				"url": "video_btn.png",
+				"location": "content"
+			},
+			"replay_btn_hover": {
+				"url": "video_stream_btn.png",
+				"location": "content"
+			},
+			"replay_btn_original": {
+				"url": "video_btn.png",
+				"location": "content"
+			}
 		},		
 		"isFirstQues": true,
 		"imgCount": 2
@@ -21,69 +35,69 @@
 	"teams": {
 		"common_assets": {
 			"teamBg": {
-				"url": "team_base.png",
+				"url": "assets/board/team_base.png",
 				"location": "content"
 			}
 		},
 		"teamUp": {
 			"isStillActive": true,
 			"teamName": {
-				"url": "team_A.png",
+				"url": "assets/board/team_A.png",
 				"location": "content"
 			},
 			"options": [{
 					"index": "01",
 					"opt_normal": {
-						"url": "top_opt1.png",
+						"url": "assets/options/top_opt1.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "top_opt1_hover.png",
+						"url": "assets/options/top_opt1_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "top_opt1.png",
+						"url": "assets/options/top_opt1.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "option1.ogg",
+						"url": "assets/options/option1.ogg",
 						"location": "content"
 					}
 				},
 				{
 					"index": "02",
 					"opt_normal": {
-						"url": "top_opt2.png",
+						"url": "assets/options/top_opt2.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "top_opt2_hover.png",
+						"url": "assets/options/top_opt2_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "top_opt2.png",
+						"url": "assets/options/top_opt2.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "option2.ogg",
+						"url": "assets/options/option2.ogg",
 						"location": "content"
 					}
 				}, {
 					"index": "03",
 					"opt_normal": {
-						"url": "top_opt3.png",
+						"url": "assets/options/top_opt3.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "top_opt3_hover.png",
+						"url": "assets/options/top_opt3_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "top_opt3.png",
+						"url": "assets/options/top_opt3.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "option3.ogg",
+						"url": "assets/options/option3.ogg",
 						"location": "content"
 					}
 				}
@@ -93,62 +107,62 @@
 		"teamDown": {
 			"isStillActive": true,
 			"teamName": {
-				"url": "team_B.png",
+				"url": "assets/board/team_B.png",
 				"location": "content"
 			},
 			"options": [{
 					"index": "01",
 					"opt_normal": {
-						"url": "bottom_opt1.png",
+						"url": "assets/options/bottom_opt1.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "bottom_opt1_hover.png",
+						"url": "assets/options/bottom_opt1_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "bottom_opt1.png",
+						"url": "assets/options/bottom_opt1.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "option4.ogg",
+						"url": "assets/options/option4.ogg",
 						"location": "content"
 					}
 				},
 				{
 					"index": "02",
 					"opt_normal": {
-						"url": "bottom_opt2.png",
+						"url": "assets/options/bottom_opt2.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "bottom_opt2_hover.png",
+						"url": "assets/options/bottom_opt2_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "bottom_opt2.png",
+						"url": "assets/options/bottom_opt2.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "option5.ogg",
+						"url": "assets/options/option5.ogg",
 						"location": "content"
 					}
 				}, {
 					"index": "03",
 					"opt_normal": {
-						"url": "bottom_opt3.png",
+						"url": "assets/options/bottom_opt3.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "bottom_opt3_hover.png",
+						"url": "assets/options/bottom_opt3_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "bottom_opt3.png",
+						"url": "assets/options/bottom_opt3.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "option6.ogg",
+						"url": "assets/options/option6.ogg",
 						"location": "content"
 					}
 				}
@@ -157,63 +171,63 @@
 		"teamLeft": {
 			"isStillActive": true,
 			"teamName": {
-				"url": "team_C.png",
+				"url": "assets/board/team_C.png",
 				"location": "content"
 			},
 			"options": [{
 					"index": "01",
 					"opt_normal": {
-						"url": "left_opt1.png",
+						"url": "assets/options/left_opt1.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "left_opt1_hover.png",
+						"url": "assets/options/left_opt1_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "left_opt1.png",
+						"url": "assets/options/left_opt1.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "option7.ogg",
+						"url": "assets/options/option7.ogg",
 						"location": "content"
 					}
 				},
 				{
 					"index": "02",
 					"opt_normal": {
-						"url": "left_opt2.png",
+						"url": "assets/options/left_opt2.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "left_opt2_hover.png",
+						"url": "assets/options/left_opt2_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "left_opt2.png",
+						"url": "assets/options/left_opt2.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "option8.ogg",
+						"url": "assets/options/option8.ogg",
 						"location": "content"
 					}
 
 				}, {
 					"index": "03",
 					"opt_normal": {
-						"url": "left_opt3.png",
+						"url": "assets/options/left_opt3.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "left_opt3_hover.png",
+						"url": "assets/options/left_opt3_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "left_opt3.png",
+						"url": "assets/options/left_opt3.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "option9.ogg",
+						"url": "assets/options/option9.ogg",
 						"location": "content"
 					}
 				}
@@ -222,62 +236,62 @@
 		"teamRight": {
 			"isStillActive": true,
 			"teamName": {
-				"url": "team_D.png",
+				"url": "assets/board/team_D.png",
 				"location": "content"
 			},
 			"options": [{
 					"index": "01",
 					"opt_normal": {
-						"url": "right_opt1.png",
+						"url": "assets/options/right_opt1.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "right_opt1_hover.png",
+						"url": "assets/options/right_opt1_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "right_opt1.png",
+						"url": "assets/options/right_opt1.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "option10.ogg",
+						"url": "assets/options/option10.ogg",
 						"location": "content"
 					}
 				},
 				{
 					"index": "02",
 					"opt_normal": {
-						"url": "right_opt2.png",
+						"url": "assets/options/right_opt2.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "right_opt2_hover.png",
+						"url": "assets/options/right_opt2_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "right_opt2.png",
+						"url": "assets/options/right_opt2.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "option11.ogg",
+						"url": "assets/options/option11.ogg",
 						"location": "content"
 					}
 				}, {
 					"index": "03",
 					"opt_normal": {
-						"url": "right_opt3.png",
+						"url": "assets/options/right_opt3.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "right_opt3_hover.png",
+						"url": "assets/options/right_opt3_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "right_opt3.png",
+						"url": "assets/options/right_opt3.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "option12.ogg",
+						"url": "assets/options/option12.ogg",
 						"location": "content"
 					}
 				}
@@ -287,55 +301,55 @@
 	"live_score": {
 		"3_ques": [{
 				"live_no": {
-					"url": "3_yellow_1.png",
+					"url": "assets/board/3_yellow_1.png",
 					"location": "content"
 				},
 				"grey": {
-					"url": "3_grey_1.png",
+					"url": "assets/board/3_grey_1.png",
 					"location": "content"
 				},
 				"green": {
-					"url": "3_green_1.png",
+					"url": "assets/board/3_green_1.png",
 					"location": "content"
 				},
 				"red": {
-					"url": "3_red_1.png",
+					"url": "assets/board/3_red_1.png",
 					"location": "content"
 				}
 			},
 			{
 				"live_no": {
-					"url": "3_yellow_2.png",
+					"url": "assets/board/3_yellow_2.png",
 					"location": "content"
 				},
 				"grey": {
-					"url": "3_grey_2.png",
+					"url": "assets/board/3_grey_2.png",
 					"location": "content"
 				},
 				"green": {
-					"url": "3_green_2.png",
+					"url": "assets/board/3_green_2.png",
 					"location": "content"
 				},
 				"red": {
-					"url": "3_red_2.png",
+					"url": "assets/board/3_red_2.png",
 					"location": "content"
 				}
 			},
 			{
 				"live_no": {
-					"url": "3_yellow_3.png",
+					"url": "assets/board/3_yellow_3.png",
 					"location": "content"
 				},
 				"grey": {
-					"url": "3_grey_3.png",
+					"url": "assets/board/3_grey_3.png",
 					"location": "content"
 				},
 				"green": {
-					"url": "3_green_3.png",
+					"url": "assets/board/3_green_3.png",
 					"location": "content"
 				},
 				"red": {
-					"url": "3_red_3.png",
+					"url": "assets/board/3_red_3.png",
 					"location": "content"
 				}
 			}
@@ -343,73 +357,73 @@
 
 		"4_ques": [{
 				"live_no": {
-					"url": "4_yellow_1.png",
+					"url": "assets/board/4_yellow_1.png",
 					"location": "content"
 				},
 				"grey": {
-					"url": "4_grey_1.png",
+					"url": "assets/board/4_grey_1.png",
 					"location": "content"
 				},
 				"green": {
-					"url": "4_green_1.png",
+					"url": "assets/board/4_green_1.png",
 					"location": "content"
 				},
 				"red": {
-					"url": "4_red_1.png",
+					"url": "assets/board/4_red_1.png",
 					"location": "content"
 				}
 			},
 			{
 				"live_no": {
-					"url": "4_yellow_2.png",
+					"url": "assets/board/4_yellow_2.png",
 					"location": "content"
 				},
 				"grey": {
-					"url": "4_grey_2.png",
+					"url": "assets/board/4_grey_2.png",
 					"location": "content"
 				},
 				"green": {
-					"url": "4_green_2.png",
+					"url": "assets/board/4_green_2.png",
 					"location": "content"
 				},
 				"red": {
-					"url": "4_red_2.png",
+					"url": "assets/board/4_red_2.png",
 					"location": "content"
 				}
 			},
 			{
 				"live_no": {
-					"url": "4_yellow_3.png",
+					"url": "assets/board/4_yellow_3.png",
 					"location": "content"
 				},
 				"grey": {
-					"url": "4_grey_3.png",
+					"url": "assets/board/4_grey_3.png",
 					"location": "content"
 				},
 				"green": {
-					"url": "4_green_3.png",
+					"url": "assets/board/4_green_3.png",
 					"location": "content"
 				},
 				"red": {
-					"url": "4_red_3.png",
+					"url": "assets/board/4_red_3.png",
 					"location": "content"
 				}
 			},
 			{
 				"live_no": {
-					"url": "4_yellow_4.png",
+					"url": "assets/board/4_yellow_4.png",
 					"location": "content"
 				},
 				"grey": {
-					"url": "4_grey_4.png",
+					"url": "assets/board/4_grey_4.png",
 					"location": "content"
 				},
 				"green": {
-					"url": "4_green_4.png",
+					"url": "assets/board/4_green_4.png",
 					"location": "content"
 				},
 				"red": {
-					"url": "4_red_4.png",
+					"url": "assets/board/4_red_4.png",
 					"location": "content"
 				}
 			}
@@ -417,91 +431,91 @@
 
 		"5_ques": [{
 				"live_no": {
-					"url": "5_yellow_1.png",
+					"url": "assets/board/5_yellow_1.png",
 					"location": "content"
 				},
 				"grey": {
-					"url": "5_grey_1.png",
+					"url": "assets/board/5_grey_1.png",
 					"location": "content"
 				},
 				"green": {
-					"url": "5_green_1.png",
+					"url": "assets/board/5_green_1.png",
 					"location": "content"
 				},
 				"red": {
-					"url": "5_red_1.png",
+					"url": "assets/board/5_red_1.png",
 					"location": "content"
 				}
 			},
 			{
 				"live_no": {
-					"url": "5_yellow_2.png",
+					"url": "assets/board/5_yellow_2.png",
 					"location": "content"
 				},
 				"grey": {
-					"url": "5_grey_2.png",
+					"url": "assets/board/5_grey_2.png",
 					"location": "content"
 				},
 				"green": {
-					"url": "5_green_2.png",
+					"url": "assets/board/5_green_2.png",
 					"location": "content"
 				},
 				"red": {
-					"url": "5_red_2.png",
+					"url": "assets/board/5_red_2.png",
 					"location": "content"
 				}
 			},
 			{
 				"live_no": {
-					"url": "5_yellow_3.png",
+					"url": "assets/board/5_yellow_3.png",
 					"location": "content"
 				},
 				"grey": {
-					"url": "5_grey_3.png",
+					"url": "assets/board/5_grey_3.png",
 					"location": "content"
 				},
 				"green": {
-					"url": "5_green_3.png",
+					"url": "assets/board/5_green_3.png",
 					"location": "content"
 				},
 				"red": {
-					"url": "5_red_3.png",
+					"url": "assets/board/5_red_3.png",
 					"location": "content"
 				}
 			},
 			{
 				"live_no": {
-					"url": "5_yellow_4.png",
+					"url": "assets/board/5_yellow_4.png",
 					"location": "content"
 				},
 				"grey": {
-					"url": "5_grey_4.png",
+					"url": "assets/board/5_grey_4.png",
 					"location": "content"
 				},
 				"green": {
-					"url": "5_green_4.png",
+					"url": "assets/board/5_green_4.png",
 					"location": "content"
 				},
 				"red": {
-					"url": "5_red_4.png",
+					"url": "assets/board/5_red_4.png",
 					"location": "content"
 				}
 			},
 			{
 				"live_no": {
-					"url": "5_yellow_5.png",
+					"url": "assets/board/5_yellow_5.png",
 					"location": "content"
 				},
 				"grey": {
-					"url": "5_grey_5.png",
+					"url": "assets/board/5_grey_5.png",
 					"location": "content"
 				},
 				"green": {
-					"url": "5_green_5.png",
+					"url": "assets/board/5_green_5.png",
 					"location": "content"
 				},
 				"red": {
-					"url": "5_red_5.png",
+					"url": "assets/board/5_red_5.png",
 					"location": "content"
 				}
 			}
@@ -517,11 +531,11 @@
 		},
 		"quesImg": {
 			"imgsrc": {
-				"url": "scaned.png",
+				"url": "assets/question/scaned.png",
 				"location": "content"
 			},
 			"quesAudio": {
-				"url": "quesVO.ogg",
+				"url": "assets/ques_vo.ogg",
 				"location": "content"
 			}
 		},
@@ -536,23 +550,23 @@
 
 	"otherAssets": {
 		"console_bg": {
-			"url": "consoleBase.png",
+			"url": "assets/board/consoleBase.png",
 			"location": "content"
 		},
 		"pass_btn": {
-			"url": "pass_btn.png",
+			"url": "assets/board/pass_btn.png",
 			"location": "content"
 		},
 		"pass_btn_hover": {
-			"url": "pass_btn_hover.png",
+			"url": "assets/board/pass_btn_hover.png",
 			"location": "content"
 		},
 		"pass_btn_original": {
-			"url": "pass_btn.png",
+			"url": "assets/board/pass_btn.png",
 			"location": "content"
 		},
 		"pass_btn_red": {
-			"url": "pass_btn_red.png",
+			"url": "assets/board/pass_btn_red.png",
 			"location": "content"
 		},
 		"video_stop":{
@@ -571,19 +585,19 @@
 
 	"popupAssets": {
 		"teams": [{
-			"url": "A_team.png",
+			"url": "assets/board/A_team.png",
 			"location": "content",
 			"teamName":"teamUp"
 		}, {
-			"url": "B_team.png",
+			"url": "assets/board/B_team.png",
 			"location": "content",
 			"teamName":"teamDown"
 		}, {
-			"url": "C_team.png",
+			"url": "assets/board/C_team.png",
 			"location": "content",
 			"teamName":"teamLeft"
 		}, {
-			"url": "D_team.png",
+			"url": "assets/board/D_team.png",
 			"location": "content",
 			"teamName":"teamRight"
 		}],
@@ -616,7 +630,7 @@
 			"location": "content"
 		},
 		"pass_icon": {
-			"url": "pass_icon.png",
+			"url": "assets/board/pass_icon.png",
 			"location": "content"
 		},
 		"not_attempted": {
@@ -629,16 +643,16 @@
 			"background": "#2B3B52"
 		},
 		"close_btn": {
-			"url": "closeBtnScoreBoard.png",
-			"location": "content"
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
 		},
 		"close_btn_hover": {
-			"url": "closeBtnScoreBoardHover.png",
-			"location": "content"
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
 		},
 		"close_btn_original": {
-			"url": "closeBtnScoreBoard.png",
-			"location": "content"
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
 		},
 		"correct_imgs": [{
 			"url": "no_correct.png",
@@ -663,16 +677,17 @@
 
 	"submit_confirm": {
 		"style_header": {
-			"border": "solid .4vmin #85d222",
+			"border": "solid .4vmin #057499",
 			"border-top-left-radius": "20px",
 			"border-top-right-radius": "20px",
-			"background": "#248446"
+			"background": "#129fc1"
 		},
 		"style_body": {
-			"border": "solid .4vmin #85d222",
+			"border": "solid .4vmin #057499",
 			"border-bottom-left-radius": "20px",
 			"border-bottom-right-radius": "20px",
-			"background": "#afdec0"
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
 		},
 		"headerTxt_img": {
 			"url": "header_confirm_text.png",
@@ -725,16 +740,17 @@
 	},
 	"replay_confirm": {
 		"style_header": {
-			"border": "solid .4vmin #85d222",
+			"border": "solid .4vmin #057499",
 			"border-top-left-radius": "20px",
 			"border-top-right-radius": "20px",
-			"background": "#248446"
+			"background": "#129fc1"
 		},
 		"style_body": {
-			"border": "solid .4vmin #85d222",
+			"border": "solid .4vmin #057499",
 			"border-bottom-left-radius": "20px",
 			"border-bottom-right-radius": "20px",
-			"background": "#afdec0"
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
 		},
 		"headerTxt_img": {
 			"url": "header_confirm_text.png",
@@ -825,16 +841,16 @@
 			"location": "content"
 		},
 		"close_btn": {
-			"url": "close_btn_feedback.png",
-			"location": "content"
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
 		},
 		"close_btn_hover": {
-			"url": "close_btn_feedback_hover.png",
-			"location": "content"
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
 		},
 		"close_btn_original": {
-			"url": "close_btn_feedback.png",
-			"location": "content"
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
 		},
 		"feedback_base":{
 			"url": "feedback_popup_base.png",
