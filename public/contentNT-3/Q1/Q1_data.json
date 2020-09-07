@@ -140,8 +140,8 @@
             "location": "content"
           },
           "imgwrongfeedback_audio": {
-            "url": "",
-            "location": ""
+            "url": "assets/options/wrongFeedbackAudio1.ogg",
+            "location": "content"
           },
           "imgsrc_original": {
             "url": "assets/options/opt4.png",
@@ -175,8 +175,8 @@
             "location": "content"
           },
           "imgwrongfeedback_audio": {
-            "url": "",
-            "location": ""
+            "url": "assets/options/wrongFeedbackAudio1.ogg",
+            "location": "content"
           },
           "imgsrc_original": {
             "url": "assets/options/opt5.png",
