@@ -252,7 +252,7 @@
                     "location": "content"
 				},
 				"audio": {
-					"url": "",
+					"url": "ka.ogg",
 					"location": "content"
 				}
             },
@@ -276,8 +276,8 @@
                     "location": "content"
 				},
 				"audio": {
-					"url": "",
-					"location": ""
+					"url": "la.ogg",
+					"location": "content"
 				}
             },
             {
@@ -300,8 +300,8 @@
                     "location": "content"
 				},
 				"audio": {
-					"url": "",
-					"location": ""
+					"url": "ma.ogg",
+					"location": "content"
 				}
             }
 		],
