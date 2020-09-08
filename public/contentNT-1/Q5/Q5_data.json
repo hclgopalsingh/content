@@ -343,19 +343,27 @@
       "url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
       "location": "content"
     },
-    "popup_instruction_bg": {
-      "url": "instructionBase.svg",
-      "location": "content"
+    "rightAnswerpopupTxt": {
+      "url":"assets/popups/right_feedback/rightAnswerpopupTxt.png",
+      "location":"content",
+      "required":true
     },
-    "popup_instruction_img": {
-      "url": "instructionText.svg",
-      "location": "content"
+    "wrongAnswerpopupTxt": {
+      "url":"assets/popups/wrong_feedback/wronganspopupTxt.png",
+      "location":"content",
+      "required":true
+    },
+    "showAnswerpopupTxt": {
+      "url":"assets/popups/show_answer/rightAnswerpopupTxt.png",
+      "location":"content",
+      "required":true
+    },
+    "partialIncorrAnswerpopupTxt": {
+      "url":"assets/popups/partial_feedback/partialincorrectpopupTxt.png",
+      "location":"content",
+      "required":true
     },
     "popup_commmon_imgs": {
-      "bg_img": {
-        "url": "",
-        "location": "content"
-      },
       "close_btn": {
         "urlglobal": "global/popups/closeBtn.png",
         "location": "theme"
@@ -613,7 +621,7 @@
         "location": "theme"
       },
       "info_text": {
-        "url": "assets/popups/look_for_more_options/lookformore_popup_text.png",
+        "url": "assets/popups/look_for_more_options/lookformore_popup_text.jpg",
         "location": "content"
       },
       "ok_btn": {
