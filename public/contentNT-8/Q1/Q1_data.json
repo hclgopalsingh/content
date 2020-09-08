@@ -14,20 +14,7 @@
 			"urlglobal": "global/tabs/bg/bg_1.svg",
 			"location": "theme"
 		},
-		"ques_control": {
-			"replay_btn": {
-				"url": "video_btn.png",
-				"location": "content"
-			},
-			"replay_btn_hover": {
-				"url": "video_stream_btn.png",
-				"location": "content"
-			},
-			"replay_btn_original": {
-				"url": "video_btn.png",
-				"location": "content"
-			}
-		},		
+			
 		"isFirstQues": true,
 		"imgCount": 2
 	},
@@ -524,8 +511,8 @@
 
 	"quesObj": {
 		"quesVideo": {
-			"urlOgv": "video.ogg",
-			"urlMP4": "video.mp4",
+			"urlOgv": "assets/question/video.ogg",
+			"urlMP4": "",
 			"location": "content",
 			"autoPlay": true
 		},
@@ -541,7 +528,7 @@
 		},
 		"isLastQues": false,
 		"isNewQues": true,
-		"timeLimit": 10,
+		"timeLimit": 0.1,
 		"noOfQues": "5_ques",
 		"submitRequired": true,
     	"replayRequired": true,
@@ -570,15 +557,15 @@
 			"location": "content"
 		},
 		"video_stop":{
-			"url": "video_stop2.png",
+			"url": "assets/question/video_stop2.png",
 			"location": "content"
 		},
 		"video_stop_original":{
-			"url": "video_stop2.png",
+			"url": "assets/question/video_stop2.png",
 			"location": "content"
 		},
 		"video_stop_hover":{
-			"url": "video_stop1.png",
+			"url": "assets/question/video_stop1.png",
 			"location": "content"
 		}
 	},
@@ -602,39 +589,39 @@
 			"teamName":"teamRight"
 		}],
 		"ques_nos": [{
-			"url": "ques_1.png",
+			"url": "assets/popups/feedback/ques_1.png",
 			"location": "content"
 		}, {
-			"url": "ques_2.png",
+			"url": "assets/popups/feedback/ques_2.png",
 			"location": "content"
 		}, {
-			"url": "ques_3.png",
+			"url": "assets/popups/feedback/ques_3.png",
 			"location": "content"
 		}, {
-			"url": "ques_4.png",
+			"url": "assets/popups/feedback/ques_4.png",
 			"location": "content"
 		}, {
-			"url": "ques_5.png",
+			"url": "assets/popups/feedback/ques_5.png",
 			"location": "content"
 		}],
 		"right_thumb": {
-			"url": "correctIcon.png",
+			"url": "assets/popups/feedback/correctIcon.png",
 			"location": "content"
 		},
 		"wrong_thumb": {
-			"url": "incorrectIcon.png",
+			"url": "assets/popups/feedback/incorrectIcon.png",
 			"location": "content"
 		},
 		"total_no": {
-			"url": "total_no.png",
+			"url": "assets/popups/feedback/total_no.png",
 			"location": "content"
 		},
 		"pass_icon": {
-			"url": "assets/board/pass_icon.png",
+			"url": "assets/popups/feedback/pass_icon.png",
 			"location": "content"
 		},
 		"not_attempted": {
-			"url": "not_attempted.png",
+			"url": "assets/popups/feedback/not_attempted.png",
 			"location": "content"
 		},
 		"style_body": {
@@ -655,22 +642,22 @@
 			"location": "theme"
 		},
 		"correct_imgs": [{
-			"url": "no_correct.png",
+			"url": "assets/popups/feedback/no_correct.png",
 			"location": "content"
 		}, {
-			"url": "one_correct.png",
+			"url": "assets/popups/feedback/one_correct.png",
 			"location": "content"
 		}, {
-			"url": "two_correct.png",
+			"url": "assets/popups/feedback/two_correct.png",
 			"location": "content"
 		}, {
-			"url": "three_correct.png",
+			"url": "assets/popups/feedback/three_correct.png",
 			"location": "content"
 		}, {
-			"url": "four_correct.png",
+			"url": "assets/popups/feedback/four_correct.png",
 			"location": "content"
 		}, {
-			"url": "five_correct.png",
+			"url": "assets/popups/feedback/five_correct.png",
 			"location": "content"
 		}]
 	},
@@ -690,12 +677,12 @@
 			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
 		},
 		"headerTxt_img": {
-			"url": "header_confirm_text.png",
+			"url": "assets/popups/submit_answer_confirmation/header_confirm_text.png",
 			"location": "content"
 		},
 		"bg_img": {
-			"url": "confirmation_popup_base.png",
-			"location": "content"
+			"url": "",
+			"location": ""
 		},
 		"close_btn": {
 			"urlglobal": "global/popups/closeBtn.png",
@@ -710,7 +697,7 @@
 			"location": "theme"
 		},
 		"confirm_text": {
-			"url": "submit_popup_text.png",
+			"url": "assets/popups/submit_answer_confirmation/submit_popup_text.png",
 			"location": "content"
 		},
 		"confirm_btn": {
@@ -753,12 +740,12 @@
 			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
 		},
 		"headerTxt_img": {
-			"url": "header_confirm_text.png",
+			"url": "assets/popups/video_replay_confirmation/header_confirm_text.png",
 			"location": "content"
 		},
 		"bg_img": {
-			"url": "confirmation_popup_base.png",
-			"location": "content"
+			"url": "",
+			"location": ""
 		},
 		"close_btn": {
 			"urlglobal": "global/popups/closeBtn.png",
@@ -773,7 +760,7 @@
 			"location": "content"
 		},
 		"confirm_text": {
-			"url": "replay_popup_text.png",
+			"url": "assets/popups/video_replay_confirmation/replay_popup_text.png",
 			"location": "content"
 		},
 		"confirm_btn": {
@@ -817,27 +804,27 @@
 			"idx":"01"
 		},
 		"feedback_back_btn": {
-			"url": "feedback_back_btn.png",
+			"url": "assets/popups/feedback/feedback_back_btn.png",
 			"location": "content"
 		},
 		"feedback_back_btn_hover": {
-			"url": "feedback_back_btn_hover.png",
+			"url": "assets/popups/feedback/feedback_back_btn_hover.png",
 			"location": "content"
 		},
 		"feedback_back_btn_original": {
-			"url": "feedback_back_btn_original.png",
+			"url": "assets/popups/feedback/feedback_back_btn.png",
 			"location": "content"
 		},
 		"feedback_next_btn": {
-			"url": "feedback_next_btn.png",
+			"url": "assets/popups/feedback/feedback_next_btn.png",
 			"location": "content"
 		},
 		"feedback_next_btn_hover": {
-			"url": "feedback_next_btn_hover.png",
+			"url": "assets/popups/feedback/feedback_next_btn_hover.png",
 			"location": "content"
 		},
 		"feedback_next_btn_original": {
-			"url": "feedback_next_btn_original.png",
+			"url": "assets/popups/feedback/feedback_next_btn.png",
 			"location": "content"
 		},
 		"close_btn": {
@@ -853,39 +840,39 @@
 			"location": "theme"
 		},
 		"feedback_base":{
-			"url": "feedback_popup_base.png",
+			"url": "assets/popups/feedback/feedback_popup_base.png",
 			"location": "content"
 		},
 		"ques_feedback": {
 			"ques_img": {
-				"url": "ques_1_feedback.png",
+				"url": "assets/popups/feedback/ques_1_feedback.png",
 				"location": "content"
 			},
 			"correct_options": [{
 						"name": "teamUp",
 						"correct_opt": {
-							"url": "teamUp_correct.png",
+							"url": "assets/popups/feedback/teamUp_correct.png",
 							"location": "content"
 						}
 				},
 				{
 						"name": "teamDown",
 						"correct_opt": {
-							"url": "teamDown_correct.png",
+							"url": "assets/popups/feedback/teamDown_correct.png",
 							"location": "content"
 						}
 				},
 				{
 						"name": "teamLeft",
 						"correct_opt": {
-							"url": "teamLeft_correct.png",
+							"url": "assets/popups/feedback/teamLeft_correct.png",
 							"location": "content"
 						}
 				},
 				{
 						"name": "teamRight",
 						"correct_opt": {
-							"url": "teamRight_correct.png",
+							"url": "assets/popups/feedback/teamRight_correct.png",
 							"location": "content"
 						}
 				}
