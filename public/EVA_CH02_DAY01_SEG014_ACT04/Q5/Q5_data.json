@@ -1,7 +1,7 @@
 {
     "id": "Q001",
     "imgCount": "11",
-    "instructiontext": "अक्षर मिलाओ कलम बनाओ ।",
+    "instructiontext": "हाट बनाने के लिए सही अक्षर या मात्रा चुनिए।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -21,7 +21,7 @@
             "location": "assets"
         },
         "sound": {
-            "url": "speaker.ogg",
+            "url": "Instruction.ogg",
             "location": "content"
         },
         "wave1":{

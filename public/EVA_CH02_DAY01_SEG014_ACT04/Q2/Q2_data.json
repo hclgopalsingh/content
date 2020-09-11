@@ -1,7 +1,7 @@
 {
     "id": "Q001",
     "imgCount": "11",
-    "instructiontext": "अक्षर मिलाओ कलम बनाओ ।",
+    "instructiontext": "जल में मात्रा लगाकर जाल बनाइए।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -21,7 +21,7 @@
             "location": "assets"
         },
         "sound": {
-            "url": "speaker.ogg",
+            "url": "Instruction.ogg",
             "location": "content"
         },
         "wave1":{

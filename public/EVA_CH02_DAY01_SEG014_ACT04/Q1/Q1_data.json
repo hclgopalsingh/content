@@ -1,7 +1,7 @@
 {
     "id":"Q001",
     "imgCount":"11",
-    "instructiontext":"अक्षर मिलाओ कलम बनाओ ।",
+    "instructiontext":"कला बनाने के लिए सही विकल्प पर क्लिक करें।",
     "speaker":{
        "enabled":"",
        "imgsrc":{
@@ -21,7 +21,7 @@
           "location":"assets"
        },
        "sound":{
-          "url":"speaker.ogg",
+          "url":"Instruction.ogg",
           "location":"content"
        },
        "wave1":{
@@ -202,8 +202,8 @@
        "opts":[
           {
              "id":"001",
-             "url":"assets/images/letters/hindi/pinkTheme/matra/i.png",
-             "location":"assets",
+             "url":"la.png",
+             "location":"content",
              "audio":{
                 "url":"",
                 "location":"content"
@@ -224,8 +224,8 @@
           },
           {
              "id":"003",
-             "url":"assets/images/letters/hindi/pinkTheme/matra/oo.png",
-             "location":"assets",
+             "url":"ka.png",
+             "location":"content",
              "audio":{
                 "url":"",
                 "location":"content"
