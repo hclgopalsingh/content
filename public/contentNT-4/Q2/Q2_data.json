@@ -733,16 +733,16 @@
 			"location": "theme"
 		},
 		"ok_btn": {
-			"urlglobal": "global/popups/ok_btn_normal.png",
-			"location": "theme"
+			"url": "assets/popups/feedback/ok_btn_normal.png",
+			"location": "content"
 		},
 		"ok_btn_hover": {
-			"urlglobal": "global/popups/ok_btn_Hover.png",
-			"location": "theme"
+			"url": "assets/popups/feedback/ok_btn_Hover.png",
+			"location": "content"
 		},
 		"ok_btn_original": {
-			"urlglobal": "global/popups/ok_btn_normal.png",
-			"location": "theme"
+			"url": "assets/popups/feedback/ok_btn_normal.png",
+			"location": "content"
 		}
 	},
 	"category_2": {
@@ -859,16 +859,16 @@
 			"location": "theme"
 		},
 		"ok_btn": {
-			"urlglobal": "global/popups/ok_btn_normal.png",
-			"location": "theme"
+			"url": "assets/popups/feedback/ok_btn_normal.png",
+			"location": "content"
 		},
 		"ok_btn_hover": {
-			"urlglobal": "global/popups/ok_btn_Hover.png",
-			"location": "theme"
+			"url": "assets/popups/feedback/ok_btn_Hover.png",
+			"location": "content"
 		},
 		"ok_btn_original": {
-			"urlglobal": "global/popups/ok_btn_normal.png",
-			"location": "theme"
+			"url": "assets/popups/feedback/ok_btn_normal.png",
+			"location": "content"
 		}
 	},
 	"showans_2": {
