@@ -36,7 +36,7 @@
         },
 
         "sound": {
-            "url": "speaker.ogg",
+            "url": "Instruction.ogg",
             "location": "content"
         }
     },
