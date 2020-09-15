@@ -7,7 +7,7 @@
             "location": "content"
         },
 		"instruction_vo": {
-			"url": "ques_vo.ogg",
+			"url": "assets/ques_vo.ogg",
 			"location": "content"
 		},
 		"qus_base": {
@@ -19,20 +19,20 @@
             "location": "theme"
         },  
         "rightfeedbackVo": {
-            "url": "rightFeedback.ogg",
+            "url": "assets/options/rightFeedback.ogg",
             "location": "content"
         },
         "wrongfeedbackVo": {
-			"url": "wrongFeedback.ogg",
+			"url": "assets/options/wrongFeedback.ogg",
 			"location": "content"
 		},
 		"showansSound": {
-            "url":"showAnsSound.ogg",
+            "url":"assets/options/showAnsSound.ogg",
             "location": "content"
         },
 		  
 		"isFirstQues": true,
-		"imgCount": 9
+		"imgCount": 7
 	},
 
 	"options": {
@@ -101,7 +101,7 @@
 
 	"quesObj": {
 		"quesInstruction": {
-			"url": "ques_vo.ogg",
+			"url": "assets/ques_vo.ogg",
 			"location": "content",
 			"autoPlay": true
 		},
@@ -116,7 +116,7 @@
 			"location": "content"
 		},
 		"questionVo":{
-			"url":"question.ogg",
+			"url":"assets/question.ogg",
 			"location":"content"
 		},
 		"questionText": [{
@@ -226,6 +226,26 @@
           "url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
           "location": "content"
         },
+        "rightAnswerpopupTxt": {
+      "url":"assets/popups/right_feedback/rightAnswerpopupTxt.png",
+      "location":"content",
+      "required":false
+    },
+    "wrongAnswerpopupTxt": {
+      "url":"assets/popups/wrong_feedback/wronganspopupTxt.png",
+      "location":"content",
+      "required":false
+    },
+    "showAnswerpopupTxt": {
+      "url":"assets/popups/show_answer/ShowAnsHeader.png",
+      "location":"content",
+      "required":false
+    },
+    "partialIncorrAnswerpopupTxt": {
+      "url":"assets/popups/partial_feedback/partialincorrectpopupTxt.png",
+      "location":"content",
+      "required":false
+    },
         "popup_instruction_bg": {
           "url": "instructionBase.svg",
           "location": "content"
