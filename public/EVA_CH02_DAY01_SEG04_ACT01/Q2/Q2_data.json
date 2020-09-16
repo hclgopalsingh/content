@@ -262,6 +262,30 @@
                 "url": "",
                 "location": "content"
             }
+        },
+        {
+            "id": "003",
+            "text": "",
+            "image": {
+                "url": "optBase3.svg",
+                "location": "content"
+            },
+            "imgsrc": {
+                "url":"option3.png",
+                "location":"content"
+            },
+            "image_original": {
+                "url": "optBase3.svg",
+                "location": "content"
+            },
+            "image_hover": {
+                "url": "optBase3Hover.svg",
+                "location": "content"
+            },
+            "audio": {
+                "url": "",
+                "location": "content"
+            }
         }
     ],
     "answers": [

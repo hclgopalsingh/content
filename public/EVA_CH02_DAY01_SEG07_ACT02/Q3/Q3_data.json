@@ -1,7 +1,7 @@
 {
     "id": "Q001",
     "imgCount": "11",
-    "instructiontext": "अक्षर मिलाओ कलम बनाओ ।",
+    "instructiontext": "खाली जगह पर अक्षर या मात्रा लगा कर शब्द पूरा कीजिए।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -21,7 +21,7 @@
             "location": "assets"
         },
         "sound": {
-            "url": "speaker.ogg",
+            "url": "Instruction.ogg",
             "location": "content"
         },
         "wave1":{
@@ -200,10 +200,10 @@
     "options": {
         "opts": [{
             "id": "001",
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/ma.png",
-            "location": "assets",
+            "url": "ma.png",
+            "location": "content",
             "audio": {
-                "url": "assets/images/letters/hindi/pinkTheme/matra/aa.png",
+                "url": "",
                 "location": "content"
             },
             "isMatra":false,
@@ -211,10 +211,10 @@
 
         }, {
             "id": "002",
-            "url": "assets/images/letters/hindi/pinkTheme/matra/la.png",
-            "location": "assets",
+            "url": "la.png",
+            "location": "content",
             "audio": {
-                "url": "assets/images/letters/hindi/pinkTheme/matra/aa.png",
+                "url": "",
                 "location": "content"
             },
             "isMatra":false
@@ -273,7 +273,7 @@
     },
 
     "feedback": {
-        "correct_ans_index": "003",
+        "correct_ans_index": "001",
         "popupassets":{
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",

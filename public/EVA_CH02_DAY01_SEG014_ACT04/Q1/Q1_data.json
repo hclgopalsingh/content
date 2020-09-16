@@ -202,8 +202,8 @@
        "opts":[
           {
              "id":"001",
-             "url":"la.png",
-             "location":"content",
+             "url":"assets/images/letters/hindi/pinkTheme/matra/i.png",
+             "location":"assets",
              "audio":{
                 "url":"",
                 "location":"content"
@@ -224,8 +224,8 @@
           },
           {
              "id":"003",
-             "url":"ka.png",
-             "location":"content",
+             "url":"assets/images/letters/hindi/pinkTheme/matra/oo.png",
+             "location":"assets",
              "audio":{
                 "url":"",
                 "location":"content"

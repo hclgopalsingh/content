@@ -1,7 +1,7 @@
 {
     "id": "Q001",
     "imgCount": "11",
-    "instructiontext": "अक्षर मिलाओ कलम बनाओ ।",
+    "instructiontext": "खाली जगह पर सही अंक भरिए।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -21,7 +21,7 @@
             "location": "assets"
         },
         "sound": {
-            "url": "speaker.ogg",
+            "url": "Instruction.ogg",
             "location": "content"
         },
         "wave1":{
@@ -200,32 +200,32 @@
     "options": {
         "opts": [{
             "id": "001",
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/ja.png",
-            "location": "assets",
+            "url": "../commonassets/numbers/00001.png",
+            "location": "content",
             "audio": {
-                "url": "ja.ogg",
+                "url": "",
                 "location": "content"
             },
             "isMatra":  false
         }, {
             "id": "002",
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/ma.png",
-            "location": "assets",
+            "url": "../commonassets/numbers/00002.png",
+            "location": "content",
             "audio": {
-                "url": "ma.ogg",
+                "url": "",
+                "location": "content"
+            },
+            "isMatra":  false
+        }, {
+            "id": "003",
+            "url": "../commonassets/numbers/00004.png",
+            "location": "content",
+            "audio": {
+                "url": "",
                 "location": "content"
             },
             "isMatra":  false,
             "isCorrect": true
-        }, {
-            "id": "003",
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/sa.png",
-            "location": "assets",
-            "audio": {
-                "url": "sa.ogg",
-                "location": "content"
-            },
-            "isMatra":  false
         }]
     },   
     "quesObj": {
@@ -239,8 +239,8 @@
 			"location":"content"
 		 },
         "questionText": [{
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/ka.png",
-            "location": "assets",
+            "url": "../commonassets/numbers/00003.png",
+            "location": "content",
             "hasmatra":false,
             "matravalue":"",
             "matra":{
@@ -258,8 +258,8 @@
                 "location": "assets"
             } 
         }, {
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/la.png",
-            "location": "assets",
+            "url": "../commonassets/numbers/00005.png",
+            "location": "content",
             "hasmatra":false,
             "matravalue":"",
             "matra":{

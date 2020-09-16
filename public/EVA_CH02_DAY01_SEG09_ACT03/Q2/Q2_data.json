@@ -1,7 +1,7 @@
 ﻿{
 	"id": "Q002",
     "imgCount": "12",
-    "instructiontext": "क लिखने का सही तरीका पहचानिए।",
+    "instructiontext": "आ लिखने का सही तरीका पहचानिए।",
 	"commonassets": {
 		"header_bar": {
 		  "url": "assets/images/EVAGlobal/headerBar.svg",
@@ -254,7 +254,7 @@
 				"location": "content"
 			},
 			"imgsrc_letter": {
-				"url": "Akshar Animation_KA.svg",
+				"url": "Akshar Animation_AAA.svg",
 				"location": "content"
 			},
 			"imgsrc_hover": {
@@ -282,7 +282,7 @@
 				"location": "content"
 			},
 			"videosrc":{
-				"url": "Main Animation Box_Without Shadow Animation Ka_01.ogg",
+				"url": "Main Animation Box_Without Shadow Animation Ka_01.ogv",
 				"location": "content"
 			},
 			"audio": {
@@ -298,7 +298,7 @@
 				"style_class": "option1"
 			},
 			"imgsrc_letter": {
-				"url": "Akshar Animation_KA.svg",
+				"url": "Akshar Animation_AAA.svg",
 				"location": "content"
 			},
 			"imgsrc_hover": {
@@ -327,7 +327,7 @@
 				"location": "content"
 			},
 			"videosrc":{
-				"url": "Main Animation Box_Without Shadow Animation Ka_02.ogg",
+				"url": "Main Animation Box_Without Shadow Animation Ka_02.ogv",
 				"location": "content"
 			},
 			"audio": {
@@ -343,7 +343,7 @@
 				"style_class": "option1"
 			},
 			"imgsrc_letter": {
-				"url": "Akshar Animation_KA.svg",
+				"url": "Akshar Animation_AAA.svg",
 				"location": "content"
 			},
 			"imgsrc_hover": {
@@ -372,7 +372,7 @@
 				"location": "content"
 			},
 			"videosrc":{
-				"url": "Main Animation Box_Without Shadow Animation Ka_03.ogg",
+				"url": "Main Animation Box_Without Shadow Animation Ka_03.ogv",
 				"location": "content"
 			},
 			"audio": {

@@ -1,7 +1,7 @@
 {
     "id": "Q001",
     "imgCount": "11",
-    "instructiontext": "अक्षर मिलाओ कलम बनाओ ।",
+    "instructiontext": "खाली जगह पर अक्षर या मात्रा लगा कर शब्द पूरा कीजिए।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -21,7 +21,7 @@
             "location": "assets"
         },
         "sound": {
-            "url": "speaker.ogg",
+            "url": "Instruction.ogg",
             "location": "content"
         },
         "wave1":{
@@ -266,7 +266,7 @@
     },
 
     "feedback": {
-        "correct_ans_index": "003",
+        "correct_ans_index": "002",
         "popupassets":{
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",
