@@ -69,20 +69,24 @@
             },
             "letterConfig": [
               {
-                "Lid": "L25",
-                "style": { "left": "0" }
+                "Lid": "L55",
+                "style": { "left": "1.1" }
               },
               {
-                "Lid": "L49",
-                "style": { "left": "1.6" }
+                "Lid": "L79",
+                "style": { "left": "1.8" }
+              },
+              {
+                "Lid": "L77",
+                "style": { "left": "1.3" }
               },
               {
                 "Lid": "L56",
-                "style": { "left": "0.6" }
+                "style": { "left": "0.5" }
               },
               {
-                "Lid": "L74",
-                "style": { "left": "1.8" }
+                "Lid": "L3",
+                "style": { "left": "2.7" }
               }
             ]
         },
@@ -106,11 +110,15 @@
             },
             "letterConfig": [
               {
-                "Lid": "L25",
+                "Lid": "L55",
                 "style": { "left": "-3" }
               },
               {
-                "Lid": "L49",
+                "Lid": "L79",
+                "style": { "left": "-3" }
+              },
+              {
+                "Lid": "L77",
                 "style": { "left": "-3" }
               },
               {
@@ -118,7 +126,7 @@
                 "style": { "left": "-3" }
               },
               {
-                "Lid": "L74",
+                "Lid": "L3",
                 "style": { "left": "-3" }
               }
             ]
@@ -143,11 +151,15 @@
             },
             "letterConfig": [
               {
-                "Lid": "L25",
+                "Lid": "L55",
                 "style": { "left": "-2" }
               },
               {
-                "Lid": "L49",
+                "Lid": "L79",
+                "style": { "left": "-2" }
+              },
+              {
+                "Lid": "L77",
                 "style": { "left": "-2" }
               },
               {
@@ -155,7 +167,7 @@
                 "style": { "left": "-2" }
               },
               {
-                "Lid": "L74",
+                "Lid": "L3",
                 "style": { "left": "-2" }
               }
             ]
@@ -180,25 +192,29 @@
             },
             "letterConfig": [
               {
-                "Lid": "L25",
-                "style": { "left": "0" }
+                "Lid": "L55",
+                "style": { "left": "3.2" }
               },
               {
-                "Lid": "L49",
-                "style": { "left": "3.8" }
+                "Lid": "L79",
+                "style": { "left": "3.9" }
+              },
+              {
+                "Lid": "L77",
+                "style": { "left": "3.3" }
               },
               {
                 "Lid": "L56",
-                "style": { "left": "2.2" }
+                "style": { "left": "2.5" }
               },
               {
-                "Lid": "L74",
-                "style": { "left": "3.9" }
+                "Lid": "L3",
+                "style": { "left": "4.3" }
               }
             ]
         },
         {
-            "optionID": "M6",
+            "optionID": "M10",
             "imgrightfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio5.ogg",
                 "location": "content"
@@ -217,46 +233,53 @@
             },
             "letterConfig": [
               {
-                "Lid": "L25",
-                "style": { "left": "-2.5" }
+                "Lid": "L55",
+                "style": { "left": "2.4" }
               },
               {
-                "Lid": "L49",
-                "style": { "left": "-1.2" }
+                "Lid": "L79",
+                "style": { "left": "6.2" }
+              },
+              {
+                "Lid": "L77",
+                "style": { "left": "2.5" }
               },
               {
                 "Lid": "L56",
-                "style": { "left": "-1.2" }
+                "style": { "left": "1.7" }
               },
               {
-                "Lid": "L74",
-                "style": { "left": "-1.2" }
+                "Lid": "L3",
+                "style": { "left": "4" }
               }
             ]
         }
     ],
 
     "refQuesObj": {
-      "quesIdConfig": [ "L25", "L49", "L56", "L74" ],
+      "quesIdConfig": [ "L55", "L79", "L77", "L56", "L3" ],
       "quesID": [
         {
-          "Lid": "L25",
-          "url": "assets/options/ee.png",
+          "Lid": "L55",
+          
+          "location": "assets"
+        },
+        {
+          "Lid": "L79",
+          "url": "assets/options/yha.png",
           "location": "content"
         },
         {
-          "Lid": "L49",
-          "url": "assets/options/ma.png",
-          "location": "content"
+          "Lid": "L77",
+          "location": "assets"
         },
-        {
+         {
           "Lid": "L56",
           "location": "assets"
         },
         {
-          "Lid": "L74",
-          "url": "assets/options/tta.png",
-          "location": "content"
+          "Lid": "L3",
+          "location": "assets"
         }
       ]
     },
@@ -344,9 +367,9 @@
     },
   
     "feedback": {
-        "correct_ans_array": [ "L25", "L49", "M1", "L56", "L74" ],
+        "correct_ans_array": [ "L55", "M10","L79", "L77", "L56", "L3" ],
         "correct_option_number": 2,
-        "correct_matra_number": 2,
+        "correct_matra_number": 4,
         "style_header": {
           "border": "solid .4vmin #3C7132",
           "border-top-left-radius": "20px",
