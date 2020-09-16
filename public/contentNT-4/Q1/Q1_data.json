@@ -374,7 +374,9 @@
 		"submitRequired": true,
         "replayRequired": true
 	},
-	"feedback_next_timer":30,
+	"Showans_feedback_next_timer":30,
+	"feedback_next_timer":150,
+	"close_feedback_timer":150,
 
 
 	"show_answer_confirm": {
@@ -733,15 +735,15 @@
 			"location": "theme"
 		},
 		"ok_btn": {
-			"url": "assets/popups/feedback/ok_btn_normal.png",
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
 			"location": "content"
 		},
 		"ok_btn_hover": {
-			"url": "assets/popups/feedback/ok_btn_Hover.png",
+			"url": "assets/popups/feedback/ok_btn_Hover.svg",
 			"location": "content"
 		},
 		"ok_btn_original": {
-			"url": "assets/popups/feedback/ok_btn_normal.png",
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
 			"location": "content"
 		}
 	},
@@ -859,15 +861,15 @@
 			"location": "theme"
 		},
 		"ok_btn": {
-			"url": "assets/popups/feedback/ok_btn_normal.png",
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
 			"location": "content"
 		},
 		"ok_btn_hover": {
-			"url": "assets/popups/feedback/ok_btn_Hover.png",
+			"url": "assets/popups/feedback/ok_btn_Hover.svg",
 			"location": "content"
 		},
 		"ok_btn_original": {
-			"url": "assets/popups/feedback/ok_btn_normal.png",
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
 			"location": "content"
 		}
 	},
