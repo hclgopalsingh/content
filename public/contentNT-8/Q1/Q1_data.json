@@ -3,8 +3,8 @@
   	"theme_name": "theme1",
 	"commonassets": {
 		"instruction_img": {
-			"url": "assets/instructionBar.png",
-			"location": "content"
+			"url": "",
+			"location": ""
 		},
 		"instruction_vo": {
 			"url": "assets/ques_vo.ogg",
@@ -16,15 +16,15 @@
 		},
 		"ReplaybtnFromContent":true,
 		"replay_btn": {
-			"url": "assets/question/video_btn.png",
+			"url": "assets/question/video_btn.svg",
 			"location": "content"
 		},
 		"replay_btn_hover": {
-			"url": "assets/question/video_stream_btn.png",
+			"url": "assets/question/video_stream_btn.svg",
 			"location": "content"
 		},
 		"replay_btn_original": {
-			"url": "assets/question/video_btn.png",
+			"url": "assets/question/video_btn.svg",
 			"location": "content"
 		},	
 		"isFirstQues": true,
@@ -39,7 +39,7 @@
 			}
 		},
 		"teamUp": {
-		"isStillActive": true,
+			"isStillActive": true,
 			"teamName": {
 				"url": "assets/board/team_A.png",
 				"location": "content"
@@ -47,15 +47,15 @@
 			"options": [{
 					"index": "01",
 					"opt_normal": {
-						"url": "assets/options/top_opt1.png",
+						"url": "assets/options/opt1.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "assets/options/top_opt1_hover.png",
+						"url": "assets/options/opt1_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "assets/options/top_opt1.png",
+						"url": "assets/options/opt1.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
@@ -66,15 +66,15 @@
 				{
 					"index": "02",
 					"opt_normal": {
-						"url": "assets/options/top_opt2.png",
+						"url": "assets/options/opt2.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "assets/options/top_opt2_hover.png",
+						"url": "assets/options/opt2_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "assets/options/top_opt2.png",
+						"url": "assets/options/opt2.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
@@ -84,15 +84,15 @@
 				}, {
 					"index": "03",
 					"opt_normal": {
-						"url": "assets/options/top_opt3.png",
+						"url": "assets/options/opt3.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "assets/options/top_opt3_hover.png",
+						"url": "assets/options/opt3_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "assets/options/top_opt3.png",
+						"url": "assets/options/opt3.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
@@ -101,6 +101,7 @@
 					}
 				}
 			]
+
 		},
 		"teamDown": {
 			"isStillActive": true,
@@ -111,15 +112,15 @@
 			"options": [{
 					"index": "01",
 					"opt_normal": {
-						"url": "assets/options/bottom_opt1.png",
+						"url": "assets/options/opt4.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "assets/options/bottom_opt1_hover.png",
+						"url": "assets/options/opt4_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "assets/options/bottom_opt1.png",
+						"url": "assets/options/opt4.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
@@ -130,15 +131,15 @@
 				{
 					"index": "02",
 					"opt_normal": {
-						"url": "assets/options/bottom_opt2.png",
+						"url": "assets/options/opt5.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "assets/options/bottom_opt2_hover.png",
+						"url": "assets/options/opt5_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "assets/options/bottom_opt2.png",
+						"url": "assets/options/opt5.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
@@ -148,19 +149,148 @@
 				}, {
 					"index": "03",
 					"opt_normal": {
-						"url": "assets/options/bottom_opt3.png",
+						"url": "assets/options/opt6.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "assets/options/bottom_opt3_hover.png",
+						"url": "assets/options/opt6_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "assets/options/bottom_opt3.png",
+						"url": "assets/options/opt6.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
 						"url": "assets/options/option6.ogg",
+						"location": "content"
+					}
+				}
+			]
+		},
+		"teamLeft": {
+			"isStillActive": true,
+			"teamName": {
+				"url": "assets/board/team_C.png",
+				"location": "content"
+			},
+			"options": [{
+					"index": "01",
+					"opt_normal": {
+						"url": "assets/options/opt7.png",
+						"location": "content"
+					},
+					"opt_hover": {
+						"url": "assets/options/opt7_hover.png",
+						"location": "content"
+					},
+					"opt_original": {
+						"url": "assets/options/opt7.png",
+						"location": "content"
+					},
+					"mouse_over_audio": {
+						"url": "assets/options/option7.ogg",
+						"location": "content"
+					}
+				},
+				{
+					"index": "02",
+					"opt_normal": {
+						"url": "assets/options/opt8.png",
+						"location": "content"
+					},
+					"opt_hover": {
+						"url": "assets/options/opt8_hover.png",
+						"location": "content"
+					},
+					"opt_original": {
+						"url": "assets/options/opt8.png",
+						"location": "content"
+					},
+					"mouse_over_audio": {
+						"url": "assets/options/option8.ogg",
+						"location": "content"
+					}
+
+				}, {
+					"index": "03",
+					"opt_normal": {
+						"url": "assets/options/opt9.png",
+						"location": "content"
+					},
+					"opt_hover": {
+						"url": "assets/options/opt9_hover.png",
+						"location": "content"
+					},
+					"opt_original": {
+						"url": "assets/options/opt9.png",
+						"location": "content"
+					},
+					"mouse_over_audio": {
+						"url": "assets/options/option9.ogg",
+						"location": "content"
+					}
+				}
+			]
+		},
+		"teamRight": {
+			"isStillActive": true,
+			"teamName": {
+				"url": "assets/board/team_D.png",
+				"location": "content"
+			},
+			"options": [{
+					"index": "01",
+					"opt_normal": {
+						"url": "assets/options/opt5.png",
+						"location": "content"
+					},
+					"opt_hover": {
+						"url": "assets/options/opt5_hover.png",
+						"location": "content"
+					},
+					"opt_original": {
+						"url": "assets/options/opt5.png",
+						"location": "content"
+					},
+					"mouse_over_audio": {
+						"url": "assets/options/option5.ogg",
+						"location": "content"
+					}
+				},
+				{
+					"index": "02",
+					"opt_normal": {
+						"url": "assets/options/opt6.png",
+						"location": "content"
+					},
+					"opt_hover": {
+						"url": "assets/options/opt6_hover.png",
+						"location": "content"
+					},
+					"opt_original": {
+						"url": "assets/options/opt6.png",
+						"location": "content"
+					},
+					"mouse_over_audio": {
+						"url": "assets/options/option6.ogg",
+						"location": "content"
+					}
+				}, {
+					"index": "03",
+					"opt_normal": {
+						"url": "assets/options/opt9.png",
+						"location": "content"
+					},
+					"opt_hover": {
+						"url": "assets/options/opt9_hover.png",
+						"location": "content"
+					},
+					"opt_original": {
+						"url": "assets/options/opt9.png",
+						"location": "content"
+					},
+					"mouse_over_audio": {
+						"url": "assets/options/option9.ogg",
 						"location": "content"
 					}
 				}
@@ -406,11 +536,15 @@
 			"quesAudio": {
 				"url": "assets/ques_vo.ogg",
 				"location": "content"
+			},
+			"timeBg":{
+				"url": "assets/question/timer_base.png",
+				"location": "content"
 			}
 		},
 		"isLastQues": false,
 		"isNewQues": true,
-		"timeLimit": 1,
+		"timeLimit": 10,
 		"noOfQues": "5_ques",
 		"submitRequired": true,
     	"replayRequired": true,
@@ -439,28 +573,36 @@
 			"location": "content"
 		},
 		"video_stop":{
-			"url": "assets/question/video_stop2.png",
+			"url": "assets/question/pause.svg",
 			"location": "content"
 		},
 		"video_stop_original":{
-			"url": "assets/question/video_stop2.png",
+			"url": "assets/question/pause.svg",
 			"location": "content"
 		},
 		"video_stop_hover":{
-			"url": "assets/question/video_stop1.png",
+			"url": "assets/question/PauseHover.svg",
 			"location": "content"
 		}
 	},
 
 	"popupAssets": {
 		"teams": [{
-			"url": "assets/board/A_team.png",
+			"url": "assets/popups/feedback/A_team.png",
 			"location": "content",
 			"teamName":"teamUp"
 		}, {
-			"url": "assets/board/B_team.png",
+			"url": "assets/popups/feedback/B_team.png",
 			"location": "content",
 			"teamName":"teamDown"
+		}, {
+			"url": "assets/popups/feedback/C_team.png",
+			"location": "content",
+			"teamName":"teamLeft"
+		}, {
+			"url": "assets/popups/feedback/D_team.png",
+			"location": "content",
+			"teamName":"teamRight"
 		}],
 		"ques_nos": [{
 			"url": "assets/popups/feedback/ques_1.png",
@@ -670,30 +812,32 @@
 		},
 		"teamDownCorrect":{
 			"idx":"02"
-		},		
-		"feedback_back_btn": {
-			"url": "assets/popups/feedback/feedback_back_btn.png",
-			"location": "content"
 		},
-		"feedback_back_btn_hover": {
-			"url": "assets/popups/feedback/feedback_back_btn_hover.png",
-			"location": "content"
+		"teamLeftCorrect":{
+			"idx":"03"
 		},
-		"feedback_back_btn_original": {
-			"url": "assets/popups/feedback/feedback_back_btn.png",
-			"location": "content"
+		"teamRightCorrect":{
+			"idx":"01"
 		},
 		"feedback_next_btn": {
-			"url": "assets/popups/feedback/feedback_next_btn.png",
-			"location": "content"
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
 		},
 		"feedback_next_btn_hover": {
-			"url": "assets/popups/feedback/feedback_next_btn_hover.png",
-			"location": "content"
+			"urlglobal": "global/buttons/aageyHover.svg",
+			"location": "theme"
 		},
 		"feedback_next_btn_original": {
-			"url": "assets/popups/feedback/feedback_next_btn.png",
-			"location": "content"
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_hover": {
+			"urlglobal": "global/buttons/peecheyHover.svg",
+			"location": "theme"
 		},
 		"close_btn": {
 			"urlglobal": "global/popups/closeBtn.png",
@@ -727,6 +871,20 @@
 						"name": "teamDown",
 						"correct_opt": {
 							"url": "assets/popups/feedback/teamDown_correct.png",
+							"location": "content"
+						}
+				},
+				{
+						"name": "teamLeft",
+						"correct_opt": {
+							"url": "assets/popups/feedback/teamLeft_correct.png",
+							"location": "content"
+						}
+				},
+				{
+						"name": "teamRight",
+						"correct_opt": {
+							"url": "assets/popups/feedback/teamRight_correct.png",
 							"location": "content"
 						}
 				}
