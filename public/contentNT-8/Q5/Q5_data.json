@@ -527,7 +527,7 @@
 		},
 		"isLastQues": true,
 		"isNewQues": false,
-		"timeLimit": 1,
+		"timeLimit": 10,
 		"noOfQues": "5_ques",
 		"submitRequired": true,
     	"replayRequired": true,
@@ -615,6 +615,10 @@
 			"url": "assets/popups/feedback/total_no.png",
 			"location": "content"
 		},
+		"title_img": {
+			"url": "assets/popups/feedback/score_box_instruction.png",
+			"location": "content"
+		},
 		"pass_icon": {
 			"url": "assets/popups/feedback/pass_icon.png",
 			"location": "content"
@@ -626,7 +630,7 @@
 		"style_body": {
 			"border": "solid .2vmin #fff",
 			"border-radius": "20px",
-			"background": "#2B3B52"
+			"background": "#787878"
 		},
 		"close_btn": {
 			"urlglobal": "global/popups/closeBtn.png",

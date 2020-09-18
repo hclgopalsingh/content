@@ -632,6 +632,10 @@
 			"url": "assets/popups/feedback/total_no.png",
 			"location": "content"
 		},
+		"title_img": {
+			"url": "assets/popups/feedback/score_box_instruction.png",
+			"location": "content"
+		},
 		"pass_icon": {
 			"url": "assets/popups/feedback/pass_icon.png",
 			"location": "content"

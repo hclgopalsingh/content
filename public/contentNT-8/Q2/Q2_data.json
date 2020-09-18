@@ -527,7 +527,7 @@
 		},
 		"isLastQues": false,
 		"isNewQues": false,
-		"timeLimit": 1,
+		"timeLimit": 10,
 		"noOfQues": "5_ques",
 		"submitRequired": true,
     	"replayRequired": true,
