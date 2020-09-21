@@ -131,8 +131,8 @@
             "location": "content"
           },
           "imgwrongfeedback_audio": {
-            "url": "",
-            "location": ""
+            "url": "assets/options/wrongFeedbackAudio1.ogg",
+            "location": "content"
           },
           "imgsrc_original": {
             "url": "assets/options/opt5.png",
@@ -181,8 +181,8 @@
             "location": "content"
           },
           "imgwrongfeedback_audio": {
-            "url": "",
-            "location": ""
+            "url": "assets/options/wrongFeedbackAudio1.ogg",
+            "location": "content"
           },
           "imgsrc_original": {
             "url": "assets/options/opt7.png",
@@ -259,7 +259,7 @@
 
 
     "feedback": {
-        "correct_ans_index": [ "003", "005","007" ],
+        "correct_ans_index": [ "003" ],
         "style_header": {
       "border": "solid .4vmin #3C7132",
       "border-top-left-radius": "20px",
@@ -362,6 +362,14 @@
       "url":"assets/popups/partial_feedback/partialincorrectpopupTxt.png",
       "location":"content",
       "required":true
+    },
+    "wrongAnswerAudio":{
+      "url":"assets/popups/wrong_feedback/WrongFeedback.ogg",
+      "location":"content"
+    },
+    "partialwrongAnswerAudio":{
+      "url":"assets/popups/partial_feedback/WrongFeedback.ogg",
+      "location":"content"
     },
     "popup_commmon_imgs": {
       "close_btn": {
