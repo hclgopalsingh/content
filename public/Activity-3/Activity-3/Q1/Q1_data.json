@@ -1,0 +1,488 @@
+{
+	"isFirstQues": true,
+	"id": "Q001",
+	"imgCount": "4",
+	"commonassets": {
+		"bg": {
+			"url": "assets/images/template_common_bg.jpg",
+			"location": "assets"
+		},
+		"peechey_jayein": {
+			"url": "assets/images/peechey.svg",
+			"location": "assets"
+		},
+		"peechey_jayein_original": {
+			"url": "assets/images/peechey.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_hover": {
+			"url": "assets/images/aageyHover.svg",
+			"location": "assets"
+		},
+		"aagey_badhein": {
+			"url": "assets/images/aagey.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_original": {
+			"url": "assets/images/aagey.svg",
+			"location": "assets"
+		},
+		"peechey_jayein_hover": {
+			"url": "assets/images/peecheyHover.svg",
+			"location": "assets"
+		},
+		"aagey_badhein_blink": {
+			"url": "assets/images/aageyBlink.svg",
+			"location": "assets"
+		},
+		"playerBase": {
+			"url": "assets/images/content13/playerBase.svg",
+			"location": "assets"
+		},
+		"imgCount": "3",
+		"instruction_bg": {
+            "url": "instructionBar.png",
+            "location": "content"
+        },
+        "instruction": {
+            "url": "instruction.ogg",
+            "location": "content"
+        },
+	"record_answer": {
+            "url": "record_your_answer.ogg",
+            "location": "content"
+        },
+        "instruction_img": {
+            "url": "instructionText.svg",
+            "location": "content"
+        },
+        "right_sound": {
+            "url": "assets/sounds/clap.ogg",
+            "location": "assets"
+        },
+        "wrong_sound": {
+            "url": "assets/sounds/shake.ogg",
+            "location": "assets"
+        },
+        "narrator": {
+            "url": "narrator.ogg",
+            "location": "content"
+        },
+        "burst_image": {
+            "url": "assets/images/burst.gif",
+            "location": "assets"
+        },
+        "background": {
+            "url": "bg_1.svg",
+            "location": "content"
+        },
+        "help_btn": {
+            "url": "assets/images/help.svg",
+            "location": "assets"
+        },
+        "help_btn_original": {
+            "url": "assets/images/help.svg",
+            "location": "assets"
+        },
+        "help_btn_hover": {
+            "url": "assets/images/help_hover.svg",
+            "location": "assets"
+        },
+        "sprike_speaker": {
+            "url": "assets/images/content10/speakerSpritetemp10.png",
+            "location": "assets"
+        },
+        "quesBase": {
+            "url": "assets/images/quesBase.svg",
+            "location": "assets"
+        },
+        "refBase": {
+            "url": "assets/images/refBase_9.svg",
+            "location": "assets"
+        },
+        "ques_control": {
+            "aagey_badhein": {
+                "url": "aagey.svg",
+                "location": "content"
+            },
+            "aagey_badhein_original": {
+                "url": "aagey.svg",
+                "location": "content"
+            },
+            "aagey_badhein_hover": {
+                "url": "aageyHover.svg",
+                "location": "content"
+            },
+            "blink_btn1": {
+                "url": "blink_btn1.svg",
+                "location": "content"
+            },
+            "blink_btn2": {
+                "url": "blink_btn2.svg",
+                "location": "content"
+            },
+            "peechey_jayein": {
+                "url": "peechey.svg",
+                "location": "content"
+            },
+            "peechey_jayein_original": {
+                "url": "peechey.svg",
+                "location": "content"
+            },
+            "peechey_jayein_hover": {
+                "url": "peecheyHover.svg",
+                "location": "content"
+            },
+            "uttar_dikhayein": {
+                "url": "uttarBtn.svg",
+                "location": "content"
+            },
+            "uttar_dikhayein_original": {
+                "url": "uttarBtn.svg",
+                "location": "content"
+            },
+            "uttar_dikhayein_hover": {
+                "url": "uttarBtnHover.svg",
+                "location": "content"
+            },
+            "submit_btn_hover": {
+                "url": "submitBtnHover.png",
+                "location": "content"
+            },
+            "submit_btn_original": {
+                "url": "submitBtn.png",
+                "location": "content"
+            },
+            "replay_btn_hover": {
+                "url": "video_stream_btn.png",
+                "location": "content"
+            },
+            "replay_btn_original": {
+                "url": "video_btn.png",
+                "location": "content"
+            },
+            "quesTabs": [
+                {
+                    "ques_tab": {
+                        "tabbody": {
+                            "url": "tab1Body.png",
+                            "location": "content"
+                        },
+                        "tabL": {
+                            "url": "tab1L.png",
+                            "location": "content"
+                        },
+                        "tabR": {
+                            "url": "tab1R.png",
+                            "location": "content"
+                        },
+                        "tabbodyAct": {
+                            "url": "tab1BodyAct.png",
+                            "location": "content"
+                        },
+                        "tabLAct": {
+                            "url": "tab1LAct.png",
+                            "location": "content"
+                        },
+                        "tabRAct": {
+                            "url": "tab1RAct.png",
+                            "location": "content"
+                        },
+                        "tabIdx": {
+                            "url": "tab1Idx.svg",
+                            "location": "content"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "tabbody": {
+                            "url": "tab2Body.png",
+                            "location": "content"
+                        },
+                        "tabL": {
+                            "url": "tab2L.png",
+                            "location": "content"
+                        },
+                        "tabR": {
+                            "url": "tab2R.png",
+                            "location": "content"
+                        },
+                        "tabbodyAct": {
+                            "url": "tab2BodyAct.png",
+                            "location": "content"
+                        },
+                        "tabLAct": {
+                            "url": "tab2LAct.png",
+                            "location": "content"
+                        },
+                        "tabRAct": {
+                            "url": "tab2RAct.png",
+                            "location": "content"
+                        },
+                        "tabIdx": {
+                            "url": "tab2Idx.svg",
+                            "location": "content"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "tabbody": {
+                            "url": "tab3Body.png",
+                            "location": "content"
+                        },
+                        "tabL": {
+                            "url": "tab3L.png",
+                            "location": "content"
+                        },
+                        "tabR": {
+                            "url": "tab3R.png",
+                            "location": "content"
+                        },
+                        "tabbodyAct": {
+                            "url": "tab3BodyAct.png",
+                            "location": "content"
+                        },
+                        "tabLAct": {
+                            "url": "tab3LAct.png",
+                            "location": "content"
+                        },
+                        "tabRAct": {
+                            "url": "tab3RAct.png",
+                            "location": "content"
+                        },
+                        "tabIdx": {
+                            "url": "tab3Idx.svg",
+                            "location": "content"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "tabbody": {
+                            "url": "tab4Body.png",
+                            "location": "content"
+                        },
+                        "tabL": {
+                            "url": "tab4L.png",
+                            "location": "content"
+                        },
+                        "tabR": {
+                            "url": "tab4R.png",
+                            "location": "content"
+                        },
+                        "tabbodyAct": {
+                            "url": "tab4BodyAct.png",
+                            "location": "content"
+                        },
+                        "tabLAct": {
+                            "url": "tab4LAct.png",
+                            "location": "content"
+                        },
+                        "tabRAct": {
+                            "url": "tab4RAct.png",
+                            "location": "content"
+                        },
+                        "tabIdx": {
+                            "url": "tab4Idx.svg",
+                            "location": "content"
+                        }
+                    }
+                },
+                {
+                    "ques_tab": {
+                        "tabbody": {
+                            "url": "tab5Body.png",
+                            "location": "content"
+                        },
+                        "tabL": {
+                            "url": "tab5L.png",
+                            "location": "content"
+                        },
+                        "tabR": {
+                            "url": "tab5R.png",
+                            "location": "content"
+                        },
+                        "tabbodyAct": {
+                            "url": "tab5BodyAct.png",
+                            "location": "content"
+                        },
+                        "tabLAct": {
+                            "url": "tab5LAct.png",
+                            "location": "content"
+                        },
+                        "tabRAct": {
+                            "url": "tab5RAct.png",
+                            "location": "content"
+                        },
+                        "tabIdx": {
+                            "url": "tab5Idx.svg",
+                            "location": "content"
+                        }
+                    }
+                }
+            ],
+            "nav_base": {
+                "url": "navBase.svg",
+                "location": "content"
+            },
+            "ques_nav_base": {
+                "url": "quesNavBase.svg",
+                "location": "content"
+            },
+            "rightTick_img": {
+                "url": "right.svg",
+                "location": "content"
+            },
+            "wrongTick_img": {
+                "url": "wrong.svg",
+                "location": "content"
+            }
+        },
+        "animation": {
+            "img": {
+                "url": "happyFixedAnimation.webp"
+            },
+            "audio": {
+                "url": "clap.ogg"
+            },
+            "location": "content",
+            "timeout": 5000
+        },
+        "wrongAnimationAssts": {
+            "img": {
+                "url": "sadFixedAnimation.gif"
+            },
+            "audio": {
+                "url": "shake.ogg"
+            },
+            "location": "content",
+            "timeout": 5000
+        },
+        "isFirstQues": true
+
+    },
+    "autoStop":"60000",
+	"quesObj": {
+        "quesVideo": {
+            "urlOgv": "video.ogg",
+            "urlMP4": "video.mp4",
+            "location": "content",
+            "autoPlay": false
+        },
+        "quesInstruction": {
+            "url": "narrator.ogg",
+            "location": "content",
+            "autoPlay": true
+        },
+        "`quesImg": {
+            "url": "",
+            "location": ""
+        },
+        "quesImgHover": {
+            "url": "",
+            "location": ""
+        },
+        "quesImgOriginal": {
+            "url": "",
+            "location": ""
+        }
+    },
+    "info_popup": {
+		"style_header": {
+			"border": "solid .4vmin #85d222",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#248446"
+		},
+		"style_body": {
+			"border": "solid .4vmin #85d222",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"background": "#afdec0"
+		},
+		"headerTxt_img": {
+			"url": "PopupInfoHeader.png",
+			"location": "content"
+		},
+		"bg_img": {
+			"url": "",
+			"location": "content"
+		},
+		"close_btn": {
+			"url": "closeBtn.png",
+			"location": "content"
+		},
+		"close_btn_hover": {
+			"url": "closeBtnHover.png",
+			"location": "content"
+		},
+		"close_btn_original": {
+			"url": "closeBtn.png",
+			"location": "content"
+		},
+		"info_text": {
+			"url": "lookformore_popup_text.png",
+			"location": "content"
+		},
+		"ok_btn": {
+			"url": "ok_btn_normal.png",
+			"location": "content"
+		},
+		"ok_btn_hover": {
+			"url": "ok_btn_Hover.png",
+			"location": "content"
+		},
+		"ok_btn_original": {
+			"url": "ok_btn_normal.png",
+			"location": "content"
+		},
+		"partialCorrectAudio": {
+			"url": "partialFeedback.ogg",
+			"location": "content"
+		}
+	},
+	"ques": {
+		"text": {
+			"url": "txt1.svg",
+			"location": "content"
+		},
+		"record": {
+			"url": "assets/images/content13/recordBtnInactive.svg",
+			"location": "assets"
+		},
+		"recordActive": {
+			"url": "assets/images/content13/recordBtnActive.svg",
+			"location": "assets"
+		},
+		"stop": {
+			"url": "assets/images/content13/stopBtnInactive.svg",
+			"location": "assets"
+		},
+		"stopActive": {
+			"url": "assets/images/content13/stopBtnActive.svg",
+			"location": "assets"
+		},
+		"playpause": {
+			"url": "assets/images/content13/playBtnInactive.svg",
+			"location": "assets"
+		},
+		"help": {
+			"url": "assets/images/help.svg",
+			"location": "assets"
+		},
+		"helpOriginal": {
+			"url": "assets/images/help.svg",
+			"location": "assets"
+		},
+		"helphover": {
+			"url": "assets/images/helpHover.svg",
+			"location": "assets"
+		},
+		"helpsound": {
+			"url": "Instruction.ogg",
+			"location": "content"
+		}
+	}
+}
