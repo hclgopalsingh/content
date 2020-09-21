@@ -307,6 +307,14 @@
       "location":"content",
       "required":true
     },
+    "wrongAnswerAudio":{
+      "url":"assets/popups/wrong_feedback/WrongFeedback.ogg",
+      "location":"content"
+    },
+    "partialwrongAnswerAudio":{
+      "url":"assets/popups/partial_feedback/WrongFeedback.ogg",
+      "location":"content"
+    },
     "popup_commmon_imgs": {
       "close_btn": {
         "urlglobal": "global/popups/closeBtn.png",
