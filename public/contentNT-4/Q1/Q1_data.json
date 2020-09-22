@@ -675,14 +675,17 @@
 			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
 		  },
 		  "right_style_title": {
+			"required":true,
 			"url": "assets/popups/feedback/RightAnsTitleTxt.png",
 			"location": "content"
 		  },
 		  "wrong_style_title": {
+			"required":true,
 			"url": "assets/popups/feedback/WrongAnsTitleTxt.png",
 			"location": "content"
 		  },
 		  "partial_style_title": {
+			"required":true,
 			"url": "assets/popups/feedback/PartialAnsTitleTxt.png",
 			"location": "content"
 		  },
@@ -809,14 +812,17 @@
 			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
 		  },
 		  "right_style_title": {
+			"required":true,
 			"url": "assets/popups/feedback/RightAnsTitleTxt.png",
 			"location": "content"
 		  },
 		  "wrong_style_title": {
+			"required":true,
 			"url": "assets/popups/feedback/WrongAnsTitleTxt.png",
 			"location": "content"
 		  },
 		  "partial_style_title": {
+			"required":true,
 			"url": "assets/popups/feedback/PartialAnsTitleTxt.png",
 			"location": "content"
 		  },
@@ -908,6 +914,7 @@
 			"location": "content"
 		},
 		"popTitleTxt_img": {
+			"required":true,
 			"url": "assets/popups/show_answer_confirmation/ShowAnsTitleTxt.png",
 			"location": "content"
 		  },
@@ -983,6 +990,7 @@
 			"location": "content"
 		},
 		"popTitleTxt_img": {
+			"required":true,
 			"url": "assets/popups/show_answer_confirmation/ShowAnsTitleTxt.png",
 			"location": "content"
 		  },
