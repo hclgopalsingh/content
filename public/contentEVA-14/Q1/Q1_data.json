@@ -1,5 +1,5 @@
 {	
-	"instructiontext": "ये कौन सा महीना है और इसमें कुल कितने इतवार हैं",
+	"instructiontext": "जुलाई का महीना पहचानें और उसमे कुल इतवारों की संख्या बताएं",
 	"speaker": {
         "enabled": "",
         "imgsrc": {
@@ -214,97 +214,25 @@
 				"url":"assets/images/EVAGlobal/footerBg.svg",
 				"location":"assets"
 			 },
-			"quesTabs": [
-                {
-                    "ques_tab": {
-                        "id": "001",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabIdx": {
-                            "url": "tab1Idx.svg",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "002",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "003",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "004",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "005",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
-                }
-            ],
+			 "quesTabs": {
+				"quesID": 0,
+				"tabCircleDisabled": {
+					"url": "assets/images/EVAGlobal/quesBulletDisabled.png",
+					"location": "assets"
+				},
+				"tabCircleActive": {
+					"url": "assets/images/EVAGlobal/quesBulletActive.png",
+					"location": "assets"
+				},
+				"tabCircleVisited": {
+					"url": "assets/images/EVAGlobal/quesBulletVisited.png",
+					"location": "assets"
+				},
+				"tabCircleUnVisited": {
+					"url": "assets/images/EVAGlobal/quesBullet.png",
+					"location": "assets"
+				}
+			},
 
 			"nav_base": {
 				"url": "navBase.svg",
@@ -2691,11 +2619,11 @@
 			"location": "content",
 			"autoPlay": true
 		},
-		"localMachineDate":false,
+		"localMachineDate":true,
 		"smart_calendar": false,
 		"givenDate": {
 		  "year":"2020",
-		  "month":"August",
+		  "month":"",
 		  "date":"22"
 		},
 		"multi_date":true,

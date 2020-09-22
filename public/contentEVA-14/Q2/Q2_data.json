@@ -1,5 +1,5 @@
 {	"id":"Q002",
-	"instructiontext": "दिसंबर का महीना कितने दिन का होता है ",
+	"instructiontext": "पिछले वर्ष दिवाली और दशहरा कब थे साल महीना तारीख़ और दिन पहचानें !",
 	"speaker": {
         "enabled": "",
         "imgsrc": {
@@ -206,107 +206,25 @@
 				"url":"assets/images/EVAGlobal/footerBg.svg",
 				"location":"assets"
 			 },
-			 "quesTabs": [
-                {
-                    "ques_tab": {
-                        "id": "001",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabIdx": {
-                            "url": "tab1Idx.svg",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "002",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabIdx": {
-                            "url": "tab1Idx.svg",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "003",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabIdx": {
-                            "url": "tab1Idx.svg",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "004",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "005",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                       
-                    }
-                }
-            ],
-
+			 "quesTabs": {
+				"quesID": 1,
+				"tabCircleDisabled": {
+					"url": "assets/images/EVAGlobal/quesBulletDisabled.png",
+					"location": "assets"
+				},
+				"tabCircleActive": {
+					"url": "assets/images/EVAGlobal/quesBulletActive.png",
+					"location": "assets"
+				},
+				"tabCircleVisited": {
+					"url": "assets/images/EVAGlobal/quesBulletVisited.png",
+					"location": "assets"
+				},
+				"tabCircleUnVisited": {
+					"url": "assets/images/EVAGlobal/quesBullet.png",
+					"location": "assets"
+				}
+			},
 			"nav_base": {
 				"url": "navBase.svg",
 				"location": "content"
@@ -2695,19 +2613,19 @@
 		"localMachineDate":false,
 		"givenDate": {
 		  "year":"2020",
-		  "month":"December",
+		  "month":"August",
 		  "date":""
 		},
-		"multi_date":false,
-		"multi_day":false,
+		"multi_date":true,
+		"multi_day":true,
 		"multi_month":false,
 		"multi_year":false,
-		"disableyear":true,
-		"disablemonth":true,
-		"disableweekDay":true,
+		"disableyear":false,
+		"disablemonth":false,
+		"disableweekDay":false,
 		"disableDate":false,
-		"yearSelected":true,
-		"monthSelected":true,
+		"yearSelected":false,
+		"monthSelected":false,
 		"dateSelected":false,
 		"weekdaySelected":false,
 		"`quesImg": {
@@ -2728,12 +2646,12 @@
 	"feedback": {
 		"correct_date": "",
 		"correct_year":"",
-		"correct_month":"July",
+		"correct_month":"",
 		"correct_weekDay":"",
-		"right_date":[31],
-		"right_month":[],
-		"right_weekDay" : [], 
-		"right_year":[],
+		"right_date":[8,27],
+		"right_month":["October"],
+		"right_weekDay" : ["Tuesday", "Sunday"], 
+		"right_year":["2019"],
 		"popupassets": {
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",
