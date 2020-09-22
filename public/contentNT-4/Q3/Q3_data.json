@@ -722,6 +722,14 @@
 			"urlglobal": "global/buttons/aagey.svg",
 			"location": "theme"
 		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
+			"location": "theme"
+		},
 		"feedback_back_btn": {
 			"urlglobal": "global/buttons/peechey.svg",
 			"location": "theme"
@@ -848,6 +856,14 @@
 			"urlglobal": "global/buttons/aagey.svg",
 			"location": "theme"
 		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
+			"location": "theme"
+		},
 		"feedback_back_btn": {
 			"urlglobal": "global/buttons/peechey.svg",
 			"location": "theme"
@@ -927,6 +943,14 @@
 			"urlglobal": "global/buttons/aagey.svg",
 			"location": "theme"
 		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
+			"location": "theme"
+		},
 		"feedback_back_btn": {
 			"urlglobal": "global/buttons/peechey.svg",
 			"location": "theme"
@@ -992,6 +1016,14 @@
 		},
 		"feedback_next_btn_original": {
 			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
 			"location": "theme"
 		},
 		"feedback_back_btn": {
