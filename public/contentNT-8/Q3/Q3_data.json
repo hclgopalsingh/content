@@ -1,6 +1,6 @@
 {
 	"productType": "elementary",
-  	"theme_name": "theme1",
+	"theme_name": "theme1",
 	"commonassets": {
 		"instruction_img": {
 			"url": "assets/instructionBar.png",
@@ -14,7 +14,7 @@
 			"urlglobal": "global/tabs/bg/bg_5.svg",
 			"location": "theme"
 		},
-		"ReplaybtnFromContent":true,
+		"ReplaybtnFromContent": true,
 		"replay_btn": {
 			"url": "assets/question/video_btn.svg",
 			"location": "content"
@@ -26,7 +26,7 @@
 		"replay_btn_original": {
 			"url": "assets/question/video_btn.svg",
 			"location": "content"
-		},		
+		},
 		"isFirstQues": true,
 		"imgCount": 2
 	},
@@ -536,7 +536,7 @@
 				"url": "assets/ques_vo.ogg",
 				"location": "content"
 			},
-			"timeBg":{
+			"timeBg": {
 				"url": "assets/question/timer_base.png",
 				"location": "content"
 			}
@@ -546,7 +546,7 @@
 		"timeLimit": 10,
 		"noOfQues": "5_ques",
 		"submitRequired": true,
-    	"replayRequired": true,
+		"replayRequired": true,
 		"quesIdx": 2
 	},
 
@@ -571,16 +571,16 @@
 			"url": "assets/board/pass_btn_red.png",
 			"location": "content"
 		},
-		"video_stop":{
-			"url": "assets/question/video_stop2.png",
+		"video_stop": {
+			"url": "assets/question/pause.svg",
 			"location": "content"
 		},
-		"video_stop_original":{
-			"url": "assets/question/video_stop2.png",
+		"video_stop_original": {
+			"url": "assets/question/pause.svg",
 			"location": "content"
 		},
-		"video_stop_hover":{
-			"url": "assets/question/video_stop1.png",
+		"video_stop_hover": {
+			"url": "assets/question/PauseHover.svg",
 			"location": "content"
 		}
 	},
@@ -589,19 +589,19 @@
 		"teams": [{
 			"url": "assets/popups/feedback/A_team.png",
 			"location": "content",
-			"teamName":"teamUp"
+			"teamName": "teamUp"
 		}, {
 			"url": "assets/popups/feedback/B_team.png",
 			"location": "content",
-			"teamName":"teamDown"
+			"teamName": "teamDown"
 		}, {
 			"url": "assets/popups/feedback/C_team.png",
 			"location": "content",
-			"teamName":"teamLeft"
+			"teamName": "teamLeft"
 		}, {
 			"url": "assets/popups/feedback/D_team.png",
 			"location": "content",
-			"teamName":"teamRight"
+			"teamName": "teamRight"
 		}],
 		"ques_nos": [{
 			"url": "assets/popups/feedback/ques_1.png",
@@ -660,7 +660,7 @@
 			"urlglobal": "global/popups/closeBtn.png",
 			"location": "theme"
 		},
-		"scoreboardCloseTimer":0.5,
+		"scoreboardCloseTimer": 5,
 		"correct_imgs": [{
 			"url": "assets/popups/feedback/no_correct.png",
 			"location": "content"
@@ -811,17 +811,17 @@
 
 
 	"feedback": {
-		"teamUpCorrect":{
-			"idx":"01"
+		"teamUpCorrect": {
+			"idx": "01"
 		},
-		"teamDownCorrect":{
-			"idx":"02"
+		"teamDownCorrect": {
+			"idx": "02"
 		},
-		"teamLeftCorrect":{
-			"idx":"03"
+		"teamLeftCorrect": {
+			"idx": "03"
 		},
-		"teamRightCorrect":{
-			"idx":"01"
+		"teamRightCorrect": {
+			"idx": "01"
 		},
 		"ok_btn": {
 			"url": "assets/popups/feedback/ok_btn_normal.svg",
@@ -847,8 +847,8 @@
 			"urlglobal": "global/buttons/aagey.svg",
 			"location": "theme"
 		},
-		"feedback_next_timer":0.5,
-		"feedback_close_timer":0.5,
+		"feedback_next_timer": 2.5,
+		"feedback_close_timer": 2.5,
 		"feedback_back_btn": {
 			"urlglobal": "global/buttons/peechey.svg",
 			"location": "theme"
@@ -873,7 +873,7 @@
 			"urlglobal": "global/popups/closeBtn.png",
 			"location": "theme"
 		},
-		"feedback_base":{
+		"feedback_base": {
 			"url": "assets/popups/feedback/feedback_popup_base.png",
 			"location": "content"
 		},
@@ -883,32 +883,48 @@
 				"location": "content"
 			},
 			"correct_options": [{
-						"name": "teamUp",
-						"correct_opt": {
-							"url": "assets/popups/feedback/teamUp_correct.png",
-							"location": "content"
-						}
+					"name": "teamUp",
+					"correct_opt": {
+						"url": "assets/popups/feedback/teamUp_correct.png",
+						"location": "content"
+					},
+					"team_name": {
+						"url": "assets/popups/feedback/teamname_A.png",
+						"location": "content"
+					}
 				},
 				{
-						"name": "teamDown",
-						"correct_opt": {
-							"url": "assets/popups/feedback/teamDown_correct.png",
-							"location": "content"
-						}
+					"name": "teamDown",
+					"correct_opt": {
+						"url": "assets/popups/feedback/teamDown_correct.png",
+						"location": "content"
+					},
+					"team_name": {
+						"url": "assets/popups/feedback/teamname_B.png",
+						"location": "content"
+					}
 				},
 				{
-						"name": "teamLeft",
-						"correct_opt": {
-							"url": "assets/popups/feedback/teamLeft_correct.png",
-							"location": "content"
-						}
+					"name": "teamLeft",
+					"correct_opt": {
+						"url": "assets/popups/feedback/teamLeft_correct.png",
+						"location": "content"
+					},
+					"team_name": {
+						"url": "assets/popups/feedback/teamname_C.png",
+						"location": "content"
+					}
 				},
 				{
-						"name": "teamRight",
-						"correct_opt": {
-							"url": "assets/popups/feedback/teamRight_correct.png",
-							"location": "content"
-						}
+					"name": "teamRight",
+					"correct_opt": {
+						"url": "assets/popups/feedback/teamRight_correct.png",
+						"location": "content"
+					},
+					"team_name": {
+						"url": "assets/popups/feedback/teamname_D.png",
+						"location": "content"
+					}
 				}
 			]
 		}
