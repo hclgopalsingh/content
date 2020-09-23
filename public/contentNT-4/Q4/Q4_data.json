@@ -675,14 +675,17 @@
 			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
 		  },
 		  "right_style_title": {
+			"required":true,
 			"url": "assets/popups/feedback/RightAnsTitleTxt.png",
 			"location": "content"
 		  },
 		  "wrong_style_title": {
+			"required":true,
 			"url": "assets/popups/feedback/WrongAnsTitleTxt.png",
 			"location": "content"
 		  },
 		  "partial_style_title": {
+			"required":true,
 			"url": "assets/popups/feedback/PartialAnsTitleTxt.png",
 			"location": "content"
 		  },
@@ -720,6 +723,14 @@
 		},
 		"feedback_next_btn_original": {
 			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
 			"location": "theme"
 		},
 		"feedback_back_btn": {
@@ -801,14 +812,17 @@
 			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
 		  },
 		  "right_style_title": {
+			"required":true,
 			"url": "assets/popups/feedback/RightAnsTitleTxt.png",
 			"location": "content"
 		  },
 		  "wrong_style_title": {
+			"required":true,
 			"url": "assets/popups/feedback/WrongAnsTitleTxt.png",
 			"location": "content"
 		  },
 		  "partial_style_title": {
+			"required":true,
 			"url": "assets/popups/feedback/PartialAnsTitleTxt.png",
 			"location": "content"
 		  },
@@ -846,6 +860,14 @@
 		},
 		"feedback_next_btn_original": {
 			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
 			"location": "theme"
 		},
 		"feedback_back_btn": {
@@ -888,6 +910,7 @@
 			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
 		  },
 		  "popTitleTxt_img": {
+			"required":true,
 			"url": "assets/popups/show_answer_confirmation/ShowAnsTitleTxt.png",
 			"location": "content"
 		  },
@@ -927,6 +950,14 @@
 			"urlglobal": "global/buttons/aagey.svg",
 			"location": "theme"
 		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
+			"location": "theme"
+		},
 		"feedback_back_btn": {
 			"urlglobal": "global/buttons/peechey.svg",
 			"location": "theme"
@@ -955,6 +986,7 @@
 			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
 		  },
 		  "popTitleTxt_img": {
+			"required":true,
 			"url": "assets/popups/show_answer_confirmation/ShowAnsTitleTxt.png",
 			"location": "content"
 		  },
@@ -992,6 +1024,14 @@
 		},
 		"feedback_next_btn_original": {
 			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
 			"location": "theme"
 		},
 		"feedback_back_btn": {
