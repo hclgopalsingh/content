@@ -314,6 +314,14 @@
       "location":"content",
       "required":true
     },
+    "wrongAnswerAudio":{
+      "url":"assets/popups/wrong_feedback/WrongFeedback.ogg",
+      "location":"content"
+    },
+    "partialwrongAnswerAudio":{
+      "url":"assets/popups/partial_feedback/WrongFeedback.ogg",
+      "location":"content"
+    },
     "popup_instruction_img": {
       "url": "instructionText.svg",
       "location": "content"
