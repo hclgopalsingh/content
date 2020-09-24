@@ -29,7 +29,7 @@
         "background": {
             "urlglobal": "global/tabs/bg/bg_4.svg",
                 "location": "theme"
-        }, 
+        },
         "isFirstQues": false,
         "imgCount": 3
     },
@@ -49,26 +49,36 @@
     },
     "optionsObj": [
         {
-            "optionID": "M13",
+            "optionID": "M17",
             "imgrightfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio1.ogg",
                 "location": "content"
             },
             "baseImg":{
-                "url":"options/option_base1.png",
+                "url":"options/option_base3.png",
                 "location":"theme"
             },
             "imgwrongfeedback_audio": {
-                "url": "assets/options/wrongFeedbackAudio1.ogg",
+                "url": "assets/options/wrongFeedbackAudio3.ogg",
                 "location": "content"
             },
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio1.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L49",
+                "style": { "left": "1.5" }
+              },
+              {
+                "Lid": "L62",
+                "style": { "left": "1.2" }
+              }
+            ]
         },
         {
-            "optionID": "M11",
+            "optionID": "M1",
             "imgrightfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio2.ogg",
                 "location": "content"
@@ -84,16 +94,26 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio2.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L49",
+                "style": { "left": "-2" }
+              },
+              {
+                "Lid": "L62",
+                "style": { "left": "-2" }
+              }
+            ]
         },
         {
-            "optionID": "M2",
+            "optionID": "M10",
             "imgrightfeedback_audio": {
-                "url": "assets/options/rightFeedbackAudio3.ogg",
+                "url": "assets/options/rightFeedbackAudio1.ogg",
                 "location": "content"
             },
             "baseImg":{
-                "url":"options/option_base3.png",
+                "url":"options/option_base1.png",
                 "location":"theme"
             },
             "imgwrongfeedback_audio": {
@@ -103,8 +123,19 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio3.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L49",
+                "style": { "left": "2.9" }
+              },
+              {
+                "Lid": "L62",
+                "style": { "left": "2.7" }
+              }
+            ]
         },
+        
         {
             "optionID": "M3",
             "imgrightfeedback_audio": {
@@ -122,7 +153,17 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio4.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L49",
+                "style": { "left": "3.7" }
+              },
+              {
+                "Lid": "L62",
+                "style": { "left": "3.5" }
+              }
+            ]
         },
         {
             "optionID": "M6",
@@ -141,24 +182,37 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio5.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L49",
+                "style": { "left": "-0.5" }
+              },
+              {
+                "Lid": "L62",
+                "style": { "left": "-1.5" }
+              }
+            ]
         }
     ],
 
     "refQuesObj": {
+      "quesIdConfig": [ "L49", "L62" ],
       "quesID": [
         {
-          "Lid": "L66",
-          "url": "",
-          "location": "assets"
+          "Lid": "L49",
+          "url": "assets/options/mu.png",
+          "location": "content"
         },
         {
-          "Lid": "L41",
-          "url": "",
-          "location": "assets"
-        }   
+          "Lid": "L62",
+          "url": "assets/options/ha.png",
+          "location": "content"
+        }
+         
       ]
-    },
+      
+      },
     "optionInitPosObj": [
         {
             "optionInitPosArr": [
@@ -193,9 +247,8 @@
             "location": "content",
             "autoPlay": false
         },
-"submitRequired":false,
-    "replayRequired":true,
-        
+        "submitRequired":false,
+        "replayRequired":true,
         "quesPlayPause": {
       "urlglobal": "global/buttons/commonvideo/pause.svg",
       "location": "theme"
@@ -242,10 +295,11 @@
       "autoPlay": true
     }
     },
-   "feedback": {
-        "correct_ans_array": [ "M11", "L66", "L41"],
+
+    "feedback": {
+        "correct_ans_array": [ "M17","L49", "L62"  ],
         "correct_option_number": 1,
-        "correct_matra_number": 1,
+        "correct_matra_number": 0,
         "style_header": {
           "border": "solid .4vmin #3C7132",
           "border-top-left-radius": "20px",
@@ -329,6 +383,26 @@
           "url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
           "location": "content"
         },
+        "rightAnswerpopupTxt": {
+        "url":"assets/popups/right_feedback/rightAnswerpopupTxt.png",
+        "location":"content",
+        "required":false
+    },
+    "wrongAnswerpopupTxt": {
+      "url":"assets/popups/wrong_feedback/wronganspopupTxt.png",
+      "location":"content",
+      "required":false
+    },
+    "showAnswerpopupTxt": {
+      "url":"assets/popups/show_answer/ShowAnsHeader.png",
+      "location":"content",
+      "required":false
+    },
+    "partialIncorrAnswerpopupTxt": {
+      "url":"assets/popups/partial_feedback/partialincorrectpopupTxt.png",
+      "location":"content",
+      "required":false
+    },
         "popup_instruction_bg": {
           "url": "instructionBase.svg",
           "location": "content"
