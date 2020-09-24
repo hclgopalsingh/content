@@ -66,10 +66,32 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio1.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L55",
+                "style": { "left": "0" }
+              },
+              {
+                "Lid": "M1",
+                "style": { "left": "0" }
+              },
+              {
+                "Lid": "L70",
+                "style": { "left": "1" }
+              },
+              {
+                "Lid": "L51",
+                "style": { "left": "0.5" }
+              },
+              {
+                "Lid": "M1",
+                "style": { "left": "0" }
+              }
+            ]
         },
         {
-            "optionID": "M11",
+            "optionID": "M12",
             "imgrightfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio2.ogg",
                 "location": "content"
@@ -85,7 +107,29 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio2.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L55",
+                "style": { "left": "-0.35" }
+              },
+              {
+                "Lid": "M1",
+                "style": { "left": "-0.3" }
+              },
+              {
+                "Lid": "L70",
+                "style": { "left": "0.7" }
+              },
+              {
+                "Lid": "L51",
+                "style": { "left": "0.3" }
+              },
+              {
+                "Lid": "M1",
+                "style": { "left": "0" }
+              }
+            ]
         },
         {
             "optionID": "M10",
@@ -104,7 +148,29 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio3.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L55",
+                "style": { "left": "2.4" }
+              },
+              {
+                "Lid": "M1",
+                "style": { "left": "0" }
+              },
+              {
+                "Lid": "L70",
+                "style": { "left": "3.3" }
+              },
+              {
+                "Lid": "L51",
+                "style": { "left": "2.9" }
+              },
+              {
+                "Lid": "M1",
+                "style": { "left": "0" }
+              }
+            ]
         },
         {
             "optionID": "M3",
@@ -123,7 +189,29 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio4.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L55",
+                "style": { "left": "3.2" }
+              },
+              {
+                "Lid": "M1",
+                "style": { "left": "0" }
+              },
+              {
+                "Lid": "L70",
+                "style": { "left": "4.4" }
+              },
+              {
+                "Lid": "L51",
+                "style": { "left": "3.9" }
+              },
+              {
+                "Lid": "M1",
+                "style": { "left": "0" }
+              }
+            ]
         },
         {
             "optionID": "M6",
@@ -142,7 +230,29 @@
             "showAnswerfeedback_audio": {
                 "url": "assets/options/rightFeedbackAudio5.ogg",
                 "location": "content"
-            }
+            },
+            "letterConfig": [
+              {
+                "Lid": "L55",
+                "style": { "left": "-1.2" }
+              },
+              {
+                "Lid": "M1",
+                "style": { "left": "0" }
+              },
+              {
+                "Lid": "L70",
+                "style": { "left": "-1.2" }
+              },
+              {
+                "Lid": "L51",
+                "style": { "left": "-1.2" }
+              },
+              {
+                "Lid": "M1",
+                "style": { "left": "0" }
+              }
+            ]
         }
     ],
 
@@ -150,14 +260,29 @@
        "quesID": [
         {
           "Lid": "L55",
+          "url": "assets/options/pa.png",
+          "location": "content"
+        },
+        {
+          "Lid": "M1",
           "url": "",
           "location": "assets"
         },
         {
-          "Lid": "L77",
+          "Lid": "L70",
+          "url": "assets/options/thha.png",
+          "location": "content"
+        },
+        {
+          "Lid": "L51",
+          "url": "assets/options/na.png",
+          "location": "content"
+        },
+        {
+          "Lid": "M1",
           "url": "",
           "location": "assets"
-        }   
+        }
       ]
     },
     "optionInitPosObj": [
@@ -244,9 +369,9 @@
     }
     },
   "feedback": {
-        "correct_ans_array": [ "L55", "M10", "L77"],
-        "correct_option_number": 2,
-        "correct_matra_number": 2,
+        "correct_ans_array": [ "M12","L55", "M1", "L70", "L51", "M1" ],
+        "correct_option_number": 1,
+        "correct_matra_number": 1,
         "style_header": {
           "border": "solid .4vmin #3C7132",
           "border-top-left-radius": "20px",
@@ -330,6 +455,26 @@
           "url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
           "location": "content"
         },
+        "rightAnswerpopupTxt": {
+        "url":"assets/popups/right_feedback/rightAnswerpopupTxt.png",
+        "location":"content",
+        "required":false
+     },
+    "wrongAnswerpopupTxt": {
+      "url":"assets/popups/wrong_feedback/wronganspopupTxt.png",
+      "location":"content",
+      "required":false
+    },
+    "showAnswerpopupTxt": {
+      "url":"assets/popups/show_answer/ShowAnsHeader.png",
+      "location":"content",
+      "required":false
+    },
+    "partialIncorrAnswerpopupTxt": {
+      "url":"assets/popups/partial_feedback/partialincorrectpopupTxt.png",
+      "location":"content",
+      "required":false
+    },
         "popup_instruction_bg": {
           "url": "instructionBase.svg",
           "location": "content"
