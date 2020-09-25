@@ -523,7 +523,7 @@
 
 	"quesObj": {
 		"quesVideo": {
-			"urlOgv": "assets/question/video.ogg",
+			"urlOgv": "assets/question/video.ogv",
 			"urlMP4": "",
 			"location": "content"
 		},
@@ -881,6 +881,9 @@
 			"ques_img": {
 				"url": "assets/popups/feedback/ques_feedback.png",
 				"location": "content"
+			},
+			"style_body":{				
+				"border": "solid .3vmin rgba(191,82,33,0.5)"				
 			},
 			"correct_options": [{
 					"name": "teamUp",

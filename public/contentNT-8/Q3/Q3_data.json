@@ -882,6 +882,9 @@
 				"url": "assets/popups/feedback/ques_feedback.png",
 				"location": "content"
 			},
+			"style_body":{				
+				"border": "solid .3vmin rgba(48,137,69,0.5)"				
+			},
 			"correct_options": [{
 					"name": "teamUp",
 					"correct_opt": {
