@@ -241,7 +241,7 @@
     "partialIncorrAnswerpopupTxt": {
       "url":"assets/popups/partial_feedback/partialincorrectpopupTxt.png",
       "location":"content",
-      "required":true
+      "required":false
     },
         "popup_instruction_bg": {
           "url": "instructionBase.svg",
