@@ -1,7 +1,7 @@
 {
     "id": "Q004",
     "imgCount": "6",
-    "instructiontext": "कौन-से अंक की बनावट गलत है?",
+    "instructiontext": "कौन&से अंक की बनावट गलत है \\",
     "speaker": {
         "enabled": "",
         "imgsrc": {
