@@ -38,6 +38,10 @@
                     "url": "",
                     "location": ""
                },
+               "img_partialinc_wrongfeedback_audio": {
+                    "url": "assets/options/wrongFeedbackAudio1.ogg",
+                    "location": "content"
+                },
                 "imgwrongfeedback_audio": {
                     "url": "assets/options/wrongFeedbackAudio1.ogg",
                     "location": "content"
@@ -65,6 +69,10 @@
             "url": "",
             "location": ""
           },
+          "img_partialinc_wrongfeedback_audio": {
+            "url": "assets/options/wrongFeedbackAudio2.ogg",
+            "location": "content"
+          },
           "imgwrongfeedback_audio": {
             "url": "assets/options/wrongFeedbackAudio2.ogg",
             "location": "content"
@@ -91,6 +99,10 @@
           "img_partialinc_rightfeedback_audio": {
             "url": "",
             "location": ""
+          },
+          "img_partialinc_wrongfeedback_audio": {
+            "url": "assets/options/wrongFeedbackAudio3.ogg",
+            "location": "content"
           },
           "imgwrongfeedback_audio": {
             "url": "assets/options/wrongFeedbackAudio3.ogg",
@@ -120,7 +132,11 @@
                     "location": ""
                 },
                 "img_partialinc_rightfeedback_audio": {
-                    "url": "assets/options/partial_inc_rightFeedbackAudio7.ogg",
+                    "url": "",
+                    "location": ""
+                },
+                "img_partialinc_wrongfeedback_audio": {
+                    "url": "assets/options/wrongFeedbackAudio4.ogg",
                     "location": "content"
                 },
                 "imgwrongfeedback_audio": {
@@ -149,6 +165,10 @@
                 "img_partialinc_rightfeedback_audio": {
                     "url": "assets/options/partial_inc_rightFeedbackAudio5.ogg",
                     "location": "content"
+                },
+                "img_partialinc_wrongfeedback_audio": {
+                    "url": "",
+                    "location": ""
                 },
                 "imgwrongfeedback_audio": {
                     "url": "",
