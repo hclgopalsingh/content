@@ -122,7 +122,11 @@
         "location": "assets"
       },
       "peechey_jayein": {
-        "url": "assets/images/EVAGlobal/prevBtn.svg",
+        "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+        "location": "assets"
+      },
+      "peechey_jayein_disabled": {
+        "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
         "location": "assets"
       },
       "peechey_jayein_original": {
@@ -201,7 +205,7 @@
       "location": "content",
       "timeout": 5000
     },
-    "isFirstQues": false
+    "isFirstQues": true
   },
   "ques": {
     "mainscreen": {
