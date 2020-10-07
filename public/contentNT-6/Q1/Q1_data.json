@@ -82,11 +82,11 @@
               },
               {
                 "Lid": "L56",
-                "style": { "left": "0.5" }
+                "style": { "left": "0.9" }
               },
               {
                 "Lid": "L3",
-                "style": { "left": "2.7" }
+                "style": { "left": "2.9" }
               }
             ]
         },
@@ -234,7 +234,7 @@
             "letterConfig": [
               {
                 "Lid": "L55",
-                "style": { "left": "2.4" }
+                "style": { "left": "2.5" }
               },
               {
                 "Lid": "L79",
@@ -250,7 +250,7 @@
               },
               {
                 "Lid": "L3",
-                "style": { "left": "4" }
+                "style": { "left": "4.1" }
               }
             ]
         }
