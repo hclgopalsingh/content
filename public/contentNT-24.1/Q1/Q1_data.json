@@ -20,27 +20,27 @@
 
 	"optionObj": {
 		"moveUpBtn": {
-			"url": "moveUp.png",
+			"url": "assets/options/moveUp.png",
 			"location": "content"
 		},
 		"moveUpBtn_hover": {
-			"url": "moveUpHover.png",
+			"url": "assets/options/moveUpHover.png",
 			"location": "content"
 		},
 		"moveUpBtn_original": {
-			"url": "moveUp.png",
+			"url": "assets/options/moveUp.png",
 			"location": "content"
 		},
 		"moveDownBtn": {
-			"url": "moveDown.png",
+			"url": "assets/options/moveDown.png",
 			"location": "content"
 		},
 		"moveDownBtn_hover": {
-			"url": "moveDownHover.png",
+			"url": "assets/options/moveDownHover.png",
 			"location": "content"
 		},
 		"moveDownBtn_original": {
-			"url": "moveDown.png",
+			"url": "assets/options/moveDown.png",
 			"location": "content"
 		},
 		"optionArray": [{
@@ -444,27 +444,27 @@
 			"background": "#FFFFFF"
 		},
 		"headerTxt_img": {
-			"url": "PopupHeaderTitle.png",
+			"url": "assets/popups/feedback/PopupHeaderTitle.png",
 			"location": "content"
 		},
 		"rightAnswerheaderTxt_img": {
-			"url": "PopupHeaderTitle1.png",
+			"url": "assets/popups/feedback/PopupHeaderTitle.png",
 			"location": "content"
 		},
 		"wrongAnswerheaderTxt_img": {
-			"url": "PopupHeaderTitle2.png",
+			"url": "assets/popups/feedback/PopupHeaderTitle.png",
 			"location": "content"
 		},
 		"showAnswerheaderTxt_img": {
-			"url": "PopupHeaderTitle3.png",
+			"url": "assets/popups/feedback/PopupHeaderTitle.png",
 			"location": "content"
 		},
 		"partialCorrectheaderTxt_img": {
-			"url": "PopupHeaderTitle4.png",
+			"url": "assets/popups/feedback/PopupHeaderTitle.png",
 			"location": "content"
 		},
 		"partialInCorrectheaderTxt_img": {
-			"url": "PopupHeaderTitle5.png",
+			"url": "assets/popups/feedback/PopupHeaderTitle.png",
 			"location": "content"
 		},
 		"close_btn": {
@@ -480,11 +480,11 @@
 			"location": "theme"
 		},
 		"right_tick": {
-			"url": "right_tick.png",
+			"url": "assets/popups/feedback/right_tick.png",
 			"location": "content"
 		},
 		"wrong_tick": {
-			"url": "wrong_tick.png",
+			"url": "assets/popups/feedback/wrong_tick.png",
 			"location": "content"
 		}
 	},
