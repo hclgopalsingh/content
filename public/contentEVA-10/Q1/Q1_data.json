@@ -207,7 +207,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/ee.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/ee.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -231,7 +231,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/aa.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/aa.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -255,7 +255,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/i.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/i.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -279,7 +279,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/aa.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/aa.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -341,7 +341,7 @@
                 ]
             },
             {
-                "url": "assets/images/letters/hindi/akshar/tta.png",
+                "url": "assets/images/letters/hindi/pinkTheme/akshar/tta.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],
@@ -365,7 +365,7 @@
                 ]
             },
             {
-                "url": "assets/images/letters/hindi/akshar/sha.png",
+                "url": "assets/images/letters/hindi/pinkTheme/akshar/sha.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],
@@ -376,7 +376,7 @@
                 }
             },
             {
-                "url": "assets/images/letters/hindi/akshar/ba.png",
+                "url": "assets/images/letters/hindi/pinkTheme/akshar/ba.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],
