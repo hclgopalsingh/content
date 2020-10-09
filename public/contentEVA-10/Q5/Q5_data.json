@@ -211,7 +211,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/oo.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/oo.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -235,7 +235,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/ee.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/ee.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -259,7 +259,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/i.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/i.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -283,7 +283,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/an.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/an.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -344,7 +344,7 @@
                 ]
             },
             {
-                "url": "assets/images/letters/hindi/akshar/ga.png",
+                "url": "assets/images/letters/hindi/pinkTheme/akshar/ga.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],
@@ -368,7 +368,7 @@
                 ]
             },
             {
-                "url": "assets/images/letters/hindi/akshar/tha.png",
+                "url": "assets/images/letters/hindi/pinkTheme/akshar/tha.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],
