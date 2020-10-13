@@ -407,37 +407,6 @@
 
             },
             {
-                "id": "4",
-                "imgsrc": {
-                    "url": "ques4.png",
-                    "location": "content"
-                },
-                "correctimg": {
-                    "url": "dropboxRight.png",
-                    "location": "content"
-                },
-                "correctAudio": {
-                    "url": "opt4_correct.ogg",
-                    "location": "content"
-                }
-
-            },
-            {
-                "id": "3",
-                "imgsrc": {
-                    "url": "ques3.png",
-                    "location": "content"
-                },
-                "correctimg": {
-                    "url": "dropboxRight.png",
-                    "location": "content"
-                },
-                "correctAudio": {
-                    "url": "opt3_correct.ogg",
-                    "location": "content"
-                }
-            },
-            {
                 "id": "1",
                 "imgsrc": {
                     "url": "ques1.png",
@@ -454,6 +423,21 @@
 
             },
             {
+                "id": "4",
+                "imgsrc": {
+                    "url": "ques4.png",
+                    "location": "content"
+                },
+                "correctimg": {
+                    "url": "dropboxRight.png",
+                    "location": "content"
+                },
+                "correctAudio": {
+                    "url": "opt4_correct.ogg",
+                    "location": "content"
+                }
+            },
+            {
                 "id": "5",
                 "imgsrc": {
                     "url": "ques5.png",
@@ -465,6 +449,22 @@
                 },
                 "correctAudio": {
                     "url": "opt5_correct.ogg",
+                    "location": "content"
+                }
+
+            },
+            {
+                "id": "3",
+                "imgsrc": {
+                    "url": "ques3.png",
+                    "location": "content"
+                },
+                "correctimg": {
+                    "url": "dropboxRight.png",
+                    "location": "content"
+                },
+                "correctAudio": {
+                    "url": "opt3_correct.ogg",
                     "location": "content"
                 }
 

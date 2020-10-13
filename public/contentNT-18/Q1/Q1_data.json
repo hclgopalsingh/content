@@ -394,7 +394,7 @@
     "feedback": {
         "correct_ans_index": [
             {
-                "id": "2",
+                "id": "1",
                 "imgsrc": {
                     "url": "ques2.png",
                     "location": "content"
@@ -410,7 +410,7 @@
 
             },
             {
-                "id": "1",
+                "id": "2",
                 "imgsrc": {
                     "url": "ques1.png",
                     "location": "content"
@@ -442,7 +442,7 @@
 
             },
             {
-                "id": "5",
+                "id": "3",
                 "imgsrc": {
                     "url": "ques5.png",
                     "location": "content"
@@ -458,7 +458,7 @@
 
             },
             {
-                "id": "3",
+                "id": "5",
                 "imgsrc": {
                     "url": "ques3.png",
                     "location": "content"
