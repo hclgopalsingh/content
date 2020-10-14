@@ -342,7 +342,6 @@
             "location": "content",
             "autoPlay": true
         },
-
         "quesPlayPause": {
             "url": "pause.svg",
             "location": "content"
@@ -367,7 +366,6 @@
             "urlOgv": "SkipButtonHover.svg",
             "location": "content"
         },
-        
         "questype": "image",
         "quesInstruction": {
             "url": "narrator.ogg",
@@ -393,6 +391,22 @@
     "feedback": {
         "correct_ans_index": [
             {
+                "id": "2",
+                "imgsrc": {
+                    "url": "ques2.png",
+                    "location": "content"
+                },
+                "correctimg": {
+                    "url": "dropboxRight.png",
+                    "location": "content"
+                },
+                "correctAudio": {
+                    "url": "opt2_correct.ogg",
+                    "location": "content"
+                }
+
+            },
+            {
                 "id": "1",
                 "imgsrc": {
                     "url": "ques1.png",
@@ -409,9 +423,9 @@
 
             },
             {
-                "id": "2",
+                "id": "4",
                 "imgsrc": {
-                    "url": "ques2.png",
+                    "url": "ques4.png",
                     "location": "content"
                 },
                 "correctimg": {
@@ -419,10 +433,9 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "opt2_correct.ogg",
+                    "url": "opt4_correct.ogg",
                     "location": "content"
                 }
-
             },
             {
                 "id": "5",
@@ -452,21 +465,6 @@
                 },
                 "correctAudio": {
                     "url": "opt3_correct.ogg",
-                    "location": "content"
-                }
-            },
-            {
-                "id": "4",
-                "imgsrc": {
-                    "url": "ques4.png",
-                    "location": "content"
-                },
-                "correctimg": {
-                    "url": "dropboxRight.png",
-                    "location": "content"
-                },
-                "correctAudio": {
-                    "url": "opt4_correct.ogg",
                     "location": "content"
                 }
 

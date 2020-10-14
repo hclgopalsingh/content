@@ -41,8 +41,8 @@
             },
             "location": "content",
             "timeout": 5000
-        }, 
-        "isFirstQues": false,
+        },
+         "isFirstQues": true,
         "imgCount": 6
     },
     "refQuesObj": [
@@ -340,7 +340,7 @@
             "urlOgv": "video.ogg",
             "urlMP4": "video.mp4",
             "location": "content",
-            "autoPlay": true
+            "autoPlay": false
         },
 
         "quesPlayPause": {
@@ -369,24 +369,25 @@
         },
         
         "questype": "image",
-        "quesInstruction": {
-            "url": "narrator.ogg",
-            "location": "content",
-            "autoPlay": true
+            "quesInstruction": {
+                "url": "narrator.ogg",
+                "location": "content",
+                "autoPlay": true
+            },
+
+            "`quesImg": {
+                "url": "",
+                "location": ""
+            },
+            "quesImgHover": {
+                "url": "",
+                "location": ""
+            },
+            "quesImgOriginal": {
+                "url": "",
+                "location": ""
+            }
         },
-        "`quesImg": {
-            "url": "",
-            "location": ""
-        },
-        "quesImgHover": {
-            "url": "",
-            "location": ""
-        },
-        "quesImgOriginal": {
-            "url": "",
-            "location": ""
-        }
-    },
 
 
 
@@ -394,22 +395,6 @@
         "correct_ans_index": [
             {
                 "id": "1",
-                "imgsrc": {
-                    "url": "ques1.png",
-                    "location": "content"
-                },
-                "correctimg": {
-                    "url": "dropboxRight.png",
-                    "location": "content"
-                },
-                "correctAudio": {
-                    "url": "opt1_correct.ogg",
-                    "location": "content"
-                }
-
-            },
-            {
-                "id": "2",
                 "imgsrc": {
                     "url": "ques2.png",
                     "location": "content"
@@ -420,6 +405,22 @@
                 },
                 "correctAudio": {
                     "url": "opt2_correct.ogg",
+                    "location": "content"
+                }
+
+            },
+            {
+                "id": "2",
+                "imgsrc": {
+                    "url": "ques1.png",
+                    "location": "content"
+                },
+                "correctimg": {
+                    "url": "dropboxRight.png",
+                    "location": "content"
+                },
+                "correctAudio": {
+                    "url": "opt1_correct.ogg",
                     "location": "content"
                 }
 
@@ -441,7 +442,7 @@
 
             },
             {
-                "id": "5",
+                "id": "3",
                 "imgsrc": {
                     "url": "ques5.png",
                     "location": "content"
@@ -457,7 +458,7 @@
 
             },
             {
-                "id": "3",
+                "id": "5",
                 "imgsrc": {
                     "url": "ques3.png",
                     "location": "content"
