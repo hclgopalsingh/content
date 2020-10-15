@@ -164,97 +164,25 @@
                 "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
                 "location": "assets"
             },
-            "quesTabs": [
-                {
-                    "ques_tab": {
-                        "id": "001",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabIdx": {
-                            "url": "tab1Idx.svg",
-                            "location": "assets"
-                        }
-                    }
+            "quesTabs": {
+                "quesID": 0,
+                "tabCircleDisabled": {
+                  "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
+                  "location": "assets"
                 },
-                {
-                    "ques_tab": {
-                        "id": "002",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
+                "tabCircleActive": {
+                  "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                  "location": "assets"
                 },
-                {
-                    "ques_tab": {
-                        "id": "003",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
+                "tabCircleVisited": {
+                  "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                  "location": "assets"
                 },
-                {
-                    "ques_tab": {
-                        "id": "004",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "005",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        }
-                    }
+                "tabCircleUnVisited": {
+                  "url": "assets/images/EVAGlobal/quesBullet.png",
+                  "location": "assets"
                 }
-            ]
+              }
         },
         "isFirstQues": true
     },
@@ -279,7 +207,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/ee.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/ee.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -303,7 +231,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/aa.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/aa.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -327,7 +255,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/i.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/i.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -351,7 +279,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/aa.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/aa.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -413,7 +341,7 @@
                 ]
             },
             {
-                "url": "assets/images/letters/hindi/akshar/tta.png",
+                "url": "assets/images/letters/hindi/pinkTheme/akshar/tta.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],
@@ -437,7 +365,7 @@
                 ]
             },
             {
-                "url": "assets/images/letters/hindi/akshar/sha.png",
+                "url": "assets/images/letters/hindi/pinkTheme/akshar/sha.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],
@@ -448,7 +376,7 @@
                 }
             },
             {
-                "url": "assets/images/letters/hindi/akshar/ba.png",
+                "url": "assets/images/letters/hindi/pinkTheme/akshar/ba.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],

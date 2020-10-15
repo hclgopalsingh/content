@@ -160,113 +160,25 @@
                 "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
                 "location": "assets"
             },
-            "quesTabs": [
-                {
-                    "ques_tab": {
-                        "id": "001",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabIdx": {
-                            "url": "tab1Idx.svg",
-                            "location": "assets"
-                        }
-                    }
+            "quesTabs": {
+                "quesID": 2,
+                "tabCircleDisabled": {
+                  "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
+                  "location": "assets"
                 },
-                {
-                    "ques_tab": {
-                        "id": "002",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabIdx": {
-                            "url": "tab1Idx.svg",
-                            "location": "assets"
-                        }
-                    }
+                "tabCircleActive": {
+                  "url": "assets/images/EVAGlobal/quesBulletActive.png",
+                  "location": "assets"
                 },
-                {
-                    "ques_tab": {
-                        "id": "003",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabIdx": {
-                            "url": "tab1Idx.svg",
-                            "location": "assets"
-                        }
-                    }
+                "tabCircleVisited": {
+                  "url": "assets/images/EVAGlobal/quesBulletVisited.png",
+                  "location": "assets"
                 },
-                {
-                    "ques_tab": {
-                        "id": "004",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabIdx": {
-                            "url": "tab1Idx.svg",
-                            "location": "assets"
-                        }
-                    }
-                },
-                {
-                    "ques_tab": {
-                        "id": "005",
-                        "tabcircle": {
-                            "url": "assets/images/EVAGlobal/quesBullet.png",
-                            "location": "assets"
-                        },
-                        "tabcircleActive": {
-                            "url": "assets/images/EVAGlobal/quesBulletActive.png",
-                            "location": "assets"
-                        },
-                        "tabcircleVisited": {
-                            "url": "assets/images/EVAGlobal/quesBulletVisited.png",
-                            "location": "assets"
-                        },
-                        "tabIdx": {
-                            "url": "tab1Idx.svg",
-                            "location": "assets"
-                        }
-                    }
+                "tabCircleUnVisited": {
+                  "url": "assets/images/EVAGlobal/quesBullet.png",
+                  "location": "assets"
                 }
-            ]
+              }
         },
         "isFirstQues": false
     },
@@ -290,7 +202,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/i.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/i.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -314,7 +226,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/aa.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/aa.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -338,7 +250,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/o.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/o.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -362,7 +274,7 @@
                 "location": "content"
             },
             "image": {
-                "url": "assets/images/letters/hindi/matra/an.png",
+                "url": "assets/images/letters/hindi/pinkTheme/matra/an.png",
                 "location": "assets"
             },
             "optBg_hover": {
@@ -399,7 +311,7 @@
         },
         "letters": [
             {
-                "url": "assets/images/letters/hindi/akshar/sa.png",
+                "url": "assets/images/letters/hindi/pinkTheme/akshar/sa.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],
@@ -423,7 +335,7 @@
                 ]
             },
             {
-                "url": "assets/images/letters/hindi/akshar/i.png",
+                "url": "assets/images/letters/hindi/pinkTheme/akshar/i.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],
@@ -434,7 +346,7 @@
                 }
             },
             {
-                "url": "assets/images/letters/hindi/akshar/ka.png",
+                "url": "assets/images/letters/hindi/pinkTheme/akshar/ka.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],
@@ -458,7 +370,7 @@
                 ]
             },
             {
-                "url": "assets/images/letters/hindi/akshar/la.png",
+                "url": "assets/images/letters/hindi/pinkTheme/akshar/la.png",
                 "location": "assets",
                 "hasmatra": false,
                 "matraadded": [],

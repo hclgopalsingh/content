@@ -35,6 +35,14 @@
                         "url": "",
                         "location": ""
                     },
+                    "img_partialinc_rightfeedback_audio": {
+                        "url": "",
+                        "location": ""
+                    },
+                    "img_partialinc_wrongfeedback_audio": {
+                        "url": "assets/options/wrongFeedbackAudio1.ogg",
+                        "location": "content"
+                    },
                     "imgwrongfeedback_audio": {
                         "url": "assets/options/wrongFeedbackAudio1.ogg",
                         "location": "content"
@@ -57,6 +65,14 @@
                     "imgrightfeedback_audio": {
                         "url": "",
                         "location": ""
+                    },
+                    "img_partialinc_rightfeedback_audio": {
+                        "url": "",
+                        "location": ""
+                    },
+                    "img_partialinc_wrongfeedback_audio": {
+                        "url": "assets/options/wrongFeedbackAudio2.ogg",
+                        "location": "content"
                     },
                     "imgwrongfeedback_audio": {
                         "url": "assets/options/wrongFeedbackAudio2.ogg",
@@ -85,6 +101,14 @@
                         "url": "",
                         "location": ""
                     },
+                    "img_partialinc_rightfeedback_audio": {
+                        "url": "",
+                        "location": ""
+                    },
+                    "img_partialinc_wrongfeedback_audio": {
+                        "url": "assets/options/wrongFeedbackAudio3.ogg",
+                        "location": "content"
+                   },
                     "imgwrongfeedback_audio": {
                         "url": "assets/options/wrongFeedbackAudio3.ogg",
                         "location": "content"
@@ -107,6 +131,14 @@
                     "imgrightfeedback_audio": {
                         "url": "assets/options/rightFeedbackAudio4.ogg",
                         "location": "content"
+                    },
+                    "img_partialinc_rightfeedback_audio": {
+                        "url": "assets/options/partial_inc_rightFeedbackAudio4.ogg",
+                        "location": "content"
+                    },
+                    "img_partialinc_wrongfeedback_audio": {
+                        "url": "",
+                        "location": ""
                     },
                     "imgwrongfeedback_audio": {
                         "url": "",
@@ -271,19 +303,35 @@
       "url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
       "location": "content"
     },
-    "popup_instruction_bg": {
-      "url": "instructionBase.svg",
-      "location": "content"
+        "rightAnswerpopupTxt": {
+      "url":"assets/popups/right_feedback/rightAnswerpopupTxt.png",
+      "location":"content",
+      "required":true
     },
-    "popup_instruction_img": {
-      "url": "instructionText.svg",
-      "location": "content"
+    "wrongAnswerpopupTxt": {
+      "url":"assets/popups/wrong_feedback/wronganspopupTxt.png",
+      "location":"content",
+      "required":true
+    },
+    "showAnswerpopupTxt": {
+      "url":"assets/popups/show_answer/rightAnswerpopupTxt.png",
+      "location":"content",
+      "required":true
+    },
+    "partialIncorrAnswerpopupTxt": {
+      "url":"assets/popups/partial_feedback/partialincorrectpopupTxt.png",
+      "location":"content",
+      "required":true
+    },
+    "wrongAnswerAudio":{
+      "url":"assets/popups/wrong_feedback/WrongFeedback.ogg",
+      "location":"content"
+    },
+    "partialwrongAnswerAudio":{
+      "url":"assets/popups/partial_feedback/WrongFeedback.ogg",
+      "location":"content"
     },
     "popup_commmon_imgs": {
-      "bg_img": {
-        "url": "",
-        "location": "content"
-      },
       "close_btn": {
         "urlglobal": "global/popups/closeBtn.png",
         "location": "theme"
