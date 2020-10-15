@@ -3,11 +3,11 @@
     "theme_name": "theme1",
     "commonassets": {
         "instruction_bg": {
-            "url": "assets/options/instructionBar.png",
+            "url": "assets/instructionBar.png",
             "location": "content"
         },
         "instruction": {
-            "url": "assets/options/narrator.ogg",
+            "url": "assets/narrator.ogg",
             "location": "content"
         },
         "instruction_img": {
@@ -15,7 +15,7 @@
             "location": "content"
         },
         "narrator": {
-            "url": "assets/options/narrator.ogg",
+            "url": "assets/narrator.ogg",
             "location": "content"
         },
         "background": {
@@ -370,7 +370,7 @@
         
         "questype": "image",
         "quesInstruction": {
-            "url": "assets/options/narrator.ogg",
+            "url": "assets/narrator.ogg",
             "location": "content",
             "autoPlay": true
         },
