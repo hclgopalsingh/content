@@ -27,8 +27,12 @@
 					"url": "assets/Question_area/quesImg-1.png",
 				    "location": "content"
 				},
+				"bgImg":{
+					"url":"assets/Question_area/quesbgImg.png",
+					"location": "content"
+				},
 				"fullscreenImg":{
-					"url": "assets/Question_area/quesImg-1.png",
+					"url": "assets/Question_area/fullImg.png",
 				    "location": "content"
 				},
 				"flag":true
