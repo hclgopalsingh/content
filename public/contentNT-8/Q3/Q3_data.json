@@ -11,7 +11,7 @@
 			"location": "content"
 		},
 		"background": {
-			"urlglobal": "global/tabs/bg/bg_5.svg",
+			"urlglobal": "global/tabs/bg/bg_3.svg",
 			"location": "theme"
 		},
 		"ReplaybtnFromContent": true,

@@ -11,7 +11,7 @@
 			"location": "content"
 		},
 		"background": {
-			"urlglobal": "global/tabs/bg/bg_5.svg",
+			"urlglobal": "global/tabs/bg/bg_1.svg",
 			"location": "theme"
 		},
 		"ReplaybtnFromContent": true,
@@ -546,7 +546,7 @@
 		"timeLimit": 10,
 		"noOfQues": "5_ques",
 		"submitRequired": true,
-		"replayRequired": true,
+		"replayRequired": false,
 		"quesIdx": 0
 	},
 
