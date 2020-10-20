@@ -256,7 +256,12 @@
 		"wrong_sound": {
 			"url": "assets/Question_area/wrongFeedbackAudio1.ogg",
 			"location": "content"
-		}
+		},
+		"AnswerpopupTxt": {
+			"url":"assets/popups/show_answer/popUpTxt.png",
+			"location":"content",
+			"required":true
+		  }
 	},
 
 	"partialIncorrect_sound": {
