@@ -3222,7 +3222,7 @@
 			"location": "content"
 		},
 		"AnswerpopupTxt": {
-			"url":"assets/popups/show_answer/popUpTxt.png",
+			"url":"assets/popups/partial_feedback/partialincorrectpopupTxt.png",
 			"location":"content",
 			"required":true
 		  },
