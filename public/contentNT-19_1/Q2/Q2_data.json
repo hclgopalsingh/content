@@ -233,7 +233,7 @@
                     "location": "content"
                 },
                 "imgsrc_blink": {
-                    "url": "assets/question/emptybox.png",
+                    "url": "assets/options/option1_blink.png",
                     "location": "content"
                 },
                 "imgsrc_original": {
@@ -255,7 +255,7 @@
                     "location": "content"
                 },
                 "imgsrc_blink": {
-                    "url": "assets/question/emptybox.png",
+                    "url": "assets/options/option2_blink.png",
                     "location": "content"
                 },
                 "imgsrc_original": {
@@ -277,7 +277,7 @@
                     "location": "content"
                 },
                 "imgsrc_blink": {
-                    "url": "assets/question/emptybox.png",
+                    "url": "assets/options/option3_blink.png",
                     "location": "content"
                 },
                 "imgsrc_original": {
@@ -299,7 +299,7 @@
                     "location": "content"
                 },
                 "imgsrc_blink": {
-                    "url": "assets/question/emptybox.png",
+                    "url": "assets/options/option4_blink.png",
                     "location": "content"
                 },
                 "imgsrc_original": {
@@ -321,7 +321,7 @@
                     "location": "content"
                 },
                 "imgsrc_blink": {
-                    "url": "assets/question/emptybox.png",
+                    "url": "assets/options/option5_blink.png",
                     "location": "content"
                 },
                 "imgsrc_original": {

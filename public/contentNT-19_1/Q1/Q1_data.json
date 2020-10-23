@@ -233,7 +233,7 @@
                     "location": "content"
                 },
                 "imgsrc_blink": {
-                    "url": "assets/question/emptybox.png",
+                    "url": "assets/options/option1_blink.png",
                     "location": "content"
                 },
                 "imgsrc_original": {
@@ -255,7 +255,7 @@
                     "location": "content"
                 },
                 "imgsrc_blink": {
-                    "url": "assets/question/emptybox.png",
+                    "url": "assets/options/option2_blink.png",
                     "location": "content"
                 },
                 "imgsrc_original": {
@@ -277,7 +277,7 @@
                     "location": "content"
                 },
                 "imgsrc_blink": {
-                    "url": "assets/question/emptybox.png",
+                    "url": "assets/options/option3_blink.png",
                     "location": "content"
                 },
                 "imgsrc_original": {
@@ -299,7 +299,7 @@
                     "location": "content"
                 },
                 "imgsrc_blink": {
-                    "url": "assets/question/emptybox.png",
+                    "url": "assets/options/option4_blink.png",
                     "location": "content"
                 },
                 "imgsrc_original": {
@@ -449,66 +449,63 @@
         },
         "confirm_popup": {
             "style_header": {
-                "border": "solid .4vmin #85d222",
-                "border-top-left-radius": "20px",
-                "border-top-right-radius": "20px",
-                "background": "#248446"
+              "border": "solid .4vmin #057499",
+              "border-top-left-radius": "20px",
+              "border-top-right-radius": "20px",
+              "background": "#129fc1"
             },
             "style_body": {
-                "border": "solid .4vmin #85d222",
-                "border-bottom-left-radius": "20px",
-                "border-bottom-right-radius": "20px",
-                "background": "#afdec0"
+              "border": "solid .4vmin #057499",
+              "border-bottom-left-radius": "20px",
+              "border-bottom-right-radius": "20px",
+              "border-top": "none",
+              "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
             },
             "headerTxt_img": {
-                "url": "PopupConfirmHeader.png",
-                "location": "content"
-            },
-            "bg_img": {
-                "url": "",
-                "location": "content"
+              "url": "assets/popups/show_answer_confirmation/header_confirm_text.png",
+              "location": "content"
             },
             "close_btn": {
-                "url": "closeBtn.png",
-                "location": "content"
+              "urlglobal": "global/popups/closeBtn.png",
+              "location": "theme"
             },
             "close_btn_hover": {
-                "url": "closeBtnHover.png",
-                "location": "content"
+              "urlglobal": "global/popups/closeBtnHover.png",
+              "location": "theme"
             },
             "close_btn_original": {
-                "url": "closeBtn.png",
-                "location": "content"
+              "urlglobal": "global/popups/closeBtn.png",
+              "location": "theme"
             },
             "confirm_text": {
-                "url": "confirmation_popup_text.png",
-                "location": "content"
+              "url": "assets/popups/show_answer_confirmation/confirmation_popup_text.png",
+              "location": "content"
             },
             "confirm_btn": {
-                "url": "yes_btn.png",
-                "location": "content"
+              "urlglobal": "global/popups/yes_btn.png",
+              "location": "theme"
             },
             "confirm_btn_hover": {
-                "url": "yes_btn_Hover.png",
-                "location": "content"
+              "urlglobal": "global/popups/yes_btn_Hover.png",
+              "location": "theme"
             },
             "confirm_btn_original": {
-                "url": "yes_btn.png",
-                "location": "content"
+              "urlglobal": "global/popups/yes_btn.png",
+              "location": "theme"
             },
             "decline_btn": {
-                "url": "no_btn.png",
-                "location": "content"
+              "urlglobal": "global/popups/no_btn.png",
+              "location": "theme"
             },
             "decline_btn_hover": {
-                "url": "no_btn_Hover.png",
-                "location": "content"
+              "urlglobal": "global/popups/no_btn_Hover.png",
+              "location": "theme"
             },
             "decline_btn_original": {
-                "url": "no_btn.png",
-                "location": "content"
+              "urlglobal": "global/popups/no_btn.png",
+              "location": "theme"
             }
-        },
+          },
         "submit_popup": {
             "style_header": {
                 "border": "solid .4vmin #85d222",
