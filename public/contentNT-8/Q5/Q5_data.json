@@ -13,20 +13,7 @@
 		"background": {
 			"urlglobal": "global/tabs/bg/bg_5.svg",
 			"location": "theme"
-		},
-		"ReplaybtnFromContent":true,
-		"replay_btn": {
-			"url": "assets/question/video_btn.svg",
-			"location": "content"
-		},
-		"replay_btn_hover": {
-			"url": "assets/question/video_stream_btn.svg",
-			"location": "content"
-		},
-		"replay_btn_original": {
-			"url": "assets/question/video_btn.svg",
-			"location": "content"
-		},		
+		},	
 		"isFirstQues": true,
 		"imgCount": 2
 	},
@@ -522,6 +509,7 @@
 	},
 
 	"quesObj": {
+		"videoQues":false,
 		"quesVideo": {
 			"urlOgv": "assets/question/video.ogg",
 			"urlMP4": "",
@@ -542,11 +530,11 @@
 			}
 		},
 		"isLastQues": true,
-		"isNewQues": false,
+		"isNewQues": true,
 		"timeLimit": 10,
 		"noOfQues": "5_ques",
 		"submitRequired": true,
-    	"replayRequired": true,
+    	"replayRequired": false,
 		"quesIdx": 4
 	},
 
@@ -571,16 +559,52 @@
 			"url": "assets/board/pass_btn_red.png",
 			"location": "content"
 		},
-		"video_stop":{
-			"url": "assets/question/pause.svg",
+		"replay_btn": {
+			"url": "assets/video/video_btn.png",
 			"location": "content"
 		},
-		"video_stop_original":{
-			"url": "assets/question/pause.svg",
+		"replay_btn_hover": {
+			"url": "assets/video/video_stream_btn.png",
 			"location": "content"
 		},
-		"video_stop_hover":{
-			"url": "assets/question/PauseHover.svg",
+		"replay_btn_original": {
+			"url": "assets/video/video_btn.png",
+			"location": "content"
+		},
+		"video_pause": {
+			"url": "assets/video/pause.svg",
+			"location": "content"
+		},
+		"video_pause_original": {
+			"url": "assets/video/pause.svg",
+			"location": "content"
+		},
+		"video_pause_hover": {
+			"url": "assets/video/PauseHover.svg",
+			"location": "content"
+		},
+		"video_play": {
+			"url": "assets/video/play.svg",
+			"location": "content"
+		},
+		"video_play_original": {
+			"url": "assets/video/play.svg",
+			"location": "content"
+		},
+		"video_play_hover": {
+			"url": "assets/video/PlayHover.svg",
+			"location": "content"
+		},
+		"video_skip": {
+			"url": "assets/video/SkipButton.svg",
+			"location": "content"
+		},
+		"video_skip_original": {
+			"url": "assets/video/SkipButton.svg",
+			"location": "content"
+		},
+		"video_skip_hover": {
+			"url": "assets/video/SkipButtonHover.svg",
 			"location": "content"
 		}
 	},
