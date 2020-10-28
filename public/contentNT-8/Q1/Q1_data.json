@@ -509,11 +509,15 @@
 	},
 
 	"quesObj": {
-		"videoQues":false,
+		"videoQues":true,
 		"quesVideo": {
 			"urlOgv": "assets/question/video.ogg",
 			"urlMP4": "",
 			"location": "content"
+		},
+		"videoPoster":{
+			"url":"assets/question/scaned.png",
+			"location":"content"
 		},
 		"quesImg": {
 			"imgsrc": {

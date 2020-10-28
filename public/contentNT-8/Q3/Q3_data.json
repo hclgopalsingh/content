@@ -515,6 +515,10 @@
 			"urlMP4": "",
 			"location": "content"
 		},
+		"videoPoster":{
+			"url":"assets/question/scaned.png",
+			"location":"content"
+		},
 		"quesImg": {
 			"imgsrc": {
 				"url": "assets/question/scaned.png",
