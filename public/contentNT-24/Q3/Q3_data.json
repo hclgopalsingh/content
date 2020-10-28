@@ -409,7 +409,9 @@
 			"url": "ques_vo.ogg",
 			"location": "content",
 			"autoPlay": true
-		}
+		},
+		"submitRequired": true,
+        "replayRequired": true
 	},
 
 
