@@ -1,4 +1,5 @@
-{
+{	"productType": "elementary",
+    "theme_name": "theme1",
 	"commonassets": {
 		"instruction_img": {
 			"url": "instruction_bar.png",
@@ -9,8 +10,8 @@
 			"location": "content"
 		},
 		"background": {
-			"url": "bg_4.svg",
-			"location": "content"
+			"urlglobal": "global/tabs/bg/bg_4.svg",
+			"location": "theme"
 		},
 		"ques_control": {
 			"aagey_badhein": {

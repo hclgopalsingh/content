@@ -1,16 +1,17 @@
-{
+{	"productType": "elementary",
+    "theme_name": "theme1",
 	"commonassets": {
 		"instruction_img": {
-			"url": "instruction_bar.png",
+			"url": "assets/instruction_bar.png",
 			"location": "content"
 		},
 		"instruction_vo": {
-			"url": "ques_vo.ogg",
+			"url": "assets/ques_vo.ogg",
 			"location": "content"
 		},
 		"background": {
-			"url": "bg_1.svg",
-			"location": "content"
+			"urlglobal": "global/tabs/bg/bg_1.svg",
+			"location": "theme"
 		},
 		"ques_control": {
 			"aagey_badhein": {
@@ -458,7 +459,9 @@
 			"url": "ques_vo.ogg",
 			"location": "content",
 			"autoPlay": true
-		}
+		},
+		"submitRequired": true,
+        "replayRequired": false
 	},
 
 
