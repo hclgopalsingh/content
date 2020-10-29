@@ -6,10 +6,6 @@
 			"url": "assets/instructionBar.png",
 			"location": "content"
 		},
-		"instruction_vo": {
-			"url": "assets/ques_vo.ogg",
-			"location": "content"
-		},
 		"background": {
 			"urlglobal": "global/tabs/bg/bg_5.svg",
 			"location": "theme"
@@ -519,13 +515,14 @@
 			"url":"assets/question/scaned.png",
 			"location":"content"
 		},
+		"quesAudio": {
+			"url": "assets/ques_vo.ogg",
+			"location": "content",
+			"autoplay":false
+		},
 		"quesImg": {
 			"imgsrc": {
 				"url": "assets/question/scaned.png",
-				"location": "content"
-			},
-			"quesAudio": {
-				"url": "assets/ques_vo.ogg",
 				"location": "content"
 			},
 			"timeBg":{
