@@ -518,7 +518,7 @@
 		"quesAudio": {
 			"url": "assets/ques_vo.ogg",
 			"location": "content",
-			"autoplay":false
+			"autoplay":true
 		},
 		"quesImg": {
 			"imgsrc": {

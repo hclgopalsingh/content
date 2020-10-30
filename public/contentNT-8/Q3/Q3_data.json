@@ -505,9 +505,9 @@
 	},
 
 	"quesObj": {
-		"videoQues":false,
+		"videoQues":true,
 		"quesVideo": {
-			"urlOgv": "assets/question/video.ogg",
+			"urlOgv": "assets/question/video.ogv",
 			"urlMP4": "",
 			"location": "content"
 		},
@@ -518,7 +518,7 @@
 		"quesAudio": {
 			"url": "assets/ques_vo.ogg",
 			"location": "content",
-			"autoplay":false
+			"autoplay":true
 		},
 		"quesImg": {
 			"imgsrc": {

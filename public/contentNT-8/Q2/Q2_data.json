@@ -507,9 +507,9 @@
 	"quesObj": {
 		"videoQues":false,
 		"quesVideo": {
-			"urlOgv": "",
+			"urlOgv": "assets/question/video.ogv",
 			"urlMP4": "",
-			"location": "content"			
+			"location": "content"
 		},
 		"videoPoster":{
 			"url":"assets/question/scaned.png",
@@ -518,7 +518,7 @@
 		"quesAudio": {
 			"url": "assets/ques_vo.ogg",
 			"location": "content",
-			"autoplay":false
+			"autoplay":true
 		},
 		"quesImg": {
 			"imgsrc": {
