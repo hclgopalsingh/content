@@ -22,26 +22,6 @@
             "urlglobal": "global/tabs/bg/bg_5.svg",
             "location": "theme"
         },
-        "animation": {
-            "img": {
-                "url": "happyFixedAnimation.webp"
-            },
-            "audio": {
-                "url": "clap.ogg"
-            },
-            "location": "content",
-            "timeout": 5000
-        },
-        "wrongAnimationAssts": {
-            "img": {
-                "url": "sadFixedAnimation.gif"
-            },
-            "audio": {
-                "url": "shake.ogg"
-            },
-            "location": "content",
-            "timeout": 5000
-        }, 
         "isFirstQues": false,
         "imgCount": 6
     },
@@ -236,11 +216,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropboxHover.png",
+                "url": "assets/options/dropboxHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -248,7 +228,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -276,11 +256,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropboxHover.png",
+                "url": "assets/options/dropboxHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -288,7 +268,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -316,11 +296,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropboxHover.png",
+                "url": "assets/options/dropboxHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -328,7 +308,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -356,11 +336,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropboxHover.png",
+                "url": "assets/options/dropboxHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -368,7 +348,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -396,11 +376,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropboxHover.png",
+                "url": "assets/options/dropboxHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -408,7 +388,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -495,7 +475,7 @@
                     "location": "content"
                 },
                 "correctimg": {
-                    "url": "dropboxRight.png",
+                    "url": "assets/options/dropboxRight.png",
                     "location": "content"
                 },
                 "correctAudio": {
@@ -511,7 +491,7 @@
                     "location": "content"
                 },
                 "correctimg": {
-                    "url": "dropboxRight.png",
+                    "url": "assets/options/dropboxRight.png",
                     "location": "content"
                 },
                 "correctAudio": {
@@ -527,7 +507,7 @@
                     "location": "content"
                 },
                 "correctimg": {
-                    "url": "dropboxRight.png",
+                    "url": "assets/options/dropboxRight.png",
                     "location": "content"
                 },
                 "correctAudio": {
@@ -543,7 +523,7 @@
                     "location": "content"
                 },
                 "correctimg": {
-                    "url": "dropboxRight.png",
+                    "url": "assets/options/dropboxRight.png",
                     "location": "content"
                 },
                 "correctAudio": {
@@ -558,7 +538,7 @@
                     "location": "content"
                 },
                 "correctimg": {
-                    "url": "dropboxRight.png",
+                    "url": "assets/options/dropboxRight.png",
                     "location": "content"
                 },
                 "correctAudio": {
@@ -739,7 +719,7 @@
             }
         ],
         "partialIncorrect_sound": {
-            "url": "partialPopupvoice.ogg",
+            "url": "assets/options/partialPopupvoice.ogg",
             "location": "content"
         },
         "confirm_popup": {

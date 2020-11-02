@@ -22,26 +22,7 @@
             "urlglobal": "global/tabs/bg/bg_1.svg",
             "location": "theme"
         },
-        "animation": {
-            "img": {
-                "url": "happyFixedAnimation.webp"
-            },
-            "audio": {
-                "url": "clap.ogg"
-            },
-            "location": "content",
-            "timeout": 5000
-        },
-        "wrongAnimationAssts": {
-            "img": {
-                "url": "sadFixedAnimation.gif"
-            },
-            "audio": {
-                "url": "shake.ogg"
-            },
-            "location": "content",
-            "timeout": 5000
-        },
+        
          "isFirstQues": true,
         "imgCount": 6
     },
@@ -236,11 +217,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropboxHover.png",
+                "url": "assets/options/dropboxHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -248,7 +229,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -276,11 +257,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropboxHover.png",
+                "url": "assets/options/dropboxHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -288,7 +269,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -316,11 +297,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropboxHover.png",
+                "url": "assets/options/dropboxHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -328,7 +309,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -356,11 +337,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropboxHover.png",
+                "url": "assets/options/dropboxHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -368,7 +349,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -396,11 +377,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropboxHover.png",
+                "url": "assets/options/dropboxHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -408,7 +389,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropboxNormal.png",
+                "url": "assets/options/dropboxNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -494,15 +475,15 @@
             {
                 "id": "1",
                 "imgsrc": {
-                    "url": "assets/options/ques2.png",
+                    "url": "assets/options/ques1.png",
                     "location": "content"
                 },
                 "correctimg": {
-                    "url": "dropboxRight.png",
+                    "url": "assets/options/dropboxRight.png",
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt2_correct.ogg",
+                    "url": "assets/options/opt1_correct.ogg",
                     "location": "content"
                 }
 
@@ -510,15 +491,15 @@
             {
                 "id": "2",
                 "imgsrc": {
-                    "url": "assets/options/ques1.png",
+                    "url": "assets/options/ques2.png",
                     "location": "content"
                 },
                 "correctimg": {
-                    "url": "dropboxRight.png",
+                    "url": "assets/options/dropboxRight.png",
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt1_correct.ogg",
+                    "url": "assets/options/opt2_correct.ogg",
                     "location": "content"
                 }
 
@@ -530,7 +511,7 @@
                     "location": "content"
                 },
                 "correctimg": {
-                    "url": "dropboxRight.png",
+                    "url": "assets/options/dropboxRight.png",
                     "location": "content"
                 },
                 "correctAudio": {
@@ -542,15 +523,15 @@
             {
                 "id": "3",
                 "imgsrc": {
-                    "url": "assets/options/ques5.png",
+                    "url": "assets/options/ques3.png",
                     "location": "content"
                 },
                 "correctimg": {
-                    "url": "dropboxRight.png",
+                    "url": "assets/options/dropboxRight.png",
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt5_correct.ogg",
+                    "url": "assets/options/opt3_correct.ogg",
                     "location": "content"
                 }
 
@@ -558,15 +539,15 @@
             {
                 "id": "5",
                 "imgsrc": {
-                    "url": "assets/options/ques3.png",
+                    "url": "assets/options/ques5.png",
                     "location": "content"
                 },
                 "correctimg": {
-                    "url": "dropboxRight.png",
+                    "url": "assets/options/dropboxRight.png",
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt3_correct.ogg",
+                    "url": "assets/options/opt5_correct.ogg",
                     "location": "content"
                 }
             }
@@ -742,7 +723,7 @@
             }
         ],
         "partialIncorrect_sound": {
-            "url": "partialPopupvoice.ogg",
+            "url": "assets/options/partialPopupvoice.ogg",
             "location": "content"
         },
         "confirm_popup": {
