@@ -21,7 +21,7 @@
             "location": "assets"
         },
         "sound": {
-            "url": "speaker.ogg",
+            "url": "Instruction.ogg",
             "location": "content"
         },
         "wave1":{

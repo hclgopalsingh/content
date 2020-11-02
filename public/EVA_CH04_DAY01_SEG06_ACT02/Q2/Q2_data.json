@@ -235,7 +235,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "audioOption1.ogg",
+                "url": "",
                 "location": "content"
             }
         },
@@ -259,7 +259,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "audioOption2.ogg",
+                "url": "",
                 "location": "content"
             }
         },
@@ -283,7 +283,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "audioOption3.ogg",
+                "url": "",
                 "location": "content"
             }
         }

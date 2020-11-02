@@ -36,7 +36,7 @@
         },
 
         "sound": {
-            "url": "Narrator-2.ogg",
+            "url": "Instruction.ogg",
             "location": "content"
         }
     },
@@ -224,7 +224,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "Audioforka.ogg",
+                "url": "",
                 "location": "content"
             }
         },
@@ -272,7 +272,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "Audioforma.ogg",
+                "url": "",
                 "location": "content"
             }
         }

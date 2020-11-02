@@ -21,7 +21,7 @@
             "location": "assets"
         },
         "sound": {
-            "url": "speaker.ogg",
+            "url": "Instruction.ogg",
             "location": "content"
         },
         "wave1":{
@@ -203,7 +203,7 @@
             "url": "assets/images/letters/hindi/pinkTheme/akshar/ja.png",
             "location": "assets",
             "audio": {
-                "url": "ja.ogg",
+                "url": "",
                 "location": "content"
             },
             "isMatra":  false
@@ -212,7 +212,7 @@
             "url": "assets/images/letters/hindi/pinkTheme/akshar/ma.png",
             "location": "assets",
             "audio": {
-                "url": "ma.ogg",
+                "url": "",
                 "location": "content"
             },
             "isMatra":  false,
@@ -222,7 +222,7 @@
             "url": "assets/images/letters/hindi/pinkTheme/akshar/sa.png",
             "location": "assets",
             "audio": {
-                "url": "sa.ogg",
+                "url": "",
                 "location": "content"
             },
             "isMatra":  false
