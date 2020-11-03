@@ -200,7 +200,7 @@
     "options": {
         "opts": [{
             "id": "001",
-            "url": "assets/images/letters/hindi/pinkTheme/matra/u.png",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/i.png",
             "location": "assets",
             "audio": {
                 "url": "",
@@ -215,17 +215,17 @@
                 "url": "",
                 "location": "content"
             },
-            "isMatra":true,
-            "isCorrect": true
+            "isMatra":true
         }, {
             "id": "003",
-            "url": "assets/images/letters/hindi/pinkTheme/matra/oo.png",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/ee.png",
             "location": "assets",
             "audio": {
                 "url": "",
                 "location": "content"
             },
-            "isMatra":true
+            "isMatra":true,
+            "isCorrect": true
         }]
     },   
     "quesObj": {
@@ -239,7 +239,7 @@
 			"location":"content"
 		 },
         "questionText": [{
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/aaa.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/ja.png",
             "location": "assets",            
             "hasmatra":false,
             "matravalue":"",
@@ -248,9 +248,10 @@
                 "location": "assets"
             } 
         }, {
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/pa.png",
+            "url": "assets/images/letters/hindi/pinkTheme/akshar/ma.png",
             "location": "assets",
             "hasmatra":false,
+            "addMatra":true,
             "matravalue":"",
             "matra":{
                 "url": "",
@@ -259,7 +260,6 @@
         }, {
             "url": "assets/images/letters/hindi/pinkTheme/akshar/na.png",
             "location": "assets",
-            "addMatra":true,
             "hasmatra":false,
             "matravalue":"",
             "matra":{

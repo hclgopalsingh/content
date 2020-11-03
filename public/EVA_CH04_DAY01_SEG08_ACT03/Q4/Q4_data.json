@@ -1,5 +1,5 @@
 {
-    "id": "Q001",
+    "id": "Q004",
     "imgCount": "11",
     "instructiontext": "खाली जगह के लिए सही विकल्प चुनकर शब्द बनाएं।",
     "speaker": {
@@ -175,7 +175,7 @@
             },
             
             "quesTabs": {
-                "quesID": 3,
+                "quesID": 2,
                 "tabCircleDisabled": {
                     "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
                     "location": "assets"
@@ -200,32 +200,32 @@
     "options": {
         "opts": [{
             "id": "001",
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/ka.png",
-            "location": "assets",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/aa.png",
+            "location": "asset",
             "audio": {
                 "url": "",
                 "location": "content"
             },
-            "isMatra":  false
-        }, {
-            "id": "002",
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/ja.png",
-            "location": "assets",
-            "audio": {
-                "url": "",
-                "location": "content"
-            },
-            "isMatra":  false,
+            "isMatra":true,
             "isCorrect": true
         }, {
-            "id": "003",
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/sa.png",
-            "location": "assets",
+            "id": "002",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/i.png",
+            "location": "asset",
             "audio": {
                 "url": "",
                 "location": "content"
             },
-            "isMatra":  false
+            "isMatra":true
+        }, {
+            "id": "003",
+            "url": "assets/images/letters/hindi/pinkTheme/matra/oo.png",
+            "location": "asset",
+            "audio": {
+                "url": "",
+                "location": "content"
+            },
+            "isMatra":true
         }]
     },   
     "quesObj": {
@@ -239,43 +239,24 @@
 			"location":"content"
 		 },
         "questionText": [{
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/sha.png",
-            "location": "assets",
+            "url": "na.png",
+            "location": "content",            
             "hasmatra":false,
-            "matravalue":"",
-            "matra":{
-                "url": "",
-                "location": "assets"
-            } 
-        },{
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/la.png",
-            "location": "assets",
-            "hasmatra":false,
-            "matravalue":"",
-            "matra":{
-                "url": "",
-                "location": "assets"
-            } 
-        },
-         {
-            "url": "",
-            "location": "",
-            "isBlank": "true",
-            "hasmatra":false,
+            "addMatra":true,
             "matravalue":"",
             "matra":{
                 "url": "",
                 "location": "assets"
             } 
         }, {
-            "url": "assets/images/letters/hindi/pinkTheme/akshar/ma.png",
-            "location": "assets",
+            "url": "lee.png",
+            "location": "content",
             "hasmatra":false,
             "matravalue":"",
             "matra":{
                 "url": "",
                 "location": "assets"
-            } 
+            }
         }]
     },
 
