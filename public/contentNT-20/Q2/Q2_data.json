@@ -7,7 +7,7 @@
 			"location": "content"
 		},
 		"instruction_vo": {
-			"url": "assets/ques_vo.ogg",
+			"url": "assets/ques_vo_ascending.ogg",
 			"location": "content"
 		},
 		"right_sound": {
@@ -58,8 +58,16 @@
 				"url": "../option_box_value/incorrect_box.png",
 				"location": "content"
 			},
+			"partialCorrect_box": {
+				"url": "../option_box_value/partialCorrect_box.png",
+				"location": "content"
+			},
+			"partialIncorrect_box": {
+				"url": "../option_box_value/partialIncorrect_box.png",
+				"location": "content"
+			},
 			"given_value_box": {
-				"url": "../option_box_value/given_value_box.png",
+				"url": "../option_box_value/given_value_box2.png",
 				"location": "content"
 			},
 			"option_bg": {
@@ -75,6 +83,11 @@
 			"index": 0,
 			"imgsrc": {
 				"url": "../option_box_value/opt7.png",
+				"location": "content",
+				"idImage":0
+			},
+			"imgsrc_partial": {
+				"url": "../option_box_value/partial_opt/opt7.png",
 				"location": "content",
 				"idImage":0
 			},
@@ -100,6 +113,11 @@
 				"location": "content",
 				"idImage":1
 			},
+			"imgsrc_partial": {
+				"url": "../option_box_value/partial_opt/opt6.png",
+				"location": "content",
+				"idImage":1
+			},
 			"mouse_over_audio": {
 				"url": "../option_box_value/opt2.ogg",
 				"location": "content"
@@ -119,6 +137,11 @@
 			"index": 2,
 			"imgsrc": {
 				"url": "../option_box_value/opt5.png",
+				"location": "content",
+				"idImage":2
+			},
+			"imgsrc_partial": {
+				"url": "../option_box_value/partial_opt/opt5.png",
 				"location": "content",
 				"idImage":2
 			},
@@ -144,6 +167,11 @@
 				"location": "content",
 				"idImage":3
 			},
+			"imgsrc_partial": {
+				"url": "../option_box_value/partial_opt/opt4.png",
+				"location": "content",
+				"idImage":3
+			},
 			"mouse_over_audio": {
 				"url": "../option_box_value/opt4.ogg",
 				"location": "content"
@@ -163,6 +191,11 @@
 			"index": 4,
 			"imgsrc": {
 				"url": "../option_box_value/opt3.png",
+				"location": "content",
+				"idImage":4
+			},
+			"imgsrc_partial": {
+				"url": "../option_box_value/partial_opt/opt3.png",
 				"location": "content",
 				"idImage":4
 			},
@@ -188,6 +221,11 @@
 				"location": "content",
 				"idImage":5
 			},
+			"imgsrc_partial": {
+				"url": "../option_box_value/partial_opt/opt2.png",
+				"location": "content",
+				"idImage":5
+			},
 			"mouse_over_audio": {
 				"url": "../option_box_value/opt6.ogg",
 				"location": "content"
@@ -207,6 +245,11 @@
 			"index": 6,
 			"imgsrc": {
 				"url": "../option_box_value/opt1.png",
+				"location": "content",
+				"idImage":6
+			},
+			"imgsrc_partial": {
+				"url": "../option_box_value/partial_opt/opt1.png",
 				"location": "content",
 				"idImage":6
 			},
@@ -234,7 +277,13 @@
 		"given_values": [{
 			"imgsrc": {
 				"url": "../option_box_value/opt5.png",
-				"Bg":"../option_box_value/given_value_box.png",
+				"Bg":"../option_box_value/given_value_box2.png",
+				"location": "content",
+				"given_selected":"false"
+			},
+			"imgsrc_partial": {
+				"url": "../option_box_value/partial_opt/opt5.png",
+				"Bg":"../option_box_value/given_value_box2.png",
 				"location": "content",
 				"given_selected":"false"
 			},
@@ -246,7 +295,13 @@
 		}, {
 			"imgsrc": {
 				"url": "../option_box_value/opt2.png",
-				"Bg":"../option_box_value/given_value_box.png",
+				"Bg":"../option_box_value/given_value_box2.png",
+				"location": "content",
+				"given_selected":"false"
+			},
+			"imgsrc_partial": {
+				"url": "../option_box_value/partial_opt/opt2.png",
+				"Bg":"../option_box_value/given_value_box2.png",
 				"location": "content",
 				"given_selected":"false"
 			},
@@ -264,13 +319,18 @@
 			"location": "content",
 			"autoPlay": false
 		},
+		"quesType": "ascending",
 		"quesInstruction": {
-			"url": "assets/ques_vo.ogg",
+			"url": "assets/ques_vo_ascending.ogg",
 			"location": "content",
 			"autoPlay": true
 		},
 		"quesImg": {
 			"url": "assets/extream_value/quesImg.png",
+			"location": "content"
+		},
+		"quesImg_partial": {
+			"url": "assets/extream_value/quesImg_partial.png",
 			"location": "content"
 		},
 		"min_val": 0,
@@ -308,6 +368,50 @@
 			"border-top": "none",
 			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
 		  },
+
+		  
+		  "partial_style_header": {
+			"border": "solid .4vmin #057499",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#129fc1"
+		  },
+		  "partial_style_body": {
+			"border": "solid .4vmin #057499",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+		  },
+		  "partial_right_style_header": {
+			"border": "solid .2vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"border-bottom": "none",
+			"background": "#519843"
+		  },
+		  "partial_right_style_body": {
+			"border": "solid .2vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		  },
+		  "partial_wrong_style_header": {
+			"border": "solid .2vmin #b5282e",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"border-bottom": "none",
+			"background": "#e2373d"
+		  },
+		  "partial_wrong_style_body": {
+			"border": "solid .2vmin #b5282e",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
+		  },
+
 		
 		  "headerTxt_img": {
 			"url": "../popups/partial_feedback/PopupHeaderTitle.png",
