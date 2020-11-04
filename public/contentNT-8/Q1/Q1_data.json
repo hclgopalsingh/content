@@ -197,19 +197,19 @@
 				}, {
 					"index": "03",
 					"opt_normal": {
-						"url": "assets/options/opt1.png",
+						"url": "assets/options/opt5.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "assets/options/opt1_hover.png",
+						"url": "assets/options/opt5_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "assets/options/opt1.png",
+						"url": "assets/options/opt5.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "assets/options/option1.ogg",
+						"url": "assets/options/option5.ogg",
 						"location": "content"
 					}
 				}
