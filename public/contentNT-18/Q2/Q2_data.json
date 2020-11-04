@@ -483,7 +483,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt1_correct.ogg",
+                    "url": "assets/options/opt1_correct_show_ans.ogg",
                     "location": "content"
                 }
 
@@ -499,7 +499,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt2_correct.ogg",
+                    "url": "assets/options/opt2_correct_show_ans.ogg",
                     "location": "content"
                 }
 
@@ -515,7 +515,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt4_correct.ogg",
+                    "url": "assets/options/opt4_correct_show_ans.ogg",
                     "location": "content"
                 }
 
@@ -531,7 +531,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt3_correct.ogg",
+                    "url": "assets/options/opt3_correct_show_ans.ogg",
                     "location": "content"
                 }
 
@@ -547,7 +547,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt5_correct.ogg",
+                    "url": "assets/options/opt5_correct_show_ans.ogg",
                     "location": "content"
                 }
             }

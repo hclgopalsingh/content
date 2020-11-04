@@ -467,38 +467,6 @@
     "feedback": {
         "correct_ans_index": [
             {
-                "id": "2",
-                "imgsrc": {
-                    "url": "assets/options/ques2.png",
-                    "location": "content"
-                },
-                "correctimg": {
-                    "url": "assets/options/dropboxRight.png",
-                    "location": "content"
-                },
-                "correctAudio": {
-                    "url": "assets/options/opt2_correct.ogg",
-                    "location": "content"
-                }
-
-            },
-            {
-                "id": "1",
-                "imgsrc": {
-                    "url": "assets/options/ques1.png",
-                    "location": "content"
-                },
-                "correctimg": {
-                    "url": "assets/options/dropboxRight.png",
-                    "location": "content"
-                },
-                "correctAudio": {
-                    "url": "assets/options/opt1_correct.ogg",
-                    "location": "content"
-                }
-
-            },
-            {
                 "id": "4",
                 "imgsrc": {
                     "url": "assets/options/ques4.png",
@@ -509,9 +477,10 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt4_correct.ogg",
+                    "url": "assets/options/opt4_correct_show_ans.ogg",
                     "location": "content"
                 }
+
             },
             {
                 "id": "5",
@@ -524,7 +493,38 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt5_correct.ogg",
+                    "url": "assets/options/opt5_correct_show_ans.ogg",
+                    "location": "content"
+                }
+
+            },
+            {
+                "id": "2",
+                "imgsrc": {
+                    "url": "assets/options/ques2.png",
+                    "location": "content"
+                },
+                "correctimg": {
+                    "url": "assets/options/dropboxRight.png",
+                    "location": "content"
+                },
+                "correctAudio": {
+                    "url": "assets/options/opt2_correct_show_ans.ogg",
+                    "location": "content"
+                }
+            },
+            {
+                "id": "1",
+                "imgsrc": {
+                    "url": "assets/options/ques1.png",
+                    "location": "content"
+                },
+                "correctimg": {
+                    "url": "assets/options/dropboxRight.png",
+                    "location": "content"
+                },
+                "correctAudio": {
+                    "url": "assets/options/opt1_correct_show_ans.ogg",
                     "location": "content"
                 }
 
@@ -540,7 +540,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt3_correct.ogg",
+                    "url": "assets/options/opt3_correct_show_ans.ogg",
                     "location": "content"
                 }
 
