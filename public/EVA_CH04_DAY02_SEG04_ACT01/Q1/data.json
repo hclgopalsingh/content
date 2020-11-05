@@ -260,7 +260,7 @@
         "location": "assets"
       },
       "audio": {
-        "url": "",
+        "url": "media/option1_11.ogg",
         "location": "content"
       }
     },
@@ -283,12 +283,8 @@
         "url": "assets/images/EVAGlobal/template_08/optBase2Hover.svg",
         "location": "assets"
       },
-      "img_ques_block": {
-        "url": "opt2QuesBlock.svg",
-        "location": "content"
-      },
-      "img_ques_block_blink": {
-        "url": "opt2QuesBlockBlink.svg",
+      "audio": {
+        "url": "media/option2_15.ogg",
         "location": "content"
       }
     },
@@ -311,12 +307,8 @@
         "url": "assets/images/EVAGlobal/template_08/optBase3Hover.svg",
         "location": "assets"
       },
-      "img_ques_block": {
-        "url": "opt3QuesBlock.svg",
-        "location": "content"
-      },
-      "img_ques_block_blink": {
-        "url": "opt3QuesBlockBlink.svg",
+      "audio": {
+        "url": "media/option3_16.ogg",
         "location": "content"
       }
     }

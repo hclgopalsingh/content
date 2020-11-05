@@ -255,16 +255,9 @@
         "url": "assets/images/EVAGlobal/template_08/optBase1Hover.svg",
         "location": "assets"
       },
-      "img_ques_block": {
-        "url": "opt1QuesBlock.svg",
+      "audio": {
+        "url": "media/option1_10.ogg",
         "location": "content"
-      },
-      "img_ques_block_blink": {
-        "url": "opt1QuesBlockBlink.svg",
-        "location": "content"
-      },
-      "right_wrong_popup": {
-        
       }
     },
     {
@@ -286,12 +279,8 @@
         "url": "assets/images/EVAGlobal/template_08/optBase2Hover.svg",
         "location": "assets"
       },
-      "img_ques_block": {
-        "url": "opt2QuesBlock.svg",
-        "location": "content"
-      },
-      "img_ques_block_blink": {
-        "url": "opt2QuesBlockBlink.svg",
+      "audio": {
+        "url": "media/option2_11.ogg",
         "location": "content"
       }
     },
@@ -314,12 +303,8 @@
         "url": "assets/images/EVAGlobal/template_08/optBase3Hover.svg",
         "location": "assets"
       },
-      "img_ques_block": {
-        "url": "opt3QuesBlock.svg",
-        "location": "content"
-      },
-      "img_ques_block_blink": {
-        "url": "opt3QuesBlockBlink.svg",
+      "audio": {
+        "url": "media/option3_12.ogg",
         "location": "content"
       }
     }
