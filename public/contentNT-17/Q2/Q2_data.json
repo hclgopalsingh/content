@@ -431,8 +431,12 @@
         "urlglobal": "global/popups/closeBtn.png",
         "location": "theme"
       },
-	  "info_text": {
+	  "info_text1": {
 		"url": "assets/popups/look_for_more_options/lookformore_popup_text.png",
+		"location": "content"
+	  },
+	  "info_text2": {
+		"url": "assets/popups/look_for_more_options/msg2.png",
 		"location": "content"
 	  },
 	  "ok_btn": {

@@ -6,27 +6,10 @@
 			"url": "assets/instructionBar.png",
 			"location": "content"
 		},
-		"instruction_vo": {
-			"url": "assets/ques_vo.ogg",
-			"location": "content"
-		},
 		"background": {
-			"urlglobal": "global/tabs/bg/bg_5.svg",
+			"urlglobal": "global/tabs/bg/bg_1.svg",
 			"location": "theme"
-		},
-		"ReplaybtnFromContent": true,
-		"replay_btn": {
-			"url": "assets/question/video_btn.svg",
-			"location": "content"
-		},
-		"replay_btn_hover": {
-			"url": "assets/question/video_stream_btn.svg",
-			"location": "content"
-		},
-		"replay_btn_original": {
-			"url": "assets/question/video_btn.svg",
-			"location": "content"
-		},
+		},		
 		"isFirstQues": true,
 		"imgCount": 2
 	},
@@ -214,19 +197,19 @@
 				}, {
 					"index": "03",
 					"opt_normal": {
-						"url": "assets/options/opt1.png",
+						"url": "assets/options/opt5.png",
 						"location": "content"
 					},
 					"opt_hover": {
-						"url": "assets/options/opt1_hover.png",
+						"url": "assets/options/opt5_hover.png",
 						"location": "content"
 					},
 					"opt_original": {
-						"url": "assets/options/opt1.png",
+						"url": "assets/options/opt5.png",
 						"location": "content"
 					},
 					"mouse_over_audio": {
-						"url": "assets/options/option1.ogg",
+						"url": "assets/options/option5.ogg",
 						"location": "content"
 					}
 				}
@@ -522,20 +505,26 @@
 	},
 
 	"quesObj": {
+		"videoQues":true,
 		"quesVideo": {
-			"urlOgv": "assets/question/video.ogg",
+			"urlOgv": "assets/question/video.ogv",
 			"urlMP4": "",
 			"location": "content"
+		},
+		"videoPoster":{
+			"url":"assets/question/scaned.png",
+			"location":"content"
+		},
+		"quesAudio": {
+			"url": "assets/ques_vo.ogg",
+			"location": "content",
+			"autoplay":true
 		},
 		"quesImg": {
 			"imgsrc": {
 				"url": "assets/question/scaned.png",
 				"location": "content"
-			},
-			"quesAudio": {
-				"url": "assets/ques_vo.ogg",
-				"location": "content"
-			},
+			},			
 			"timeBg": {
 				"url": "assets/question/timer_base.png",
 				"location": "content"
@@ -546,7 +535,7 @@
 		"timeLimit": 10,
 		"noOfQues": "5_ques",
 		"submitRequired": true,
-		"replayRequired": true,
+		"replayRequired": false,
 		"quesIdx": 0
 	},
 
@@ -571,16 +560,52 @@
 			"url": "assets/board/pass_btn_red.png",
 			"location": "content"
 		},
-		"video_stop": {
-			"url": "assets/question/pause.svg",
+		"replay_btn": {
+			"url": "assets/video/video_btn.png",
 			"location": "content"
 		},
-		"video_stop_original": {
-			"url": "assets/question/pause.svg",
+		"replay_btn_hover": {
+			"url": "assets/video/video_stream_btn.png",
 			"location": "content"
 		},
-		"video_stop_hover": {
-			"url": "assets/question/PauseHover.svg",
+		"replay_btn_original": {
+			"url": "assets/video/video_btn.png",
+			"location": "content"
+		},
+		"video_pause": {
+			"url": "assets/video/pause.svg",
+			"location": "content"
+		},
+		"video_pause_original": {
+			"url": "assets/video/pause.svg",
+			"location": "content"
+		},
+		"video_pause_hover": {
+			"url": "assets/video/PauseHover.svg",
+			"location": "content"
+		},
+		"video_play": {
+			"url": "assets/video/play.svg",
+			"location": "content"
+		},
+		"video_play_original": {
+			"url": "assets/video/play.svg",
+			"location": "content"
+		},
+		"video_play_hover": {
+			"url": "assets/video/PlayHover.svg",
+			"location": "content"
+		},
+		"video_skip": {
+			"url": "assets/video/SkipButton.svg",
+			"location": "content"
+		},
+		"video_skip_original": {
+			"url": "assets/video/SkipButton.svg",
+			"location": "content"
+		},
+		"video_skip_hover": {
+			"url": "assets/video/SkipButtonHover.svg",
 			"location": "content"
 		}
 	},
