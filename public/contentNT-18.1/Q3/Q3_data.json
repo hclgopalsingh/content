@@ -433,21 +433,6 @@
     "feedback": {
         "correct_ans_index": [
             {
-                "id": "3",
-                "imgsrc": {
-                    "url": "assets/options/ques3.png",
-                    "location": "content"
-                },
-                "correctimg": {
-                    "url": "dropCircleRight.png",
-                    "location": "content"
-                },
-                "correctAudio": {
-                    "url": "assets/options/opt3_correct.ogg",
-                    "location": "content"
-                }
-            },
-            {
                 "id": "2",
                 "imgsrc": {
                     "url": "assets/options/ques2.png",
@@ -461,7 +446,6 @@
                     "url": "assets/options/opt2_correct.ogg",
                     "location": "content"
                 }
-
             },
             {
                 "id": "1",
@@ -475,6 +459,22 @@
                 },
                 "correctAudio": {
                     "url": "assets/options/opt1_correct.ogg",
+                    "location": "content"
+                }
+
+            },
+            {
+                "id": "5",
+                "imgsrc": {
+                    "url": "assets/options/ques5.png",
+                    "location": "content"
+                },
+                "correctimg": {
+                    "url": "dropCircleRight.png",
+                    "location": "content"
+                },
+                "correctAudio": {
+                    "url": "assets/options/opt5_correct.ogg",
                     "location": "content"
                 }
 
@@ -496,9 +496,9 @@
 
             },
             {
-                "id": "5",
+                "id": "3",
                 "imgsrc": {
-                    "url": "assets/options/ques5.png",
+                    "url": "assets/options/ques3.png",
                     "location": "content"
                 },
                 "correctimg": {
@@ -506,7 +506,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt5_correct.ogg",
+                    "url": "assets/options/opt3_correct.ogg",
                     "location": "content"
                 }
 
