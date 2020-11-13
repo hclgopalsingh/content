@@ -42,6 +42,14 @@
                 "url": "assets/options/ques1.png",
                 "location": "content"
             },
+            "imgsrc_right": {
+                "url": "assets/options/ques1R.png",
+                "location": "content"
+            },
+            "imgsrc_wrong": {
+                "url": "assets/options/ques1W.png",
+                "location": "content"
+            },
             "correctAudio": {
                 "url": "assets/options/opt1_correct.ogg",
                 "location": "content"
@@ -65,6 +73,14 @@
             },
             "imgsrc_original": {
                 "url": "assets/options/ques2.png",
+                "location": "content"
+            },
+            "imgsrc_right": {
+                "url": "assets/options/ques2R.png",
+                "location": "content"
+            },
+            "imgsrc_wrong": {
+                "url": "assets/options/ques2W.png",
                 "location": "content"
             },
             "correctAudio": {
@@ -92,6 +108,14 @@
                 "url": "assets/options/ques3.png",
                 "location": "content"
             },
+            "imgsrc_right": {
+                "url": "assets/options/ques3R.png",
+                "location": "content"
+            },
+            "imgsrc_wrong": {
+                "url": "assets/options/ques3W.png",
+                "location": "content"
+            },
             "correctAudio": {
                 "url": "assets/options/opt3_correct.ogg",
                 "location": "content"
@@ -100,59 +124,49 @@
                 "url": "assets/options/opt3_incorrect.ogg",
                 "location": "content"
             }
-        },
-        {
-            "id": "4",
-            "position": "top",
-            "sequenceNo": 4,
-            "imgsrc": {
-                "url": "assets/options/ques4.png",
-                "location": "content"
-            },
-            "imgsrc_blink": {
-                "url": "assets/options/ques4Blink.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/options/ques4.png",
-                "location": "content"
-            },
-            "correctAudio": {
-                "url": "assets/options/opt4_correct.ogg",
-                "location": "content"
-            },
-            "incorrectAudio": {
-                "url": "assets/options/opt4_incorrect.ogg",
-                "location": "content"
-            }
-        },
-        {
-            "id": "5",
-            "position": "top",
-            "sequenceNo": 5,
-            "imgsrc": {
-                "url": "assets/options/ques5.png",
-                "location": "content"
-            },
-            "imgsrc_blink": {
-                "url": "assets/options/ques5Blink.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/options/ques5.png",
-                "location": "content"
-            },
-            "correctAudio": {
-                "url": "assets/options/opt5_correct.ogg",
-                "location": "content"
-            },
-            "incorrectAudio": {
-                "url": "assets/options/opt5_incorrect.ogg",
-                "location": "content"
-            }
         }
     ],
     "optionObj": [
+         {
+            "id": "1",
+            "imgsrc": {
+                "url": "assets/options/option1.png",
+                "location": "content"
+            },
+            "imgsrc_original": {
+                "url": "assets/options/option1.png",
+                "location": "content"
+            },
+            "imgsrc_right": {
+                "url": "assets/options/option1R.png",
+                "location": "content"
+            },
+            "imgsrc_wrong": {
+                "url": "assets/options/option1W.png",
+                "location": "content"
+            },
+            "imgsrc_audio": {
+                "url": "assets/options/option1.ogg",
+                "location": "content"
+            },
+            "dropBoxImg": {
+                "url": "assets/options/dropCircleNormal.png",
+                "location": "content"
+            },
+            "dropBoxImgHover": {
+                "url": "assets/options/dropCircleHover.png",
+                "location": "content"
+            },
+            "samplerefquesImg": {
+                "url": "assets/options/ques4.png",
+                "location": "content"
+            },
+            "dropBoxImg_original": {
+                "url": "assets/options/dropCircleNormal.png",
+                "location": "content"
+            },
+            "placed": false
+        },
         {
             "id": "2",
             "imgsrc": {
@@ -176,11 +190,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropCircleHover.png",
+                "url": "assets/options/dropCircleHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -188,127 +202,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropCircleNormal.png",
-                "location": "content"
-            },
-            "placed": false
-        },
-        {
-            "id": "1",
-            "imgsrc": {
-                "url": "assets/options/option1.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/options/option1.png",
-                "location": "content"
-            },
-            "imgsrc_right": {
-                "url": "assets/options/option1R.png",
-                "location": "content"
-            },
-            "imgsrc_wrong": {
-                "url": "assets/options/option1W.png",
-                "location": "content"
-            },
-            "imgsrc_audio": {
-                "url": "assets/options/option1.ogg",
-                "location": "content"
-            },
-            "dropBoxImg": {
-                "url": "dropCircleNormal.png",
-                "location": "content"
-            },
-            "dropBoxImgHover": {
-                "url": "dropCircleHover.png",
-                "location": "content"
-            },
-            "samplerefquesImg": {
-                "url": "assets/options/ques4.png",
-                "location": "content"
-            },
-            "dropBoxImg_original": {
-                "url": "dropCircleNormal.png",
-                "location": "content"
-            },
-            "placed": false
-        },
-        {
-            "id": "4",
-            "imgsrc": {
-                "url": "assets/options/option4.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/options/option4.png",
-                "location": "content"
-            },
-            "imgsrc_right": {
-                "url": "assets/options/option4R.png",
-                "location": "content"
-            },
-            "imgsrc_wrong": {
-                "url": "assets/options/option4W.png",
-                "location": "content"
-            },
-            "imgsrc_audio": {
-                "url": "assets/options/option4.ogg",
-                "location": "content"
-            },
-            "dropBoxImg": {
-                "url": "dropCircleNormal.png",
-                "location": "content"
-            },
-            "dropBoxImgHover": {
-                "url": "dropCircleHover.png",
-                "location": "content"
-            },
-            "samplerefquesImg": {
-                "url": "assets/options/ques4.png",
-                "location": "content"
-            },
-            "dropBoxImg_original": {
-                "url": "dropCircleNormal.png",
-                "location": "content"
-            },
-            "placed": false
-        },
-        {
-            "id": "5",
-            "imgsrc": {
-                "url": "assets/options/option5.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/options/option5.png",
-                "location": "content"
-            },
-            "imgsrc_right": {
-                "url": "assets/options/option5R.png",
-                "location": "content"
-            },
-            "imgsrc_wrong": {
-                "url": "assets/options/option5W.png",
-                "location": "content"
-            },
-            "imgsrc_audio": {
-                "url": "assets/options/option5.ogg",
-                "location": "content"
-            },
-            "dropBoxImg": {
-                "url": "dropCircleNormal.png",
-                "location": "content"
-            },
-            "dropBoxImgHover": {
-                "url": "dropCircleHover.png",
-                "location": "content"
-            },
-            "samplerefquesImg": {
-                "url": "assets/options/ques4.png",
-                "location": "content"
-            },
-            "dropBoxImg_original": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -336,11 +230,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropCircleHover.png",
+                "url": "assets/options/dropCircleHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -348,7 +242,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -432,23 +326,7 @@
 
     "feedback": {
         "correct_ans_index": [
-            {
-                "id": "1",
-                "imgsrc": {
-                    "url": "assets/options/ques1.png",
-                    "location": "content"
-                },
-                "correctimg": {
-                    "url": "dropCircleRight.png",
-                    "location": "content"
-                },
-                "correctAudio": {
-                    "url": "assets/options/opt1_correct.ogg",
-                    "location": "content"
-                }
-
-            },
-            {
+           {
                 "id": "2",
                 "imgsrc": {
                     "url": "assets/options/ques2.png",
@@ -465,9 +343,9 @@
 
             },
             {
-                "id": "4",
+                "id": "1",
                 "imgsrc": {
-                    "url": "assets/options/ques4.png",
+                    "url": "assets/options/ques1.png",
                     "location": "content"
                 },
                 "correctimg": {
@@ -475,23 +353,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt4_correct.ogg",
-                    "location": "content"
-                }
-
-            },
-            {
-                "id": "5",
-                "imgsrc": {
-                    "url": "assets/options/ques5.png",
-                    "location": "content"
-                },
-                "correctimg": {
-                    "url": "dropCircleRight.png",
-                    "location": "content"
-                },
-                "correctAudio": {
-                    "url": "assets/options/opt5_correct.ogg",
+                    "url": "assets/options/opt1_correct.ogg",
                     "location": "content"
                 }
 

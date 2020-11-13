@@ -42,6 +42,14 @@
                 "url": "assets/options/ques1.png",
                 "location": "content"
             },
+            "imgsrc_right": {
+                "url": "assets/options/ques1R.png",
+                "location": "content"
+            },
+            "imgsrc_wrong": {
+                "url": "assets/options/ques1W.png",
+                "location": "content"
+            },
             "correctAudio": {
                 "url": "assets/options/opt1_correct.ogg",
                 "location": "content"
@@ -65,6 +73,14 @@
             },
             "imgsrc_original": {
                 "url": "assets/options/ques2.png",
+                "location": "content"
+            },
+            "imgsrc_right": {
+                "url": "assets/options/ques2R.png",
+                "location": "content"
+            },
+            "imgsrc_wrong": {
+                "url": "assets/options/ques2W.png",
                 "location": "content"
             },
             "correctAudio": {
@@ -92,6 +108,14 @@
                 "url": "assets/options/ques3.png",
                 "location": "content"
             },
+            "imgsrc_right": {
+                "url": "assets/options/ques3R.png",
+                "location": "content"
+            },
+            "imgsrc_wrong": {
+                "url": "assets/options/ques3W.png",
+                "location": "content"
+            },
             "correctAudio": {
                 "url": "assets/options/opt3_correct.ogg",
                 "location": "content"
@@ -117,6 +141,14 @@
                 "url": "assets/options/ques4.png",
                 "location": "content"
             },
+            "imgsrc_right": {
+                "url": "assets/options/ques4R.png",
+                "location": "content"
+            },
+            "imgsrc_wrong": {
+                "url": "assets/options/ques4W.png",
+                "location": "content"
+            },
             "correctAudio": {
                 "url": "assets/options/opt4_correct.ogg",
                 "location": "content"
@@ -140,6 +172,14 @@
             },
             "imgsrc_original": {
                 "url": "assets/options/ques5.png",
+                "location": "content"
+            },
+            "imgsrc_right": {
+                "url": "assets/options/ques5R.png",
+                "location": "content"
+            },
+            "imgsrc_wrong": {
+                "url": "assets/options/ques5W.png",
                 "location": "content"
             },
             "correctAudio": {
@@ -176,11 +216,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropCircleHover.png",
+                "url": "assets/options/dropCircleHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -188,7 +228,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -216,11 +256,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropCircleHover.png",
+                "url": "assets/options/dropCircleHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -228,7 +268,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -256,11 +296,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropCircleHover.png",
+                "url": "assets/options/dropCircleHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -268,7 +308,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -296,11 +336,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropCircleHover.png",
+                "url": "assets/options/dropCircleHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -308,7 +348,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "placed": false
@@ -336,11 +376,11 @@
                 "location": "content"
             },
             "dropBoxImg": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "dropBoxImgHover": {
-                "url": "dropCircleHover.png",
+                "url": "assets/options/dropCircleHover.png",
                 "location": "content"
             },
             "samplerefquesImg": {
@@ -348,7 +388,7 @@
                 "location": "content"
             },
             "dropBoxImg_original": {
-                "url": "dropCircleNormal.png",
+                "url": "assets/options/dropCircleNormal.png",
                 "location": "content"
             },
             "placed": false
