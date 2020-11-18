@@ -272,7 +272,7 @@
                     "location": "content"
                 },
                 "imgsrc_audio": {
-                    "url": "",
+                    "url": "assets/options/option1.ogg",
                     "location": "content"
                 },
                 "style_display": {
@@ -302,7 +302,7 @@
                     "location": "content"
                 },
                 "imgsrc_audio": {
-                    "url": "",
+                    "url": "assets/options/option2.ogg",
                     "location": "content"
                 },
                 "style_display": {
@@ -332,7 +332,7 @@
                     "location": "content"
                 },
                 "imgsrc_audio": {
-                    "url": "",
+                    "url": "assets/options/option3.ogg",
                     "location": "content"
                 },
                 "style_display": {
@@ -362,7 +362,7 @@
                     "location": "content"
                 },
                 "imgsrc_audio": {
-                    "url": "",
+                    "url": "assets/options/option4.ogg",
                     "location": "content"
                 },
                 "style_display": {
