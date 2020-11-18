@@ -43,40 +43,9 @@
 			"url": "assets/options/moveDown.png",
 			"location": "content"
 		},
-		"optionArray": [{
-				"index": 0,
-				"imgsrc": {
-					"url": "assets/options/option1.png",
-					"location": "content",
-					"style_class": "option1"
-				},
-				"imgsrc_active": {
-					"url": "option1Active.png",
-					"location": "content",
-					"style_class": "option1"
-				},
-				"imgsrc_correct": {
-					"url": "assets/options/opt1_correct.png",
-					"location": "content",
-					"style_class": "option1"
-				},
-				"imgsrc_incorrect": {
-					"url": "assets/options/opt1_incorrect.png",
-					"location": "content",
-					"style_class": "option1"
-				},
-				"selected": false,
-				"correct_vo": {
-					"url": "assets/options/opt1_correct.ogg",
-					"location": "content"
-				},
-				"incorrect_vo": {
-					"url": "assets/options/opt1_incorrect.ogg",
-					"location": "content"
-				}
-			},
+		"optionArray": [
 			{
-				"index": 1,
+				"index": 0,
 				"imgsrc": {
 					"url": "assets/options/option2.png",
 					"location": "content",
@@ -112,7 +81,7 @@
 				}
 			},
 			{
-				"index": 2,
+				"index": 1,
 				"imgsrc": {
 					"url": "assets/options/option3.png",
 					"location": "content",
@@ -148,43 +117,7 @@
 				}
 			},
 			{
-				"index": 3,
-				"imgsrc": {
-					"url": "assets/options/option4.png",
-					"location": "content",
-					"style_class": "option1"
-				},
-				"mouse_over_audio": {
-					"url": "assets/options/option4.ogg",
-					"location": "content"
-				},
-				"imgsrc_active": {
-					"url": "option4Active.png",
-					"location": "content",
-					"style_class": "option1"
-				},
-				"imgsrc_correct": {
-					"url": "assets/options/opt4_correct.png",
-					"location": "content",
-					"style_class": "option1"
-				},
-				"imgsrc_incorrect": {
-					"url": "assets/options/opt4_incorrect.png",
-					"location": "content",
-					"style_class": "option1"
-				},
-				"selected": false,
-				"correct_vo": {
-					"url": "assets/options/opt4_correct.ogg",
-					"location": "content"
-				},
-				"incorrect_vo": {
-					"url": "assets/options/opt4_incorrect.ogg",
-					"location": "content"
-				}
-			},
-			{
-				"index": 4,
+				"index": 2,
 				"imgsrc": {
 					"url": "assets/options/option5.png",
 					"location": "content",
@@ -567,6 +500,6 @@
 		}
 	},
 	"feedback": {
-		"correct_sequence": [2, 3, 1, 0, 4]
+		"correct_sequence": [1,0,2]
 	}
 }
