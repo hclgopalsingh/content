@@ -21,7 +21,7 @@
             "url": "assets/images/burst.gif",
             "location": "assets"
         },
-        "background": {
+        "bg": {
             "urlglobal": "global/tabs/bg/bg_1.svg",
 			"location": "theme"
         },
@@ -68,8 +68,7 @@
         "quesBasetemp": {
             "url": "assets/images/quesBasetemp15.svg",
             "location": "assets"
-        },
-       
+        },      
         "isFirstQues": true
     },
     "ques": {
@@ -118,7 +117,6 @@
             "location": "content"
         }
     },
-   
     "options": [
         {
             "id": "001",
