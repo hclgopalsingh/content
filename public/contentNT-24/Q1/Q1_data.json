@@ -66,7 +66,7 @@
 				"style_class": "option1"
 			},
 			"mouse_over_audio": {
-				"url": "assets/box_option/option1.ogg",
+				"url": "assets/box_option/option2.ogg",
 				"location": "content"
 			},
 			"selected": false,
@@ -466,6 +466,7 @@
 	},
 
 	"feedback_popup": {
+		"autoCloseSec":5,
 		"right_style_header": {
 			"border": "solid .4vmin #3C7132",
 			"border-top-left-radius": "20px",
