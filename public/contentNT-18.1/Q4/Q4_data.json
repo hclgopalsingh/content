@@ -157,40 +157,7 @@
                 "url": "assets/options/opt4_incorrect.ogg",
                 "location": "content"
             }
-        },
-        {
-            "id": "5",
-            "position": "top",
-            "sequenceNo": 5,
-            "imgsrc": {
-                "url": "assets/options/ques5.png",
-                "location": "content"
-            },
-            "imgsrc_blink": {
-                "url": "assets/options/ques5Blink.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/options/ques5.png",
-                "location": "content"
-            },
-            "imgsrc_right": {
-                "url": "assets/options/ques5R.png",
-                "location": "content"
-            },
-            "imgsrc_wrong": {
-                "url": "assets/options/ques5W.png",
-                "location": "content"
-            },
-            "correctAudio": {
-                "url": "assets/options/opt5_correct.ogg",
-                "location": "content"
-            },
-            "incorrectAudio": {
-                "url": "assets/options/opt5_incorrect.ogg",
-                "location": "content"
-            }
-        }
+        } 
     ],
     "optionObj": [
         {
@@ -293,46 +260,6 @@
             },
             "imgsrc_audio": {
                 "url": "assets/options/option4.ogg",
-                "location": "content"
-            },
-            "dropBoxImg": {
-                "url": "assets/options/dropCircleNormal.png",
-                "location": "content"
-            },
-            "dropBoxImgHover": {
-                "url": "assets/options/dropCircleHover.png",
-                "location": "content"
-            },
-            "samplerefquesImg": {
-                "url": "assets/options/ques4.png",
-                "location": "content"
-            },
-            "dropBoxImg_original": {
-                "url": "assets/options/dropCircleNormal.png",
-                "location": "content"
-            },
-            "placed": false
-        },
-        {
-            "id": "5",
-            "imgsrc": {
-                "url": "assets/options/option5.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/options/option5.png",
-                "location": "content"
-            },
-            "imgsrc_right": {
-                "url": "assets/options/option5R.png",
-                "location": "content"
-            },
-            "imgsrc_wrong": {
-                "url": "assets/options/option5W.png",
-                "location": "content"
-            },
-            "imgsrc_audio": {
-                "url": "assets/options/option5.ogg",
                 "location": "content"
             },
             "dropBoxImg": {
@@ -481,7 +408,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt2_correct.ogg",
+                    "url": "assets/options/opt2_correct_show_ans.ogg",
                     "location": "content"
                 }
             },
@@ -496,23 +423,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt1_correct.ogg",
-                    "location": "content"
-                }
-
-            },
-            {
-                "id": "5",
-                "imgsrc": {
-                    "url": "assets/options/ques5.png",
-                    "location": "content"
-                },
-                "correctimg": {
-                    "url": "dropCircleRight.png",
-                    "location": "content"
-                },
-                "correctAudio": {
-                    "url": "assets/options/opt5_correct.ogg",
+                    "url": "assets/options/opt1_correct_show_ans.ogg",
                     "location": "content"
                 }
 
@@ -528,7 +439,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt4_correct.ogg",
+                    "url": "assets/options/opt4_correct_show_ans.ogg",
                     "location": "content"
                 }
 
@@ -544,7 +455,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt3_correct.ogg",
+                    "url": "assets/options/opt3_correct_show_ans.ogg",
                     "location": "content"
                 }
 
@@ -691,35 +602,6 @@
             "location": "theme"
           }
         },
-        "right_ans_popup": [
-            {
-                "id": "001",
-                "imgsrc": {
-                    "url": "assets/options/opt1.png",
-                    "location": "content"
-                },
-                "imgsrc_hover": {
-                    "url": "",
-                    "location": "content"
-                },
-                "imgsrc_txt": {
-                    "url": "",
-                    "location": "content"
-                },
-                "imgsrc_audio": {
-                    "url": "assets/options/option1.ogg",
-                    "location": "content"
-                },
-                "imgrightfeedback_audio": {
-                    "url": "rightFeedbackAudio1.ogg",
-                    "location": "content"
-                },
-                "imgsrc_original": {
-                    "url": "assets/options/opt1.png",
-                    "location": "content"
-                }
-            }
-        ],
         "partialIncorrect_sound": {
             "url": "partialPopupvoice.ogg",
             "location": "content"

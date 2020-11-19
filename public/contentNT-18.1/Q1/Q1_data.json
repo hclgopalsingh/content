@@ -481,7 +481,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt2_correct.ogg",
+                    "url": "assets/options/opt2_correct_show_ans.ogg",
                     "location": "content"
                 }
 
@@ -497,7 +497,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt1_correct.ogg",
+                    "url": "assets/options/opt1_correct_show_ans.ogg",
                     "location": "content"
                 }
 
@@ -513,7 +513,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt5_correct.ogg",
+                    "url": "assets/options/opt5_correct_show_ans.ogg",
                     "location": "content"
                 }
 
@@ -529,7 +529,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt4_correct.ogg",
+                    "url": "assets/options/opt4_correct_show_ans.ogg",
                     "location": "content"
                 }
 
@@ -545,7 +545,7 @@
                     "location": "content"
                 },
                 "correctAudio": {
-                    "url": "assets/options/opt3_correct.ogg",
+                    "url": "assets/options/opt3_correct_show_ans.ogg",
                     "location": "content"
                 }
             }
@@ -691,35 +691,6 @@
             "location": "theme"
           }
         },
-        "right_ans_popup": [
-            {
-                "id": "001",
-                "imgsrc": {
-                    "url": "opt1.png",
-                    "location": "content"
-                },
-                "imgsrc_hover": {
-                    "url": "",
-                    "location": "content"
-                },
-                "imgsrc_txt": {
-                    "url": "",
-                    "location": "content"
-                },
-                "imgsrc_audio": {
-                    "url": "option1.ogg",
-                    "location": "content"
-                },
-                "imgrightfeedback_audio": {
-                    "url": "rightFeedbackAudio1.ogg",
-                    "location": "content"
-                },
-                "imgsrc_original": {
-                    "url": "opt1.png",
-                    "location": "content"
-                }
-            }
-        ],
         "partialIncorrect_sound": {
             "url": "partialPopupvoice.ogg",
             "location": "content"
