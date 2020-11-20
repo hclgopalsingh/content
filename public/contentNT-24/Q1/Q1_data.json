@@ -66,7 +66,7 @@
 				"style_class": "option1"
 			},
 			"mouse_over_audio": {
-				"url": "assets/ques_vo.ogg",
+				"url": "assets/box_option/option1.ogg",
 				"location": "content"
 			},
 			"selected": false,
