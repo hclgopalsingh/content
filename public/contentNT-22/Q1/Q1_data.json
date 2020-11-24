@@ -2345,12 +2345,21 @@
 		  "month":"",
 		  "date":""
 		},
-		"disableyear":true,
+		"Ques_scenario":{
+			"type":"type_2",
+			"type_2":{
+				"holiday_id":"02",
+				"year_type":"",
+				"year":"2024",
+				"yearAdjustment":1
+			} 
+		},	
+		"disableyear":false,
 		"disablemonth":false,
 		"disableweekDay":false,
 		"disableDate":false,
-		"yearSelected":true,
-		"monthSelected":true,
+		"yearSelected":false,
+		"monthSelected":false,
 		"dateSelected":false,
 		"weekdaySelected":false,
 		"`quesImg": {
