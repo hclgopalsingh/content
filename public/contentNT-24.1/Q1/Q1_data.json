@@ -296,27 +296,7 @@
 		"headerTxt_img": {
 			"url": "assets/popups/show_answer_confirmation/header_confirm_text.png",
 			"location": "content"
-		},		
-        "rightAnswerheaderTxt_img": {
-			"url": "assets/popups/right_feedback/PopupHeaderTitle1.png",
-			"location": "content"
-		  },
-		  "wrongAnswerheaderTxt_img": {
-			"url": "assets/popups/wrong_feedback/PopupHeaderTitle2.png",
-			"location": "content"
-		  },
-		  "showAnswerheaderTxt_img": {
-			"url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
-			"location": "content"
-		  },
-        "partialCorrectheaderTxt_img": {
-            "url": "assets/popups/partial_feedback/PopupHeaderTitle.png",
-            "location": "content"
 		},
-		"partialInCorrectheaderTxt_img": {
-            "url": "PopupHeaderTitle5.png",
-            "location": "content"
-        },
 		"bg_img": {
 			"url": "confirmation_popup_base.png",
 			"location": "content"
