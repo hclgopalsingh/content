@@ -838,16 +838,16 @@
 
 	"feedback": {				
 		"teamUpCorrect":{
-			"idx":"01"
-		},
-		"teamDownCorrect":{
 			"idx":"02"
 		},
-		"teamLeftCorrect":{
+		"teamDownCorrect":{
 			"idx":"03"
 		},
-		"teamRightCorrect":{
+		"teamLeftCorrect":{
 			"idx":"01"
+		},
+		"teamRightCorrect":{
+			"idx":"02"
 		},
 		"ok_btn": {
 			"url": "assets/popups/feedback/ok_btn_normal.svg",
