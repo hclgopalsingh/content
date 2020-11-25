@@ -2348,9 +2348,9 @@
 		"Ques_scenario":{
 			"type":"type_2",
 			"type_2":{
-				"holiday_id":"02",
+				"holiday_id":"06",
 				"year_type":"",
-				"year":"2024",
+				"year":"2021",
 				"yearAdjustment":1
 			} 
 		},	
