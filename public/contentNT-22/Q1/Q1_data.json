@@ -2346,13 +2346,17 @@
 		  "date":""
 		},
 		"Ques_scenario":{
-			"type":"type_2",
-			"type_2":{
-				"holiday_id":"06",
-				"year_type":"",
-				"year":"2021",
-				"yearAdjustment":1
-			} 
+			 
+			"type":"type_3",
+			"type_3":{
+				"year_type":"localMachineDate",
+				"year":"",
+				"month":"",
+				"day":"3",
+				"daynumber":"1",
+				"monthAdjustment":"",
+				"yearAdjustment":""
+			}
 		},	
 		"disableyear":false,
 		"disablemonth":false,
@@ -2378,9 +2382,9 @@
 
 
 	"feedback": {
-		"correct_date": "2",
+		"correct_date": "",
 		"correct_year":"",
-		"correct_month":"October",
+		"correct_month":"",
 		"correct_weekDay":"",
 		"style_header": {
 			"border": "solid .4vmin #85d222",
