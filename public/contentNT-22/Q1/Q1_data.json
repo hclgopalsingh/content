@@ -2349,11 +2349,11 @@
 			 
 			"type":"type_3",
 			"type_3":{
-				"year_type":"localMachineDate",
-				"year":"",
-				"month":"",
+				"year_type":"",
+				"year":2021,
+				"month":11,
 				"day":"3",
-				"daynumber":"1",
+				"weekNumber":"2",
 				"monthAdjustment":"",
 				"yearAdjustment":""
 			}
