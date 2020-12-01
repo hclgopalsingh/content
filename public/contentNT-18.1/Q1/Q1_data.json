@@ -400,7 +400,7 @@
             "urlOgv": "assets/video.ogv",
             "urlMP4": "assets/video.mp4",
             "location": "content",
-            "autoPlay": false
+            "autoPlay": true
         },
         "submitRequired":true,
         "replayRequired":true,
