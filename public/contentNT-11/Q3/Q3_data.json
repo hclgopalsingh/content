@@ -5,7 +5,7 @@
 	"imgCount": "9",
 	"commonassets": {
         "instruction_bg": {
-            "url": "instructionBar.png",
+            "url": "assets/instructionBar.png",
             "location": "content"
         },
         "instruction": {
@@ -20,7 +20,7 @@
 			"url": "assets/images/burst.gif",
 			"location": "assets"
 		},
-		"bg": {
+		"background": {
 			"urlglobal": "global/tabs/bg/bg_3.svg",
 			"location": "theme"
         },
@@ -117,7 +117,7 @@
 				"location": "content"
 			},
 			"imgsrc": {
-				"url": "01.png",
+				"url": "assets/01.png",
 				"location": "content"
 			},
 			"image_original": {
@@ -137,7 +137,7 @@
 				"location": "content"
 			},
 			"imgsrc": {
-				"url": "02.png",
+				"url": "assets/02.png",
 				"location": "content"
 			},
 			"image_original": {
@@ -157,7 +157,7 @@
 				"location": "content"
 			},
 			"imgsrc": {
-				"url": "03.png",
+				"url": "assets/03.png",
 				"location": "content"
 			},
 			"image_original": {
