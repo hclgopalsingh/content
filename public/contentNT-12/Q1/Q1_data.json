@@ -1,4 +1,6 @@
 {
+    "productType": "elementary",
+    "theme_name": "theme1",
     "id": "Q001",
     "imgCount": 7,
     "quess": {
