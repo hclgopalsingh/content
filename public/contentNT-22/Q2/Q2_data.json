@@ -2156,16 +2156,16 @@
 			"location": "content"
 		},
 		"ok_btn": {
-			"url": "ok_btn_normal.png",
-			"location": "content"
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
 		},
 		"ok_btn_hover": {
-			"url": "ok_btn_Hover.png",
-			"location": "content"
+			"urlglobal": "global/popups/ok_btn_Hover.png",
+			"location": "theme"
 		},
 		"ok_btn_original": {
-			"url": "ok_btn_normal.png",
-			"location": "content"
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
 		},
 		"popup_commmon_imgs": {
 			"bg_img": {
