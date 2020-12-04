@@ -118,7 +118,7 @@
         ],
         "optionPlaceHolders": [{
                 "id": "1",
-                "correctOptionId": "3",
+                "correctOptionId": "4",
                 "imgsrc": {
                     "url": "assets/question/emptybox.png",
                     "location": "content"
@@ -149,7 +149,7 @@
             },
             {
                 "id": "3",
-                "correctOptionId": "5",
+                "correctOptionId": "6",
                 "imgsrc": {
                     "url": "assets/question/emptybox.png",
                     "location": "content"
@@ -164,6 +164,7 @@
                 }
             }, {
                 "id": "4",
+                "correctOptionId": "3",
                 "imgsrc": {
                     "url": "assets/question/emptybox.png",
                     "location": "content"
@@ -178,7 +179,7 @@
                 }
             }, {
                 "id": "5",
-                "correctOptionId": "4",
+                "correctOptionId": "5",
                 "imgsrc": {
                     "url": "assets/question/emptybox.png",
                     "location": "content"
@@ -269,7 +270,7 @@
                     "location": "content"
                 },
                 "imgsrc_audio": {
-                    "url": "",
+                    "url": "assets/options/option1.ogg",
                     "location": "content"
                 },
                 "style_display": {
@@ -299,7 +300,7 @@
                     "location": "content"
                 },
                 "imgsrc_audio": {
-                    "url": "",
+                    "url": "assets/options/option2.ogg",
                     "location": "content"
                 },
                 "style_display": {
@@ -329,7 +330,7 @@
                     "location": "content"
                 },
                 "imgsrc_audio": {
-                    "url": "",
+                    "url": "assets/options/option3.ogg",
                     "location": "content"
                 },
                 "style_display": {
@@ -359,7 +360,7 @@
                     "location": "content"
                 },
                 "imgsrc_audio": {
-                    "url": "",
+                    "url": "assets/options/option4.ogg",
                     "location": "content"
                 },
                 "style_display": {
@@ -389,11 +390,41 @@
                     "location": "content"
                 },
                 "imgsrc_audio": {
-                    "url": "",
+                    "url": "assets/options/option5.ogg",
                     "location": "content"
                 },
                 "style_display": {
                     "display": "flex"
+                }
+            },
+            {
+                "id": "6",
+                "imgsrc": {
+                    "url": "assets/options/option6.png",
+                    "location": "content"
+                },
+                "imgsrc_blink": {
+                    "url": "assets/options/option6_blink.png",
+                    "location": "content"
+                },
+                "imgsrc_original": {
+                    "url": "assets/options/option6.png",
+                    "location": "content"
+                },
+                "imgsrc_right": {
+                    "url": "assets/popups/feedback/option6_right.png",
+                    "location": "content"
+                },
+                "imgsrc_wrong": {
+                    "url": "assets/popups/feedback/option6_wrong.png",
+                    "location": "content"
+                },
+                "imgsrc_audio": {
+                    "url": "assets/options/option6.ogg",
+                    "location": "content"
+                },
+                "style_display": {
+                    "display": "none"
                 }
             }
         ]
@@ -460,6 +491,14 @@
         "right_style_title": {
             "required": true,
             "url": "assets/popups/feedback/RightAnsTitleTxt.png",
+            "location": "content"
+        },
+        "correctVO_placeholder": {
+            "url": "assets/popups/feedback/correctVOPlaceholder.ogg",
+            "location": "content"
+        },
+        "incorrectVO_placeholder": {
+            "url": "assets/popups/feedback/incorrectVOPlaceholder.ogg",
             "location": "content"
         },
         "wrong_style_title": {
