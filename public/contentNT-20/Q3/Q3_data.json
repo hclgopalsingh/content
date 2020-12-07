@@ -34,7 +34,7 @@
 			"location": "content"
 		  },
 		"isFirstQues": false,
-		"imgCount": 4
+		"imgCount": 14
 	},
 	"options_assts": {
 		"option_common_assets": {
@@ -234,7 +234,7 @@
 				"given_selected":"false"
 			},
 			"value": 3,
-			"index": 3,
+			"index": 1,
 			"place": "down",
 			"BlueBg":true,
 			"given":true
