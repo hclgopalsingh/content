@@ -3,11 +3,11 @@
     "theme_name": "theme1",
 	"commonassets": {
 		"instruction_bg": {
-			"url": "instruction_bar.png",
+			"url": "assets/instruction_bar.png",
 			"location": "content"
 		},
 		"instruction": {
-			"url": "Question.ogg",
+			"url": "assets/narrator.ogg",
 			"location": "content"
 		},
 		"instruction_img": {
@@ -27,7 +27,7 @@
 			"location": "assets"
 		},
 		"QuestionAudio": {
-			"url": "Question.ogg",
+			"url": "assets/narrator.ogg",
 			"location": "content"
 		},
 		"CorrectAudio": {
@@ -384,31 +384,31 @@
 		 "disabled":false,
 		 "checkRightorWrong":false,
 		 "yearsImg":{
-			"url":"English/Images English/Years/Years Normal/year01.png",
+			"url":"assets/English/Images English/Years/Years Normal/year01.png",
 			"location":"content" 
 		 },
 		 "selectedyearsImg":{
-			"url":"English/Images English/Years/Years Selected/Years Selected_00001.png",
+			"url":"assets/English/Images English/Years/Years Selected/Years Selected_00001.png",
 			"location":"content" 
 		 },
 		 "hoveryearsImg":{
-			"url":"English/Images English/Years/Years Hover/Years Hover_00001.png",
+			"url":"assets/English/Images English/Years/Years Hover/Years Hover_00001.png",
 			"location":"content" 
 		 },
 		 "disableyearsImg":{
-			"url":"English/Images English/Years/Years Disabled/Years Disabled_00001.png",
+			"url":"assets/English/Images English/Years/Years Disabled/Years Disabled_00001.png",
 			"location":"content" 
 		 },
 		 "rightyearImg":{
-			"url":"English/Images English/Years/Year Right/Year (1).png",
+			"url":"assets/English/Images English/Years/Year Right/Year (1).png",
 			"location":"content" 
 		 },
 		 "wrongyearImg":{
-			"url":"English/Images English/Years/Year Wrong/Year (1).png",
+			"url":"assets/English/Images English/Years/Year Wrong/Year (1).png",
 			"location":"content" 
 		 },
 		 "yearsOriginalImg":{
-			"url":"English/Images English/Years/Years Normal/year01.png",
+			"url":"assets/English/Images English/Years/Years Normal/year01.png",
 			"location":"content" 
 		 }
 		},
@@ -418,31 +418,31 @@
 			"disabled":false,
 			"checkRightorWrong":false,
 			"yearsImg":{
-			   "url":"English/Images English/Years/Years Normal/year02.png",
+			   "url":"assets/English/Images English/Years/Years Normal/year02.png",
 			   "location":"content" 
 			},
 			"selectedyearsImg":{
-			   "url":"English/Images English/Years/Years Selected/Years Selected_00002.png",
+			   "url":"assets/English/Images English/Years/Years Selected/Years Selected_00002.png",
 			   "location":"content" 
 			},
 			"hoveryearsImg":{
-			   "url":"English/Images English/Years/Years Hover/Years Hover_00002.png",
+			   "url":"assets/English/Images English/Years/Years Hover/Years Hover_00002.png",
 			   "location":"content" 
 			},
 			"disableyearsImg":{
-			   "url":"English/Images English/Years/Years Disabled/Years Disabled_00002.png",
+			   "url":"assets/English/Images English/Years/Years Disabled/Years Disabled_00002.png",
 			   "location":"content" 
 			},
 			"rightyearImg":{
-				"url":"English/Images English/Years/Year Right/Year (2).png",
+				"url":"assets/English/Images English/Years/Year Right/Year (2).png",
 				"location":"content" 
 			 },
 			 "wrongyearImg":{
-				"url":"English/Images English/Years/Year Wrong/Year (2).png",
+				"url":"assets/English/Images English/Years/Year Wrong/Year (2).png",
 				"location":"content" 
 			 },
 			"yearsOriginalImg":{
-				"url":"English/Images English/Years/Years Normal/year02.png",
+				"url":"assets/English/Images English/Years/Years Normal/year02.png",
 				"location":"content" 
 			}
 		   },
@@ -452,31 +452,31 @@
 			"disabled":false,
 			"checkRightorWrong":false,
 			"yearsImg":{
-			   "url":"English/Images English/Years/Years Normal/year03.png",
+			   "url":"assets/English/Images English/Years/Years Normal/year03.png",
 			   "location":"content" 
 			},
 			"selectedyearsImg":{
-			   "url":"English/Images English/Years/Years Selected/Years Selected_00003.png",
+			   "url":"assets/English/Images English/Years/Years Selected/Years Selected_00003.png",
 			   "location":"content" 
 			},
 			"hoveryearsImg":{
-			   "url":"English/Images English/Years/Years Hover/Years Hover_00003.png",
+			   "url":"assets/English/Images English/Years/Years Hover/Years Hover_00003.png",
 			   "location":"content" 
 			},
 			"disableyearsImg":{
-			   "url":"English/Images English/Years/Years Disabled/Years Disabled_00003.png",
+			   "url":"assets/English/Images English/Years/Years Disabled/Years Disabled_00003.png",
 			   "location":"content" 
 			},
 			"rightyearImg":{
-				"url":"English/Images English/Years/Year Right/Year (3).png",
+				"url":"assets/English/Images English/Years/Year Right/Year (3).png",
 				"location":"content" 
 			 },
 			 "wrongyearImg":{
-				"url":"English/Images English/Years/Year Wrong/Year (3).png",
+				"url":"assets/English/Images English/Years/Year Wrong/Year (3).png",
 				"location":"content" 
 			 },
 			"yearsOriginalImg":{
-				"url":"English/Images English/Years/Years Normal/year03.png",
+				"url":"assets/English/Images English/Years/Years Normal/year03.png",
 				"location":"content" 
 			}
 		   },
@@ -486,31 +486,31 @@
 			"disabled":false,
 			"checkRightorWrong":false,
 			"yearsImg":{
-			   "url":"English/Images English/Years/Years Normal/year04.png",
+			   "url":"assets/English/Images English/Years/Years Normal/year04.png",
 			   "location":"content" 
 			},
 			"selectedyearsImg":{
-			   "url":"English/Images English/Years/Years Selected/Years Selected_00004.png",
+			   "url":"assets/English/Images English/Years/Years Selected/Years Selected_00004.png",
 			   "location":"content" 
 			},
 			"hoveryearsImg":{
-			   "url":"English/Images English/Years/Years Hover/Years Hover_00004.png",
+			   "url":"assets/English/Images English/Years/Years Hover/Years Hover_00004.png",
 			   "location":"content" 
 			},
 			"disableyearsImg":{
-			   "url":"English/Images English/Years/Years Disabled/Years Disabled_00004.png",
+			   "url":"assets/English/Images English/Years/Years Disabled/Years Disabled_00004.png",
 			   "location":"content" 
 			},
 			"rightyearImg":{
-				"url":"English/Images English/Years/Year Right/Year (4).png",
+				"url":"assets/English/Images English/Years/Year Right/Year (4).png",
 				"location":"content" 
 			 },
 			 "wrongyearImg":{
-				"url":"English/Images English/Years/Year Wrong/Year (4).png",
+				"url":"assets/English/Images English/Years/Year Wrong/Year (4).png",
 				"location":"content" 
 			 },
 			"yearsOriginalImg":{
-				"url":"English/Images English/Years/Years Normal/year04.png",
+				"url":"assets/English/Images English/Years/Years Normal/year04.png",
 				"location":"content" 
 			}
 		   },
@@ -520,31 +520,31 @@
 			"disabled":false,
 			"checkRightorWrong":false,
 			"yearsImg":{
-			   "url":"English/Images English/Years/Years Normal/year05.png",
+			   "url":"assets/English/Images English/Years/Years Normal/year05.png",
 			   "location":"content" 
 			},
 			"selectedyearsImg":{
-			   "url":"English/Images English/Years/Years Selected/Years Selected_00005.png",
+			   "url":"assets/English/Images English/Years/Years Selected/Years Selected_00005.png",
 			   "location":"content" 
 			},
 			"hoveryearsImg":{
-			   "url":"English/Images English/Years/Years Hover/Years Hover_00005.png",
+			   "url":"assets/English/Images English/Years/Years Hover/Years Hover_00005.png",
 			   "location":"content" 
 			},
 			"disableyearsImg":{
-			   "url":"English/Images English/Years/Years Disabled/Years Disabled_00005.png",
+			   "url":"assets/English/Images English/Years/Years Disabled/Years Disabled_00005.png",
 			   "location":"content" 
 			},
 			"rightyearImg":{
-				"url":"English/Images English/Years/Year Right/Year (5).png",
+				"url":"assets/English/Images English/Years/Year Right/Year (5).png",
 				"location":"content" 
 			 },
 			 "wrongyearImg":{
-				"url":"English/Images English/Years/Year Wrong/Year (5).png",
+				"url":"assets/English/Images English/Years/Year Wrong/Year (5).png",
 				"location":"content" 
 			 },
 			"yearsOriginalImg":{
-				"url":"English/Images English/Years/Years Normal/year05.png",
+				"url":"assets/assets/English/Images English/Years/Years Normal/year05.png",
 				"location":"content" 
 			}
 		   },
@@ -554,31 +554,31 @@
 			"disabled":false,
 			"checkRightorWrong":false,
 			"yearsImg":{
-			   "url":"English/Images English/Years/Years Normal/year06.png",
+			   "url":"assets/English/Images English/Years/Years Normal/year06.png",
 			   "location":"content" 
 			},
 			"selectedyearsImg":{
-			   "url":"English/Images English/Years/Years Selected/Years Selected_00006.png",
+			   "url":"assets/English/Images English/Years/Years Selected/Years Selected_00006.png",
 			   "location":"content" 
 			},
 			"hoveryearsImg":{
-			   "url":"English/Images English/Years/Years Hover/Years Hover_00006.png",
+			   "url":"assets/English/Images English/Years/Years Hover/Years Hover_00006.png",
 			   "location":"content" 
 			},
 			"disableyearsImg":{
-			   "url":"English/Images English/Years/Years Disabled/Years Disabled_00006.png",
+			   "url":"assets/English/Images English/Years/Years Disabled/Years Disabled_00006.png",
 			   "location":"content" 
 			},
 			"rightyearImg":{
-				"url":"English/Images English/Years/Year Right/Year (6).png",
+				"url":"assets/English/Images English/Years/Year Right/Year (6).png",
 				"location":"content" 
 			 },
 			 "wrongyearImg":{
-				"url":"English/Images English/Years/Year Wrong/Year (6).png",
+				"url":"assets/English/Images English/Years/Year Wrong/Year (6).png",
 				"location":"content" 
 			 },
 			"yearsOriginalImg":{
-				"url":"English/Images English/Years/Years Normal/year06.png",
+				"url":"assets/English/Images English/Years/Years Normal/year06.png",
 				"location":"content" 
 			}
 		   },
@@ -588,31 +588,31 @@
 			"disabled":false,
 			"checkRightorWrong":false,
 			"yearsImg":{
-			   "url":"English/Images English/Years/Years Normal/year07.png",
+			   "url":"assets/English/Images English/Years/Years Normal/year07.png",
 			   "location":"content" 
 			},
 			"selectedyearsImg":{
-			   "url":"English/Images English/Years/Years Selected/Years Selected_00007.png",
+			   "url":"assets/English/Images English/Years/Years Selected/Years Selected_00007.png",
 			   "location":"content" 
 			},
 			"hoveryearsImg":{
-			   "url":"English/Images English/Years/Years Hover/Years Hover_00007.png",
+			   "url":"assets/English/Images English/Years/Years Hover/Years Hover_00007.png",
 			   "location":"content" 
 			},
 			"disableyearsImg":{
-			   "url":"English/Images English/Years/Years Disabled/Years Disabled_00007.png",
+			   "url":"assets/English/Images English/Years/Years Disabled/Years Disabled_00007.png",
 			   "location":"content" 
 			},
 			"rightyearImg":{
-				"url":"English/Images English/Years/Year Right/Year (7).png",
+				"url":"assets/English/Images English/Years/Year Right/Year (7).png",
 				"location":"content" 
 			 },
 			 "wrongyearImg":{
-				"url":"English/Images English/Years/Year Wrong/Year (7).png",
+				"url":"assets/English/Images English/Years/Year Wrong/Year (7).png",
 				"location":"content" 
 			 },
 			"yearsOriginalImg":{
-				"url":"English/Images English/Years/Years Normal/year07.png",
+				"url":"assets/English/Images English/Years/Years Normal/year07.png",
 				"location":"content" 
 			}
 		   }
@@ -2081,7 +2081,7 @@
 
 	"quesObj": [{
 		"quesInstruction": {
-			"url": "Question.ogg",
+			"url": "assets/narrator.ogg",
 			"location": "content",
 			"autoPlay": true
 		},
@@ -2132,138 +2132,421 @@
 		"correct_year":"",
 		"correct_month":"",
 		"correct_weekDay":"",
-		"style_header": {
-			"border": "solid .4vmin #85d222",
-			"border-top-left-radius": "20px",
-			"border-top-right-radius": "20px",
-			"background": "#248446"
-		},
-		"style_body": {
-			"border": "solid .4vmin #85d222",
-			"border-bottom-left-radius": "20px",
-			"border-bottom-right-radius": "20px",
-			"background": "#afdec0"
-		},
-		"wrong_style_header": {
-            "border": "solid .4vmin #F63A39",
-            "border-top-left-radius": "20px",
-            "border-top-right-radius": "20px",
-            "background": "#E90101"
+		
+		 "style_header": {
+          "border": "solid .4vmin #3C7132",
+          "border-top-left-radius": "20px",
+          "border-top-right-radius": "20px",
+          "background": "#519843"
+        },
+        "style_body": {
+          "border": "solid .4vmin #3C7132",
+          "border-bottom-left-radius": "20px",
+          "border-bottom-right-radius": "20px",
+          "border-top": "0px",
+          "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+        },
+        "wrong_style_header": {
+          "border": "solid .4vmin #b5282e",
+          "border-top-left-radius": "20px",
+          "border-top-right-radius": "20px",
+          "background": "#e2373d"
         },
         "wrong_style_body": {
-            "border": "solid .4vmin #DB4A4D",
+          "border": "solid .4vmin #b5282e",
+          "border-bottom-left-radius": "20px",
+          "border-bottom-right-radius": "20px",
+          "border-top": "none",
+          "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
+        },
+        "partial_style_header": {
+          "border": "solid .4vmin #057499",
+          "border-top-left-radius": "20px",
+          "border-top-right-radius": "20px",
+          "background": "#129fc1"
+        },
+        "partial_style_body": {
+          "border": "solid .4vmin #057499",
+          "border-bottom-left-radius": "20px",
+          "border-bottom-right-radius": "20px",
+          "border-top": "none",
+          "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+        },
+        "partial_right_style_header": {
+          "border": "solid .2vmin #3C7132",
+          "border-top-left-radius": "20px",
+          "border-top-right-radius": "20px",
+          "border-bottom": "none",
+          "background": "#519843"
+        },
+        "partial_right_style_body": {
+          "border": "solid .2vmin #3C7132",
+          "border-bottom-left-radius": "20px",
+          "border-bottom-right-radius": "20px",
+          "border-top": "none",
+          "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+        },
+        "partial_wrong_style_header": {
+          "border": "solid .2vmin #b5282e",
+          "border-top-left-radius": "20px",
+          "border-top-right-radius": "20px",
+          "border-bottom": "none",
+          "background": "#e2373d"
+        },
+        "partial_wrong_style_body": {
+          "border": "solid .2vmin #b5282e",
+          "border-bottom-left-radius": "20px",
+          "border-bottom-right-radius": "20px",
+          "border-top": "none",
+          "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
+        },
+        "headerTxt_img": {
+          "url": "assets/popups/partial_feedback/PopupHeaderTitle.png",
+          "location": "content"
+        },
+        "rightAnswerheaderTxt_img": {
+          "url": "assets/popups/right_feedback/PopupHeaderTitle1.png",
+          "location": "content"
+        },
+        "wrongAnswerheaderTxt_img": {
+          "url": "assets/popups/wrong_feedback/PopupHeaderTitle2.png",
+          "location": "content"
+        },
+        "showAnswerheaderTxt_img": {
+          "url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
+          "location": "content"
+        },
+        "rightAnswerpopupTxt": {
+          "url":"assets/popups/right_feedback/rightAnswerpopupTxt.png",
+          "location":"content",
+          "required":true
+         },
+        "wrongAnswerpopupTxt": {
+          "url":"assets/popups/wrong_feedback/wronganspopupTxt.png",
+          "location":"content",
+          "required":true
+        },
+        "showAnswerpopupTxt": {
+          "url":"assets/popups/show_answer/ShowAnsHeader.png",
+          "location":"content",
+          "required":true
+        },
+        "partialIncorrAnswerpopupTxt": {
+          "url":"assets/popups/partial_feedback/partialincorrectpopupTxt.png",
+          "location":"content",
+          "required":true
+        },
+        "popup_instruction_bg": {
+          "url": "instructionBase.svg",
+          "location": "content"
+        },
+        "popup_instruction_img": {
+          "url": "instructionText.svg",
+          "location": "content"
+        },
+        "popup_commmon_imgs": {
+          "bg_img": {
+            "url": "",
+            "location": "content"
+          },
+          "close_btn": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "close_btn_hover": {
+            "urlglobal": "global/popups/closeBtnHover.png",
+            "location": "theme"
+          },
+          "close_btn_original": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "option_base": {
+            "url": "optBase.png",
+            "location": "content"
+          },
+          "correctimg": {
+            "urlglobal": "global/popups/correct.png",
+            "location": "theme"
+          },
+          "incorrectimg": {
+            "urlglobal": "global/popups/incorrect.png",
+            "location": "theme"
+          }
+        },
+        "right_ans_popup": [
+            {
+                "id": "001",
+                "imgsrc": {
+                    "url": "assets/options/opt1.png",
+                    "location": "content"
+                },
+                "imgsrc_hover": {
+                    "url": "",
+                    "location": "content"
+                },
+                "imgsrc_txt": {
+                    "url": "",
+                    "location": "content"
+                },
+                "imgsrc_audio": {
+                    "url": "assets/options/option1.ogg",
+                    "location": "content"
+                },
+                "imgrightfeedback_audio": {
+                    "url": "rightFeedbackAudio1.ogg",
+                    "location": "content"
+                },
+                "imgsrc_original": {
+                    "url": "assets/options/opt1.png",
+                    "location": "content"
+                }
+            }
+        ],
+        "partialIncorrect_sound": {
+            "url": "assets/options/partialPopupvoice.ogg",
+            "location": "content"
+        },
+        "confirm_popup": {
+          "style_header": {
+            "border": "solid .4vmin #057499",
+            "border-top-left-radius": "20px",
+            "border-top-right-radius": "20px",
+            "background": "#129fc1"
+          },
+          "style_body": {
+            "border": "solid .4vmin #057499",
             "border-bottom-left-radius": "20px",
             "border-bottom-right-radius": "20px",
-            "background": "#FFFFFF"
+            "border-top": "none",
+            "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+          },
+          "headerTxt_img": {
+            "url": "assets/popups/show_answer_confirmation/PopupHeaderTitle3.png",
+            "location": "content"
+          },
+          "bg_img": {
+            "url": "",
+            "location": "content"
+          },
+          "close_btn": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "close_btn_hover": {
+            "urlglobal": "global/popups/closeBtnHover.png",
+            "location": "theme"
+          },
+          "close_btn_original": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "confirm_text": {
+            "url": "assets/popups/show_answer_confirmation/confirmation_popup_text.png",
+            "location": "content"
+          },
+          "confirm_btn": {
+            "urlglobal": "global/popups/yes_btn.png",
+            "location": "theme"
+          },
+          "confirm_btn_hover": {
+            "urlglobal": "global/popups/yes_btn_Hover.png",
+            "location": "theme"
+          },
+          "confirm_btn_original": {
+            "urlglobal": "global/popups/yes_btn.png",
+            "location": "theme"
+          },
+          "decline_btn": {
+            "urlglobal": "global/popups/no_btn.png",
+            "location": "theme"
+          },
+          "decline_btn_hover": {
+            "urlglobal": "global/popups/no_btn_Hover.png",
+            "location": "theme"
+          },
+          "decline_btn_original": {
+            "urlglobal": "global/popups/no_btn.png",
+            "location": "theme"
+          }
         },
-		"headerTxt_img": {
-			"url": "PopupHeaderTitle.png",
-			"location": "content"
-		},
-		"popup_instruction_bg": {
-			"url": "instructionBase.svg",
-			"location": "content"
-		},
-		"popup_instruction_img": {
-			"url": "instructionText.svg",
-			"location": "content"
-		},
-		"ok_btn": {
-			"urlglobal": "global/popups/ok_btn_normal.png",
-			"location": "theme"
-		},
-		"ok_btn_hover": {
-			"urlglobal": "global/popups/ok_btn_Hover.png",
-			"location": "theme"
-		},
-		"ok_btn_original": {
-			"urlglobal": "global/popups/ok_btn_normal.png",
-			"location": "theme"
-		},
-		"popup_commmon_imgs": {
-			"bg_img": {
-				"url": "popupBase.png",
-				"location": "content"
-			},
-			"close_btn": {
-				"url": "closeBtn.png",
-				"location": "content"
-			},
-			"close_btn_hover": {
-				"url": "closeBtnHover.png",
-				"location": "content"
-			},
-			"close_btn_original": {
-				"url": "closeBtn.png",
-				"location": "content"
-			},
-			"option_base": {
-				"url": "optBase.png",
-				"location": "content"
-			}
-		},
-		"confirm_popup": {
-			"style_header": {
-				"border": "solid .4vmin #85d222",
-				"border-top-left-radius": "20px",
-				"border-top-right-radius": "20px",
-				"background": "#248446"
-			},
-			"style_body": {
-				"border": "solid .4vmin #85d222",
-				"border-bottom-left-radius": "20px",
-				"border-bottom-right-radius": "20px",
-				"background": "#afdec0"
-			},
-			"headerTxt_img": {
-				"url": "PopupConfirmHeader.png",
-				"location": "content"
-			},
-			"bg_img": {
-				"url": "confirmation_popup_base.png",
-				"location": "content"
-			},
-			"close_btn": {
-				"url": "closeBtn.png",
-				"location": "content"
-			},
-			"close_btn_hover": {
-				"url": "closeBtnHover.png",
-				"location": "content"
-			},
-			"close_btn_original": {
-				"url": "closeBtn.png",
-				"location": "content"
-			},
-			"confirm_text": {
-				"url": "confirmation_popup_text.png",
-				"location": "content"
-			},
-			"confirm_btn": {
-				"url": "yes_btn.png",
-				"location": "content"
-			},
-			"confirm_btn_hover": {
-				"url": "yes_btn_Hover.png",
-				"location": "content"
-			},
-			"confirm_btn_original": {
-				"url": "yes_btn.png",
-				"location": "content"
-			},
-			"decline_btn": {
-				"url": "no_btn.png",
-				"location": "content"
-			},
-			"decline_btn_hover": {
-				"url": "no_btn_Hover.png",
-				"location": "content"
-			},
-			"decline_btn_original": {
-				"url": "no_btn.png",
-				"location": "content"
-			}
-		}
+        "replay_confirm": {
+              "style_header": {
+                "border": "solid .4vmin #057499",
+                "border-top-left-radius": "20px",
+                "border-top-right-radius": "20px",
+                "background": "#129fc1"
+              },
+              "style_body": {
+                "border": "solid .4vmin #057499",
+                "border-bottom-left-radius": "20px",
+                "border-bottom-right-radius": "20px",
+                "border-top": "none",
+                "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+              },
+              "headerTxt_img": {
+                "url": "assets/popups/video_replay_confirmation/header_confirm_text.png",
+                "location": "content"
+              },     
+              "close_btn": {
+                "urlglobal": "global/popups/closeBtn.png",
+                "location": "theme"
+              },
+              "close_btn_hover": {
+                "urlglobal": "global/popups/closeBtnHover.png",
+                "location": "theme"
+              },
+              "close_btn_original": {
+                "urlglobal": "global/popups/closeBtn.png",
+                "location": "theme"
+              },
+              "confirm_text": {
+                "url": "assets/popups/video_replay_confirmation/replay_popup_text.png",
+                "location": "content"
+              },
+              "confirm_btn": {
+                "urlglobal": "global/popups/yes_btn.png",
+                "location": "theme"
+              },
+              "confirm_btn_hover": {
+                "urlglobal": "global/popups/yes_btn_Hover.png",
+                "location": "theme"
+              },
+              "confirm_btn_original": {
+                "urlglobal": "global/popups/yes_btn.png",
+                "location": "theme"
+              },
+              "decline_btn": {
+                "urlglobal": "global/popups/no_btn.png",
+                "location": "theme"
+              },
+              "decline_btn_hover": {
+                "urlglobal": "global/popups/no_btn_Hover.png",
+                "location": "theme"
+              },
+              "decline_btn_original": {
+                "urlglobal": "global/popups/no_btn.png",
+                "location": "theme"
+              }
+        },
+        "submit_popup": {
+          "style_header": {
+            "border": "solid .4vmin #057499",
+            "border-top-left-radius": "20px",
+            "border-top-right-radius": "20px",
+            "background": "#129fc1"
+          },
+          "style_body": {
+            "border": "solid .4vmin #057499",
+            "border-bottom-left-radius": "20px",
+            "border-bottom-right-radius": "20px",
+            "border-top": "none",
+            "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+          },
+          "headerTxt_img": {
+            "url": "assets/popups/submit_answer_confirmation/PopupConfirmHeader.png",
+            "location": "content"
+          },
+          "bg_img": {
+            "url": "",
+            "location": "content"
+          },
+          "close_btn": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "close_btn_hover": {
+            "urlglobal": "global/popups/closeBtnHover.png",
+            "location": "theme"
+          },
+          "close_btn_original": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "submit_text": {
+            "url": "assets/popups/submit_answer_confirmation/submit_popup_text.png",
+            "location": "content"
+          },
+          "confirm_btn": {
+            "urlglobal": "global/popups/yes_btn.png",
+            "location": "theme"
+          },
+          "confirm_btn_hover": {
+            "urlglobal": "global/popups/yes_btn_Hover.png",
+            "location": "theme"
+          },
+          "confirm_btn_original": {
+            "urlglobal": "global/popups/yes_btn.png",
+            "location": "theme"
+          },
+          "decline_btn": {
+            "urlglobal": "global/popups/no_btn.png",
+            "location": "theme"
+          },
+          "decline_btn_hover": {
+            "urlglobal": "global/popups/no_btn_Hover.png",
+            "location": "theme"
+          },
+          "decline_btn_original": {
+            "urlglobal": "global/popups/no_btn.png",
+            "location": "theme"
+          }
+        },
+        "info_popup": {
+          "style_header": {
+            "border": "solid .4vmin #057499",
+            "border-top-left-radius": "20px",
+            "border-top-right-radius": "20px",
+            "background": "#129fc1"
+          },
+          "style_body": {
+            "border": "solid .4vmin #057499",
+            "border-bottom-left-radius": "20px",
+            "border-bottom-right-radius": "20px",
+            "border-top": "none",
+            "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+          },
+          "headerTxt_img": {
+            "url": "assets/popups/look_for_more_options/look_for_more_options_title.png",
+            "location": "content"
+          },
+          "bg_img": {
+            "url": "",
+            "location": "content"
+          },
+          "close_btn": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "close_btn_hover": {
+            "urlglobal": "global/popups/closeBtnHover.png",
+            "location": "theme"
+          },
+          "close_btn_original": {
+            "urlglobal": "global/popups/closeBtn.png",
+            "location": "theme"
+          },
+          "info_text": {
+            "url": "assets/popups/look_for_more_options/lookformore_popup_text.png",
+            "location": "content"
+          },
+          "ok_btn": {
+            "urlglobal": "global/popups/ok_btn_normal.png",
+            "location": "theme"
+          },
+          "ok_btn_hover": {
+            "urlglobal": "global/popups/ok_btn_Hover.png",
+            "location": "theme"
+          },
+          "ok_btn_original": {
+            "urlglobal": "global/popups/ok_btn_normal.png",
+            "location": "theme"
+          },
+          "partialCorrectAudio": {
+            "url": "assets/popups/look_for_more_options/partialFeedback.ogg",
+            "location": "content"
+          }
+        }
 	}
 
 }
