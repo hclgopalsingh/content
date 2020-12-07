@@ -182,42 +182,6 @@
 					"url": "assets/options/opt4_incorrect.ogg",
 					"location": "content"
 				}
-			},
-			{
-				"index": 4,
-				"imgsrc": {
-					"url": "assets/options/option5.png",
-					"location": "content",
-					"style_class": "option1"
-				},
-				"mouse_over_audio": {
-					"url": "assets/options/option5.ogg",
-					"location": "content"
-				},
-				"imgsrc_active": {
-					"url": "option5Active.png",
-					"location": "content",
-					"style_class": "option1"
-				},
-				"imgsrc_correct": {
-					"url": "assets/options/opt5_correct.png",
-					"location": "content",
-					"style_class": "option1"
-				},
-				"imgsrc_incorrect": {
-					"url": "assets/options/opt5_incorrect.png",
-					"location": "content",
-					"style_class": "option1"
-				},
-				"selected": false,
-				"correct_vo": {
-					"url": "assets/options/opt5_correct.ogg",
-					"location": "content"
-				},
-				"incorrect_vo": {
-					"url": "assets/options/opt5_incorrect.ogg",
-					"location": "content"
-				}
 			}
 		]
 	},
@@ -273,7 +237,9 @@
 			"url": "assets/ques_vo.ogg",
 			"location": "content",
 			"autoPlay": true
-		}
+		},
+		"submitRequired": true,
+		"replayRequired": true
 	},
 
 
@@ -567,6 +533,6 @@
 		}
 	},
 	"feedback": {
-		"correct_sequence": [1,0,4,2,3]
+		"correct_sequence": [1,0,2,3]
 	}
 }

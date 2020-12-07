@@ -34,7 +34,7 @@
 			"location": "content"
 		  },
 		"isFirstQues": true,
-		"imgCount": 4
+		"imgCount": 14
 	},
 	"options_assts": {
 		"option_common_assets": {
@@ -98,11 +98,11 @@
 				"location": "content"
 			},
 			"correct_vo": {
-				"url": "opt2_correct.ogg",
+				"url": "opt1_correct.ogg",
 				"location": "content"
 			},
 			"incorrect_vo": {
-				"url": "opt2_incorrect.ogg",
+				"url": "opt1_incorrect.ogg",
 				"location": "content"
 			},
 			"value": 2,
@@ -128,11 +128,11 @@
 				"location": "content"
 			},
 			"correct_vo": {
-				"url": "opt1_correct.ogg",
+				"url": "opt2_correct.ogg",
 				"location": "content"
 			},
 			"incorrect_vo": {
-				"url": "opt1_incorrect.ogg",
+				"url": "opt2_incorrect.ogg",
 				"location": "content"
 			},
 			"value": 1,
