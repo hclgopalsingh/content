@@ -18,36 +18,28 @@
 			"urlglobal": "global/tabs/bg/bg_1.svg",
 			"location": "theme"
 		},
-		"tooltipImg": {
-			"url": "assets/images/tooltip.svg",
-			"location": "assets"
-		},
-		"lineImg": {
-			"url": "assets/images/line.svg",
-			"location": "assets"
-		},
 		"QuestionAudio": {
 			"url": "assets/narrator.ogg",
 			"location": "content"
 		},
 		"CorrectAudio": {
-			"url": "correct.ogg",
+			"url": "assets/options/correct.ogg",
 			"location": "content"
 		},
 		"WrongAudio": {
-			"url": "wrong.ogg",
+			"url": "assets/options/wrong.ogg",
 			"location": "content"
 		},
 		"showAnsAudio": {
-			"url": "showAnswerSound.ogg",
+			"url": "assets/options/showAnswerSound.ogg",
 			"location": "content"
 		},
 		"PartiallyCorrectAudio": {
-			"url": "partialFeedback.ogg",
+			"url": "",
 			"location": "content"
 		},
 		"moreOptCorrectAudio": {
-			"url": "partiallyCorrect.ogg",
+			"url": "",
 			"location": "content"
 		},
 		 "isFirstQues": true,
@@ -544,7 +536,7 @@
 				"location":"content" 
 			 },
 			"yearsOriginalImg":{
-				"url":"assets/assets/English/Images English/Years/Years Normal/year05.png",
+				"url":"assets/English/Images English/Years/Years Normal/year05.png",
 				"location":"content" 
 			}
 		   },
@@ -2085,6 +2077,8 @@
 			"location": "content",
 			"autoPlay": true
 		},
+		"submitRequired":true,
+        "replayRequired":false,
 		"localMachineDate":true,
 		"givenDate": {
 		  "year":"",
@@ -2093,7 +2087,7 @@
 		},
 		"Ques_scenario":{
 			 
-			"type":"type_3",
+			"type":"",
 			"type_3":{
 				"year_type":"",
 				"year":2021,
@@ -2104,12 +2098,12 @@
 				"yearAdjustment":""
 			}
 		},	
-		"disableyear":false,
+		"disableyear":true,
 		"disablemonth":false,
 		"disableweekDay":false,
 		"disableDate":false,
-		"yearSelected":false,
-		"monthSelected":false,
+		"yearSelected":true,
+		"monthSelected":true,
 		"dateSelected":false,
 		"weekdaySelected":false,
 		"`quesImg": {
@@ -2128,9 +2122,9 @@
 
 
 	"feedback": {
-		"correct_date": "",
+		"correct_date": "2",
 		"correct_year":"",
-		"correct_month":"",
+		"correct_month":"October",
 		"correct_weekDay":"",
 		
 		 "style_header": {

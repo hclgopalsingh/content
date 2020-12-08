@@ -18,38 +18,30 @@
 			"urlglobal": "global/tabs/bg/bg_2.svg",
 			"location": "theme"
 		},
-		"tooltipImg": {
-			"url": "assets/images/tooltip.svg",
-			"location": "assets"
-		},
-		"lineImg": {
-			"url": "assets/images/line.svg",
-			"location": "assets"
-		},
 		"QuestionAudio": {
 			"url": "assets/narrator.ogg",
 			"location": "content"
 		},
 		"CorrectAudio": {
-			"url": "correct.ogg",
+			"url": "assets/options/correct.ogg",
 			"location": "content"
 		},
 		"WrongAudio": {
-			"url": "wrong.ogg",
+			"url": "assets/options/wrong.ogg",
 			"location": "content"
 		},
 		"showAnsAudio": {
-			"url": "showAnswerSound.ogg",
+			"url": "assets/options/showAnswerSound.ogg",
 			"location": "content"
 		},
 		"PartiallyCorrectAudio": {
-			"url": "partialFeedback.ogg",
+			"url": "",
 			"location": "content"
 		},
 		"moreOptCorrectAudio": {
-			"url": "partiallyCorrect.ogg",
+			"url": "",
 			"location": "content"
-		}, 
+		},
 		"isFirstQues": false,
 		"imgCount": 0,
          "backgroundMonths": {
@@ -2083,8 +2075,10 @@
 		"quesInstruction": {
 			"url": "assets/narrator.ogg",
 			"location": "content",
-			"autoPlay": true
+			"autoPlay": false
 		},
+		"submitRequired":true,
+        "replayRequired":false,
 		"localMachineDate":true,
 		"givenDate": {
 		  "year":"",
