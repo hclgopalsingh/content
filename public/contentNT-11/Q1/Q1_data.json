@@ -84,7 +84,7 @@
             "width": "21%"
         },
         "img_sentence": {
-            "url": "assets/fillBlanks1.svg",
+            "url": "assets/fillBlanks1.png",
             "location": "content"
         },
         "img_qa": {
@@ -96,7 +96,7 @@
             "location": "content"
         },
         "img_sentence_org": {
-            "url": "assets/fillBlanks1.svg",
+            "url": "assets/fillBlanks1.png",
             "location": "content"
         },
         "narrator_voice": "",
@@ -181,8 +181,8 @@
     ],
     "quesObj": {
         "quesVideo": {
-            "urlOgv": "assets/video.ogg",
-            "urlMP4": "video.mp4",
+            "urlOgv": "assets/video.ogv",
+            "urlMP4": "assets/video.mp4",
             "location": "content",
             "autoPlay": true
         },
@@ -191,30 +191,46 @@
             "location": "content",
             "autoPlay": true
         },
-        "quesPlay": {
-            "url": "assets/play.svg",
-            "location": "content"
-        },
-        "quesPause": {
-            "url": "assets/pause.svg",
-            "location": "content"
-        },
-        "quesSkip": {
-            "urlOgv": "assets/SkipButton.svg",
-            "location": "content"
-        },
         "quesPlayPause": {
-            "url": "assets/pause.svg",
-            "location": "content"
-        },
-        "quesSkipOrigenal": {
-            "urlOgv": "assets/SkipButton.svg",
-            "location": "content"
-        },
-        "quesSkipHover": {
-            "urlOgv": "assets/SkipButtonHover.svg",
-            "location": "content"
-        },
+            "urlglobal": "global/buttons/commonvideo/pause.svg",
+            "location": "theme"
+          },
+          "quesPlayOriginal": {
+            "urlglobal": "global/buttons/commonvideo/play.svg",
+            "location": "theme"
+          },
+          "quesPlay": {
+            "urlglobal": "global/buttons/commonvideo/play.svg",
+            "location": "theme"
+          },
+          "quesPlayHover": {
+            "urlglobal": "global/buttons/commonvideo/PlayHover.svg",
+            "location": "theme"
+          },
+          "quesPause": {
+            "urlglobal": "global/buttons/commonvideo/pause.svg",
+            "location": "theme"
+          },
+          "quesPauseOriginal": {
+            "urlglobal": "global/buttons/commonvideo/pause.svg",
+            "location": "theme"
+          },
+          "quesPauseHover": {
+            "urlglobal": "global/buttons/commonvideo/PauseHover.svg",
+            "location": "theme"
+          },
+          "quesSkip": {
+            "urlglobal": "global/buttons/commonvideo/SkipButton.svg",
+            "location": "theme"
+          },
+          "quesSkipOrigenal": {
+            "urlglobal": "global/buttons/commonvideo/SkipButton.svg",
+            "location": "theme"
+          },
+          "quesSkipHover": {
+            "urlglobal": "global/buttons/commonvideo/SkipButtonHover.svg",
+            "location": "theme"
+          },
         "`quesImg": {
             "url": "",
             "location": ""
@@ -227,7 +243,7 @@
             "url": "",
             "location": ""
         },
-        "submitRequired": true,
+        "submitRequired": false,
         "replayRequired": true
     },
     "feedback": {
