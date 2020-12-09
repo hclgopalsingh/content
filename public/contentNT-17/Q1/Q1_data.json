@@ -1,6 +1,6 @@
 {
 	"productType": "elementary",
-    "theme_name": "theme1",
+	"theme_name": "theme1",
 	"commonassets": {
 		"instruction_img": {
 			"url": "assets/instruction_bar.png",
@@ -13,3041 +13,2986 @@
 			"url": "assets/ques_vo.ogg",
 			"location": "content"
 		},
-        "background": {
+		"background": {
 			"urlglobal": "global/tabs/bg/bg_1.svg",
 			"location": "theme"
 		},
 		"keyboard": {
 			"New": true
 		},
-		"questionArea":[
-			{
-			"image":{
-				"questionAreaImg":{
+		"questionArea": [{
+			"image": {
+				"questionAreaImg": {
 					"url": "quesImg-1.png",
-				    "location": "content"
+					"location": "content"
 				},
-				"fullscreenImg":{
+				"fullscreenImg": {
 					"url": "quesImg-1.png",
-				    "location": "content"
+					"location": "content"
 				},
-				"flag":false
+				"flag": false
 			},
-			"text":{
-				"txt":"मगरमछ",
-				"flag":false
+			"text": {
+				"txt": "मगरमछ",
+				"flag": false
 			},
-			"audio":
-            {
-			  "bgImg":{
-			    "url":"assets/Question_area/quesbgImg.png",
-				"location": "content"
+			"audio": {
+				"bgImg": {
+					"url": "assets/Question_area/quesbgImg.png",
+					"location": "content"
 				},
-			  "speaker":{
-			    "url":"assets/Question_area/quesImg.png",
-				"location": "content"
+				"speaker": {
+					"url": "assets/Question_area/quesImg.png",
+					"location": "content"
 				},
-			  "speaker_sprite1":{
-			    "url":"assets/Question_area/speakerwave1.png",
-				"location": "content"
+				"speaker_sprite1": {
+					"url": "assets/Question_area/speakerwave1.png",
+					"location": "content"
 				},
-			  "speaker_sprite2":{
-			    "url":"assets/Question_area/speakerwave2.png",
-				"location": "content"
+				"speaker_sprite2": {
+					"url": "assets/Question_area/speakerwave2.png",
+					"location": "content"
 				},
-			 "speaker_sprite3":{
-			    "url":"assets/Question_area/speakerwave3.png",
-				"location": "content"
+				"speaker_sprite3": {
+					"url": "assets/Question_area/speakerwave3.png",
+					"location": "content"
 				},
-			  "img_audio":{
-			    "url":"assets/Question_area/speaker.ogg",
-				"location": "content"
+				"img_audio": {
+					"url": "assets/Question_area/speaker.ogg",
+					"location": "content"
 				},
-			  "flag":true
+				"flag": true
 			},
-			"video":{
-				"url":"video.ogg",
+			"video": {
+				"url": "video.ogg",
 				"location": "content",
-				"flag":false
+				"flag": false
 			}
-		}
-		],
+		}],
 		"isFirstQues": true,
 		"imgCount": 4
 	},
-	"Keyboard": [
-		{
-			"row1": [
-				{
-					"left": 0,
-					"index": "index0",
-					"value": 0
-				},
-				{
-					"left": 6.4,
-					"index": "index1",
-					"value": 1
-				},
-				{
-					"left": 12.7,
-					"index": "index2",
-					"value": 2
-				},
-				{
-					"left": 19,
-					"index": "index3",
-					"value": 3
-				},
-				{
-					"left": 25.2,
-					"index": "index4",
-					"value": 4
-				},
-				{
-					"left": 31.4,
-					"index": "index5",
-					"value": 5
-				},
-				{
-					"left": 37.7,
-					"index": "index6",
-					"value": 6
-				},
-				{
-					"left": 44,
-					"index": "index7",
-					"value": 7
-				},
-				{
-					"left": 50.3,
-					"index": "index8",
-					"value": 8
-				},
-				{
-					"left": 56.5,
-					"index": "index9",
-					"value": 9
-				},
-				{
-					"left": 62.7,
-					"index": "index10",
-					"value": 10
-				},
-				{
-					"left": 69,
-					"index": "index11",
-					"value": 11
-				},
-				{
-					"left": 75.3,
-					"index": "index12",
-					"value": 12
-				},
-				{
-					"left": 81.5,
-					"index": "index13",
-					"value": 13
-				},
-				{
-					"left": 87.7,
-					"index": "index14",
-					"value": 14
-				},
-				{
-					"left": 94.3,
-					"index": "index15",
-					"value": 15
-				}
-			],
-			"row2": [
-				{
-					"left": 0,
-					"index": "index0",
-					"value": "v",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				},
-				{
-					"left": 7.8,
-					"index": "index1",
-					"value": "vk",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				},
-				{
-					"left": 15.46,
-					"index": "index2",
-					"value": "b",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				},
-				{
-					"left": 23.19,
-					"index": "index3",
-					"value": "bZ",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				},
-				{
-					"left": 30.9,
-					"index": "index4",
-					"value": "m",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				},
-				{
-					"left": 38.6,
-					"index": "index5",
-					"value": "Å",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				},
-				{
-					"left": 46.3,
-					"index": "index6",
-					"value": "_",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				},
-				{
-					"left": 54,
-					"index": "index7",
-					"value": ",",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				},
-				{
-					"left": 61.8,
-					"index": "index8",
-					"value": ",s",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				},
-				{
-					"left": 69.5,
-					"index": "index9",
-					"value": "vks",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				},
-				{
-					"left": 77.2,
-					"index": "index10",
-					"value": "vkS",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				},
-				{
-					"left": 85,
-					"index": "index11",
-					"value": "va",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				},
-				{
-					"left": 92.6,
-					"index": "index12",
-					"value": "v%",
-					"matra": "",
-					"url": "vowels.png",
-					"location": "content"
-				}
-			],
-			"row3": [
-				{
-					"left": 0,
-					"top": 0,
-					"index": "index0",
-					"cons": "consonent0",
-					"value": "d",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "D"
-						},
-						{
-							"matra": "dk"
-						},
-						{
-							"matra": "fd"
-						},
-						{
-							"matra": "dh"
-						},
-						{
-							"matra": "dq"
-						},
-						{
-							"matra": "dw"
-						},
-						{
-							"matra": "ds"
-						},
-						{
-							"matra": "dS"
-						},
-						{
-							"matra": "d¨"
-						},
-						{
-							"matra": "d©"
-						},
-						{
-							"matra": "da"
-						},
-						{
-							"matra": "d%"
-						},
-						{
-							"matra": "dZ"
-						},
-						{
-							"matra": "Ø"
-						},
-						{
-							"matra": "—"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 6.8,
-					"top": 0,
-					"index": "index1",
-					"cons": "consonent1",
-					"value": "[k",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "["
-						},
-						{
-							"matra": "[kk"
-						},
-						{
-							"matra": "f[k"
-						},
-						{
-							"matra": "[kh"
-						},
-						{
-							"matra": "[kq"
-						},
-						{
-							"matra": "[kw"
-						},
-						{
-							"matra": "[ks"
-						},
-						{
-							"matra": "[kS"
-						},
-						{
-							"matra": "[k¨"
-						},
-						{
-							"matra": "[k©"
-						},
-						{
-							"matra": "[ka"
-						},
-						{
-							"matra": "[k%"
-						},
-						{
-							"matra": "[kZ"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 13.46,
-					"top": 0,
-					"index": "index2",
-					"cons": "consonent2",
-					"value": "Xk",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "X"
-						},
-						{
-							"matra": "Xkk"
-						},
-						{
-							"matra": "fXk"
-						},
-						{
-							"matra": "Xkh"
-						},
-						{
-							"matra": "Xkq"
-						},
-						{
-							"matra": "Xkw"
-						},
-						{
-							"matra": "Xks"
-						},
-						{
-							"matra": "XkS"
-						},
-						{
-							"matra": "Xkks"
-						},
-						{
-							"matra": "Xk©"
-						},
-						{
-							"matra": "Xka"
-						},
-						{
-							"matra": "Xk%"
-						},
-						{
-							"matra": "XkZ"
-						},
-						{
-							"matra": "Xkz"
-						},
-						{
-							"matra": "x`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 20.19,
-					"top": 0,
-					"index": "index3",
-					"cons": "consonent3",
-					"value": "Ä",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "?"
-						},
-						{
-							"matra": "Äk"
-						},
-						{
-							"matra": "fÄ"
-						},
-						{
-							"matra": "Äh"
-						},
-						{
-							"matra": "Äq"
-						},
-						{
-							"matra": "Äw"
-						},
-						{
-							"matra": "Äs"
-						},
-						{
-							"matra": "ÄS"
-						},
-						{
-							"matra": "Äks"
-						},
-						{
-							"matra": "Ä©"
-						},
-						{
-							"matra": "Äa"
-						},
-						{
-							"matra": "Ä%"
-						},
-						{
-							"matra": "ÄZ"
-						},
-						{
-							"matra": "Äz"
-						},
-						{
-							"matra": "Ä`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 26.9,
-					"top": 0,
-					"index": "index4",
-					"cons": "consonent4",
-					"value": "M-",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 33.5,
-					"top": 0,
-					"index": "index5",
-					"cons": "consonent5",
-					"value": "p",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "P"
-						},
-						{
-							"matra": "pk"
-						},
-						{
-							"matra": "fp"
-						},
-						{
-							"matra": "ph"
-						},
-						{
-							"matra": "pq"
-						},
-						{
-							"matra": "pw"
-						},
-						{
-							"matra": "ps"
-						},
-						{
-							"matra": "pS"
-						},
-						{
-							"matra": "p¨"
-						},
-						{
-							"matra": "p©"
-						},
-						{
-							"matra": "pa"
-						},
-						{
-							"matra": "p%"
-						},
-						{
-							"matra": "PkZ"
-						},
-						{
-							"matra": "Pkz"
-						},
-						{
-							"matra": "p`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 40.2,
-					"top": 0,
-					"index": "index6",
-					"cons": "consonent6",
-					"value": "N",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "N~"
-						},
-						{
-							"matra": "Nk"
-						},
-						{
-							"matra": "fN"
-						},
-						{
-							"matra": "Nh"
-						},
-						{
-							"matra": "Nq"
-						},
-						{
-							"matra": "Nw"
-						},
-						{
-							"matra": "Ns"
-						},
-						{
-							"matra": "NS"
-						},
-						{
-							"matra": "N¨"
-						},
-						{
-							"matra": "N©"
-						},
-						{
-							"matra": "Na"
-						},
-						{
-							"matra": "N%"
-						},
-						{
-							"matra": "NZ"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 47,
-					"top": 0,
-					"index": "index7",
-					"cons": "consonent7",
-					"value": "t",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "T"
-						},
-						{
-							"matra": "tk"
-						},
-						{
-							"matra": "ft"
-						},
-						{
-							"matra": "th"
-						},
-						{
-							"matra": "tq"
-						},
-						{
-							"matra": "tw"
-						},
-						{
-							"matra": "ts"
-						},
-						{
-							"matra": "tS"
-						},
-						{
-							"matra": "t¨"
-						},
-						{
-							"matra": "t©"
-						},
-						{
-							"matra": "ta"
-						},
-						{
-							"matra": "t%"
-						},
-						{
-							"matra": "TkZ"
-						},
-						{
-							"matra": "Tkz"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 53.6,
-					"top": 0,
-					"index": "index8",
-					"cons": "consonent8",
-					"value": ">",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": ">k"
-						},
-						{
-							"matra": "f >"
-						},
-						{
-							"matra": ">h"
-						},
-						{
-							"matra": ">q"
-						},
-						{
-							"matra": ">w"
-						},
-						{
-							"matra": ">s"
-						},
-						{
-							"matra": ">S"
-						},
-						{
-							"matra": ">¨"
-						},
-						{
-							"matra": ">©"
-						},
-						{
-							"matra": ">a"
-						},
-						{
-							"matra": ">%"
-						},
-						{
-							"matra": ">Z"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 60.2,
-					"top": 0,
-					"index": "index9",
-					"cons": "consonent9",
-					"value": "´",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 67,
-					"top": 0,
-					"index": "index10",
-					"cons": "consonent10",
-					"value": "V",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "V~"
-						},
-						{
-							"matra": "Vk"
-						},
-						{
-							"matra": "fV"
-						},
-						{
-							"matra": "Vh"
-						},
-						{
-							"matra": "Vq"
-						},
-						{
-							"matra": "Vw"
-						},
-						{
-							"matra": "Vs"
-						},
-						{
-							"matra": "VS"
-						},
-						{
-							"matra": "V¨"
-						},
-						{
-							"matra": "V©"
-						},
-						{
-							"matra": "Va"
-						},
-						{
-							"matra": "V%"
-						},
-						{
-							"matra": "VZ"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": "Vª"
-						}
-					]
-				},
-				{
-					"left": 73.6,
-					"top": 0,
-					"index": "index11",
-					"cons": "consonent11",
-					"value": "B",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "B~"
-						},
-						{
-							"matra": "Bk"
-						},
-						{
-							"matra": "fB"
-						},
-						{
-							"matra": "Bh"
-						},
-						{
-							"matra": "Bq"
-						},
-						{
-							"matra": "Bw"
-						},
-						{
-							"matra": "Bs"
-						},
-						{
-							"matra": "BS"
-						},
-						{
-							"matra": "B¨"
-						},
-						{
-							"matra": "B©"
-						},
-						{
-							"matra": "Ba"
-						},
-						{
-							"matra": "B%"
-						},
-						{
-							"matra": "BZ"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": "Bª"
-						}
-					]
-				},
-				{
-					"left": 80.2,
-					"top": 0,
-					"index": "index12",
-					"cons": "consonent12",
-					"value": "M",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "M~"
-						},
-						{
-							"matra": "Mk"
-						},
-						{
-							"matra": "fM"
-						},
-						{
-							"matra": "Mh"
-						},
-						{
-							"matra": "Mq"
-						},
-						{
-							"matra": "Mw"
-						},
-						{
-							"matra": "Ms"
-						},
-						{
-							"matra": "MS"
-						},
-						{
-							"matra": "M¨"
-						},
-						{
-							"matra": "M©"
-						},
-						{
-							"matra": "Ma"
-						},
-						{
-							"matra": "M%"
-						},
-						{
-							"matra": "MZ"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": "Mª"
-						}
-					]
-				},
-				{
-					"left": 86.9,
-					"top": 0,
-					"index": "index13",
-					"cons": "consonent13",
-					"value": "<",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "<~~"
-						},
-						{
-							"matra": "<k"
-						},
-						{
-							"matra": "f<"
-						},
-						{
-							"matra": "<h"
-						},
-						{
-							"matra": "<q"
-						},
-						{
-							"matra": "<w"
-						},
-						{
-							"matra": "<s"
-						},
-						{
-							"matra": "<S"
-						},
-						{
-							"matra": "<¨"
-						},
-						{
-							"matra": "<©"
-						},
-						{
-							"matra": "<a"
-						},
-						{
-							"matra": "<%"
-						},
-						{
-							"matra": "<Z"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": "<ª"
-						}
-					]
-				},
-				{
-					"left": 93.6,
-					"top": 0,
-					"index": "index14",
-					"cons": "consonent14",
-					"value": ".k",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "."
-						},
-						{
-							"matra": ".kk"
-						},
-						{
-							"matra": "f.k"
-						},
-						{
-							"matra": ".kh"
-						},
-						{
-							"matra": ".kq"
-						},
-						{
-							"matra": ".kw"
-						},
-						{
-							"matra": ".ks"
-						},
-						{
-							"matra": ".kS"
-						},
-						{
-							"matra": ".k¨"
-						},
-						{
-							"matra": ".k©"
-						},
-						{
-							"matra": ".ka"
-						},
-						{
-							"matra": ".k%"
-						},
-						{
-							"matra": ".kZ"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 0,
-					"top": 34,
-					"index": "index15",
-					"cons": "consonent15",
-					"value": "r",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "R"
-						},
-						{
-							"matra": "rk"
-						},
-						{
-							"matra": "fr"
-						},
-						{
-							"matra": "rh"
-						},
-						{
-							"matra": "rq"
-						},
-						{
-							"matra": "rw"
-						},
-						{
-							"matra": "rs"
-						},
-						{
-							"matra": "rS"
-						},
-						{
-							"matra": "r¨"
-						},
-						{
-							"matra": "r©"
-						},
-						{
-							"matra": "ra"
-						},
-						{
-							"matra": "r%"
-						},
-						{
-							"matra": "rZ"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": "r`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 6.8,
-					"top": 34,
-					"index": "index16",
-					"cons": "consonent16",
-					"value": "Fk",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "F"
-						},
-						{
-							"matra": "Fkk"
-						},
-						{
-							"matra": "fFk"
-						},
-						{
-							"matra": "Fkh"
-						},
-						{
-							"matra": "Fkq"
-						},
-						{
-							"matra": "Fkw"
-						},
-						{
-							"matra": "Fks"
-						},
-						{
-							"matra": "FkS"
-						},
-						{
-							"matra": "Fk¨"
-						},
-						{
-							"matra": "Fk©"
-						},
-						{
-							"matra": "Fka"
-						},
-						{
-							"matra": "Fk%"
-						},
-						{
-							"matra": "FkZ"
-						},
-						{
-							"matra": "Fkz"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 13.46,
-					"top": 34,
-					"index": "index17",
-					"cons": "consonent17",
-					"value": "n",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "n~"
-						},
-						{
-							"matra": "nk"
-						},
-						{
-							"matra": "fn"
-						},
-						{
-							"matra": "nh"
-						},
-						{
-							"matra": "nq"
-						},
-						{
-							"matra": "nw"
-						},
-						{
-							"matra": "ns"
-						},
-						{
-							"matra": "nS"
-						},
-						{
-							"matra": "n¨"
-						},
-						{
-							"matra": "n©"
-						},
-						{
-							"matra": "na"
-						},
-						{
-							"matra": "n%"
-						},
-						{
-							"matra": "nZ"
-						},
-						{
-							"matra": "nz"
-						},
-						{
-							"matra": "n`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 20.19,
-					"top": 34,
-					"index": "index18",
-					"cons": "consonent18",
-					"value": "Ëk",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "Ë"
-						},
-						{
-							"matra": "Ëkk"
-						},
-						{
-							"matra": "fËk"
-						},
-						{
-							"matra": "Ëkh"
-						},
-						{
-							"matra": "Ëkq"
-						},
-						{
-							"matra": "Ëkw"
-						},
-						{
-							"matra": "Ëks"
-						},
-						{
-							"matra": "ËkS"
-						},
-						{
-							"matra": "Ëk¨"
-						},
-						{
-							"matra": "Ëk©"
-						},
-						{
-							"matra": "Ëka"
-						},
-						{
-							"matra": "Ëk%"
-						},
-						{
-							"matra": "ËkZ"
-						},
-						{
-							"matra": "Ëkz"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 26.9,
-					"top": 34,
-					"index": "index19",
-					"cons": "consonent19",
-					"value": "l",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "L"
-						},
-						{
-							"matra": "lk"
-						},
-						{
-							"matra": "fl"
-						},
-						{
-							"matra": "lh"
-						},
-						{
-							"matra": "lq"
-						},
-						{
-							"matra": "lw"
-						},
-						{
-							"matra": "ls"
-						},
-						{
-							"matra": "lS"
-						},
-						{
-							"matra": "l¨"
-						},
-						{
-							"matra": "l©"
-						},
-						{
-							"matra": "la"
-						},
-						{
-							"matra": "l%"
-						},
-						{
-							"matra": "lZ"
-						},
-						{
-							"matra": "lz"
-						},
-						{
-							"matra": "l`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 33.5,
-					"top": 34,
-					"index": "index20",
-					"cons": "consonent20",
-					"value": "i",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "I"
-						},
-						{
-							"matra": "ik"
-						},
-						{
-							"matra": "fi"
-						},
-						{
-							"matra": "ih"
-						},
-						{
-							"matra": "iq"
-						},
-						{
-							"matra": "iw"
-						},
-						{
-							"matra": "is"
-						},
-						{
-							"matra": "iS"
-						},
-						{
-							"matra": "i¨"
-						},
-						{
-							"matra": "i©"
-						},
-						{
-							"matra": "ia"
-						},
-						{
-							"matra": "i%"
-						},
-						{
-							"matra": "iZ"
-						},
-						{
-							"matra": "iz"
-						},
-						{
-							"matra": "i`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 40.2,
-					"top": 34,
-					"index": "index21",
-					"cons": "consonent21",
-					"value": "Q",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "¶"
-						},
-						{
-							"matra": "Qk"
-						},
-						{
-							"matra": "fQ"
-						},
-						{
-							"matra": "Qh"
-						},
-						{
-							"matra": "Qq"
-						},
-						{
-							"matra": "Qw"
-						},
-						{
-							"matra": "Qs"
-						},
-						{
-							"matra": "QS"
-						},
-						{
-							"matra": "Q¨"
-						},
-						{
-							"matra": "Q©"
-						},
-						{
-							"matra": "Qa"
-						},
-						{
-							"matra": "Q%"
-						},
-						{
-							"matra": "QZ"
-						},
-						{
-							"matra": "Ý"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 47,
-					"top": 34,
-					"index": "index22",
-					"cons": "consonent22",
-					"value": "c",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "C"
-						},
-						{
-							"matra": "ck"
-						},
-						{
-							"matra": "fc"
-						},
-						{
-							"matra": "ch"
-						},
-						{
-							"matra": "cq"
-						},
-						{
-							"matra": "cw"
-						},
-						{
-							"matra": "cs"
-						},
-						{
-							"matra": "cS"
-						},
-						{
-							"matra": "c¨"
-						},
-						{
-							"matra": "c©"
-						},
-						{
-							"matra": "ca"
-						},
-						{
-							"matra": "c%"
-						},
-						{
-							"matra": "cZ"
-						},
-						{
-							"matra": "cz"
-						},
-						{
-							"matra": "c`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 53.6,
-					"top": 34,
-					"index": "index23",
-					"cons": "consonent23",
-					"value": "Ò",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "H"
-						},
-						{
-							"matra": "Òk"
-						},
-						{
-							"matra": "fÒ"
-						},
-						{
-							"matra": "Òh"
-						},
-						{
-							"matra": "Òq"
-						},
-						{
-							"matra": "Òw"
-						},
-						{
-							"matra": "Òs"
-						},
-						{
-							"matra": "ÒS"
-						},
-						{
-							"matra": "Ò¨"
-						},
-						{
-							"matra": "Ò©"
-						},
-						{
-							"matra": "Òa"
-						},
-						{
-							"matra": "Ò%"
-						},
-						{
-							"matra": "HkZ"
-						},
-						{
-							"matra": "Hkz"
-						},
-						{
-							"matra": "Hk`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 60.2,
-					"top": 34,
-					"index": "index24",
-					"cons": "consonent24",
-					"value": "e",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "E"
-						},
-						{
-							"matra": "ek"
-						},
-						{
-							"matra": "fe"
-						},
-						{
-							"matra": "eh"
-						},
-						{
-							"matra": "eq"
-						},
-						{
-							"matra": "ew"
-						},
-						{
-							"matra": "es"
-						},
-						{
-							"matra": "eS"
-						},
-						{
-							"matra": "e¨"
-						},
-						{
-							"matra": "e©"
-						},
-						{
-							"matra": "ea"
-						},
-						{
-							"matra": "e%"
-						},
-						{
-							"matra": "eZ"
-						},
-						{
-							"matra": "ez"
-						},
-						{
-							"matra": "e`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 67,
-					"top": 34,
-					"index": "index25",
-					"cons": "consonent25",
-					"value": ";",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "¸"
-						},
-						{
-							"matra": ";k"
-						},
-						{
-							"matra": "f;"
-						},
-						{
-							"matra": ";h"
-						},
-						{
-							"matra": ";q"
-						},
-						{
-							"matra": ";w"
-						},
-						{
-							"matra": ";s"
-						},
-						{
-							"matra": ";S"
-						},
-						{
-							"matra": ";¨"
-						},
-						{
-							"matra": ";©"
-						},
-						{
-							"matra": ";a"
-						},
-						{
-							"matra": ";%"
-						},
-						{
-							"matra": ";Z"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 73.6,
-					"top": 34,
-					"index": "index26",
-					"cons": "consonent26",
-					"value": "j",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "j~"
-						},
-						{
-							"matra": "jk"
-						},
-						{
-							"matra": "fj"
-						},
-						{
-							"matra": "jh"
-						},
-						{
-							"matra": "#"
-						},
-						{
-							"matra": ":"
-						},
-						{
-							"matra": "js"
-						},
-						{
-							"matra": "jS"
-						},
-						{
-							"matra": "j¨"
-						},
-						{
-							"matra": "j©"
-						},
-						{
-							"matra": "ja"
-						},
-						{
-							"matra": "j%"
-						},
-						{
-							"matra": "jZ"
-						},
-						{
-							"matra": "kz"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": "ª"
-						}
-					]
-				},
-				{
-					"left": 80.2,
-					"top": 34,
-					"index": "index27",
-					"cons": "consonent27",
-					"value": "y",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "Y"
-						},
-						{
-							"matra": "yk"
-						},
-						{
-							"matra": "fy"
-						},
-						{
-							"matra": "yh"
-						},
-						{
-							"matra": "yq"
-						},
-						{
-							"matra": "yw"
-						},
-						{
-							"matra": "ys"
-						},
-						{
-							"matra": "yS"
-						},
-						{
-							"matra": "y¨"
-						},
-						{
-							"matra": "y©"
-						},
-						{
-							"matra": "ya"
-						},
-						{
-							"matra": "y%"
-						},
-						{
-							"matra": "yZ"
-						},
-						{
-							"matra": "yz"
-						},
-						{
-							"matra": "Yk`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 86.9,
-					"top": 34,
-					"index": "index28",
-					"cons": "consonent28",
-					"value": "o",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "O"
-						},
-						{
-							"matra": "ok"
-						},
-						{
-							"matra": "fo"
-						},
-						{
-							"matra": "oh"
-						},
-						{
-							"matra": "oq"
-						},
-						{
-							"matra": "ow"
-						},
-						{
-							"matra": "os"
-						},
-						{
-							"matra": "oS"
-						},
-						{
-							"matra": "o¨"
-						},
-						{
-							"matra": "o©"
-						},
-						{
-							"matra": "oa"
-						},
-						{
-							"matra": "o%"
-						},
-						{
-							"matra": "oZ"
-						},
-						{
-							"matra": "oz"
-						},
-						{
-							"matra": "Ok`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 93.6,
-					"top": 34,
-					"index": "index29",
-					"cons": "consonent29",
-					"value": "'k",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "'"
-						},
-						{
-							"matra": "'kk"
-						},
-						{
-							"matra": "f'k"
-						},
-						{
-							"matra": "'kh"
-						},
-						{
-							"matra": "'kq"
-						},
-						{
-							"matra": "'kw"
-						},
-						{
-							"matra": "'ks"
-						},
-						{
-							"matra": "'kS"
-						},
-						{
-							"matra": "'k¨"
-						},
-						{
-							"matra": "'k©"
-						},
-						{
-							"matra": "'ka"
-						},
-						{
-							"matra": "'k%"
-						},
-						{
-							"matra": "'kZ"
-						},
-						{
-							"matra": "J"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 0,
-					"top": 68,
-					"index": "index30",
-					"cons": "consonent30",
-					"value": "‘k",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "‘"
-						},
-						{
-							"matra": "‘kk"
-						},
-						{
-							"matra": "f‘k"
-						},
-						{
-							"matra": "‘kh"
-						},
-						{
-							"matra": "‘kq"
-						},
-						{
-							"matra": "‘kw"
-						},
-						{
-							"matra": "‘ks"
-						},
-						{
-							"matra": "‘kS"
-						},
-						{
-							"matra": "‘k¨"
-						},
-						{
-							"matra": "‘k©"
-						},
-						{
-							"matra": "‘ka"
-						},
-						{
-							"matra": "‘k%"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 6.8,
-					"top": 68,
-					"index": "index31",
-					"cons": "consonent31",
-					"value": "u",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "U"
-						},
-						{
-							"matra": "uk"
-						},
-						{
-							"matra": "fu"
-						},
-						{
-							"matra": "uh"
-						},
-						{
-							"matra": "uq"
-						},
-						{
-							"matra": "uw"
-						},
-						{
-							"matra": "us"
-						},
-						{
-							"matra": "uS"
-						},
-						{
-							"matra": "u¨"
-						},
-						{
-							"matra": "u©"
-						},
-						{
-							"matra": "ua"
-						},
-						{
-							"matra": "u%"
-						},
-						{
-							"matra": "UkZ"
-						},
-						{
-							"matra": "Ukz"
-						},
-						{
-							"matra": "Uk`"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 13.46,
-					"top": 68,
-					"index": "index32",
-					"cons": "consonent32",
-					"value": "g",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "g~"
-						},
-						{
-							"matra": "gk"
-						},
-						{
-							"matra": "fg"
-						},
-						{
-							"matra": "gh"
-						},
-						{
-							"matra": "gq"
-						},
-						{
-							"matra": "gw"
-						},
-						{
-							"matra": "gs"
-						},
-						{
-							"matra": "gS"
-						},
-						{
-							"matra": "g¨"
-						},
-						{
-							"matra": "g©"
-						},
-						{
-							"matra": "ga"
-						},
-						{
-							"matra": "g%"
-						},
-						{
-							"matra": "gZ"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": "â"
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 20.19,
-					"top": 68,
-					"index": "index33",
-					"cons": "consonent33",
-					"value": "{k",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "{"
-						},
-						{
-							"matra": "{kk"
-						},
-						{
-							"matra": "f{k"
-						},
-						{
-							"matra": "{kh"
-						},
-						{
-							"matra": "{kq"
-						},
-						{
-							"matra": "{kw"
-						},
-						{
-							"matra": "{ks"
-						},
-						{
-							"matra": "{kS"
-						},
-						{
-							"matra": "{k¨"
-						},
-						{
-							"matra": "{k©"
-						},
-						{
-							"matra": "{ka"
-						},
-						{
-							"matra": "{k%"
-						},
-						{
-							"matra": "{kZ"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 26.9,
-					"top": 68,
-					"index": "index34",
-					"cons": "consonent34",
-					"value": "«k",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": "«"
-						},
-						{
-							"matra": "«kk"
-						},
-						{
-							"matra": "f«k"
-						},
-						{
-							"matra": "«kh"
-						},
-						{
-							"matra": "«kq"
-						},
-						{
-							"matra": "«kw"
-						},
-						{
-							"matra": "«ks"
-						},
-						{
-							"matra": "«kS"
-						},
-						{
-							"matra": "«k¨"
-						},
-						{
-							"matra": "«k©"
-						},
-						{
-							"matra": "«ka"
-						},
-						{
-							"matra": "«k%"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 33.5,
-					"top": 68,
-					"index": "index35",
-					"cons": "consonent35",
-					"value": "K",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": "Kk"
-						},
-						{
-							"matra": "fK"
-						},
-						{
-							"matra": "Kh"
-						},
-						{
-							"matra": "Kq"
-						},
-						{
-							"matra": "Kw"
-						},
-						{
-							"matra": "Ks"
-						},
-						{
-							"matra": "KS"
-						},
-						{
-							"matra": "K¨"
-						},
-						{
-							"matra": "K©"
-						},
-						{
-							"matra": "Ka"
-						},
-						{
-							"matra": "K%"
-						},
-						{
-							"matra": "KZ"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 40.2,
-					"top": 68,
-					"index": "index36",
-					"cons": "consonent36",
-					"value": "J",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 47,
-					"top": 68,
-					"index": "index37",
-					"cons": "consonent37",
-					"value": "M+",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": "M+k"
-						},
-						{
-							"matra": "fM+"
-						},
-						{
-							"matra": "M+h"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": "M+s"
-						},
-						{
-							"matra": "M+S"
-						},
-						{
-							"matra": "M+¨"
-						},
-						{
-							"matra": "M+©"
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 53.6,
-					"top": 68,
-					"index": "index38",
-					"cons": "consonent38",
-					"value": "<+",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 60.2,
-					"top": 68,
-					"index": "index39",
-					"cons": "consonent39",
-					"value": "Ù",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 67,
-					"top": 68,
-					"index": "index40",
-					"cons": "consonent40",
-					"value": ")",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 73.6,
-					"top": 68,
-					"index": "index41",
-					"cons": "consonent41",
-					"value": "ã",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 80.2,
-					"top": 68,
-					"index": "index42",
-					"cons": "consonent42",
-					"value": "Ì",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 86.9,
-					"top": 68,
-					"index": "index43",
-					"cons": "consonent43",
-					"value": "|",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				},
-				{
-					"left": 93.6,
-					"top": 68,
-					"index": "index44",
-					"cons": "consonent44",
-					"value": "gî",
-					"url": "consonents.png",
-					"location": "content",
-					"matras": [
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						},
-						{
-							"matra": ""
-						}
-					]
-				}
-			],
-			"btmRow": [
-				{
-					"left": 0,
-					"width": 18.7,
-					"index": "index0",
-					"value": "Normal"
-				},
-				{
-					"left": 19,
-					"width": 43.22,
-					"index": "index1",
-					"value": "Spacebar"
-				},
-				{
-					"left": 62.5,
-					"width": 18.7,
-					"index": "index2",
-					"value": "Clear"
-				},
-				{
-					"left": 81.4,
-					"width": 18.7,
-					"index": "index3",
-					"value": "Backspace"
-				}
-			],
-			"numPadArray": [
-				{
-					"left": 0,
-					"top": 0,
-					"width": 100,
-					"index": "index0",
-					"value": "0"
-				},
-				{
-					"left": 0,
-					"top": 20.4,
-					"width": 32,
-					"index": "index1",
-					"value": "1"
-				},
-				{
-					"left": 34,
-					"top": 20.4,
-					"width": 32,
-					"index": "index2",
-					"value": "2"
-				},
-				{
-					"left": 68,
-					"top": 20.4,
-					"width": 32,
-					"index": "index3",
-					"value": "3"
-				},
-				{
-					"left": 0,
-					"top": 40.4,
-					"width": 32,
-					"index": "index4",
-					"value": "4"
-				},
-				{
-					"left": 34,
-					"top": 40.4,
-					"width": 32,
-					"index": "index5",
-					"value": "5"
-				},
-				{
-					"left": 68,
-					"top": 40.4,
-					"width": 32,
-					"index": "index6",
-					"value": "6"
-				},
-				{
-					"left": 0,
-					"top": 60.4,
-					"width": 32,
-					"index": "index7",
-					"value": "7"
-				},
-				{
-					"left": 34,
-					"top": 60.4,
-					"width": 32,
-					"index": "index8",
-					"value": "8"
-				},
-				{
-					"left": 68,
-					"top": 60.4,
-					"width": 32,
-					"index": "index9",
-					"value": "9"
-				},
-				{
-					"left": 0,
-					"top": 80.4,
-					"width": 32,
-					"index": "index10",
-					"value": "&"
-				},
-				{
-					"left": 34,
-					"top": 80.4,
-					"width": 32,
-					"index": "index11",
-					"value": "-"
-				},
-				{
-					"left": 68,
-					"top": 80.4,
-					"width": 32,
-					"index": "index12",
-					"value": "@"
-				}
-			]
-		}
-	],
+	"Keyboard": [{
+		"row1": [{
+				"left": 0,
+				"index": "index0",
+				"value": 0
+			},
+			{
+				"left": 6.4,
+				"index": "index1",
+				"value": 1
+			},
+			{
+				"left": 12.7,
+				"index": "index2",
+				"value": 2
+			},
+			{
+				"left": 19,
+				"index": "index3",
+				"value": 3
+			},
+			{
+				"left": 25.2,
+				"index": "index4",
+				"value": 4
+			},
+			{
+				"left": 31.4,
+				"index": "index5",
+				"value": 5
+			},
+			{
+				"left": 37.7,
+				"index": "index6",
+				"value": 6
+			},
+			{
+				"left": 44,
+				"index": "index7",
+				"value": 7
+			},
+			{
+				"left": 50.3,
+				"index": "index8",
+				"value": 8
+			},
+			{
+				"left": 56.5,
+				"index": "index9",
+				"value": 9
+			},
+			{
+				"left": 62.7,
+				"index": "index10",
+				"value": 10
+			},
+			{
+				"left": 69,
+				"index": "index11",
+				"value": 11
+			},
+			{
+				"left": 75.3,
+				"index": "index12",
+				"value": 12
+			},
+			{
+				"left": 81.5,
+				"index": "index13",
+				"value": 13
+			},
+			{
+				"left": 87.7,
+				"index": "index14",
+				"value": 14
+			},
+			{
+				"left": 94.3,
+				"index": "index15",
+				"value": 15
+			}
+		],
+		"row2": [{
+				"left": 0,
+				"index": "index0",
+				"value": "v",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			},
+			{
+				"left": 7.8,
+				"index": "index1",
+				"value": "vk",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			},
+			{
+				"left": 15.46,
+				"index": "index2",
+				"value": "b",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			},
+			{
+				"left": 23.19,
+				"index": "index3",
+				"value": "bZ",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			},
+			{
+				"left": 30.9,
+				"index": "index4",
+				"value": "m",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			},
+			{
+				"left": 38.6,
+				"index": "index5",
+				"value": "Å",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			},
+			{
+				"left": 46.3,
+				"index": "index6",
+				"value": "_",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			},
+			{
+				"left": 54,
+				"index": "index7",
+				"value": ",",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			},
+			{
+				"left": 61.8,
+				"index": "index8",
+				"value": ",s",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			},
+			{
+				"left": 69.5,
+				"index": "index9",
+				"value": "vks",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			},
+			{
+				"left": 77.2,
+				"index": "index10",
+				"value": "vkS",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			},
+			{
+				"left": 85,
+				"index": "index11",
+				"value": "va",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			},
+			{
+				"left": 92.6,
+				"index": "index12",
+				"value": "v%",
+				"matra": "",
+				"url": "vowels.png",
+				"location": "content"
+			}
+		],
+		"row3": [{
+				"left": 0,
+				"top": 0,
+				"index": "index0",
+				"cons": "consonent0",
+				"value": "d",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "D"
+					},
+					{
+						"matra": "dk"
+					},
+					{
+						"matra": "fd"
+					},
+					{
+						"matra": "dh"
+					},
+					{
+						"matra": "dq"
+					},
+					{
+						"matra": "dw"
+					},
+					{
+						"matra": "ds"
+					},
+					{
+						"matra": "dS"
+					},
+					{
+						"matra": "d¨"
+					},
+					{
+						"matra": "d©"
+					},
+					{
+						"matra": "da"
+					},
+					{
+						"matra": "d%"
+					},
+					{
+						"matra": "dZ"
+					},
+					{
+						"matra": "Ø"
+					},
+					{
+						"matra": "—"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 6.8,
+				"top": 0,
+				"index": "index1",
+				"cons": "consonent1",
+				"value": "[k",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "["
+					},
+					{
+						"matra": "[kk"
+					},
+					{
+						"matra": "f[k"
+					},
+					{
+						"matra": "[kh"
+					},
+					{
+						"matra": "[kq"
+					},
+					{
+						"matra": "[kw"
+					},
+					{
+						"matra": "[ks"
+					},
+					{
+						"matra": "[kS"
+					},
+					{
+						"matra": "[k¨"
+					},
+					{
+						"matra": "[k©"
+					},
+					{
+						"matra": "[ka"
+					},
+					{
+						"matra": "[k%"
+					},
+					{
+						"matra": "[kZ"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 13.46,
+				"top": 0,
+				"index": "index2",
+				"cons": "consonent2",
+				"value": "Xk",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "X"
+					},
+					{
+						"matra": "Xkk"
+					},
+					{
+						"matra": "fXk"
+					},
+					{
+						"matra": "Xkh"
+					},
+					{
+						"matra": "Xkq"
+					},
+					{
+						"matra": "Xkw"
+					},
+					{
+						"matra": "Xks"
+					},
+					{
+						"matra": "XkS"
+					},
+					{
+						"matra": "Xkks"
+					},
+					{
+						"matra": "Xk©"
+					},
+					{
+						"matra": "Xka"
+					},
+					{
+						"matra": "Xk%"
+					},
+					{
+						"matra": "XkZ"
+					},
+					{
+						"matra": "Xkz"
+					},
+					{
+						"matra": "x`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 20.19,
+				"top": 0,
+				"index": "index3",
+				"cons": "consonent3",
+				"value": "Ä",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "?"
+					},
+					{
+						"matra": "Äk"
+					},
+					{
+						"matra": "fÄ"
+					},
+					{
+						"matra": "Äh"
+					},
+					{
+						"matra": "Äq"
+					},
+					{
+						"matra": "Äw"
+					},
+					{
+						"matra": "Äs"
+					},
+					{
+						"matra": "ÄS"
+					},
+					{
+						"matra": "Äks"
+					},
+					{
+						"matra": "Ä©"
+					},
+					{
+						"matra": "Äa"
+					},
+					{
+						"matra": "Ä%"
+					},
+					{
+						"matra": "ÄZ"
+					},
+					{
+						"matra": "Äz"
+					},
+					{
+						"matra": "Ä`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 26.9,
+				"top": 0,
+				"index": "index4",
+				"cons": "consonent4",
+				"value": "M-",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 33.5,
+				"top": 0,
+				"index": "index5",
+				"cons": "consonent5",
+				"value": "p",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "P"
+					},
+					{
+						"matra": "pk"
+					},
+					{
+						"matra": "fp"
+					},
+					{
+						"matra": "ph"
+					},
+					{
+						"matra": "pq"
+					},
+					{
+						"matra": "pw"
+					},
+					{
+						"matra": "ps"
+					},
+					{
+						"matra": "pS"
+					},
+					{
+						"matra": "p¨"
+					},
+					{
+						"matra": "p©"
+					},
+					{
+						"matra": "pa"
+					},
+					{
+						"matra": "p%"
+					},
+					{
+						"matra": "PkZ"
+					},
+					{
+						"matra": "Pkz"
+					},
+					{
+						"matra": "p`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 40.2,
+				"top": 0,
+				"index": "index6",
+				"cons": "consonent6",
+				"value": "N",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "N~"
+					},
+					{
+						"matra": "Nk"
+					},
+					{
+						"matra": "fN"
+					},
+					{
+						"matra": "Nh"
+					},
+					{
+						"matra": "Nq"
+					},
+					{
+						"matra": "Nw"
+					},
+					{
+						"matra": "Ns"
+					},
+					{
+						"matra": "NS"
+					},
+					{
+						"matra": "N¨"
+					},
+					{
+						"matra": "N©"
+					},
+					{
+						"matra": "Na"
+					},
+					{
+						"matra": "N%"
+					},
+					{
+						"matra": "NZ"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 47,
+				"top": 0,
+				"index": "index7",
+				"cons": "consonent7",
+				"value": "t",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "T"
+					},
+					{
+						"matra": "tk"
+					},
+					{
+						"matra": "ft"
+					},
+					{
+						"matra": "th"
+					},
+					{
+						"matra": "tq"
+					},
+					{
+						"matra": "tw"
+					},
+					{
+						"matra": "ts"
+					},
+					{
+						"matra": "tS"
+					},
+					{
+						"matra": "t¨"
+					},
+					{
+						"matra": "t©"
+					},
+					{
+						"matra": "ta"
+					},
+					{
+						"matra": "t%"
+					},
+					{
+						"matra": "TkZ"
+					},
+					{
+						"matra": "Tkz"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 53.6,
+				"top": 0,
+				"index": "index8",
+				"cons": "consonent8",
+				"value": ">",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": ">k"
+					},
+					{
+						"matra": "f >"
+					},
+					{
+						"matra": ">h"
+					},
+					{
+						"matra": ">q"
+					},
+					{
+						"matra": ">w"
+					},
+					{
+						"matra": ">s"
+					},
+					{
+						"matra": ">S"
+					},
+					{
+						"matra": ">¨"
+					},
+					{
+						"matra": ">©"
+					},
+					{
+						"matra": ">a"
+					},
+					{
+						"matra": ">%"
+					},
+					{
+						"matra": ">Z"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 60.2,
+				"top": 0,
+				"index": "index9",
+				"cons": "consonent9",
+				"value": "´",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 67,
+				"top": 0,
+				"index": "index10",
+				"cons": "consonent10",
+				"value": "V",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "V~"
+					},
+					{
+						"matra": "Vk"
+					},
+					{
+						"matra": "fV"
+					},
+					{
+						"matra": "Vh"
+					},
+					{
+						"matra": "Vq"
+					},
+					{
+						"matra": "Vw"
+					},
+					{
+						"matra": "Vs"
+					},
+					{
+						"matra": "VS"
+					},
+					{
+						"matra": "V¨"
+					},
+					{
+						"matra": "V©"
+					},
+					{
+						"matra": "Va"
+					},
+					{
+						"matra": "V%"
+					},
+					{
+						"matra": "VZ"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": "Vª"
+					}
+				]
+			},
+			{
+				"left": 73.6,
+				"top": 0,
+				"index": "index11",
+				"cons": "consonent11",
+				"value": "B",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "B~"
+					},
+					{
+						"matra": "Bk"
+					},
+					{
+						"matra": "fB"
+					},
+					{
+						"matra": "Bh"
+					},
+					{
+						"matra": "Bq"
+					},
+					{
+						"matra": "Bw"
+					},
+					{
+						"matra": "Bs"
+					},
+					{
+						"matra": "BS"
+					},
+					{
+						"matra": "B¨"
+					},
+					{
+						"matra": "B©"
+					},
+					{
+						"matra": "Ba"
+					},
+					{
+						"matra": "B%"
+					},
+					{
+						"matra": "BZ"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": "Bª"
+					}
+				]
+			},
+			{
+				"left": 80.2,
+				"top": 0,
+				"index": "index12",
+				"cons": "consonent12",
+				"value": "M",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "M~"
+					},
+					{
+						"matra": "Mk"
+					},
+					{
+						"matra": "fM"
+					},
+					{
+						"matra": "Mh"
+					},
+					{
+						"matra": "Mq"
+					},
+					{
+						"matra": "Mw"
+					},
+					{
+						"matra": "Ms"
+					},
+					{
+						"matra": "MS"
+					},
+					{
+						"matra": "M¨"
+					},
+					{
+						"matra": "M©"
+					},
+					{
+						"matra": "Ma"
+					},
+					{
+						"matra": "M%"
+					},
+					{
+						"matra": "MZ"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": "Mª"
+					}
+				]
+			},
+			{
+				"left": 86.9,
+				"top": 0,
+				"index": "index13",
+				"cons": "consonent13",
+				"value": "<",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "<~~"
+					},
+					{
+						"matra": "<k"
+					},
+					{
+						"matra": "f<"
+					},
+					{
+						"matra": "<h"
+					},
+					{
+						"matra": "<q"
+					},
+					{
+						"matra": "<w"
+					},
+					{
+						"matra": "<s"
+					},
+					{
+						"matra": "<S"
+					},
+					{
+						"matra": "<¨"
+					},
+					{
+						"matra": "<©"
+					},
+					{
+						"matra": "<a"
+					},
+					{
+						"matra": "<%"
+					},
+					{
+						"matra": "<Z"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": "<ª"
+					}
+				]
+			},
+			{
+				"left": 93.6,
+				"top": 0,
+				"index": "index14",
+				"cons": "consonent14",
+				"value": ".k",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "."
+					},
+					{
+						"matra": ".kk"
+					},
+					{
+						"matra": "f.k"
+					},
+					{
+						"matra": ".kh"
+					},
+					{
+						"matra": ".kq"
+					},
+					{
+						"matra": ".kw"
+					},
+					{
+						"matra": ".ks"
+					},
+					{
+						"matra": ".kS"
+					},
+					{
+						"matra": ".k¨"
+					},
+					{
+						"matra": ".k©"
+					},
+					{
+						"matra": ".ka"
+					},
+					{
+						"matra": ".k%"
+					},
+					{
+						"matra": ".kZ"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 0,
+				"top": 34,
+				"index": "index15",
+				"cons": "consonent15",
+				"value": "r",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "R"
+					},
+					{
+						"matra": "rk"
+					},
+					{
+						"matra": "fr"
+					},
+					{
+						"matra": "rh"
+					},
+					{
+						"matra": "rq"
+					},
+					{
+						"matra": "rw"
+					},
+					{
+						"matra": "rs"
+					},
+					{
+						"matra": "rS"
+					},
+					{
+						"matra": "r¨"
+					},
+					{
+						"matra": "r©"
+					},
+					{
+						"matra": "ra"
+					},
+					{
+						"matra": "r%"
+					},
+					{
+						"matra": "rZ"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": "r`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 6.8,
+				"top": 34,
+				"index": "index16",
+				"cons": "consonent16",
+				"value": "Fk",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "F"
+					},
+					{
+						"matra": "Fkk"
+					},
+					{
+						"matra": "fFk"
+					},
+					{
+						"matra": "Fkh"
+					},
+					{
+						"matra": "Fkq"
+					},
+					{
+						"matra": "Fkw"
+					},
+					{
+						"matra": "Fks"
+					},
+					{
+						"matra": "FkS"
+					},
+					{
+						"matra": "Fk¨"
+					},
+					{
+						"matra": "Fk©"
+					},
+					{
+						"matra": "Fka"
+					},
+					{
+						"matra": "Fk%"
+					},
+					{
+						"matra": "FkZ"
+					},
+					{
+						"matra": "Fkz"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 13.46,
+				"top": 34,
+				"index": "index17",
+				"cons": "consonent17",
+				"value": "n",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "n~"
+					},
+					{
+						"matra": "nk"
+					},
+					{
+						"matra": "fn"
+					},
+					{
+						"matra": "nh"
+					},
+					{
+						"matra": "nq"
+					},
+					{
+						"matra": "nw"
+					},
+					{
+						"matra": "ns"
+					},
+					{
+						"matra": "nS"
+					},
+					{
+						"matra": "n¨"
+					},
+					{
+						"matra": "n©"
+					},
+					{
+						"matra": "na"
+					},
+					{
+						"matra": "n%"
+					},
+					{
+						"matra": "nZ"
+					},
+					{
+						"matra": "nz"
+					},
+					{
+						"matra": "n`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 20.19,
+				"top": 34,
+				"index": "index18",
+				"cons": "consonent18",
+				"value": "Ëk",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "Ë"
+					},
+					{
+						"matra": "Ëkk"
+					},
+					{
+						"matra": "fËk"
+					},
+					{
+						"matra": "Ëkh"
+					},
+					{
+						"matra": "Ëkq"
+					},
+					{
+						"matra": "Ëkw"
+					},
+					{
+						"matra": "Ëks"
+					},
+					{
+						"matra": "ËkS"
+					},
+					{
+						"matra": "Ëk¨"
+					},
+					{
+						"matra": "Ëk©"
+					},
+					{
+						"matra": "Ëka"
+					},
+					{
+						"matra": "Ëk%"
+					},
+					{
+						"matra": "ËkZ"
+					},
+					{
+						"matra": "Ëkz"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 26.9,
+				"top": 34,
+				"index": "index19",
+				"cons": "consonent19",
+				"value": "l",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "L"
+					},
+					{
+						"matra": "lk"
+					},
+					{
+						"matra": "fl"
+					},
+					{
+						"matra": "lh"
+					},
+					{
+						"matra": "lq"
+					},
+					{
+						"matra": "lw"
+					},
+					{
+						"matra": "ls"
+					},
+					{
+						"matra": "lS"
+					},
+					{
+						"matra": "l¨"
+					},
+					{
+						"matra": "l©"
+					},
+					{
+						"matra": "la"
+					},
+					{
+						"matra": "l%"
+					},
+					{
+						"matra": "lZ"
+					},
+					{
+						"matra": "lz"
+					},
+					{
+						"matra": "l`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 33.5,
+				"top": 34,
+				"index": "index20",
+				"cons": "consonent20",
+				"value": "i",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "I"
+					},
+					{
+						"matra": "ik"
+					},
+					{
+						"matra": "fi"
+					},
+					{
+						"matra": "ih"
+					},
+					{
+						"matra": "iq"
+					},
+					{
+						"matra": "iw"
+					},
+					{
+						"matra": "is"
+					},
+					{
+						"matra": "iS"
+					},
+					{
+						"matra": "i¨"
+					},
+					{
+						"matra": "i©"
+					},
+					{
+						"matra": "ia"
+					},
+					{
+						"matra": "i%"
+					},
+					{
+						"matra": "iZ"
+					},
+					{
+						"matra": "iz"
+					},
+					{
+						"matra": "i`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 40.2,
+				"top": 34,
+				"index": "index21",
+				"cons": "consonent21",
+				"value": "Q",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "¶"
+					},
+					{
+						"matra": "Qk"
+					},
+					{
+						"matra": "fQ"
+					},
+					{
+						"matra": "Qh"
+					},
+					{
+						"matra": "Qq"
+					},
+					{
+						"matra": "Qw"
+					},
+					{
+						"matra": "Qs"
+					},
+					{
+						"matra": "QS"
+					},
+					{
+						"matra": "Q¨"
+					},
+					{
+						"matra": "Q©"
+					},
+					{
+						"matra": "Qa"
+					},
+					{
+						"matra": "Q%"
+					},
+					{
+						"matra": "QZ"
+					},
+					{
+						"matra": "Ý"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 47,
+				"top": 34,
+				"index": "index22",
+				"cons": "consonent22",
+				"value": "c",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "C"
+					},
+					{
+						"matra": "ck"
+					},
+					{
+						"matra": "fc"
+					},
+					{
+						"matra": "ch"
+					},
+					{
+						"matra": "cq"
+					},
+					{
+						"matra": "cw"
+					},
+					{
+						"matra": "cs"
+					},
+					{
+						"matra": "cS"
+					},
+					{
+						"matra": "c¨"
+					},
+					{
+						"matra": "c©"
+					},
+					{
+						"matra": "ca"
+					},
+					{
+						"matra": "c%"
+					},
+					{
+						"matra": "cZ"
+					},
+					{
+						"matra": "cz"
+					},
+					{
+						"matra": "c`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 53.6,
+				"top": 34,
+				"index": "index23",
+				"cons": "consonent23",
+				"value": "Ò",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "H"
+					},
+					{
+						"matra": "Òk"
+					},
+					{
+						"matra": "fÒ"
+					},
+					{
+						"matra": "Òh"
+					},
+					{
+						"matra": "Òq"
+					},
+					{
+						"matra": "Òw"
+					},
+					{
+						"matra": "Òs"
+					},
+					{
+						"matra": "ÒS"
+					},
+					{
+						"matra": "Ò¨"
+					},
+					{
+						"matra": "Ò©"
+					},
+					{
+						"matra": "Òa"
+					},
+					{
+						"matra": "Ò%"
+					},
+					{
+						"matra": "HkZ"
+					},
+					{
+						"matra": "Hkz"
+					},
+					{
+						"matra": "Hk`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 60.2,
+				"top": 34,
+				"index": "index24",
+				"cons": "consonent24",
+				"value": "e",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "E"
+					},
+					{
+						"matra": "ek"
+					},
+					{
+						"matra": "fe"
+					},
+					{
+						"matra": "eh"
+					},
+					{
+						"matra": "eq"
+					},
+					{
+						"matra": "ew"
+					},
+					{
+						"matra": "es"
+					},
+					{
+						"matra": "eS"
+					},
+					{
+						"matra": "e¨"
+					},
+					{
+						"matra": "e©"
+					},
+					{
+						"matra": "ea"
+					},
+					{
+						"matra": "e%"
+					},
+					{
+						"matra": "eZ"
+					},
+					{
+						"matra": "ez"
+					},
+					{
+						"matra": "e`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 67,
+				"top": 34,
+				"index": "index25",
+				"cons": "consonent25",
+				"value": ";",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "¸"
+					},
+					{
+						"matra": ";k"
+					},
+					{
+						"matra": "f;"
+					},
+					{
+						"matra": ";h"
+					},
+					{
+						"matra": ";q"
+					},
+					{
+						"matra": ";w"
+					},
+					{
+						"matra": ";s"
+					},
+					{
+						"matra": ";S"
+					},
+					{
+						"matra": ";¨"
+					},
+					{
+						"matra": ";©"
+					},
+					{
+						"matra": ";a"
+					},
+					{
+						"matra": ";%"
+					},
+					{
+						"matra": ";Z"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 73.6,
+				"top": 34,
+				"index": "index26",
+				"cons": "consonent26",
+				"value": "j",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "j~"
+					},
+					{
+						"matra": "jk"
+					},
+					{
+						"matra": "fj"
+					},
+					{
+						"matra": "jh"
+					},
+					{
+						"matra": "#"
+					},
+					{
+						"matra": ":"
+					},
+					{
+						"matra": "js"
+					},
+					{
+						"matra": "jS"
+					},
+					{
+						"matra": "j¨"
+					},
+					{
+						"matra": "j©"
+					},
+					{
+						"matra": "ja"
+					},
+					{
+						"matra": "j%"
+					},
+					{
+						"matra": "jZ"
+					},
+					{
+						"matra": "kz"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": "ª"
+					}
+				]
+			},
+			{
+				"left": 80.2,
+				"top": 34,
+				"index": "index27",
+				"cons": "consonent27",
+				"value": "y",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "Y"
+					},
+					{
+						"matra": "yk"
+					},
+					{
+						"matra": "fy"
+					},
+					{
+						"matra": "yh"
+					},
+					{
+						"matra": "yq"
+					},
+					{
+						"matra": "yw"
+					},
+					{
+						"matra": "ys"
+					},
+					{
+						"matra": "yS"
+					},
+					{
+						"matra": "y¨"
+					},
+					{
+						"matra": "y©"
+					},
+					{
+						"matra": "ya"
+					},
+					{
+						"matra": "y%"
+					},
+					{
+						"matra": "yZ"
+					},
+					{
+						"matra": "yz"
+					},
+					{
+						"matra": "Yk`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 86.9,
+				"top": 34,
+				"index": "index28",
+				"cons": "consonent28",
+				"value": "o",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "O"
+					},
+					{
+						"matra": "ok"
+					},
+					{
+						"matra": "fo"
+					},
+					{
+						"matra": "oh"
+					},
+					{
+						"matra": "oq"
+					},
+					{
+						"matra": "ow"
+					},
+					{
+						"matra": "os"
+					},
+					{
+						"matra": "oS"
+					},
+					{
+						"matra": "o¨"
+					},
+					{
+						"matra": "o©"
+					},
+					{
+						"matra": "oa"
+					},
+					{
+						"matra": "o%"
+					},
+					{
+						"matra": "oZ"
+					},
+					{
+						"matra": "oz"
+					},
+					{
+						"matra": "Ok`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 93.6,
+				"top": 34,
+				"index": "index29",
+				"cons": "consonent29",
+				"value": "'k",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "'"
+					},
+					{
+						"matra": "'kk"
+					},
+					{
+						"matra": "f'k"
+					},
+					{
+						"matra": "'kh"
+					},
+					{
+						"matra": "'kq"
+					},
+					{
+						"matra": "'kw"
+					},
+					{
+						"matra": "'ks"
+					},
+					{
+						"matra": "'kS"
+					},
+					{
+						"matra": "'k¨"
+					},
+					{
+						"matra": "'k©"
+					},
+					{
+						"matra": "'ka"
+					},
+					{
+						"matra": "'k%"
+					},
+					{
+						"matra": "'kZ"
+					},
+					{
+						"matra": "J"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 0,
+				"top": 68,
+				"index": "index30",
+				"cons": "consonent30",
+				"value": "‘k",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "‘"
+					},
+					{
+						"matra": "‘kk"
+					},
+					{
+						"matra": "f‘k"
+					},
+					{
+						"matra": "‘kh"
+					},
+					{
+						"matra": "‘kq"
+					},
+					{
+						"matra": "‘kw"
+					},
+					{
+						"matra": "‘ks"
+					},
+					{
+						"matra": "‘kS"
+					},
+					{
+						"matra": "‘k¨"
+					},
+					{
+						"matra": "‘k©"
+					},
+					{
+						"matra": "‘ka"
+					},
+					{
+						"matra": "‘k%"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 6.8,
+				"top": 68,
+				"index": "index31",
+				"cons": "consonent31",
+				"value": "u",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "U"
+					},
+					{
+						"matra": "uk"
+					},
+					{
+						"matra": "fu"
+					},
+					{
+						"matra": "uh"
+					},
+					{
+						"matra": "uq"
+					},
+					{
+						"matra": "uw"
+					},
+					{
+						"matra": "us"
+					},
+					{
+						"matra": "uS"
+					},
+					{
+						"matra": "u¨"
+					},
+					{
+						"matra": "u©"
+					},
+					{
+						"matra": "ua"
+					},
+					{
+						"matra": "u%"
+					},
+					{
+						"matra": "UkZ"
+					},
+					{
+						"matra": "Ukz"
+					},
+					{
+						"matra": "Uk`"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 13.46,
+				"top": 68,
+				"index": "index32",
+				"cons": "consonent32",
+				"value": "g",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "g~"
+					},
+					{
+						"matra": "gk"
+					},
+					{
+						"matra": "fg"
+					},
+					{
+						"matra": "gh"
+					},
+					{
+						"matra": "gq"
+					},
+					{
+						"matra": "gw"
+					},
+					{
+						"matra": "gs"
+					},
+					{
+						"matra": "gS"
+					},
+					{
+						"matra": "g¨"
+					},
+					{
+						"matra": "g©"
+					},
+					{
+						"matra": "ga"
+					},
+					{
+						"matra": "g%"
+					},
+					{
+						"matra": "gZ"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": "â"
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 20.19,
+				"top": 68,
+				"index": "index33",
+				"cons": "consonent33",
+				"value": "{k",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "{"
+					},
+					{
+						"matra": "{kk"
+					},
+					{
+						"matra": "f{k"
+					},
+					{
+						"matra": "{kh"
+					},
+					{
+						"matra": "{kq"
+					},
+					{
+						"matra": "{kw"
+					},
+					{
+						"matra": "{ks"
+					},
+					{
+						"matra": "{kS"
+					},
+					{
+						"matra": "{k¨"
+					},
+					{
+						"matra": "{k©"
+					},
+					{
+						"matra": "{ka"
+					},
+					{
+						"matra": "{k%"
+					},
+					{
+						"matra": "{kZ"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 26.9,
+				"top": 68,
+				"index": "index34",
+				"cons": "consonent34",
+				"value": "«k",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": "«"
+					},
+					{
+						"matra": "«kk"
+					},
+					{
+						"matra": "f«k"
+					},
+					{
+						"matra": "«kh"
+					},
+					{
+						"matra": "«kq"
+					},
+					{
+						"matra": "«kw"
+					},
+					{
+						"matra": "«ks"
+					},
+					{
+						"matra": "«kS"
+					},
+					{
+						"matra": "«k¨"
+					},
+					{
+						"matra": "«k©"
+					},
+					{
+						"matra": "«ka"
+					},
+					{
+						"matra": "«k%"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 33.5,
+				"top": 68,
+				"index": "index35",
+				"cons": "consonent35",
+				"value": "K",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": "Kk"
+					},
+					{
+						"matra": "fK"
+					},
+					{
+						"matra": "Kh"
+					},
+					{
+						"matra": "Kq"
+					},
+					{
+						"matra": "Kw"
+					},
+					{
+						"matra": "Ks"
+					},
+					{
+						"matra": "KS"
+					},
+					{
+						"matra": "K¨"
+					},
+					{
+						"matra": "K©"
+					},
+					{
+						"matra": "Ka"
+					},
+					{
+						"matra": "K%"
+					},
+					{
+						"matra": "KZ"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 40.2,
+				"top": 68,
+				"index": "index36",
+				"cons": "consonent36",
+				"value": "J",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 47,
+				"top": 68,
+				"index": "index37",
+				"cons": "consonent37",
+				"value": "M+",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": "M+k"
+					},
+					{
+						"matra": "fM+"
+					},
+					{
+						"matra": "M+h"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": "M+s"
+					},
+					{
+						"matra": "M+S"
+					},
+					{
+						"matra": "M+¨"
+					},
+					{
+						"matra": "M+©"
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 53.6,
+				"top": 68,
+				"index": "index38",
+				"cons": "consonent38",
+				"value": "<+",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 60.2,
+				"top": 68,
+				"index": "index39",
+				"cons": "consonent39",
+				"value": "Ù",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 67,
+				"top": 68,
+				"index": "index40",
+				"cons": "consonent40",
+				"value": ")",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 73.6,
+				"top": 68,
+				"index": "index41",
+				"cons": "consonent41",
+				"value": "ã",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 80.2,
+				"top": 68,
+				"index": "index42",
+				"cons": "consonent42",
+				"value": "Ì",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 86.9,
+				"top": 68,
+				"index": "index43",
+				"cons": "consonent43",
+				"value": "|",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			},
+			{
+				"left": 93.6,
+				"top": 68,
+				"index": "index44",
+				"cons": "consonent44",
+				"value": "gî",
+				"url": "consonents.png",
+				"location": "content",
+				"matras": [{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					},
+					{
+						"matra": ""
+					}
+				]
+			}
+		],
+		"btmRow": [{
+				"left": 0,
+				"width": 18.7,
+				"index": "index0",
+				"value": "Normal"
+			},
+			{
+				"left": 19,
+				"width": 43.22,
+				"index": "index1",
+				"value": "Spacebar"
+			},
+			{
+				"left": 62.5,
+				"width": 18.7,
+				"index": "index2",
+				"value": "Clear"
+			},
+			{
+				"left": 81.4,
+				"width": 18.7,
+				"index": "index3",
+				"value": "Backspace"
+			}
+		],
+		"numPadArray": [{
+				"left": 0,
+				"top": 0,
+				"width": 100,
+				"index": "index0",
+				"value": "0"
+			},
+			{
+				"left": 0,
+				"top": 20.4,
+				"width": 32,
+				"index": "index1",
+				"value": "1"
+			},
+			{
+				"left": 34,
+				"top": 20.4,
+				"width": 32,
+				"index": "index2",
+				"value": "2"
+			},
+			{
+				"left": 68,
+				"top": 20.4,
+				"width": 32,
+				"index": "index3",
+				"value": "3"
+			},
+			{
+				"left": 0,
+				"top": 40.4,
+				"width": 32,
+				"index": "index4",
+				"value": "4"
+			},
+			{
+				"left": 34,
+				"top": 40.4,
+				"width": 32,
+				"index": "index5",
+				"value": "5"
+			},
+			{
+				"left": 68,
+				"top": 40.4,
+				"width": 32,
+				"index": "index6",
+				"value": "6"
+			},
+			{
+				"left": 0,
+				"top": 60.4,
+				"width": 32,
+				"index": "index7",
+				"value": "7"
+			},
+			{
+				"left": 34,
+				"top": 60.4,
+				"width": 32,
+				"index": "index8",
+				"value": "8"
+			},
+			{
+				"left": 68,
+				"top": 60.4,
+				"width": 32,
+				"index": "index9",
+				"value": "9"
+			},
+			{
+				"left": 0,
+				"top": 80.4,
+				"width": 32,
+				"index": "index10",
+				"value": "&"
+			},
+			{
+				"left": 34,
+				"top": 80.4,
+				"width": 32,
+				"index": "index11",
+				"value": "-"
+			},
+			{
+				"left": 68,
+				"top": 80.4,
+				"width": 32,
+				"index": "index12",
+				"value": "@"
+			}
+		]
+	}],
 	"quesObj": {
 		"quesVideo": {
 			"urlOgv": "video.ogg",
 			"urlMP4": "video.mp4",
-			"PlayVideo":true,
+			"PlayVideo": true,
 			"location": "content"
 		},
 		"quesPlayPause": {
@@ -3108,8 +3053,8 @@
 		},
 		"quesType": "video",
 		"submitRequired": true,
-        "replayRequired": false,
-		"timegap":2000,
+		"replayRequired": false,
+		"timegap": 2000,
 		"isNewQues": true,
 		"lang": "hindi"
 	},
@@ -3222,22 +3167,55 @@
 			"location": "content"
 		},
 		"AnswerpopupTxt": {
-			"url":"assets/popups/partial_feedback/partialincorrectpopupTxt.png",
-			"location":"content",
-			"required":true
-		  },
+			"url": "assets/popups/partial_feedback/partialincorrectpopupTxt.png",
+			"location": "content",
+			"required": true
+		},
 		"ok_btn": {
-			"urlglobal": "global/popups/ok_btn_normal.png",
-			"location": "theme"
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
+			"location": "content"
 		},
 		"ok_btn_hover": {
-			"urlglobal": "global/popups/ok_btn_Hover.png",
-			"location": "theme"
+			"url": "assets/popups/feedback/ok_btn_Hover.svg",
+			"location": "content"
 		},
 		"ok_btn_original": {
-			"urlglobal": "global/popups/ok_btn_normal.png",
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
+			"location": "content"
+		},
+		"feedback_next_btn": {
+			"urlglobal": "global/buttons/aagey.svg",
 			"location": "theme"
-		}
+		},
+		"feedback_next_btn_hover": {
+			"urlglobal": "global/buttons/aageyHover.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_original": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_hover": {
+			"urlglobal": "global/buttons/peecheyHover.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_original": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedbackNextBlinkDelayInSec":150
 
 	},
 	"partialIncorrect_sound": {
@@ -3306,119 +3284,119 @@
 			"location": "content"
 		}
 	},
-    "submit_popup": {
-      "style_header": {
-        "border": "solid .4vmin #057499",
-        "border-top-left-radius": "20px",
-        "border-top-right-radius": "20px",
-        "background": "#129fc1"
-      },
-      "style_body": {
-        "border": "solid .4vmin #057499",
-        "border-bottom-left-radius": "20px",
-        "border-bottom-right-radius": "20px",
-        "border-top": "none",
-        "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
-      },
-      "headerTxt_img": {
-        "url": "assets/popups/submit_answer_confirmation/PopupConfirmHeader.png",
-        "location": "content"
-      },
-      "close_btn": {
-        "urlglobal": "global/popups/closeBtn.png",
-        "location": "theme"
-      },
-      "close_btn_hover": {
-        "urlglobal": "global/popups/closeBtnHover.png",
-        "location": "theme"
-      },
-      "close_btn_original": {
-        "urlglobal": "global/popups/closeBtn.png",
-        "location": "theme"
-      },
-      "submit_text": {
-        "url": "assets/popups/submit_answer_confirmation/submit_popup_text.png",
-        "location": "content"
-      },
-      "confirm_btn": {
-        "urlglobal": "global/popups/yes_btn.png",
-        "location": "theme"
-      },
-      "confirm_btn_hover": {
-        "urlglobal": "global/popups/yes_btn_Hover.png",
-        "location": "theme"
-      },
-      "confirm_btn_original": {
-        "urlglobal": "global/popups/yes_btn.png",
-        "location": "theme"
-      },
-      "decline_btn": {
-        "urlglobal": "global/popups/no_btn.png",
-        "location": "theme"
-      },
-      "decline_btn_hover": {
-        "urlglobal": "global/popups/no_btn_Hover.png",
-        "location": "theme"
-      },
-      "decline_btn_original": {
-        "urlglobal": "global/popups/no_btn.png",
-        "location": "theme"
-      }
-    },
+	"submit_popup": {
+		"style_header": {
+			"border": "solid .4vmin #057499",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#129fc1"
+		},
+		"style_body": {
+			"border": "solid .4vmin #057499",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+		},
+		"headerTxt_img": {
+			"url": "assets/popups/submit_answer_confirmation/PopupConfirmHeader.png",
+			"location": "content"
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"submit_text": {
+			"url": "assets/popups/submit_answer_confirmation/submit_popup_text.png",
+			"location": "content"
+		},
+		"confirm_btn": {
+			"urlglobal": "global/popups/yes_btn.png",
+			"location": "theme"
+		},
+		"confirm_btn_hover": {
+			"urlglobal": "global/popups/yes_btn_Hover.png",
+			"location": "theme"
+		},
+		"confirm_btn_original": {
+			"urlglobal": "global/popups/yes_btn.png",
+			"location": "theme"
+		},
+		"decline_btn": {
+			"urlglobal": "global/popups/no_btn.png",
+			"location": "theme"
+		},
+		"decline_btn_hover": {
+			"urlglobal": "global/popups/no_btn_Hover.png",
+			"location": "theme"
+		},
+		"decline_btn_original": {
+			"urlglobal": "global/popups/no_btn.png",
+			"location": "theme"
+		}
+	},
 	"info_popup": {
-      "style_header": {
-        "border": "solid .4vmin #057499",
-        "border-top-left-radius": "20px",
-        "border-top-right-radius": "20px",
-        "background": "#129fc1"
-      },
-      "style_body": {
-        "border": "solid .4vmin #057499",
-        "border-bottom-left-radius": "20px",
-        "border-bottom-right-radius": "20px",
-        "border-top": "none",
-        "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
-      },
-      "headerTxt_img": {
-        "url": "assets/popups/look_for_more_options//look_for_more_options_title.png",
-        "location": "content"
-      },
-      "close_btn": {
-        "urlglobal": "global/popups/closeBtn.png",
-        "location": "theme"
-      },
-      "close_btn_hover": {
-        "urlglobal": "global/popups/closeBtnHover.png",
-        "location": "theme"
-      },
-      "close_btn_original": {
-        "urlglobal": "global/popups/closeBtn.png",
-        "location": "theme"
-      },
-	  "info_text1": {
-		"url": "assets/popups/look_for_more_options/lookformore_popup_text.png",
-		"location": "content"
-	  },
-	  "info_text2": {
-		"url": "assets/popups/look_for_more_options/msg2.png",
-		"location": "content"
-	  },
-	  "ok_btn": {
-        "urlglobal": "global/popups/ok_btn_normal.png",
-        "location": "theme"
-      },
-      "ok_btn_hover": {
-        "urlglobal": "global/popups/ok_btn_Hover.png",
-        "location": "theme"
-      },
-      "ok_btn_original": {
-        "urlglobal": "global/popups/ok_btn_normal.png",
-        "location": "theme"
-      },
-	  "partialCorrectAudio": {
-		"url": "partialFeedback.ogg",
-		"location": "content"
-	 }
+		"style_header": {
+			"border": "solid .4vmin #057499",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#129fc1"
+		},
+		"style_body": {
+			"border": "solid .4vmin #057499",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+		},
+		"headerTxt_img": {
+			"url": "assets/popups/look_for_more_options//look_for_more_options_title.png",
+			"location": "content"
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"info_text1": {
+			"url": "assets/popups/look_for_more_options/lookformore_popup_text.png",
+			"location": "content"
+		},
+		"info_text2": {
+			"url": "assets/popups/look_for_more_options/msg2.png",
+			"location": "content"
+		},
+		"ok_btn": {
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
+		},
+		"ok_btn_hover": {
+			"urlglobal": "global/popups/ok_btn_Hover.png",
+			"location": "theme"
+		},
+		"ok_btn_original": {
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
+		},
+		"partialCorrectAudio": {
+			"url": "partialFeedback.ogg",
+			"location": "content"
+		}
 	},
 	"replay_confirm": {
 		"style_header": {
