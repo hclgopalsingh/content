@@ -261,17 +261,50 @@
 			"required":true
 		  },
 		  "ok_btn": {
-			"urlglobal": "global/popups/ok_btn_normal.png",
-			"location": "theme"
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
+			"location": "content"
 		},
 		"ok_btn_hover": {
-			"urlglobal": "global/popups/ok_btn_Hover.png",
-			"location": "theme"
+			"url": "assets/popups/feedback/ok_btn_Hover.svg",
+			"location": "content"
 		},
 		"ok_btn_original": {
-			"urlglobal": "global/popups/ok_btn_normal.png",
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
+			"location": "content"
+		},
+		"feedback_next_btn": {
+			"urlglobal": "global/buttons/aagey.svg",
 			"location": "theme"
-		}
+		},
+		"feedback_next_btn_hover": {
+			"urlglobal": "global/buttons/aageyHover.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_original": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_hover": {
+			"urlglobal": "global/buttons/peecheyHover.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_original": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedbackNextBlinkDelayInSec":150
 
 	},
 	"partialIncorrect_sound": {

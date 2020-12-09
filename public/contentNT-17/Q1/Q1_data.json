@@ -3214,7 +3214,8 @@
 		"feedback_back_btn_original": {
 			"urlglobal": "global/buttons/peechey.svg",
 			"location": "theme"
-		}
+		},
+		"feedbackNextBlinkDelayInSec":150
 
 	},
 	"partialIncorrect_sound": {
