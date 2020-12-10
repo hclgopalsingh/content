@@ -615,6 +615,61 @@
 			}
 			
 		  },
+		  "oneAttempt_popup": {
+			"style_header": {
+			  "border": "solid .4vmin #057499",
+			  "border-top-left-radius": "20px",
+			  "border-top-right-radius": "20px",
+			  "background": "#129fc1"
+			},
+			"style_body": {
+			  "border": "solid .4vmin #057499",
+			  "border-bottom-left-radius": "20px",
+			  "border-bottom-right-radius": "20px",
+			  "border-top": "none",
+			  "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+			},
+			"headerTxt_img": {
+			  "url": "../popups/one_attempt/PopupInfoHeader.png",
+			  "location": "content"
+			},
+			"bg_img": {
+			  "url": "",
+			  "location": "content"
+			},
+			"close_btn": {
+			  "urlglobal": "global/popups/closeBtn.png",
+			  "location": "theme"
+			},
+			"close_btn_hover": {
+			  "urlglobal": "global/popups/closeBtnHover.png",
+			  "location": "theme"
+			},
+			"close_btn_original": {
+			  "urlglobal": "global/popups/closeBtn.png",
+			  "location": "theme"
+			},
+			"oneAttempt_text": {
+			  "url": "../popups/one_attempt/OneAttempt.png",
+			  "location": "content"
+			},
+			"ok_btn": {
+			  "urlglobal": "global/popups/ok_btn_normal.png",
+			  "location": "theme"
+			},
+			"ok_btn_hover": {
+			  "urlglobal": "global/popups/ok_btn_Hover.png",
+			  "location": "theme"
+			},
+			"ok_btn_original": {
+			  "urlglobal": "global/popups/ok_btn_normal.png",
+			  "location": "theme"
+			},
+			"oneAttemptAudio": {
+			  "url": "../popups/one_attempt/oneAttempt.ogg",
+			  "location": "content"
+			}
+		  },
 		  "partialIncorrect_sound": {
             "url": "assets/wrongFeedback.ogg",
             "location": "content"
