@@ -1,6 +1,5 @@
 {
-	"autoplay": true,
-	"Instruction":"http://localhost:4200/contentNT-12/narrator.ogg",
+	"autoplay": false,
 	"contents": [
 		"Q1",
 		"Q2",
