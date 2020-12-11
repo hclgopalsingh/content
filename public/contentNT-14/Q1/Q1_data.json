@@ -26,53 +26,9 @@
 			"url": "assets/narrator.ogg",
 			"location": "content"
 		},
-		"help_btn": {
-			"url": "assets/images/help.svg",
-			"location": "assets"
-		},
-		"help_btn_original": {
-			"url": "assets/images/help.svg",
-			"location": "assets"
-		},
-		"help_btn_hover": {
-			"url": "assets/images/help_hover.svg",
-			"location": "assets"
-		},
-		"sprike_speaker": {
-			"url": "assets/images/content10/speakerSpritetemp10.png",
-			"location": "assets"
-		},
-		"quesBase": {
-			"url": "assets/images/quesBase.svg",
-			"location": "assets"
-		},
-		"refBase": {
-			"url": "assets/images/refBase_9.svg",
-			"location": "assets"
-		},
 		"playerBase": {
 			"url": "assets/playerBase.png",
 			"location": "content"
-		},
-		"animation": {
-			"img": {
-				"url": "happyFixedAnimation.webp"
-			},
-			"audio": {
-				"url": "clap.ogg"
-			},
-			"location": "content",
-			"timeout": 5000
-		},
-		"wrongAnimationAssts": {
-			"img": {
-				"url": "sadFixedAnimation.gif"
-			},
-			"audio": {
-				"url": "shake.ogg"
-			},
-			"location": "content",
-			"timeout": 5000
 		},
 		"isFirstQues": true
 
@@ -119,10 +75,6 @@
 		},
 		"headerTxt_img": {
 			"url": "assets/PopupInfoHeader.png",
-			"location": "content"
-		},
-		"bg_img": {
-			"url": "",
 			"location": "content"
 		},
 		"close_btn": {
@@ -177,18 +129,6 @@
 		},
 		"playpause": {
 			"url": "assets/images/content13/playBtnInactive.svg",
-			"location": "assets"
-		},
-		"help": {
-			"url": "assets/images/help.svg",
-			"location": "assets"
-		},
-		"helpOriginal": {
-			"url": "assets/images/help.svg",
-			"location": "assets"
-		},
-		"helphover": {
-			"url": "assets/images/helpHover.svg",
 			"location": "assets"
 		},
 		"helpsound": {
