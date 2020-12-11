@@ -5,10 +5,6 @@
 	"id": "Q003",
 	"imgCount": "2",
 	"commonassets": {
-		"bg": {
-			"url": "assets/images/template_common_bg.jpg",
-			"location": "assets"
-		},
 		"playerBase": {
 			"url": "assets/playerBase.png",
 			"location": "content"
@@ -33,22 +29,6 @@
 		"background": {
 			"urlglobal": "global/tabs/bg/bg_2.svg",
 			"location": "theme"
-		},
-		"help_btn": {
-			"url": "assets/images/help.svg",
-			"location": "assets"
-		},
-		"help_btn_original": {
-			"url": "assets/images/help.svg",
-			"location": "assets"
-		},
-		"help_btn_hover": {
-			"url": "assets/images/help_hover.svg",
-			"location": "assets"
-		},
-		"sprike_speaker": {
-			"url": "assets/images/content10/speakerSpritetemp10.png",
-			"location": "assets"
 		},
 		"isFirstQues": false
 	},
@@ -94,10 +74,6 @@
 		},
 		"headerTxt_img": {
 			"url": "assets/PopupInfoHeader.png",
-			"location": "content"
-		},
-		"bg_img": {
-			"url": "",
 			"location": "content"
 		},
 		"close_btn": {
@@ -152,18 +128,6 @@
 		},
 		"playpause": {
 			"url": "assets/images/content13/playBtnInactive.svg",
-			"location": "assets"
-		},
-		"help": {
-			"url": "assets/images/help.svg",
-			"location": "assets"
-		},
-		"helpOriginal": {
-			"url": "assets/images/help.svg",
-			"location": "assets"
-		},
-		"helphover": {
-			"url": "assets/images/helpHover.svg",
 			"location": "assets"
 		},
 		"helpsound": {
