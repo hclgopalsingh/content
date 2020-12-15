@@ -62,7 +62,7 @@
       "id": "001",
       "text": "",
       "image": {
-        "url": "assets/options/ansBase1.png",
+        "url": "assets/options/ansBase1.svg",
         "location": "content"
       },
       "imgsrc": {
@@ -70,19 +70,23 @@
         "location": "content"
       },
       "image_original": {
-        "url": "assets/options/ansBase1.png",
+        "url": "assets/options/ansBase1.svg",
         "location": "content"
       },
       "image_hover": {
         "url": "assets/options/ansBase1hover.svg",
         "location": "content"
+      },
+      "audio":{
+        "url":"assets/options/q1opt1.ogg",
+        "location":"content"
       }
     },
     {
       "id": "002",
       "text": "",
       "image": {
-        "url": "assets/options/ansBase2.png",
+        "url": "assets/options/ansBase2.svg",
         "location": "content"
       },
       "imgsrc": {
@@ -90,19 +94,23 @@
         "location": "content"
       },
       "image_original": {
-        "url": "assets/options/ansBase2.png",
+        "url": "assets/options/ansBase2.svg",
         "location": "content"
       },
       "image_hover": {
         "url": "assets/options/ansBase2hover.svg",
         "location": "content"
+      },
+      "audio":{
+        "url":"assets/options/q1opt2.ogg",
+        "location":"content"
       }
     },
     {
       "id": "003",
       "text": "",
       "image": {
-        "url": "assets/options/ansBase3.png",
+        "url": "assets/options/ansBase3.svg",
         "location": "content"
       },
       "imgsrc": {
@@ -110,12 +118,16 @@
         "location": "content"
       },
       "image_original": {
-        "url": "assets/options/ansBase3.png",
+        "url": "assets/options/ansBase3.svg",
         "location": "content"
       },
       "image_hover": {
         "url": "assets/options/ansBase3hover.svg",
         "location": "content"
+      },
+      "audio":{
+        "url":"assets/options/q1opt3.ogg",
+        "location":"content"
       }
     }
   ],
