@@ -19,8 +19,8 @@
       "location": "assets"
     },
     "refBase": {
-      "url": "assets/images/refBase_9.svg",
-      "location": "assets"
+      "url": "assets/question/refBase.png",
+      "location": "content"
     },
     "right_sound": {
       "url": "assets/feedback/correctans.ogg",
@@ -40,46 +40,41 @@
   "ques": {
     "text": "",
     "image": {
-      "url": "ques1.png",
+      "url": "assets/question/ques1.png",
       "location": "content"
     },
     "img_sentence": {
-      "url": "fillBlanks1.svg",
+      "url": "assets/question/fillBlanks1.svg",
       "location": "content"
     },
     "img_sentence_org": {
-      "url": "fillBlanks1.svg",
+      "url": "assets/question/fillBlanks1.svg",
       "location": "content"
     },
     "ansclass": {
-      "position": "fixed",
-      "width": "20%",
-      "top": "19.2%",
-      "left": "26.5%"
-    },
-    "narrator_voice": "",
-    "helpsound": {
-      "url": "narrator.ogg",
-      "location": "content"
+      "position": "absolute",
+      "top": "5%",
+      "left": "18%",
+      "width": "28%"
     }
   },
   "options": [{
       "id": "001",
       "text": "",
       "image": {
-        "url": "ansBase1.svg",
+        "url": "assets/options/ansBase1.png",
         "location": "content"
       },
       "imgsrc": {
-        "url": "q1opt1.svg",
+        "url": "assets/options/q1opt1.svg",
         "location": "content"
       },
       "image_original": {
-        "url": "ansBase1.svg",
+        "url": "assets/options/ansBase1.png",
         "location": "content"
       },
       "image_hover": {
-        "url": "ansBase1hover.svg",
+        "url": "assets/options/ansBase1hover.svg",
         "location": "content"
       }
     },
@@ -87,19 +82,19 @@
       "id": "002",
       "text": "",
       "image": {
-        "url": "ansBase2.svg",
+        "url": "assets/options/ansBase2.png",
         "location": "content"
       },
       "imgsrc": {
-        "url": "q1opt2.svg",
+        "url": "assets/options/q1opt2.svg",
         "location": "content"
       },
       "image_original": {
-        "url": "ansBase2.svg",
+        "url": "assets/options/ansBase2.png",
         "location": "content"
       },
       "image_hover": {
-        "url": "ansBase2hover.svg",
+        "url": "assets/options/ansBase2hover.svg",
         "location": "content"
       }
     },
@@ -107,19 +102,19 @@
       "id": "003",
       "text": "",
       "image": {
-        "url": "ansBase3.svg",
+        "url": "assets/options/ansBase3.png",
         "location": "content"
       },
       "imgsrc": {
-        "url": "q1opt3.svg",
+        "url": "assets/options/q1opt3.svg",
         "location": "content"
       },
       "image_original": {
-        "url": "ansBase3.svg",
+        "url": "assets/options/ansBase3.png",
         "location": "content"
       },
       "image_hover": {
-        "url": "ansBase3hover.svg",
+        "url": "assets/options/ansBase3hover.svg",
         "location": "content"
       }
     }
@@ -138,7 +133,7 @@
 
   "feedback": {
     "correct_ans_index": 2,
-    "correct_ans_url": "correctAnsPopup1.svg",
+    "correct_ans_url": "assets/feedback/correctAnsPopup1.svg",
     "style_header": {
       "border": "solid .4vmin #3C7132",
       "border-top-left-radius": "20px",
