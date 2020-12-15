@@ -22,6 +22,10 @@
 			"url": "bg_3.svg",
 			"location": "content"
 		},
+		"basebox": {
+			"url": "assets/basebox.png",
+			"location": "content"
+		},
 		"tooltipImg": {
 			"url": "assets/images/tooltip.svg",
 			"location": "assets"
@@ -31,7 +35,7 @@
 			"location": "assets"
 		},
 		"QuestionAudio": {
-			"url": "Question.ogg",
+			"url": "assets/Question.ogg",
 			"location": "content"
 		},
 		"CorrectAudio": {
