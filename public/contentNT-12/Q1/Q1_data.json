@@ -52,10 +52,10 @@
       "location": "content"
     },
     "ansclass": {
-      "position": "absolute",
-      "top": "5%",
-      "left": "18%",
-      "width": "28%"
+      "position": "fixed",
+      "width": "20%",
+      "top": "19.2%",
+      "left": "26.5%"
     },
     "narrator_voice": "",
     "helpsound": {
@@ -137,6 +137,8 @@
 
 
   "feedback": {
+    "correct_ans_index": 2,
+    "correct_ans_url": "correctAnsPopup1.svg",
     "style_header": {
       "border": "solid .4vmin #3C7132",
       "border-top-left-radius": "20px",
