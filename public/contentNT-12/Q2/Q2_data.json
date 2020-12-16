@@ -132,9 +132,9 @@
       "autoPlay": true
     },
     "styleArray" : [
-      { "left": "-9.5%", "top": "-295%", "width": "130%", "max-width": "130%", "filter":"invert(1)" },
-      { "left": "-130%", "top": "-295%", "width": "130%", "max-width": "130%", "filter":"invert(1)" },
-      { "left": "-252%", "top": "-295%", "width": "130%", "max-width": "130%", "filter":"invert(1)" }
+      { "left": "-9.5%", "top": "-279.5%", "width": "130%", "max-width": "130%", "filter":"invert(1)" },
+      { "left": "-130%", "top": "-279.5%", "width": "130%", "max-width": "130%", "filter":"invert(1)" },
+      { "left": "-252%", "top": "-279.5%", "width": "130%", "max-width": "130%", "filter":"invert(1)" }
     ],
     "submitRequired": false,
     "replayRequired": false,
