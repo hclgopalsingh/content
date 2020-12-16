@@ -15,12 +15,12 @@
       "location": "theme"
     },
     "quesBase": {
-      "url": "assets/images/quesBase.svg",
-      "location": "assets"
+      "url": "assets/question/quesBase.png",
+      "location": "content"
     },
     "refBase": {
-      "url": "assets/images/refBase_9.svg",
-      "location": "assets"
+      "url": "assets/question/refBase.png",
+      "location": "content"
     },
     "right_sound": {
       "url": "assets/feedback/correctans.ogg",
@@ -44,78 +44,84 @@
       "location": "content"
     },
     "img_sentence": {
-      "url": "assets/question/fillBlanks1.svg",
+      "url": "assets/question/fillBlanks1.png",
       "location": "content"
     },
     "img_sentence_org": {
-      "url": "assets/question/fillBlanks1.svg",
+      "url": "assets/question/fillBlanks1.png",
       "location": "content"
-    },
-    "ansclass": {
-      "position": "fixed",
-      "width": "20%",
-      "top": "19.2%",
-      "left": "26.5%"
     }
   },
   "options": [{
       "id": "001",
       "text": "",
       "image": {
-        "url": "assets/options/ansBase1.svg",
+        "url": "assets/options/ansBase1.png",
         "location": "content"
       },
       "imgsrc": {
-        "url": "assets/options/q1opt1.svg",
+        "url": "assets/options/q1opt1.png",
         "location": "content"
       },
       "image_original": {
-        "url": "assets/options/ansBase1.svg",
+        "url": "assets/options/ansBase1.png",
         "location": "content"
       },
       "image_hover": {
-        "url": "assets/options/ansBase1hover.svg",
+        "url": "assets/options/ansBase1hover.png",
         "location": "content"
+      },
+      "audio":{
+        "url":"assets/options/q1_opt3.ogg",
+        "location":"content"
       }
     },
     {
       "id": "002",
       "text": "",
       "image": {
-        "url": "assets/options/ansBase2.svg",
+        "url": "assets/options/ansBase2.png",
         "location": "content"
       },
       "imgsrc": {
-        "url": "assets/options/q1opt2.svg",
+        "url": "assets/options/q1opt2.png",
         "location": "content"
       },
       "image_original": {
-        "url": "assets/options/ansBase2.svg",
+        "url": "assets/options/ansBase2.png",
         "location": "content"
       },
       "image_hover": {
-        "url": "assets/options/ansBase2hover.svg",
+        "url": "assets/options/ansBase2hover.png",
         "location": "content"
+      },
+      "audio":{
+        "url":"assets/options/q1_opt2.ogg",
+        "location":"content"
       }
     },
     {
       "id": "003",
       "text": "",
       "image": {
-        "url": "assets/options/ansBase3.svg",
+        "url": "assets/options/ansBase3.png",
         "location": "content"
       },
       "imgsrc": {
-        "url": "assets/options/q1opt3.svg",
+        "url": "assets/options/q1opt3.png",
         "location": "content"
       },
       "image_original": {
-        "url": "assets/options/ansBase3.svg",
+        "url": "assets/options/ansBase3.png",
         "location": "content"
       },
       "image_hover": {
-        "url": "assets/options/ansBase3hover.svg",
+        "url": "assets/options/ansBase3hover.png",
         "location": "content"
+      },
+      "audio":{
+        "url":"assets/options/q1_opt3.ogg",
+        "location":"content"
       }
     }
   ],
@@ -125,6 +131,11 @@
       "location": "content",
       "autoPlay": true
     },
+    "styleArray" : [
+      { "left": "-9.5%", "top": "-295%", "width": "130%", "max-width": "130%", "filter":"invert(1)" },
+      { "left": "-130%", "top": "-295%", "width": "130%", "max-width": "130%", "filter":"invert(1)" },
+      { "left": "-252%", "top": "-295%", "width": "130%", "max-width": "130%", "filter":"invert(1)" }
+    ],
     "submitRequired": false,
     "replayRequired": false,
     "noOfBlocks": 12
@@ -132,8 +143,8 @@
 
 
   "feedback": {
-    "correct_ans_index": 2,
-    "correct_ans_url": "assets/feedback/correctAnsPopup1.svg",
+    "correct_ans_index": 1,
+    "correct_ans_url": "assets/feedback/correctAnsPopup1.png",
     "style_header": {
       "border": "solid .4vmin #3C7132",
       "border-top-left-radius": "20px",
