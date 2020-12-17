@@ -79,9 +79,9 @@
         },
         "ansclass": {
             "position": "absolute",
-            "top": "5%",
+            "top": "8%",
             "left": "15%",
-            "width": "21%"
+            "width": "17%"
         },
         "img_sentence": {
             "url": "assets/fillBlanks1.png",
