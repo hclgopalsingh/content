@@ -14,6 +14,10 @@
 			"url": "assets/question/list_bg.png",
 			"location": "content"
 		},
+		"listBgFeedback": {
+			"url": "assets/popups/feedback/list_bg_feedback.png",
+			"location": "content"
+		},
 		"listHeader": {
 			"categoryHeader": {
 				"url": "assets/question/StateHeader.png",
@@ -24,7 +28,7 @@
 				"location": "content"
 			},
 			"UpperTitle": "State:",
-			"LowerTitle": "subCategory:"
+			"LowerTitle": "Capital:"
 		},
 		"background": {
 			"urlglobal": "global/tabs/bg/bg_1.svg",
@@ -59,7 +63,7 @@
 			"location": "content"
 		},
 		"PartiallyCorrectAudio": {
-			"url": "assets/popups/feedback/partialCorrectFeedback.ogg",
+			"url": "assets/popups/look_for_more_options/lookformore_feedback.ogg",
 			"location": "content"
 		},
 		"moreOptCorrectAudio": {
