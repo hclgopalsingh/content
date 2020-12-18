@@ -137,8 +137,7 @@
       { "left": "-233%", "top": "-279.5%", "width": "130%", "max-width": "130%", "filter":"invert(1)" }
     ],
     "submitRequired": false,
-    "replayRequired": false,
-    "noOfBlocks": 12
+    "replayRequired": false
   },
 
 
