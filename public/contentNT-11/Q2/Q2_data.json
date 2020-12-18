@@ -76,11 +76,11 @@
 			"location": "content"
 		},
 		"ansclass": {
-			"position": "absolute",
-			"top": "4%",
-			"left": "7.5%",
-			"width": "21%"
-		},
+            "position": "absolute",
+            "top": "8%",
+            "left": "11%",
+            "width": "17%"
+        },
 		"img_sentence": {
 			"url": "assets/fillBlanks2.png",
 			"location": "content"
