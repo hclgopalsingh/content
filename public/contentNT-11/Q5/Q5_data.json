@@ -77,9 +77,9 @@
 		},
 		"ansclass": {
 			"position": "absolute",
-			"top": "1.4%",
-			"left": "33.5%",
-			"width": "21%"
+			"top": "8%",
+            "left": "36%",
+            "width": "17%"
 		},
 		"img_sentence": {
 			"url": "assets/fillBlanks5.png",
