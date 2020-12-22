@@ -93,11 +93,15 @@
 		},	
 		"isFirstQues": true,
 		"imgCount": "14",
-		"formatTimeout": "7000"
+		"formatTimeout": "6000"
 	},
 	"options": [{
 			"id": "001",
 			"custom_id": "0",
+			"sound":{
+				"url": "q1_opt1.ogg",
+				"location": "content"
+			},			
 			"imgsrc": {
 				"url": "q1_opt1.png",
 				"location": "content"
@@ -150,6 +154,10 @@
 		{
 			"id": "002",
 			"custom_id": "1",
+			"sound":{
+				"url": "q1_opt2.ogg",
+				"location": "content"
+			},
 			"imgsrc": {
 				"url": "q1_opt2.png",
 				"location": "content"
@@ -202,6 +210,10 @@
 		{
 			"id": "003",
 			"custom_id": "2",
+			"sound":{
+				"url": "q1_opt3.ogg",
+				"location": "content"
+			},
 			"imgsrc": {
 				"url": "q1_opt3.png",
 				"location": "content"
@@ -429,10 +441,12 @@
 			"location": "content"
 		},
 		"quesInstruction": {
-			"url": "narrator.ogg",
+			"url": "clap.ogg",
 			"location": "content",
 			"autoPlay": true
-		}
+		},
+		"submitRequired": false,
+    	"replayRequired": true
 	},
 	"feedback": {
 		"wrongFeedback": {
