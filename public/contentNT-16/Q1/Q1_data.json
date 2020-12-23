@@ -24,12 +24,12 @@
 			"location": "content"
 		},
 		"right_sound": {
-			"url": "assets/sounds/clap.ogg",
-			"location": "assets"
+			"url": "assets/popups/feedback/clap.ogg",
+			"location": "content"
 		},
 		"wrong_sound": {
-			"url": "assets/sounds/shake.ogg",
-			"location": "assets"
+			"url": "assets/popups/feedback/shake.ogg",
+			"location": "content"
 		},
 		"narrator": {
 			"url": "assets/narrator.ogg",
@@ -409,7 +409,7 @@
 			"location": "theme"
 		},
 		"quesInstruction": {
-			"url": "clap.ogg",
+			"url": "assets/popups/feedback/clap.ogg",
 			"location": "content",
 			"autoPlay": true
 		},
@@ -431,7 +431,7 @@
 				"background": "#FFFFFF"
 			},
 			"headerTxt_img": {
-				"url": "header_confirm_text_wrong.png",
+				"url": "assets/popups/feedback/header_confirm_text_wrong.png",
 				"location": "content"
 			},
 			"close_btn": {
@@ -447,7 +447,7 @@
 				"location": "theme"
 			},
 			"feedbackVo": {
-				"url": "wrongAns.ogg",
+				"url": "assets/popups/feedback/wrongAns.ogg",
 				"location": "content"
 			}
 		},
@@ -465,7 +465,7 @@
 				"background": "#afdec0"
 			},
 			"headerTxt_img": {
-				"url": "header_confirm_text_right.png",
+				"url": "assets/popups/feedback/header_confirm_text_right.png",
 				"location": "content"
 			},
 			"close_btn": {
