@@ -10,15 +10,25 @@
 			"url": "assets/Question.ogg",
 			"location": "content"
 		},
-		"listHeader": {
-			"StateHeader": "../../assets/images/Template-23/bodyPartsHeader.png",
-			"CapitalHeader": "../../assets/images/Template-23/colorHeader.png",
-			"UpperTitle": "Body Parts:",
-			"LowerTitle": "Colors:"
-		},
-		"instruction_img": {
-			"url": "instructionText.svg",
+		"listBg": {
+			"url": "assets/question/list_bg.png",
 			"location": "content"
+		},
+		"listBgFeedback": {
+			"url": "assets/popups/feedback/list_bg_feedback.png",
+			"location": "content"
+		},
+		"listHeader": {
+			"categoryHeader": {
+				"url": "assets/question/categoryHeader.png",
+				"location": "content"
+			},
+			"subCategoryHeader": {
+				"url": "assets/question/subCategoryHeader.png",
+				"location": "content"
+			},
+			"UpperTitle": "Body Parts:",
+			"LowerTitle": "Its Use:"
 		},
 		"background": {
 			"urlglobal": "global/tabs/bg/bg_2.svg",
@@ -29,8 +39,8 @@
 			"location": "content"
 		},
 		"tooltipImg": {
-			"url": "assets/images/tooltip.svg",
-			"location": "assets"
+			"url": "assets/Hotspot.png",
+			"location": "content"
 		},
 		"lineImg": {
 			"url": "assets/images/line.svg",
@@ -53,7 +63,7 @@
 			"location": "content"
 		},
 		"PartiallyCorrectAudio": {
-			"url": "assets/popups/feedback/partialCorrectFeedback.ogg",
+			"url": "assets/popups/look_for_more_options/lookformore_feedback.ogg",
 			"location": "content"
 		},
 		"moreOptCorrectAudio": {
@@ -62,14 +72,14 @@
 		},
 		"isFirstQues": false,
 		"imgCount": 0,
-		"itemsperPage": 12,
+		"itemsperPage": 6,
 		"totalSVG": 60
 	},
 	"svgInfo": {
 		"svgId": "mainques",
 		"url": "assets/humanbody.svg",
 		"location": "content",
-		"hoverColor": "#FFFFCC"
+		"hoverColor": "#0080AA"
 	},
 	"info_popup": {
 		"style_header": {
@@ -189,37 +199,36 @@
 			"location": "theme"
 		}
 	},
-
-	"statesArr": [{
+	"mySVGArr": [{
 			"tooltipID": "tooltip1",
-			"id": "#head_0_Layer0_0_FILL",
-			"strokeId": "#head_0_Layer0_0_1_STROKES",
+			"id": "#chest_0_Layer1_0_FILL_1",
+			"strokeId": "#chest_0_Layer0_0_1_STROKES",
 			"onclickColor": "#EE2A7B",
 			"audio": "Head.ogg",
-			"textField": "Head",
-			"capital": "Pink",
-			"stateTxtimg": {
-				"url": "Head.png",
+			"textField": "Chest",
+			"subCategory": "Pink",
+			"categoryTxtimg": {
+				"url": "assets/options/Head.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
-				"url": "Head-color.png",
+			"subCategoryTxtimg": {
+				"url": "assets/options/Head-color.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
-				"url": "Head_Right.png",
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Head_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
-				"url": "Head_Right_color.png",
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Head_Right_color.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
-				"url": "Head_Wrong.png",
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Head_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
-				"url": "Head_Wrong_color.png",
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Head_Wrong_color.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -233,34 +242,34 @@
 		},
 		{
 			"tooltipID": "tooltip2",
-			"id": "#neck_0_Layer0_0_FILL",
-			"strokeId": "#neck_0_Layer0_0_1_STROKES",
+			"id": "#head_0_Layer0_0_FILL_1",
+			"strokeId": "#head_0_Layer0_0_1_STROKES",
 			"onclickColor": "#21409A",
-			"audio": "Neck.ogg",
-			"textField": "Neck",
-			"capital": "Blue",
-			"stateTxtimg": {
-				"url": "Neck.png",
+			"audio": "Head.ogg",
+			"textField": "Head",
+			"subCategory": "Blue",
+			"categoryTxtimg": {
+				"url": "assets/options/Neck.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
-				"url": "Neck-color.png",
+			"subCategoryTxtimg": {
+				"url": "assets/options/Neck-color.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
-				"url": "Neck_Right.png",
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Neck_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
-				"url": "Neck_Right_color.png",
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Neck_Right_color.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
-				"url": "Neck_Wrong.png",
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Neck_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
-				"url": "Neck_Wrong_color.png",
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Neck_Wrong_color.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -274,75 +283,75 @@
 		},
 		{
 			"tooltipID": "tooltip3",
-			"id": "#torso_0_Layer0_0_FILL",
+			"id": "#ear_right_0_Layer0_0_FILL",
 			"strokeId": "#torso_0_Layer0_0_1_STROKES",
 			"onclickColor": "#7F3F98",
 			"audio": "Torso.ogg",
-			"textField": "Torso",
-			"capital": "Purple",
-			"stateTxtimg": {
-				"url": "Torso.png",
+			"textField": "Right Ear",
+			"subCategory": "Hearing",
+			"categoryTxtimg": {
+				"url": "assets/options/Ears.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
-				"url": "Torso-color.png",
+			"subCategoryTxtimg": {
+				"url": "assets/options/Ears_Use.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
-				"url": "Torso_Right.png",
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Ears_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
-				"url": "Torso_Right_color.png",
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Ears_RightUse.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
-				"url": "Torso_Wrong.png",
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Ears_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
-				"url": "Torso_Wrong_color.png",
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Ears_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
-			"left": 57,
-			"top": 17,
-			"ddTooltipleft": 42.2,
-			"ddTooltiptop": 21,
+			"left": 47.5,
+			"top": 25,
+			"ddTooltipleft": 47.5,
+			"ddTooltiptop": 32,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
 		},
 		{
 			"tooltipID": "tooltip4",
-			"id": "#right_biceps_0_Layer0_0_FILL",
-			"strokeId": "#right_biceps_0_Layer0_0_1_STROKES",
+			"id": "#Layer18_0_MEMBER_0_FILL_1",
+			"strokeId": "#right_eyebrow_0_Layer0_0_1_STROKES",
 			"onclickColor": "#00A14B",
-			"audio": "Right-Biceps.ogg",
-			"textField": "Right-Biceps",
-			"capital": "Green",
-			"stateTxtimg": {
-				"url": "Right-Biceps.png",
+			"audio": "Right-Eyebrow.ogg",
+			"textField": "Right-Eyebrow",
+			"subCategory": "Green",
+			"categoryTxtimg": {
+				"url": "assets/options/Right-Eyebrow.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
-				"url": "Right-Biceps-color.png",
+			"subCategoryTxtimg": {
+				"url": "assets/options/Right-Eyebrow-color.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
-				"url": "Right-Biceps_Right.png",
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Right-Eyebrow_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
-				"url": "Right-Biceps_Right_color.png",
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Right-Eyebrow_Right_color.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
-				"url": "Right-Biceps_Wrong.png",
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Right-Eyebrow_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
-				"url": "Right-Biceps_Wrong_color.png",
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Right-Eyebrow_Wrong_color.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -356,34 +365,34 @@
 		},
 		{
 			"tooltipID": "tooltip5",
-			"id": "#left_biceps_0_Layer0_0_FILL",
-			"strokeId": "#left_biceps_0_Layer0_0_1_STROKES",
+			"id": "#left_eyebrow_0_Layer0_0_FILL",
+			"strokeId": "#left_eyebrow_0_Layer0_0_1_STROKES",
 			"onclickColor": "#ED1C24",
-			"audio": "Left-Biceps.ogg",
-			"textField": "Left-Biceps",
-			"capital": "Red",
-			"stateTxtimg": {
-				"url": "Left-Biceps.png",
+			"audio": "Left-Eyebrow.ogg",
+			"textField": "Left-Eyebrow",
+			"subCategory": "Red",
+			"categoryTxtimg": {
+				"url": "assets/options/Left-Eyebrow.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
-				"url": "Left-Biceps-color.png",
+			"subCategoryTxtimg": {
+				"url": "assets/options/Left-Eyebrow-color.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
-				"url": "Left-Biceps_Right.png",
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Left-Eyebrow_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
-				"url": "Left-Biceps_Right_color.png",
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Left-Eyebrow_Right_color.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
-				"url": "Left-Biceps_Wrong.png",
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Left-Eyebrow_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
-				"url": "Left-Biceps_Wrong_color.png",
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Left-Eyebrow_Wrong_color.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -397,34 +406,34 @@
 		},
 		{
 			"tooltipID": "tooltip6",
-			"id": "#right_forarm_0_Layer0_0_FILL",
-			"strokeId": "#right_forarm_0_Layer0_0_1_STROKES",
+			"id": "#right_biceps_0_Layer0_0_FILL_1",
+			"strokeId": "#right_biceps_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F7CA18",
-			"audio": "Right-ForArm.ogg",
-			"textField": "Right-Forearm",
-			"capital": "Yellow",
-			"stateTxtimg": {
-				"url": "Right-ForArm.png",
+			"audio": "Right-Biceps.ogg",
+			"textField": "Right-Biceps",
+			"subCategory": "Yellow",
+			"categoryTxtimg": {
+				"url": "assets/options/Right-Biceps.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
-				"url": "Right-ForArm-color.png",
+			"subCategoryTxtimg": {
+				"url": "assets/options/Right-ForArm-color.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
-				"url": "Right-ForArm_Right.png",
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Right-ForArm_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
-				"url": "Right-ForArm_Right_color.png",
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Right-ForArm_Right_color.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
-				"url": "Right-ForArm_Wrong.png",
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Right-ForArm_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
-				"url": "Right-ForArm_Wrong_color.png",
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Right-ForArm_Wrong_color.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -438,34 +447,34 @@
 		},
 		{
 			"tooltipID": "tooltip7",
-			"id": "#left_forarm_0_Layer0_0_FILL",
-			"strokeId": "#left_forarm_0_Layer0_0_1_STROKES",
+			"id": "#right_forarm_0_Layer0_0_FILL_1",
+			"strokeId": "#right_forarm_0_Layer0_0_1_STROKES",
 			"onclickColor": "#17C2C2",
-			"audio": "Left-ForArm.ogg",
-			"textField": "Left-Forearm",
-			"capital": "Turquoise",
-			"stateTxtimg": {
-				"url": "Left-ForArm.png",
+			"audio": "Right-ForArm.ogg",
+			"textField": "Right-Forearm",
+			"subCategory": "Turquoise",
+			"categoryTxtimg": {
+				"url": "assets/options/Left-ForArm.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
-				"url": "Left-ForArm-color.png",
+			"subCategoryTxtimg": {
+				"url": "assets/options/Left-ForArm-color.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
-				"url": "Left-ForArm_Right.png",
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Left-ForArm_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
-				"url": "Left-ForArm_Right_color.png",
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Left-ForArm_Right_color.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
-				"url": "Left-ForArm_Wrong.png",
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Left-ForArm_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
-				"url": "Left-ForArm_Wrong_color.png",
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Left-ForArm_Wrong_color.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -483,70 +492,70 @@
 			"strokeId": "#right_palm_0_Layer0_0_1_STROKES",
 			"onclickColor": "#7F3F98",
 			"audio": "Right-Palm.ogg",
-			"textField": "Right-Palm",
-			"capital": "Purple",
-			"stateTxtimg": {
-				"url": "Right-Palm.png",
+			"textField": "Right Hand",
+			"subCategory": "Pick Objects",
+			"categoryTxtimg": {
+				"url": "assets/options/Hand.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
-				"url": "Right-Palm-color.png",
+			"subCategoryTxtimg": {
+				"url": "assets/options/Hand_Use.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
-				"url": "Right-Palm_Right.png",
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Hand_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
-				"url": "Right-Palm_Right_color.png",
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Hand_RightUse.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
-				"url": "Right-Palm_Wrong.png",
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Hand_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
-				"url": "Right-Palm_Wrong_color.png",
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Hand_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
-			"left": 50,
-			"top": 20,
-			"ddTooltipleft": 42.2,
-			"ddTooltiptop": 32,
+			"left": 42.5,
+			"top": 44,
+			"ddTooltipleft": 42.5,
+			"ddTooltiptop": 52,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
 		},
 		{
 			"tooltipID": "tooltip9",
-			"id": "#left_palm_0_Layer0_0_FILL",
+			"id": "#left_boceps_0_Layer0_0_FILL_1",
 			"strokeId": "#left_palm_0_Layer0_0_1_STROKES",
 			"onclickColor": "#00A14B",
-			"audio": "Left-Palm.ogg",
-			"textField": "Left-Palm",
-			"capital": "Green",
-			"stateTxtimg": {
+			"audio": "Left-Bicepts.ogg",
+			"textField": "Left-Biceps",
+			"subCategory": "Green",
+			"categoryTxtimg": {
 				"url": "Left-Palm.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
+			"subCategoryTxtimg": {
 				"url": "Left-Palm-color.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
+			"correctCategoryTxtimg": {
 				"url": "Left-Palm_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
+			"correctSubCategoryTxtimg": {
 				"url": "Left-Palm_Right_color.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
+			"incorrectCategoryTxtimg": {
 				"url": "Left-Palm_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
+			"incorrectSubCategoryTxtimg": {
 				"url": "Left-Palm_Wrong_color.png",
 				"location": "content"
 			},
@@ -561,33 +570,33 @@
 		},
 		{
 			"tooltipID": "tooltip10",
-			"id": "#palvis_0_Layer0_0_FILL",
+			"id": "#left_forarm_0_Layer0_0_FILL_1",
 			"strokeId": "#palvis_0_Layer0_0_1_STROKES",
 			"onclickColor": "#21409A",
 			"audio": "Palvis.ogg",
-			"textField": "Pelvis",
-			"capital": "Blue",
-			"stateTxtimg": {
+			"textField": "Left_Forearm",
+			"subCategory": "Blue",
+			"categoryTxtimg": {
 				"url": "Palvis.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
+			"subCategoryTxtimg": {
 				"url": "Palvis-color.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
+			"correctCategoryTxtimg": {
 				"url": "Palvis_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
+			"correctSubCategoryTxtimg": {
 				"url": "Palvis_Right_color.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
+			"incorrectCategoryTxtimg": {
 				"url": "Palvis_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
+			"incorrectSubCategoryTxtimg": {
 				"url": "Palvis_Wrong_color.png",
 				"location": "content"
 			},
@@ -602,75 +611,34 @@
 		},
 		{
 			"tooltipID": "tooltip11",
-			"id": "#right_thigh_0_Layer0_0_FILL",
-			"strokeId": "#right_thigh_0_Layer0_0_1_STROKES",
-			"onclickColor": "#F7CA18",
-			"audio": "Right-Thigh.ogg",
-			"textField": "Right-Thigh",
-			"capital": "Yellow",
-			"stateTxtimg": {
-				"url": "Right-Thigh.png",
-				"location": "content"
-			},
-			"capitalTxtimg": {
-				"url": "Right-Thigh-color.png",
-				"location": "content"
-			},
-			"correctstateTxtimg": {
-				"url": "Right-Thigh_Right.png",
-				"location": "content"
-			},
-			"correctcapitalTxtimg": {
-				"url": "Right-Thigh_Right_color.png",
-				"location": "content"
-			},
-			"incorrectstateTxtimg": {
-				"url": "Right-Thigh_Wrong.png",
-				"location": "content"
-			},
-			"incorrectcapitalTxtimg": {
-				"url": "Right-Thigh_Wrong_color.png",
-				"location": "content"
-			},
-			"location": "content",
-			"left": 56.5,
-			"top": 37,
-			"ddTooltipleft": 51.2,
-			"ddTooltiptop": 49,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
-		},
-		{
-			"tooltipID": "tooltip12",
-			"id": "#left_thigh_0_Layer0_0_FILL",
-			"strokeId": "#left_thigh_0_Layer0_0_1_STROKES",
+			"id": "#left_hand_0_Layer0_0_FILL",
+			"strokeId": "#left_hand_0_Layer0_0_1_STROKES",
 			"onclickColor": "#ED1C24",
-			"audio": "Left-Thigh.ogg",
-			"textField": "Left-Thigh",
-			"capital": "Red",
-			"stateTxtimg": {
-				"url": "Left-Thigh.png",
+			"audio": "Left-Hand.ogg",
+			"textField": "Left-Hand",
+			"subCategory": "Pick_Objects",
+			"categoryTxtimg": {
+				"url": "assets/options/Hand.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
-				"url": "Left-Thigh-color.png",
+			"subCategoryTxtimg": {
+				"url": "assets/options/Hand_Use.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
-				"url": "Left-Thigh_Right.png",
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Hand_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
-				"url": "Left-Thigh_Right_color.png",
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Hand_RightUse.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
-				"url": "Left-Thigh_Wrong.png",
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Hand_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
-				"url": "Left-Thigh_Wrong_color.png",
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Hand_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -683,34 +651,34 @@
 			"optionSelected": ""
 		},
 		{
-			"tooltipID": "tooltip13",
-			"id": "#right_knee_0_Layer0_0_FILL",
+			"tooltipID": "tooltip12",
+			"id": "#right_thigh_0_Layer0_0_FILL_1",
 			"strokeId": "#right_knee_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F26522",
 			"audio": "Right-Knee.ogg",
-			"textField": "Right-Knee",
-			"capital": "Orange",
-			"stateTxtimg": {
+			"textField": "Right-Thigh",
+			"subCategory": "Orange",
+			"categoryTxtimg": {
 				"url": "Right-Knee.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
+			"subCategoryTxtimg": {
 				"url": "Right-Knee-color.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
+			"correctCategoryTxtimg": {
 				"url": "Right-Knee_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
+			"correctSubCategoryTxtimg": {
 				"url": "Right-Knee_Right_color.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
+			"incorrectCategoryTxtimg": {
 				"url": "Right-Knee_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
+			"incorrectSubCategoryTxtimg": {
 				"url": "Right-Knee_Wrong_color.png",
 				"location": "content"
 			},
@@ -724,34 +692,34 @@
 			"optionSelected": ""
 		},
 		{
-			"tooltipID": "tooltip14",
-			"id": "#left_knee_0_Layer0_0_FILL",
+			"tooltipID": "tooltip13",
+			"id": "#left_thigh_0_Layer0_0_FILL_1",
 			"strokeId": "#left_knee_0_Layer0_0_1_STROKES",
 			"onclickColor": "#7F3F98",
 			"audio": "Left-Knee.ogg",
 			"textField": "Left-Knee",
-			"capital": "Purple",
-			"stateTxtimg": {
+			"subCategory": "Purple",
+			"categoryTxtimg": {
 				"url": "Left-Knee.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
+			"subCategoryTxtimg": {
 				"url": "Left-Knee-color.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
+			"correctCategoryTxtimg": {
 				"url": "Left-Knee_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
+			"correctSubCategoryTxtimg": {
 				"url": "Left-Knee_Right_color.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
+			"incorrectCategoryTxtimg": {
 				"url": "Left-Knee_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
+			"incorrectSubCategoryTxtimg": {
 				"url": "Left-Knee_Wrong_color.png",
 				"location": "content"
 			},
@@ -765,34 +733,34 @@
 			"optionSelected": ""
 		},
 		{
-			"tooltipID": "tooltip15",
-			"id": "#right_foot_0_Layer0_0_FILL",
+			"tooltipID": "tooltip14",
+			"id": "#right_knee_0_Layer0_0_FILL_1",
 			"strokeId": "#right_foot_0_Layer0_0_1_STROKES",
 			"onclickColor": "#00A14B",
 			"audio": "Right-Foot.ogg",
 			"textField": "Right-Foot",
-			"capital": "Green",
-			"stateTxtimg": {
+			"subCategory": "Green",
+			"categoryTxtimg": {
 				"url": "Right-Foot.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
+			"subCategoryTxtimg": {
 				"url": "Right-Foot-color.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
+			"correctCategoryTxtimg": {
 				"url": "Right-Foot_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
+			"correctSubCategoryTxtimg": {
 				"url": "Right-Foot_Right_color.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
+			"incorrectCategoryTxtimg": {
 				"url": "Right-Foot_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
+			"incorrectSubCategoryTxtimg": {
 				"url": "Right-Foot_Wrong_color.png",
 				"location": "content"
 			},
@@ -806,35 +774,322 @@
 			"optionSelected": ""
 		},
 		{
+			"tooltipID": "tooltip15",
+			"id": "#left_knee_0_Layer0_0_FILL_1",
+			"strokeId": "#left_foot_0_Layer0_0_1_STROKES_1",
+			"onclickColor": "#ED1C24",
+			"audio": "Left-Foot.ogg",
+			"textField": "Left-Foot",
+			"subCategory": "Red",
+			"categoryTxtimg": {
+				"url": "Left-Foot.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "Left-Foot-color.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "Left-Foot_Right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "Left-Foot_Right_color.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "Left-Foot_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "Left-Foot_Wrong_color.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 60,
+			"top": 51,
+			"ddTooltipleft": 61,
+			"ddTooltiptop": 65,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
 			"tooltipID": "tooltip16",
+			"id": "#right_foot_0_Layer0_0_FILL",
+			"strokeId": "#right_foot_0_Layer0_0_1_STROKES",
+			"onclickColor": "#ED1C24",
+			"audio": "Right-Foot.ogg",
+			"textField": "Right-Foot",
+			"subCategory": "Walk",
+			"categoryTxtimg": {
+				"url": "assets/options/Foot.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Foot_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Foot_Right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Foot_RightUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Foot_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Foot_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 50,
+			"top": 80,
+			"ddTooltipleft": 50,
+			"ddTooltiptop": 87,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip17",
 			"id": "#left_foot_0_Layer0_0_FILL",
 			"strokeId": "#left_foot_0_Layer0_0_1_STROKES",
 			"onclickColor": "#ED1C24",
 			"audio": "Left-Foot.ogg",
 			"textField": "Left-Foot",
-			"capital": "Red",
-			"stateTxtimg": {
-				"url": "Left-Foot.png",
+			"subCategory": "Walk",
+			"categoryTxtimg": {
+				"url": "assets/options/Foot.png",
 				"location": "content"
 			},
-			"capitalTxtimg": {
-				"url": "Left-Foot-color.png",
+			"subCategoryTxtimg": {
+				"url": "assets/options/Foot_Use.png",
 				"location": "content"
 			},
-			"correctstateTxtimg": {
-				"url": "Left-Foot_Right.png",
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Foot_Right.png",
 				"location": "content"
 			},
-			"correctcapitalTxtimg": {
-				"url": "Left-Foot_Right_color.png",
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Foot_RightUse.png",
 				"location": "content"
 			},
-			"incorrectstateTxtimg": {
-				"url": "Left-Foot_Wrong.png",
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Foot_Wrong.png",
 				"location": "content"
 			},
-			"incorrectcapitalTxtimg": {
-				"url": "Left-Foot_Wrong_color.png",
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Foot_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 57,
+			"top": 80,
+			"ddTooltipleft": 58,
+			"ddTooltiptop": 88,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip18",
+			"id": "#mouth_0_Layer0_0_FILL",
+			"strokeId": "#mouth_0_Layer0_0_1_STROKES",
+			"onclickColor": "#ED1C24",
+			"audio": "Mouth.ogg",
+			"textField": "Mouth",
+			"subCategory": "Eating,Speaking",
+			"categoryTxtimg": {
+				"url": "assets/options/Mouth.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Mouth_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Mouth_Right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Mouth_RightUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Mouth_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Mouth_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 60,
+			"top": 51,
+			"ddTooltipleft": 61,
+			"ddTooltiptop": 65,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip19",
+			"id": "#nose_0_Layer0_0_FILL",
+			"strokeId": "#nose_0_Layer0_0_1_STROKES",
+			"onclickColor": "#ED1C24",
+			"audio": "Nose.ogg",
+			"textField": "Nose",
+			"subCategory": "Smell",
+			"categoryTxtimg": {
+				"url": "assets/options/Nose.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Nose_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Nose_Right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Nose_RightUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Nose_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Nose_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 58.5,
+			"top": 25,
+			"ddTooltipleft": 58.5,
+			"ddTooltiptop": 32,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip20",
+			"id": "#ear_left_0_Layer0_0_FILL",
+			"strokeId": "#ear_0_Layer0_0_1_STROKES",
+			"onclickColor": "#ED1C24",
+			"audio": "Ear.ogg",
+			"textField": "Left Ear",
+			"subCategory": "Hearing",
+			"categoryTxtimg": {
+				"url": "assets/options/Ears.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Ears_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Ears_Right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Ears_RightUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Ears_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Ears_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 60,
+			"top": 51,
+			"ddTooltipleft": 61,
+			"ddTooltiptop": 65,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip21",
+			"id": "#Eye_right_0_Layer0_0_FILL_1",
+			"strokeId": "#Eye_0_Layer0_0_1_STROKES",
+			"onclickColor": "#ED1C24",
+			"audio": "Eye.ogg",
+			"textField": "Right_Eye",
+			"subCategory": "Smell",
+			"categoryTxtimg": {
+				"url": "assets/options/Nose.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Nose_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Nose_Right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Nose_RightUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Nose_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Nose_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 60,
+			"top": 51,
+			"ddTooltipleft": 61,
+			"ddTooltiptop": 65,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip22",
+			"id": "#Eye_left_0_Layer0_0_FILL_1",
+			"strokeId": "#Eye_0_Layer0_0_1_STROKES",
+			"onclickColor": "#ED1C24",
+			"audio": "Eye.ogg",
+			"textField": "Right_Eye",
+			"subCategory": "Smell",
+			"categoryTxtimg": {
+				"url": "assets/options/Nose.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Nose_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Nose_Right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Nose_RightUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Nose_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Nose_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -870,7 +1125,7 @@
 
 
 	"feedback": {
-		"correct_state": ["Head", "Neck", "Torso", "Pelvis", "Right-Thigh"],
+		"correct_category": ["Head", "Neck", "Torso", "Pelvis", "Right-Thigh"],
 		"style_header": {
 			"border": "solid .4vmin #3C7132",
 			"border-top-left-radius": "20px",
@@ -964,6 +1219,42 @@
 			"url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
 			"location": "content"
 		},
+		"ok_btn": {
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
+			"location": "content"
+		},
+		"ok_btn_hover": {
+			"url": "assets/popups/feedback/ok_btn_Hover.svg",
+			"location": "content"
+		},
+		"ok_btn_original": {
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
+			"location": "content"
+		},
+		"feedback_back_btn": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_hover": {
+			"urlglobal": "global/buttons/peecheyHover.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_original": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_hover": {
+			"urlglobal": "global/buttons/aageyHover.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_original": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
 		"popup_commmon_imgs": {
 			"close_btn": {
 				"urlglobal": "global/popups/closeBtn.png",
@@ -1028,65 +1319,6 @@
 			},
 			"confirm_text": {
 				"url": "assets/popups/show_answer_confirmation/confirmation_popup_text.png",
-				"location": "content"
-			},
-			"confirm_btn": {
-				"urlglobal": "global/popups/yes_btn.png",
-				"location": "theme"
-			},
-			"confirm_btn_hover": {
-				"urlglobal": "global/popups/yes_btn_Hover.png",
-				"location": "theme"
-			},
-			"confirm_btn_original": {
-				"urlglobal": "global/popups/yes_btn.png",
-				"location": "theme"
-			},
-			"decline_btn": {
-				"urlglobal": "global/popups/no_btn.png",
-				"location": "theme"
-			},
-			"decline_btn_hover": {
-				"urlglobal": "global/popups/no_btn_Hover.png",
-				"location": "theme"
-			},
-			"decline_btn_original": {
-				"urlglobal": "global/popups/no_btn.png",
-				"location": "theme"
-			}
-		},
-		"replay_confirm": {
-			"style_header": {
-				"border": "solid .4vmin #057499",
-				"border-top-left-radius": "20px",
-				"border-top-right-radius": "20px",
-				"background": "#129fc1"
-			},
-			"style_body": {
-				"border": "solid .4vmin #057499",
-				"border-bottom-left-radius": "20px",
-				"border-bottom-right-radius": "20px",
-				"border-top": "none",
-				"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
-			},
-			"headerTxt_img": {
-				"url": "assets/popups/video_replay_confirmation/header_confirm_text.png",
-				"location": "content"
-			},
-			"close_btn": {
-				"urlglobal": "global/popups/closeBtn.png",
-				"location": "theme"
-			},
-			"close_btn_hover": {
-				"urlglobal": "global/popups/closeBtnHover.png",
-				"location": "theme"
-			},
-			"close_btn_original": {
-				"urlglobal": "global/popups/closeBtn.png",
-				"location": "theme"
-			},
-			"confirm_text": {
-				"url": "assets/popups/video_replay_confirmation/replay_popup_text.png",
 				"location": "content"
 			},
 			"confirm_btn": {

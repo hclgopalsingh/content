@@ -70,6 +70,14 @@
 			"url": "assets/popups/feedback/partialCorrectFeedback.ogg",
 			"location": "content"
 		},
+		"outOfScopeAudio": {
+			"url": "assets/popups/feedback/outOfScope.ogg",
+			"location": "content"
+		},
+		"dropDownCloseBtn": {
+			"url": "assets/question/cross_icon.png",
+			"location": "content"
+		},
 		"isFirstQues": true,
 		"imgCount": 0,
 		"itemsperPage": 6,
@@ -79,7 +87,7 @@
 		"svgId": "mainques",
 		"url": "assets/Map.svg",
 		"location": "content",
-		"hoverColor": "#FFFFCC"
+		"hoverColor": "#0080AA"
 	},
 	"info_popup": {
 		"style_header": {
@@ -199,7 +207,6 @@
 			"location": "theme"
 		}
 	},
-
 	"mySVGArr": [{
 			"tooltipID": "tooltip1",
 			"id": "#Rajasthan_0_Layer1_0_",
@@ -276,8 +283,8 @@
 			"location": "content",
 			"left": 46,
 			"top": 8,
-			"ddTooltipleft": 48.7,
-			"ddTooltiptop": 5,
+			"ddTooltipleft": 46.3,
+			"ddTooltiptop": 14,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
@@ -318,7 +325,7 @@
 			"left": 47.3,
 			"top": 14.4,
 			"ddTooltipleft": 47.2,
-			"ddTooltiptop": 15,
+			"ddTooltiptop": 21,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
@@ -400,7 +407,7 @@
 			"left": 49.4,
 			"top": 20,
 			"ddTooltipleft": 49.5,
-			"ddTooltiptop": 21.5,
+			"ddTooltiptop": 26.5,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
@@ -848,10 +855,10 @@
 				"location": "content"
 			},
 			"location": "content",
-			"left": 56.3,
-			"top": 23,
-			"ddTooltipleft": 58,
-			"ddTooltiptop": 30,
+			"left": 60,
+			"top": 27,
+			"ddTooltipleft": 60,
+			"ddTooltiptop": 34,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
@@ -891,8 +898,8 @@
 			"location": "content",
 			"left": 49,
 			"top": 60,
-			"ddTooltipleft": 53.7,
-			"ddTooltiptop": 58,
+			"ddTooltipleft": 49.7,
+			"ddTooltiptop": 66,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
@@ -930,10 +937,10 @@
 				"location": "content"
 			},
 			"location": "content",
-			"left": 40,
-			"top": 59,
-			"ddTooltipleft": 41.6,
-			"ddTooltiptop": 66,
+			"left": 42.4,
+			"top": 62,
+			"ddTooltipleft": 42.6,
+			"ddTooltiptop": 69,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
@@ -1370,7 +1377,7 @@
 		}
 	}],
 	"feedback": {
-		"correct_category": ["Kerala", "Assam", "Uttrakhand", "UttarPradesh","Arunchal_pradesh","Goa","Punjab","Gujarat","Haryana"],
+		"correct_category": ["Kerala", "Assam","Uttrakhand","UttarPradesh","Haryana","Punjab","Bihar","Tamilnadu"],
 		"style_header": {
 			"border": "solid .4vmin #3C7132",
 			"border-top-left-radius": "20px",
@@ -1396,6 +1403,19 @@
 			"border-bottom-right-radius": "20px",
 			"border-top": "none",
 			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		},
+		"outofscope_style_header": {
+			"border": "solid .4vmin #a83901",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#cc4c0b"
+		},
+		"outofscope_style_body": {
+			"border": "solid .4vmin #a83901",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(197, 154, 129, 1) 100%)"
 		},
 		"wrong_style_header": {
 			"border": "solid .4vmin #b5282e",
@@ -1444,6 +1464,11 @@
 		"wrong_style_title": {
 			"required": true,
 			"url": "assets/popups/feedback/WrongAnsTitleTxt.png",
+			"location": "content"
+		},
+		"outofscope_style_title": {
+			"required": true,
+			"url": "assets/popups/feedback/OutOfScopeTitleTxt.png",
 			"location": "content"
 		},
 		"partial_style_title": {
@@ -1498,6 +1523,14 @@
 		},
 		"feedback_next_btn_original": {
 			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
 			"location": "theme"
 		},
 		"popup_commmon_imgs": {
@@ -1590,66 +1623,6 @@
 				"urlglobal": "global/popups/no_btn.png",
 				"location": "theme"
 			}
-		},
-		"replay_confirm": {
-			"style_header": {
-				"border": "solid .4vmin #057499",
-				"border-top-left-radius": "20px",
-				"border-top-right-radius": "20px",
-				"background": "#129fc1"
-			},
-			"style_body": {
-				"border": "solid .4vmin #057499",
-				"border-bottom-left-radius": "20px",
-				"border-bottom-right-radius": "20px",
-				"border-top": "none",
-				"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
-			},
-			"headerTxt_img": {
-				"url": "assets/popups/video_replay_confirmation/header_confirm_text.png",
-				"location": "content"
-			},
-			"close_btn": {
-				"urlglobal": "global/popups/closeBtn.png",
-				"location": "theme"
-			},
-			"close_btn_hover": {
-				"urlglobal": "global/popups/closeBtnHover.png",
-				"location": "theme"
-			},
-			"close_btn_original": {
-				"urlglobal": "global/popups/closeBtn.png",
-				"location": "theme"
-			},
-			"confirm_text": {
-				"url": "assets/popups/video_replay_confirmation/replay_popup_text.png",
-				"location": "content"
-			},
-			"confirm_btn": {
-				"urlglobal": "global/popups/yes_btn.png",
-				"location": "theme"
-			},
-			"confirm_btn_hover": {
-				"urlglobal": "global/popups/yes_btn_Hover.png",
-				"location": "theme"
-			},
-			"confirm_btn_original": {
-				"urlglobal": "global/popups/yes_btn.png",
-				"location": "theme"
-			},
-			"decline_btn": {
-				"urlglobal": "global/popups/no_btn.png",
-				"location": "theme"
-			},
-			"decline_btn_hover": {
-				"urlglobal": "global/popups/no_btn_Hover.png",
-				"location": "theme"
-			},
-			"decline_btn_original": {
-				"urlglobal": "global/popups/no_btn.png",
-				"location": "theme"
-			}
 		}
 	}
-
 }
