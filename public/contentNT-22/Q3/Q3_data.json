@@ -2133,6 +2133,19 @@
 		"correct_year":"2018",
 		"correct_month":"March",
 		"correct_weekDay":"Thursday",
+
+		"ok_btn": {
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
+			},
+			"ok_btn_hover": {
+			"urlglobal": "global/popups/ok_btn_Hover.png",
+			"location": "theme"
+			},
+			"ok_btn_original": {
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
+			},
 		 "style_header": {
           "border": "solid .4vmin #3C7132",
           "border-top-left-radius": "20px",

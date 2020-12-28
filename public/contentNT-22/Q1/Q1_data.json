@@ -2086,26 +2086,49 @@
 		  "date":""
 		},
 		"Ques_scenario":{
-			 
-			"type":"",
+			"type":"type_3",
+			"type_2":{
+                "holiday_id":"06",
+                "year_type":"",
+                "year":"2021",
+                "yearAdjustment":""
+            },
 			"type_3":{
-				"year_type":"",
-				"year":2021,
+				"year_type":"localMachineDate",
+				"year":"",
 				"month":11,
-				"day":"3",
-				"weekNumber":"2",
+				"day":"1",
+				"weekNumber":"3",
 				"monthAdjustment":"",
-				"yearAdjustment":""
+				"yearAdjustment":"-1"
+			},
+			"type_4":{
+				"graterThn":"",
+				"lessThn":"localMachineDate"
+			},
+			"type_5":{
+				"year":"localMachine",
+				"yearAdjustment":"",
+				"month":"localMachine",
+				"monthAdjustment":"",
+				"date":"27",
+				"dateAdjustment":"",
+				"after_days": "14"
+			},
+			"type_6":{
+				"yearAdjustment":"",
+				"monthAdjustment":"",
+				"dateAdjustment":""
 			}
 		},	
-		"disableyear":true,
+		"disableyear":false,
 		"disablemonth":false,
 		"disableweekDay":false,
 		"disableDate":false,
-		"yearSelected":true,
+		"yearSelected":false,
 		"monthSelected":true,
-		"dateSelected":false,
-		"weekdaySelected":false,
+		"dateSelected":true,
+		"weekdaySelected":true,
 		"`quesImg": {
 			"url": "",
 			"location": ""
@@ -2127,6 +2150,19 @@
 		"correct_month":"October",
 		"correct_weekDay":"",
 		
+
+		"ok_btn": {
+		"urlglobal": "global/popups/ok_btn_normal.png",
+		"location": "theme"
+		},
+		"ok_btn_hover": {
+		"urlglobal": "global/popups/ok_btn_Hover.png",
+		"location": "theme"
+		},
+		"ok_btn_original": {
+		"urlglobal": "global/popups/ok_btn_normal.png",
+		"location": "theme"
+		},
 		 "style_header": {
           "border": "solid .4vmin #3C7132",
           "border-top-left-radius": "20px",

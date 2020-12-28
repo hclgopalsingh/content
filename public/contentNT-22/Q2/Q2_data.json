@@ -2075,7 +2075,7 @@
 		"quesInstruction": {
 			"url": "assets/narrator.ogg",
 			"location": "content",
-			"autoPlay": false
+			"autoPlay": true
 		},
 		"submitRequired":true,
         "replayRequired":false,
@@ -2099,11 +2099,11 @@
 			}
 		},	
 		"disableyear":true,
-		"disablemonth":true,
+		"disablemonth":false,
 		"disableweekDay":false,
 		"disableDate":false,
 		"yearSelected":true,
-		"monthSelected":true,
+		"monthSelected":false,
 		"dateSelected":false,
 		"weekdaySelected":false,
 		"`quesImg": {
@@ -2122,10 +2122,22 @@
 
 
 	"feedback": {
-		"correct_date": "16",
+		"correct_date": "4",
 		"correct_year":"",
-		"correct_month":"",
+		"correct_month":"August",
 		"correct_weekDay":"",
+		"ok_btn": {
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
+			},
+			"ok_btn_hover": {
+			"urlglobal": "global/popups/ok_btn_Hover.png",
+			"location": "theme"
+			},
+			"ok_btn_original": {
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
+			},
 		 "style_header": {
           "border": "solid .4vmin #3C7132",
           "border-top-left-radius": "20px",
