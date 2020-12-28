@@ -14,7 +14,7 @@
 			"location": "content"
 		}
 	},
-	"commonassets": {		
+	"commonassets": {
 		"instruction": {
 			"url": "assets/narrator.ogg",
 			"location": "content"
@@ -51,7 +51,7 @@
 			"id": "001",
 			"custom_id": "0",
 			"sound": {
-				"url": "assets/options/q1_opt1.ogg",
+				"url": "assets/popups/feedback/clap.ogg",
 				"location": "content"
 			},
 			"imgsrc": {
@@ -75,15 +75,15 @@
 				"location": "content"
 			},
 			"bgImgsrc": {
-				"url": "assets/options/opt_bg.png",
+				"url": "assets/options/opt_bg1.png",
 				"location": "content"
 			},
 			"bgImgsrc_original": {
-				"url": "assets/options/opt_bg.png",
+				"url": "assets/options/opt_bg1.png",
 				"location": "content"
 			},
 			"bgImgsrc_hover": {
-				"url": "assets/options/opt_bg_hover.png",
+				"url": "assets/options/opt_bg_hover1.png",
 				"location": "content"
 			},
 			"bgImgsrc_empty": {
@@ -131,15 +131,15 @@
 				"location": "content"
 			},
 			"bgImgsrc": {
-				"url": "assets/options/opt_bg.png",
+				"url": "assets/options/opt_bg2.png",
 				"location": "content"
 			},
 			"bgImgsrc_original": {
-				"url": "assets/options/opt_bg.png",
+				"url": "assets/options/opt_bg2.png",
 				"location": "content"
 			},
 			"bgImgsrc_hover": {
-				"url": "assets/options/opt_bg_hover.png",
+				"url": "assets/options/opt_bg_hover2.png",
 				"location": "content"
 			},
 			"bgImgsrc_empty": {
@@ -187,15 +187,15 @@
 				"location": "content"
 			},
 			"bgImgsrc": {
-				"url": "assets/options/opt_bg.png",
+				"url": "assets/options/opt_bg3.png",
 				"location": "content"
 			},
 			"bgImgsrc_original": {
-				"url": "assets/options/opt_bg.png",
+				"url": "assets/options/opt_bg3.png",
 				"location": "content"
 			},
 			"bgImgsrc_hover": {
-				"url": "assets/options/opt_bg_hover.png",
+				"url": "assets/options/opt_bg_hover3.png",
 				"location": "content"
 			},
 			"bgImgsrc_empty": {
@@ -235,15 +235,15 @@
 				"location": "content"
 			},
 			"bgImgsrc": {
-				"url": "assets/options/opt_bg.png",
+				"url": "assets/options/opt_bg4.png",
 				"location": "content"
 			},
 			"bgImgsrc_original": {
-				"url": "assets/options/opt_bg.png",
+				"url": "assets/options/opt_bg4.png",
 				"location": "content"
 			},
 			"bgImgsrc_hover": {
-				"url": "assets/options/opt_bg_hover.png",
+				"url": "assets/options/opt_bg_hover4.png",
 				"location": "content"
 			},
 			"bgImgsrc_empty": {
@@ -288,15 +288,15 @@
 				"location": "content"
 			},
 			"bgImgsrc": {
-				"url": "assets/options/opt_bg.png",
+				"url": "assets/options/opt_bg5.png",
 				"location": "content"
 			},
 			"bgImgsrc_original": {
-				"url": "assets/options/opt_bg.png",
+				"url": "assets/options/opt_bg5.png",
 				"location": "content"
 			},
 			"bgImgsrc_hover": {
-				"url": "assets/options/opt_bg_hover.png",
+				"url": "assets/options/opt_bg_hover5.png",
 				"location": "content"
 			},
 			"bgImgsrc_empty": {
@@ -324,7 +324,7 @@
 				"location": "content"
 			},
 			"img_red": {
-				"url": "assets/options/lamp_red.png",
+				"url": "assets/options/plant_red.png",
 				"location": "content"
 			},
 			"imgsrc_original": {
@@ -336,15 +336,15 @@
 				"location": "content"
 			},
 			"bgImgsrc": {
-				"url": "assets/options/opt_bg.png",
+				"url": "assets/options/opt_bg6.png",
 				"location": "content"
 			},
 			"bgImgsrc_original": {
-				"url": "assets/options/opt_bg.png",
+				"url": "assets/options/opt_bg6.png",
 				"location": "content"
 			},
 			"bgImgsrc_hover": {
-				"url": "assets/options/opt_bg_hover.png",
+				"url": "assets/options/opt_bg_hover6.png",
 				"location": "content"
 			},
 			"bgImgsrc_empty": {
@@ -364,9 +364,9 @@
 	"quesObj": {
 		"quesVideo": {
 			"urlOgv": "assets/video.ogv",
-      		"urlMP4": "assets/video.mp4",
+			"urlMP4": "assets/video.mp4",
 			"location": "content",
-			"autoPlay":true
+			"autoPlay": true
 		},
 		"quesPlayPause": {
 			"urlglobal": "global/buttons/commonvideo/pause.svg",
@@ -414,24 +414,26 @@
 			"autoPlay": true
 		},
 		"submitRequired": false,
-		"replayRequired": true
+		"replayRequired": true,
+		"autoFillTimer" : 1
 	},
 	"feedback": {
 		"wrongFeedback": {
 			"style_header": {
-				"border": "solid .4vmin #F63A39",
+				"border": "solid .4vmin #b5282e",
 				"border-top-left-radius": "20px",
 				"border-top-right-radius": "20px",
-				"background": "#E90101"
+				"background": "#e2373d"
 			},
 			"style_body": {
-				"border": "solid .4vmin #DB4A4D",
+				"border": "solid .4vmin #b5282e",
 				"border-bottom-left-radius": "20px",
 				"border-bottom-right-radius": "20px",
-				"background": "#FFFFFF"
+				"border-top": "none",
+				"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
 			},
 			"headerTxt_img": {
-				"url": "assets/popups/feedback/header_confirm_text_wrong.png",
+				"url": "assets/popups/feedback/header_confirm_text.png",
 				"location": "content"
 			},
 			"close_btn": {
@@ -453,19 +455,20 @@
 		},
 		"rightFeedback": {
 			"style_header": {
-				"border": "solid .4vmin #85d222",
+				"border": "solid .4vmin #3C7132",
 				"border-top-left-radius": "20px",
 				"border-top-right-radius": "20px",
-				"background": "#248446"
+				"background": "#519843"
 			},
 			"style_body": {
-				"border": "solid .4vmin #85d222",
+				"border": "solid .4vmin #3C7132",
 				"border-bottom-left-radius": "20px",
 				"border-bottom-right-radius": "20px",
-				"background": "#afdec0"
+				"border-top": "none",
+				"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
 			},
 			"headerTxt_img": {
-				"url": "assets/popups/feedback/header_confirm_text_right.png",
+				"url": "assets/popups/feedback/header_confirm_text.png",
 				"location": "content"
 			},
 			"close_btn": {
