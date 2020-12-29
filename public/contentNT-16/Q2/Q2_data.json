@@ -40,7 +40,7 @@
 			"location": "content"
 		},
 		"background": {
-			"urlglobal": "global/tabs/bg/bg_1.svg",
+			"urlglobal": "global/tabs/bg/bg_2.svg",
 			"location": "theme"
 		},
 		"isFirstQues": false,
@@ -436,6 +436,11 @@
 				"url": "assets/popups/feedback/header_confirm_text.png",
 				"location": "content"
 			},
+			"popTitleTxt_img": {
+				"required": true,
+				"url": "assets/popups/feedback/wrong_title_txt.png",
+				"location": "content"
+			},
 			"close_btn": {
 				"urlglobal": "global/popups/closeBtn.png",
 				"location": "theme"
@@ -469,6 +474,11 @@
 			},
 			"headerTxt_img": {
 				"url": "assets/popups/feedback/header_confirm_text.png",
+				"location": "content"
+			},
+			"popTitleTxt_img": {
+				"required": true,
+				"url": "assets/popups/feedback/wrong_title_txt.png",
 				"location": "content"
 			},
 			"close_btn": {

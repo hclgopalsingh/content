@@ -415,7 +415,7 @@
 		},
 		"submitRequired": false,
 		"replayRequired": true,
-		"autoFillTimer" : 1
+		"autoFillTimer": 1
 	},
 	"feedback": {
 		"wrongFeedback": {
@@ -434,6 +434,11 @@
 			},
 			"headerTxt_img": {
 				"url": "assets/popups/feedback/header_confirm_text.png",
+				"location": "content"
+			},
+			"popTitleTxt_img": {
+				"required": true,
+				"url": "assets/popups/feedback/wrong_title_txt.png",
 				"location": "content"
 			},
 			"close_btn": {
@@ -469,6 +474,11 @@
 			},
 			"headerTxt_img": {
 				"url": "assets/popups/feedback/header_confirm_text.png",
+				"location": "content"
+			},
+			"popTitleTxt_img": {
+				"required": true,
+				"url": "assets/popups/feedback/wrong_title_txt.png",
 				"location": "content"
 			},
 			"close_btn": {

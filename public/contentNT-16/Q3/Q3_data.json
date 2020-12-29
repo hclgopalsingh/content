@@ -40,7 +40,7 @@
 			"location": "content"
 		},
 		"background": {
-			"urlglobal": "global/tabs/bg/bg_1.svg",
+			"urlglobal": "global/tabs/bg/bg_3.svg",
 			"location": "theme"
 		},
 		"isFirstQues": false,
@@ -55,23 +55,23 @@
 				"location": "content"
 			},
 			"imgsrc": {
-				"url": "assets/options/q1_opt1.png",
+				"url": "assets/options/q3_opt1.png",
 				"location": "content"
 			},
 			"imgsrc_original": {
-				"url": "assets/options/q1_opt1.png",
+				"url": "assets/options/q3_opt1.png",
 				"location": "content"
 			},
 			"img_red": {
-				"url": "assets/options/khilona_red.png",
+				"url": "assets/options/computer_red.png",
 				"location": "content"
 			},
 			"filled_img": {
-				"url": "assets/options/q1_opt1_filled.png",
+				"url": "assets/options/q3_opt1_filled.png",
 				"location": "content"
 			},
 			"filled_img_green": {
-				"url": "assets/options/q1_opt1_filled_g.png",
+				"url": "assets/options/q3_opt1_filled_g.png",
 				"location": "content"
 			},
 			"bgImgsrc": {
@@ -99,7 +99,7 @@
 				"location": "content"
 			},
 			"aksharImg": {
-				"url": "assets/options/gha.png",
+				"url": "assets/options/ka.png",
 				"location": "content"
 			}
 		},
@@ -111,23 +111,23 @@
 				"location": "content"
 			},
 			"imgsrc": {
-				"url": "assets/options/q1_opt2.png",
+				"url": "assets/options/q3_opt2.png",
 				"location": "content"
 			},
 			"img_red": {
-				"url": "assets/options/basta_red.png",
+				"url": "assets/options/gamla_red.png",
 				"location": "content"
 			},
 			"imgsrc_original": {
-				"url": "assets/options/q1_opt2.png",
+				"url": "assets/options/q3_opt2.png",
 				"location": "content"
 			},
 			"filled_img": {
-				"url": "assets/options/q1_opt2_filled.png",
+				"url": "assets/options/q3_opt2_filled.png",
 				"location": "content"
 			},
 			"filled_img_green": {
-				"url": "assets/options/q1_opt2_filled_g.png",
+				"url": "assets/options/q3_opt2_filled_g.png",
 				"location": "content"
 			},
 			"bgImgsrc": {
@@ -155,7 +155,7 @@
 				"location": "content"
 			},
 			"aksharImg": {
-				"url": "assets/options/ba.png",
+				"url": "assets/options/ga.png",
 				"location": "content"
 			}
 		},
@@ -167,23 +167,23 @@
 				"location": "content"
 			},
 			"imgsrc": {
-				"url": "assets/options/q1_opt3.png",
+				"url": "assets/options/q3_opt3.png",
 				"location": "content"
 			},
 			"img_red": {
-				"url": "assets/options/q1laatenRed.png",
+				"url": "assets/options/khilona_red.png",
 				"location": "content"
 			},
 			"imgsrc_original": {
-				"url": "assets/options/q1_opt3.png",
+				"url": "assets/options/q3_opt3.png",
 				"location": "content"
 			},
 			"filled_img": {
-				"url": "assets/options/q1_opt3_filled.png",
+				"url": "assets/options/q3_opt3_filled.png",
 				"location": "content"
 			},
 			"filled_img_green": {
-				"url": "assets/options/q1_opt3_filled_g.png",
+				"url": "assets/options/q3_opt3_filled_g.png",
 				"location": "content"
 			},
 			"bgImgsrc": {
@@ -215,23 +215,23 @@
 			"id": "004",
 			"custom_id": "3",
 			"imgsrc": {
-				"url": "assets/options/q1_opt4.png",
+				"url": "assets/options/q3_opt4.png",
 				"location": "content"
 			},
 			"img_red": {
-				"url": "assets/options/gend_red.png",
+				"url": "assets/options/lamp_red.png",
 				"location": "content"
 			},
 			"imgsrc_original": {
-				"url": "assets/options/q1_opt4.png",
+				"url": "assets/options/q3_opt4.png",
 				"location": "content"
 			},
 			"filled_img": {
-				"url": "assets/options/q1_opt4_filled.png",
+				"url": "assets/options/q3_opt4_filled.png",
 				"location": "content"
 			},
 			"filled_img_green": {
-				"url": "assets/options/q1_opt4_filled_g.png",
+				"url": "assets/options/q3_opt4_filled_g.png",
 				"location": "content"
 			},
 			"bgImgsrc": {
@@ -259,7 +259,7 @@
 				"location": "content"
 			},
 			"aksharImg": {
-				"url": "assets/options/ga.png",
+				"url": "assets/options/la.png",
 				"location": "content"
 			}
 
@@ -268,23 +268,23 @@
 			"id": "005",
 			"custom_id": "4",
 			"imgsrc": {
-				"url": "assets/options/q1_opt5.png",
+				"url": "assets/options/q3_opt5.png",
 				"location": "content"
 			},
 			"img_red": {
-				"url": "assets/options/kitab_red.png",
+				"url": "assets/options/ghadi_red.png",
 				"location": "content"
 			},
 			"imgsrc_original": {
-				"url": "assets/options/q1_opt5.png",
+				"url": "assets/options/q3_opt5.png",
 				"location": "content"
 			},
 			"filled_img": {
-				"url": "assets/options/q1_opt5_filled.png",
+				"url": "assets/options/q3_opt5_filled.png",
 				"location": "content"
 			},
 			"filled_img_green": {
-				"url": "assets/options/q1_opt5_filled_g.png",
+				"url": "assets/options/q3_opt5_filled_g.png",
 				"location": "content"
 			},
 			"bgImgsrc": {
@@ -312,7 +312,7 @@
 				"location": "content"
 			},
 			"aksharImg": {
-				"url": "assets/options/la.png",
+				"url": "assets/options/gha.png",
 				"location": "content"
 			}
 		},
@@ -320,19 +320,19 @@
 			"id": "006",
 			"custom_id": "5",
 			"imgsrc": {
-				"url": "assets/options/q1_opt6.png",
+				"url": "assets/options/q3_opt6.png",
 				"location": "content"
 			},
 			"img_red": {
-				"url": "assets/options/gaye_red.png",
+				"url": "assets/options/bird_red.png",
 				"location": "content"
 			},
 			"imgsrc_original": {
-				"url": "assets/options/q1_opt3.png",
+				"url": "assets/options/q3_opt6.png",
 				"location": "content"
 			},
 			"filled_img": {
-				"url": "assets/options/q1_opt3_filled.png",
+				"url": "assets/options/q3_opt3_filled.png",
 				"location": "content"
 			},
 			"bgImgsrc": {
@@ -436,6 +436,11 @@
 				"url": "assets/popups/feedback/header_confirm_text.png",
 				"location": "content"
 			},
+			"popTitleTxt_img": {
+				"required": true,
+				"url": "assets/popups/feedback/wrong_title_txt.png",
+				"location": "content"
+			},
 			"close_btn": {
 				"urlglobal": "global/popups/closeBtn.png",
 				"location": "theme"
@@ -469,6 +474,11 @@
 			},
 			"headerTxt_img": {
 				"url": "assets/popups/feedback/header_confirm_text.png",
+				"location": "content"
+			},
+			"popTitleTxt_img": {
+				"required": true,
+				"url": "assets/popups/feedback/wrong_title_txt.png",
 				"location": "content"
 			},
 			"close_btn": {
