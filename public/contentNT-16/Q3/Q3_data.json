@@ -44,7 +44,7 @@
 			"location": "theme"
 		},
 		"isFirstQues": false,
-		"imgCount": "14",
+		"imgCount": "1",
 		"formatTimeout": "6000"
 	},
 	"options": [{
@@ -409,7 +409,7 @@
 			"location": "theme"
 		},
 		"quesInstruction": {
-			"url": "assets/popups/feedback/clap.ogg",
+			"url": "assets/narrator.ogg",
 			"location": "content",
 			"autoPlay": true
 		},
