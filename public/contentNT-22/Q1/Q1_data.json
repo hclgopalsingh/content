@@ -2086,7 +2086,7 @@
 		  "date":""
 		},
 		"Ques_scenario":{
-			"type":"type_3",
+			"type":"type_7",
 			"type_2":{
                 "holiday_id":"06",
                 "year_type":"",
@@ -2119,6 +2119,9 @@
 				"yearAdjustment":"",
 				"monthAdjustment":"",
 				"dateAdjustment":""
+			},
+			"type_7":{
+				"findNextMonths":"31"
 			}
 		},	
 		"disableyear":false,
@@ -2149,8 +2152,6 @@
 		"correct_year":"",
 		"correct_month":"October",
 		"correct_weekDay":"",
-		
-
 		"ok_btn": {
 		"urlglobal": "global/popups/ok_btn_normal.png",
 		"location": "theme"
