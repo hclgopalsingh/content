@@ -2107,12 +2107,12 @@
 		},	
 		"disableyear":true,
 		"disablemonth":false,
-		"disableweekDay":true,
-		"disableDate":true,
+		"disableweekDay":false,
+		"disableDate":false,
 		"yearSelected":true,
-		"monthSelected":true,
-		"dateSelected":true,
-		"weekdaySelected":true,
+		"monthSelected":false,
+		"dateSelected":false,
+		"weekdaySelected":false,
 		"`quesImg": {
 			"url": "",
 			"location": ""
@@ -2129,9 +2129,9 @@
 
 
 	"feedback": {
-		"correct_date": "",
+		"correct_date": "4",
 		"correct_year":"",
-		"correct_month":"February",
+		"correct_month":"August",
 		"correct_weekDay":"",
 		"ok_btn": {
 		"urlglobal": "global/popups/ok_btn_normal.png",

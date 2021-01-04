@@ -2086,7 +2086,7 @@
 		  "date":""
 		},
 		"Ques_scenario":{
-			"type":"type_7",
+			"type":"",
 			"type_2":{
                 "holiday_id":"06",
                 "year_type":"",
@@ -2124,12 +2124,12 @@
 				"findNextMonths":"31"
 			}
 		},	
-		"disableyear":false,
+		"disableyear":true,
 		"disablemonth":false,
-		"disableweekDay":false,
-		"disableDate":false,
-		"yearSelected":false,
-		"monthSelected":true,
+		"disableweekDay":true,
+		"disableDate":true,
+		"yearSelected":true,
+		"monthSelected":false,
 		"dateSelected":true,
 		"weekdaySelected":true,
 		"`quesImg": {
@@ -2148,7 +2148,7 @@
 
 
 	"feedback": {
-		"correct_date": "2",
+		"correct_date": "",
 		"correct_year":"",
 		"correct_month":"October",
 		"correct_weekDay":"",

@@ -2094,24 +2094,24 @@
 		},
 		"Ques_scenario":{
 			 
-			"type":"",
+			"type":"type_3",
 			"type_3":{
-				"year_type":"",
-				"year":2021,
-				"month":11,
-				"day":"3",
-				"weekNumber":"2",
+				"year_type":"localMachineDate",
+				"year":"",
+				"month":"0",
+				"day":"1",
+				"weekNumber":"1",
 				"monthAdjustment":"",
 				"yearAdjustment":""
 			}
 		},	
-		"disableyear":false,
+		"disableyear":true,
 		"disablemonth":false,
 		"disableweekDay":false,
-		"disableDate":true,
+		"disableDate":false,
 		"yearSelected":true,
-		"monthSelected":true,
-		"dateSelected":true,
+		"monthSelected":false,
+		"dateSelected":false,
 		"weekdaySelected":false,
 		"`quesImg": {
 			"url": "",
@@ -2130,9 +2130,9 @@
 
 	"feedback": {
 		"correct_date": "",
-		"correct_year":"2018",
-		"correct_month":"March",
-		"correct_weekDay":"Thursday",
+		"correct_year":"",
+		"correct_month":"",
+		"correct_weekDay":"",
 
 		"ok_btn": {
 			"urlglobal": "global/popups/ok_btn_normal.png",
