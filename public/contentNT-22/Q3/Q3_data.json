@@ -2084,6 +2084,7 @@
 			"location": "content",
 			"autoPlay": true
 		},
+		"displayHolidays":true,
 		"submitRequired":true,
         "replayRequired":false,
 		"localMachineDate":true,
