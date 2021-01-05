@@ -133,7 +133,7 @@
     },
     "styleArray" : [
       { "left": "-53%", "top": "-279.5%", "width": "130%", "max-width": "130%", "filter":"invert(1)" },
-      { "left": "-182%", "top": "-279.5%", "width": "130%", "max-width": "130%", "filter":"invert(1)" },
+      { "left": "-175%", "top": "-279.5%", "width": "130%", "max-width": "130%", "filter":"invert(1)" },
       { "left": "-296%", "top": "-279.5%", "width": "130%", "max-width": "130%", "filter":"invert(1)" }
     ],
     "submitRequired": false,
