@@ -70,6 +70,14 @@
 			"url": "assets/popups/feedback/partialCorrectFeedback.ogg",
 			"location": "content"
 		},
+		"outOfScopeAudio": {
+			"url": "assets/popups/feedback/outOfScope.ogg",
+			"location": "content"
+		},
+		"dropDownCloseBtn": {
+			"url": "assets/question/cross_icon.png",
+			"location": "content"
+		},
 		"isFirstQues": false,
 		"imgCount": 0,
 		"itemsperPage": 6,
@@ -201,12 +209,12 @@
 	},
 	"mySVGArr": [{
 			"tooltipID": "tooltip1",
-			"id": "#chest_0_Layer1_0_FILL_1",
-			"strokeId": "#chest_0_Layer0_0_1_STROKES",
+			"id": "#right_knee_0_Layer0_0_FILL_1",
+			"strokeId": "#right_knee_0_Layer0_0_1_STROKES",
 			"onclickColor": "#EE2A7B",
-			"audio": "Head.ogg",
-			"textField": "Chest",
-			"subCategory": "Pink",
+			"audio": "",
+			"textField": "Right Knee",
+			"subCategory": "",
 			"categoryTxtimg": {
 				"url": "assets/options/Head.png",
 				"location": "content"
@@ -242,26 +250,108 @@
 		},
 		{
 			"tooltipID": "tooltip2",
-			"id": "#head_0_Layer0_0_FILL_1",
-			"strokeId": "#head_0_Layer0_0_1_STROKES",
-			"onclickColor": "#21409A",
-			"audio": "Head.ogg",
-			"textField": "Head",
-			"subCategory": "Blue",
+			"id": "#right_thigh_0_Layer0_0_FILL",
+			"strokeId": "#right_thigh_0_Layer0_0_1_STROKES",
+			"onclickColor": "#679389",
+			"audio": "",
+			"textField": "Right Thigh",
+			"subCategory": "Flexion, extension, rotation of body",
+			"categoryTxtimg": {
+				"url": "assets/options/Right_Thigh.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Thigh_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Right_Thigh_Correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Thigh_CorrectUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Right_Thigh_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Thigh_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 50.4,
+			"top": 69,
+			"ddTooltipleft": 50.4,
+			"ddTooltiptop": 76,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip3",
+			"id": "#right_foot_0_Layer0_0_FILL",
+			"strokeId": "#right_foot_0_Layer0_0_1_STROKES",
+			"onclickColor": "#FF9966",
+			"audio": "",
+			"textField": "Right Foot",
+			"subCategory": "Walk, Balance and Stand",
+			"categoryTxtimg": {
+				"url": "assets/options/Right_Foot.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Foot_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Right_Foot_Correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Foot_CorrectUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Right_Foot_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Foot_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 49.5,
+			"top": 81.2,
+			"ddTooltipleft": 49.5,
+			"ddTooltiptop": 88,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip4",
+			"id": "#neck_0_Layer0_0_FILL",
+			"strokeId": "#neck_0_Layer0_0_1_STROKES",
+			"onclickColor": "#003926",
+			"audio": "",
+			"textField": "Neck",
+			"subCategory": "Supports weight of head",
 			"categoryTxtimg": {
 				"url": "assets/options/Neck.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "assets/options/Neck-color.png",
+				"url": "assets/options/Neck_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/Neck_Right.png",
+				"url": "assets/options/Neck_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Neck_Right_color.png",
+				"url": "assets/options/Neck_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
@@ -269,171 +359,89 @@
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Neck_Wrong_color.png",
+				"url": "assets/options/Neck_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
-			"left": 57,
-			"top": 8,
-			"ddTooltipleft": 42.7,
-			"ddTooltiptop": 10,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
-		},
-		{
-			"tooltipID": "tooltip3",
-			"id": "#ear_right_0_Layer0_0_FILL",
-			"strokeId": "#torso_0_Layer0_0_1_STROKES",
-			"onclickColor": "#7F3F98",
-			"audio": "Torso.ogg",
-			"textField": "Right Ear",
-			"subCategory": "Hearing",
-			"categoryTxtimg": {
-				"url": "assets/options/Ears.png",
-				"location": "content"
-			},
-			"subCategoryTxtimg": {
-				"url": "assets/options/Ears_Use.png",
-				"location": "content"
-			},
-			"correctCategoryTxtimg": {
-				"url": "assets/options/Ears_Right.png",
-				"location": "content"
-			},
-			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Ears_RightUse.png",
-				"location": "content"
-			},
-			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Ears_Wrong.png",
-				"location": "content"
-			},
-			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Ears_WrongUse.png",
-				"location": "content"
-			},
-			"location": "content",
-			"left": 47.5,
-			"top": 25,
-			"ddTooltipleft": 47.5,
-			"ddTooltiptop": 32,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
-		},
-		{
-			"tooltipID": "tooltip4",
-			"id": "#Layer18_0_MEMBER_0_FILL_1",
-			"strokeId": "#right_eyebrow_0_Layer0_0_1_STROKES",
-			"onclickColor": "#00A14B",
-			"audio": "Right-Eyebrow.ogg",
-			"textField": "Right-Eyebrow",
-			"subCategory": "Green",
-			"categoryTxtimg": {
-				"url": "assets/options/Right-Eyebrow.png",
-				"location": "content"
-			},
-			"subCategoryTxtimg": {
-				"url": "assets/options/Right-Eyebrow-color.png",
-				"location": "content"
-			},
-			"correctCategoryTxtimg": {
-				"url": "assets/options/Right-Eyebrow_Right.png",
-				"location": "content"
-			},
-			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Right-Eyebrow_Right_color.png",
-				"location": "content"
-			},
-			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Right-Eyebrow_Wrong.png",
-				"location": "content"
-			},
-			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Right-Eyebrow_Wrong_color.png",
-				"location": "content"
-			},
-			"location": "content",
-			"left": 54,
-			"top": 15,
-			"ddTooltipleft": 40.2,
-			"ddTooltiptop": 18.5,
+			"left": 52.7,
+			"top": 43,
+			"ddTooltipleft": 52.7,
+			"ddTooltiptop": 49.5,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
 		},
 		{
 			"tooltipID": "tooltip5",
-			"id": "#left_eyebrow_0_Layer0_0_FILL",
-			"strokeId": "#left_eyebrow_0_Layer0_0_1_STROKES",
-			"onclickColor": "#ED1C24",
-			"audio": "Left-Eyebrow.ogg",
-			"textField": "Left-Eyebrow",
-			"subCategory": "Red",
+			"id": "#left_thigh_0_Layer0_0_FILL",
+			"strokeId": "#left_thigh_0_Layer0_0_1_STROKES",
+			"onclickColor": "#737AA4",
+			"audio": "",
+			"textField": "Left Thigh",
+			"subCategory": "Flexion, extension, rotation of body",
 			"categoryTxtimg": {
-				"url": "assets/options/Left-Eyebrow.png",
+				"url": "assets/options/Left_Thigh.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "assets/options/Left-Eyebrow-color.png",
+				"url": "assets/options/Thigh_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/Left-Eyebrow_Right.png",
+				"url": "assets/options/Left_Thigh_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Left-Eyebrow_Right_color.png",
+				"url": "assets/options/Thigh_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Left-Eyebrow_Wrong.png",
+				"url": "assets/options/Left_Thigh_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Left-Eyebrow_Wrong_color.png",
+				"url": "assets/options/Thigh_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
-			"left": 60,
-			"top": 10,
-			"ddTooltipleft": 61.5,
-			"ddTooltiptop": 21.5,
+			"left": 54.6,
+			"top": 69,
+			"ddTooltipleft": 54.6,
+			"ddTooltiptop": 75.5,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
 		},
 		{
 			"tooltipID": "tooltip6",
-			"id": "#right_biceps_0_Layer0_0_FILL_1",
-			"strokeId": "#right_biceps_0_Layer0_0_1_STROKES",
+			"id": "#left_knee_0_Layer0_0_FILL_1",
+			"strokeId": "#left_knee_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F7CA18",
-			"audio": "Right-Biceps.ogg",
-			"textField": "Right-Biceps",
-			"subCategory": "Yellow",
+			"audio": "",
+			"textField": "Left Knee",
+			"subCategory": "",
 			"categoryTxtimg": {
-				"url": "assets/options/Right-Biceps.png",
+				"url": "assets/options/Left_Knee.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "assets/options/Right-ForArm-color.png",
+				"url": "assets/options/Left_Knee_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/Right-ForArm_Right.png",
+				"url": "assets/options/Left_Knee_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Right-ForArm_Right_color.png",
+				"url": "assets/options/Left_Knee_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Right-ForArm_Wrong.png",
+				"url": "assets/options/Left_Knee_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Right-ForArm_Wrong_color.png",
+				"url": "assets/options/Left_Knee_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -447,116 +455,116 @@
 		},
 		{
 			"tooltipID": "tooltip7",
-			"id": "#right_forarm_0_Layer0_0_FILL_1",
-			"strokeId": "#right_forarm_0_Layer0_0_1_STROKES",
-			"onclickColor": "#17C2C2",
-			"audio": "Right-ForArm.ogg",
-			"textField": "Right-Forearm",
-			"subCategory": "Turquoise",
+			"id": "#left_foot_0_Layer0_0_FILL",
+			"strokeId": "#left_foot_0_Layer0_0_1_STROKES",
+			"onclickColor": "#B0BF0E",
+			"audio": "",
+			"textField": "Left Foot",
+			"subCategory": "Walk, Balance and Stand",
 			"categoryTxtimg": {
-				"url": "assets/options/Left-ForArm.png",
+				"url": "assets/options/Left_Foot.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "assets/options/Left-ForArm-color.png",
+				"url": "assets/options/Foot_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/Left-ForArm_Right.png",
+				"url": "assets/options/Left_Foot_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Left-ForArm_Right_color.png",
+				"url": "assets/options/Foot_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Left-ForArm_Wrong.png",
+				"url": "assets/options/Left_Foot_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Left-ForArm_Wrong_color.png",
+				"url": "assets/options/Foot_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
-			"left": 63,
-			"top": 7,
-			"ddTooltipleft": 65.5,
-			"ddTooltiptop": 0,
+			"left": 55.3,
+			"top": 81.2,
+			"ddTooltipleft": 55.3,
+			"ddTooltiptop": 88,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
 		},
 		{
 			"tooltipID": "tooltip8",
-			"id": "#right_palm_0_Layer0_0_FILL",
-			"strokeId": "#right_palm_0_Layer0_0_1_STROKES",
-			"onclickColor": "#7F3F98",
-			"audio": "Right-Palm.ogg",
-			"textField": "Right Hand",
-			"subCategory": "Pick Objects",
+			"id": "#left_bicep_0_Layer0_0_FILL",
+			"strokeId": "#left_bicep_0_Layer0_0_1_STROKES",
+			"onclickColor": "#403465",
+			"audio": "",
+			"textField": "Left Biceps",
+			"subCategory": "Suspension of forearm",
 			"categoryTxtimg": {
-				"url": "assets/options/Hand.png",
+				"url": "assets/options/Left_Biceps.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "assets/options/Hand_Use.png",
+				"url": "assets/options/Biceps_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/Hand_Right.png",
+				"url": "assets/options/Left_Biceps_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Hand_RightUse.png",
+				"url": "assets/options/Biceps_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Hand_Wrong.png",
+				"url": "assets/options/Left_Biceps_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Hand_WrongUse.png",
+				"url": "assets/options/Biceps_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
-			"left": 42.5,
-			"top": 44,
-			"ddTooltipleft": 42.5,
-			"ddTooltiptop": 52,
+			"left": 55.9,
+			"top": 49,
+			"ddTooltipleft": 55.9,
+			"ddTooltiptop": 56,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
 		},
 		{
 			"tooltipID": "tooltip9",
-			"id": "#left_boceps_0_Layer0_0_FILL_1",
-			"strokeId": "#left_palm_0_Layer0_0_1_STROKES",
+			"id": "#left_forearm_0_Layer0_0_FILL_1",
+			"strokeId": "#left_forearm_0_Layer0_0_1_STROKES",
 			"onclickColor": "#00A14B",
-			"audio": "Left-Bicepts.ogg",
-			"textField": "Left-Biceps",
-			"subCategory": "Green",
+			"audio": "",
+			"textField": "Left Forearm",
+			"subCategory": "",
 			"categoryTxtimg": {
-				"url": "Left-Palm.png",
+				"url": "assets/options/Left_Forearm.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "Left-Palm-color.png",
+				"url": "assets/options/Forearm_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "Left-Palm_Right.png",
+				"url": "assets/options/Left_Forearm_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "Left-Palm_Right_color.png",
+				"url": "assets/options/Forearm_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "Left-Palm_Wrong.png",
+				"url": "assets/options/Left_Forearm_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "Left-Palm_Wrong_color.png",
+				"url": "assets/options/Forearm_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -570,55 +578,14 @@
 		},
 		{
 			"tooltipID": "tooltip10",
-			"id": "#left_forarm_0_Layer0_0_FILL_1",
-			"strokeId": "#palvis_0_Layer0_0_1_STROKES",
-			"onclickColor": "#21409A",
-			"audio": "Palvis.ogg",
-			"textField": "Left_Forearm",
-			"subCategory": "Blue",
-			"categoryTxtimg": {
-				"url": "Palvis.png",
-				"location": "content"
-			},
-			"subCategoryTxtimg": {
-				"url": "Palvis-color.png",
-				"location": "content"
-			},
-			"correctCategoryTxtimg": {
-				"url": "Palvis_Right.png",
-				"location": "content"
-			},
-			"correctSubCategoryTxtimg": {
-				"url": "Palvis_Right_color.png",
-				"location": "content"
-			},
-			"incorrectCategoryTxtimg": {
-				"url": "Palvis_Wrong.png",
-				"location": "content"
-			},
-			"incorrectSubCategoryTxtimg": {
-				"url": "Palvis_Wrong_color.png",
-				"location": "content"
-			},
-			"location": "content",
-			"left": 57,
-			"top": 27,
-			"ddTooltipleft": 51,
-			"ddTooltiptop": 38,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
-		},
-		{
-			"tooltipID": "tooltip11",
 			"id": "#left_hand_0_Layer0_0_FILL",
-			"strokeId": "#left_hand_0_Layer0_0_1_STROKES",
-			"onclickColor": "#ED1C24",
-			"audio": "Left-Hand.ogg",
-			"textField": "Left-Hand",
-			"subCategory": "Pick_Objects",
+			"strokeId": "#Left_hand_0_Layer0_0_1_STROKES",
+			"onclickColor": "#FE9F9D",
+			"audio": "",
+			"textField": "Left Hand",
+			"subCategory": "Pick Things up, scratch and itch",
 			"categoryTxtimg": {
-				"url": "assets/options/Hand.png",
+				"url": "assets/options/Left_Hand.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
@@ -626,15 +593,15 @@
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/Hand_Right.png",
+				"url": "assets/options/Left_Hand_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Hand_RightUse.png",
+				"url": "assets/options/Hand_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Hand_Wrong.png",
+				"url": "assets/options/Left_Hand_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
@@ -642,44 +609,85 @@
 				"location": "content"
 			},
 			"location": "content",
-			"left": 59,
-			"top": 31,
-			"ddTooltipleft": 64.3,
-			"ddTooltiptop": 44,
+			"left": 60.5,
+			"top": 52.5,
+			"ddTooltipleft": 60.5,
+			"ddTooltiptop": 59,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip11",
+			"id": "#right_bicep_0_Layer0_0_FILL",
+			"strokeId": "#right_bicep_0_Layer0_0_1_STROKES",
+			"onclickColor": "#84557E",
+			"audio": "",
+			"textField": "Right Biceps",
+			"subCategory": "Suspension of forearm",
+			"categoryTxtimg": {
+				"url": "assets/options/Right_Biceps.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Biceps_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Right_Biceps_Right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Biceps_RightUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Right_Biceps_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Biceps_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 49.4,
+			"top": 49,
+			"ddTooltipleft": 49.4,
+			"ddTooltiptop": 56,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
 		},
 		{
 			"tooltipID": "tooltip12",
-			"id": "#right_thigh_0_Layer0_0_FILL_1",
-			"strokeId": "#right_knee_0_Layer0_0_1_STROKES",
+			"id": "#right_forearm_0_Layer0_0_FILL_1",
+			"strokeId": "#right_forearm_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F26522",
-			"audio": "Right-Knee.ogg",
-			"textField": "Right-Thigh",
-			"subCategory": "Orange",
+			"audio": "",
+			"textField": "Right Forearm",
+			"subCategory": "",
 			"categoryTxtimg": {
-				"url": "Right-Knee.png",
+				"url": "assets/options/Right_Forearm.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "Right-Knee-color.png",
+				"url": "assets/options/Forearm_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "Right-Knee_Right.png",
+				"url": "assets/options/Right_Forearm_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "Right-Knee_Right_color.png",
+				"url": "assets/options/Forearm_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "Right-Knee_Wrong.png",
+				"url": "assets/options/Right_Forearm_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "Right-Knee_Wrong_color.png",
+				"url": "assets/options/Forearm_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -693,34 +701,34 @@
 		},
 		{
 			"tooltipID": "tooltip13",
-			"id": "#left_thigh_0_Layer0_0_FILL_1",
-			"strokeId": "#left_knee_0_Layer0_0_1_STROKES",
+			"id": "#stomak_0_Layer0_0_FILL_1",
+			"strokeId": "#stomak_0_Layer0_0_1_STROKES",
 			"onclickColor": "#7F3F98",
-			"audio": "Left-Knee.ogg",
-			"textField": "Left-Knee",
-			"subCategory": "Purple",
+			"audio": "",
+			"textField": "Stomach",
+			"subCategory": "",
 			"categoryTxtimg": {
-				"url": "Left-Knee.png",
+				"url": "assets/options/Stomach.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "Left-Knee-color.png",
+				"url": "assets/options/Stomach_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "Left-Knee_Right.png",
+				"url": "assets/options/Stomach_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "Left-Knee_Right_color.png",
+				"url": "assets/options/Stomach_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "Left-Knee_Wrong.png",
+				"url": "assets/options/Stomach_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "Left-Knee_Wrong_color.png",
+				"url": "assets/options/Stomach_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -734,53 +742,53 @@
 		},
 		{
 			"tooltipID": "tooltip14",
-			"id": "#right_knee_0_Layer0_0_FILL_1",
-			"strokeId": "#right_foot_0_Layer0_0_1_STROKES",
-			"onclickColor": "#00A14B",
-			"audio": "Right-Foot.ogg",
-			"textField": "Right-Foot",
-			"subCategory": "Green",
+			"id": "#chest_0_Layer0_0_FILL",
+			"strokeId": "#chest_0_Layer0_0_1_STROKES",
+			"onclickColor": "#EFDDE9",
+			"audio": "",
+			"textField": "Chest",
+			"subCategory": "Protection to organs (heart,lungs,liver)",
 			"categoryTxtimg": {
-				"url": "Right-Foot.png",
+				"url": "assets/options/Chest.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "Right-Foot-color.png",
+				"url": "assets/options/Chest_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "Right-Foot_Right.png",
+				"url": "assets/options/Chest_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "Right-Foot_Right_color.png",
+				"url": "assets/options/Chest_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "Right-Foot_Wrong.png",
+				"url": "assets/options/Chest_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "Right-Foot_Wrong_color.png",
+				"url": "assets/options/Chest_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
-			"left": 56,
-			"top": 58,
-			"ddTooltipleft": 51,
-			"ddTooltiptop": 70,
+			"left": 52.6,
+			"top": 48,
+			"ddTooltipleft": 52.6,
+			"ddTooltiptop": 55,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
 		},
 		{
 			"tooltipID": "tooltip15",
-			"id": "#left_knee_0_Layer0_0_FILL_1",
-			"strokeId": "#left_foot_0_Layer0_0_1_STROKES_1",
+			"id": "#FL_3dot_0_Layer0_0_FILL_1",
+			"strokeId": "#FL_3dott_0_Layer0_0_1_STROKES_1",
 			"onclickColor": "#ED1C24",
-			"audio": "Left-Foot.ogg",
-			"textField": "Left-Foot",
-			"subCategory": "Red",
+			"audio": "",
+			"textField": "Vestigial",
+			"subCategory": "",
 			"categoryTxtimg": {
 				"url": "Left-Foot.png",
 				"location": "content"
@@ -816,116 +824,157 @@
 		},
 		{
 			"tooltipID": "tooltip16",
-			"id": "#right_foot_0_Layer0_0_FILL",
-			"strokeId": "#right_foot_0_Layer0_0_1_STROKES",
-			"onclickColor": "#ED1C24",
-			"audio": "Right-Foot.ogg",
-			"textField": "Right-Foot",
-			"subCategory": "Walk",
+			"id": "#hear_0_Layer0_0_FILL",
+			"strokeId": "#hear_0_Layer0_0_1_STROKES",
+			"onclickColor": "#999966",
+			"audio": "",
+			"textField": "Hair",
+			"subCategory": "Protection of head",
 			"categoryTxtimg": {
-				"url": "assets/options/Foot.png",
+				"url": "assets/options/Hair.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "assets/options/Foot_Use.png",
+				"url": "assets/options/Hair_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/Foot_Right.png",
+				"url": "assets/options/Hair_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Foot_RightUse.png",
+				"url": "assets/options/Hair_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Foot_Wrong.png",
+				"url": "assets/options/Hair_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Foot_WrongUse.png",
+				"url": "assets/options/Hair_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
-			"left": 50,
-			"top": 80,
-			"ddTooltipleft": 50,
-			"ddTooltiptop": 87,
+			"left": 52.5,
+			"top": 12,
+			"ddTooltipleft": 52.5,
+			"ddTooltiptop": 19,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
 		},
 		{
 			"tooltipID": "tooltip17",
-			"id": "#left_foot_0_Layer0_0_FILL",
-			"strokeId": "#left_foot_0_Layer0_0_1_STROKES",
-			"onclickColor": "#ED1C24",
-			"audio": "Left-Foot.ogg",
-			"textField": "Left-Foot",
-			"subCategory": "Walk",
+			"id": "#right_ear_0_Layer0_0_MEMBER_0_FILL",
+			"strokeId": "#right_ear_0_Layer0_0_1_STROKES",
+			"onclickColor": "#F17770",
+			"audio": "",
+			"textField": "Right Ear",
+			"subCategory": "Hearing and balance",
 			"categoryTxtimg": {
-				"url": "assets/options/Foot.png",
+				"url": "assets/options/Right_Ear.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "assets/options/Foot_Use.png",
+				"url": "assets/options/Ear_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/Foot_Right.png",
+				"url": "assets/options/Right_Ear_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Foot_RightUse.png",
+				"url": "assets/options/Ear_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Foot_Wrong.png",
+				"url": "assets/options/Right_Ear_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Foot_WrongUse.png",
+				"url": "assets/options/Ear_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
-			"left": 57,
-			"top": 80,
-			"ddTooltipleft": 58,
-			"ddTooltiptop": 88,
+			"left": 59,
+			"top": 33,
+			"ddTooltipleft": 59,
+			"ddTooltiptop": 40,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
 		},
 		{
 			"tooltipID": "tooltip18",
-			"id": "#mouth_0_Layer0_0_FILL",
-			"strokeId": "#mouth_0_Layer0_0_1_STROKES",
-			"onclickColor": "#ED1C24",
-			"audio": "Mouth.ogg",
-			"textField": "Mouth",
-			"subCategory": "Eating,Speaking",
+			"id": "#left_ear_0_Layer0_0_MEMBER_0_FILL",
+			"strokeId": "#left_ear_0_Layer0_0_1_STROKES",
+			"onclickColor": "#E7A09C",
+			"audio": "",
+			"textField": "Left Ear",
+			"subCategory": "Hearing and balance",
 			"categoryTxtimg": {
-				"url": "assets/options/Mouth.png",
+				"url": "assets/options/Left_Ear.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "assets/options/Mouth_Use.png",
+				"url": "assets/options/Ear_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/Mouth_Right.png",
+				"url": "assets/options/Left_Ear_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Mouth_RightUse.png",
+				"url": "assets/options/Ear_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Mouth_Wrong.png",
+				"url": "assets/options/Left_Ear_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Mouth_WrongUse.png",
+				"url": "assets/options/Ear_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 46.8,
+			"top": 33,
+			"ddTooltipleft": 46.8,
+			"ddTooltiptop": 40,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip19",
+			"id": "#face_0_Layer0_0_FILL_1",
+			"strokeId": "#face_0_Layer0_0_1_STROKES",
+			"onclickColor": "#ED1C24",
+			"audio": "",
+			"textField": "Face",
+			"subCategory": "",
+			"categoryTxtimg": {
+				"url": "assets/options/Face.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Face_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Face_Right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Face_CorrectUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Face_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Face_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -938,10 +987,10 @@
 			"optionSelected": ""
 		},
 		{
-			"tooltipID": "tooltip19",
-			"id": "#nose_0_Layer0_0_FILL",
+			"tooltipID": "tooltip20",
+			"id": "#nose_0_Layer0_0_MEMBER_0_FILL",
 			"strokeId": "#nose_0_Layer0_0_1_STROKES",
-			"onclickColor": "#ED1C24",
+			"onclickColor": "#CD0039",
 			"audio": "Nose.ogg",
 			"textField": "Nose",
 			"subCategory": "Smell",
@@ -954,11 +1003,11 @@
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/Nose_Right.png",
+				"url": "assets/options/Nose_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Nose_RightUse.png",
+				"url": "assets/options/Nose_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
@@ -970,85 +1019,249 @@
 				"location": "content"
 			},
 			"location": "content",
-			"left": 58.5,
-			"top": 25,
-			"ddTooltipleft": 58.5,
-			"ddTooltiptop": 32,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
-		},
-		{
-			"tooltipID": "tooltip20",
-			"id": "#ear_left_0_Layer0_0_FILL",
-			"strokeId": "#ear_0_Layer0_0_1_STROKES",
-			"onclickColor": "#ED1C24",
-			"audio": "Ear.ogg",
-			"textField": "Left Ear",
-			"subCategory": "Hearing",
-			"categoryTxtimg": {
-				"url": "assets/options/Ears.png",
-				"location": "content"
-			},
-			"subCategoryTxtimg": {
-				"url": "assets/options/Ears_Use.png",
-				"location": "content"
-			},
-			"correctCategoryTxtimg": {
-				"url": "assets/options/Ears_Right.png",
-				"location": "content"
-			},
-			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Ears_RightUse.png",
-				"location": "content"
-			},
-			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Ears_Wrong.png",
-				"location": "content"
-			},
-			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Ears_WrongUse.png",
-				"location": "content"
-			},
-			"location": "content",
-			"left": 60,
-			"top": 51,
-			"ddTooltipleft": 61,
-			"ddTooltiptop": 65,
+			"left": 52.8,
+			"top": 32,
+			"ddTooltipleft": 52.8,
+			"ddTooltiptop": 39,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
 		},
 		{
 			"tooltipID": "tooltip21",
-			"id": "#Eye_right_0_Layer0_0_FILL_1",
-			"strokeId": "#Eye_0_Layer0_0_1_STROKES",
-			"onclickColor": "#ED1C24",
-			"audio": "Eye.ogg",
-			"textField": "Right_Eye",
-			"subCategory": "Smell",
+			"id": "#mouth_0_Layer0_0_MEMBER_0_FILL",
+			"strokeId": "#mouth_0_Layer0_0_1_STROKES",
+			"onclickColor": "#2A203B",
+			"audio": "",
+			"textField": "Mouth",
+			"subCategory": "Eating and speaking",
 			"categoryTxtimg": {
-				"url": "assets/options/Nose.png",
+				"url": "assets/options/Mouth.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "assets/options/Nose_Use.png",
+				"url": "assets/options/Mouth_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/Nose_Right.png",
+				"url": "assets/options/Mouth_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Nose_RightUse.png",
+				"url": "assets/options/Mouth_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Nose_Wrong.png",
+				"url": "assets/options/Mouth_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Nose_WrongUse.png",
+				"url": "assets/options/Mouth_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 52.8,
+			"top": 36.6,
+			"ddTooltipleft": 52.8,
+			"ddTooltiptop": 43,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip22",
+			"id": "#tung_0_Layer0_0_FILL",
+			"strokeId": "#tung_0_Layer0_0_1_STROKES",
+			"onclickColor": "#E94E76",
+			"audio": "",
+			"textField": "Tongue",
+			"subCategory": "Speech and taste",
+			"categoryTxtimg": {
+				"url": "assets/options/Tongue.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Tongue_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Tongue_Correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Tongue_CorrectUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Tongue_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Tongue_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 52.7,
+			"top": 38,
+			"ddTooltipleft": 52.7,
+			"ddTooltiptop": 45,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip23",
+			"id": "#teeth_0_Layer0_0_FILL",
+			"strokeId": "#teeth_0_Layer0_0_1_STROKES",
+			"onclickColor": "#F5EAD6",
+			"audio": "",
+			"textField": "Teeth",
+			"subCategory": "Eat,tear, cut and grind food",
+			"categoryTxtimg": {
+				"url": "assets/options/Teeth.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Teeth_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Teeth_Correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Teeth_CorrectUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Teeth_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Teeth_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 52.8,
+			"top": 35,
+			"ddTooltipleft": 52.8,
+			"ddTooltiptop": 42,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip24",
+			"id": "#left_eye_0_Layer0_0_MEMBER_0_FILL",
+			"strokeId": "#left_eye_0_Layer0_0_1_STROKES",
+			"onclickColor": "#F1B976",
+			"audio": "",
+			"textField": "Left Eye",
+			"subCategory": "Seeing things",
+			"categoryTxtimg": {
+				"url": "assets/options/Left_Eye.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Eye_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Left_Eye_Correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Eye_CorrectUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Left_Eye_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Eye_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 55,
+			"top": 29,
+			"ddTooltipleft": 55,
+			"ddTooltiptop": 36,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip25",
+			"id": "#right_eye_0_Layer0_0_MEMBER_0_FILL",
+			"strokeId": "#right_eye_0_Layer0_0_1_STROKES",
+			"onclickColor": "#F1D3AF",
+			"audio": "",
+			"textField": "Right Eye",
+			"subCategory": "Seeing things",
+			"categoryTxtimg": {
+				"url": "assets/options/Right_Eye.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Eye_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Right_Eye_Correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Eye_CorrectUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Right_Eye_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Eye_WrongUse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 50.2,
+			"top": 29,
+			"ddTooltipleft": 50.2,
+			"ddTooltiptop": 38,
+			"working": "true",
+			"clicked": false,
+			"optionSelected": ""
+		},
+		{
+			"tooltipID": "tooltip26",
+			"id": "#pelvis_0_Layer0_0_FILL_1",
+			"strokeId": "#pelvis_0_Layer0_0_1_STROKES",
+			"onclickColor": "#ED1C24",
+			"audio": "",
+			"textField": "Pelvis",
+			"subCategory": "Seeing things",
+			"categoryTxtimg": {
+				"url": "assets/options/Right_Eye.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/Eye_Use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/Right_Eye_Correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/Eye_CorrectUse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/Right_Eye_Wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/Eye_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -1061,42 +1274,42 @@
 			"optionSelected": ""
 		},
 		{
-			"tooltipID": "tooltip22",
-			"id": "#Eye_left_0_Layer0_0_FILL_1",
-			"strokeId": "#Eye_0_Layer0_0_1_STROKES",
-			"onclickColor": "#ED1C24",
-			"audio": "Eye.ogg",
-			"textField": "Right_Eye",
-			"subCategory": "Smell",
+			"tooltipID": "tooltip27",
+			"id": "#right_hand_0_Layer0_0_FILL",
+			"strokeId": "#right_hand_0_Layer0_0_1_STROKES",
+			"onclickColor": "#B58483",
+			"audio": "",
+			"textField": "Right Hand",
+			"subCategory": "Pick Things up, scratch and itch",
 			"categoryTxtimg": {
-				"url": "assets/options/Nose.png",
+				"url": "assets/options/Right_Hand.png",
 				"location": "content"
 			},
 			"subCategoryTxtimg": {
-				"url": "assets/options/Nose_Use.png",
+				"url": "assets/options/Hand_Use.png",
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/Nose_Right.png",
+				"url": "assets/options/Right_Hand_Correct.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/Nose_RightUse.png",
+				"url": "assets/options/Hand_CorrectUse.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Nose_Wrong.png",
+				"url": "assets/options/Right_Hand_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Nose_WrongUse.png",
+				"url": "assets/options/Hand_WrongUse.png",
 				"location": "content"
 			},
 			"location": "content",
-			"left": 60,
-			"top": 51,
-			"ddTooltipleft": 61,
-			"ddTooltiptop": 65,
+			"left": 45,
+			"top": 52,
+			"ddTooltipleft": 45,
+			"ddTooltiptop": 59,
 			"working": "true",
 			"clicked": false,
 			"optionSelected": ""
@@ -1125,7 +1338,10 @@
 
 
 	"feedback": {
-		"correct_category": ["Head", "Neck", "Torso", "Pelvis", "Right-Thigh"],
+		"Showans_feedback_next_timer": 30,
+		"feedback_next_timer": 150,
+		"close_feedback_timer": 150,
+		"correct_category": ["Neck", "Nose", "Tongue", "Mouth", "Chest"],
 		"style_header": {
 			"border": "solid .4vmin #3C7132",
 			"border-top-left-radius": "20px",
@@ -1151,6 +1367,19 @@
 			"border-bottom-right-radius": "20px",
 			"border-top": "none",
 			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		},
+		"outofscope_style_header": {
+			"border": "solid .4vmin #a83901",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#cc4c0b"
+		},
+		"outofscope_style_body": {
+			"border": "solid .4vmin #a83901",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(197, 154, 129, 1) 100%)"
 		},
 		"wrong_style_header": {
 			"border": "solid .4vmin #b5282e",
@@ -1199,6 +1428,11 @@
 		"wrong_style_title": {
 			"required": true,
 			"url": "assets/popups/feedback/WrongAnsTitleTxt.png",
+			"location": "content"
+		},
+		"outofscope_style_title": {
+			"required": true,
+			"url": "assets/popups/feedback/OutOfScopeTitleTxt.png",
 			"location": "content"
 		},
 		"partial_style_title": {
@@ -1253,6 +1487,14 @@
 		},
 		"feedback_next_btn_original": {
 			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
 			"location": "theme"
 		},
 		"popup_commmon_imgs": {
