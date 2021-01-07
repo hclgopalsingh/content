@@ -51,7 +51,7 @@
 			"id": "001",
 			"custom_id": "0",
 			"sound": {
-				"url": "assets/popups/feedback/clap.ogg",
+				"url": "assets/options/q1_opt1.ogg",
 				"location": "content"
 			},
 			"imgsrc": {
