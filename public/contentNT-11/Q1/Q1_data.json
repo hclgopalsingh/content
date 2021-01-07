@@ -41,15 +41,22 @@
     },
     "ques": {
         "text": "",
+        "styleArray": [{
+                "left": "30%",
+                "top": "-102%"
+            },
+            {
+                "left": "-89%",
+                "top": "-102%"
+            },
+            {
+                "left": "-208%",
+                "top": "-102%"
+            }
+        ],
         "image": {
             "url": "assets/ques1.png",
             "location": "content"
-        },
-        "ansclass": {
-            "position": "absolute",
-            "top": "8%",
-            "left": "15%",
-            "width": "17%"
         },
         "img_sentence": {
             "url": "assets/fillBlanks1.png",
@@ -57,10 +64,6 @@
         },
         "img_qa": {
             "url": "assets/QA1.png",
-            "location": "content"
-        },
-        "img_blank": {
-            "url": "assets/Blank_line.png",
             "location": "content"
         },
         "img_sentence_org": {
