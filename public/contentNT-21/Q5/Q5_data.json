@@ -1,7 +1,7 @@
 {
 	"commonassets": {
 		"instruction_img": {
-			"url": "instruction_bar.png",
+			"url": "instruction_bar_5.png",
 			"location": "content"
 		},
 		"animation": {
@@ -34,225 +34,228 @@
 		},
 		"ques_control": {
 			"aagey_badhein": {
-				"url": "aagey.svg",
+				"url": ".assets/themes/elementary/theme1/global/buttons/aagey.svg",
 				"location": "content"
 			},
 			"aagey_badhein_original": {
-				"url": "aagey.svg",
+				"url": ".assets/themes/elementary/theme1/global/buttons/aagey.svg",
 				"location": "content"
 			},
 			"aagey_badhein_hover": {
-				"url": "aageyHover.svg",
+				"url": ".assets/themes/elementary/theme1/global/buttons/aageyHover.svg",
 				"location": "content"
 			},
 			"blink_btn1": {
-				"url": "blink_btn1.svg",
+				"url": ".assets/themes/elementary/theme1/global/buttons/blink_btn1.svg",
 				"location": "content"
 			},
 			"blink_btn2": {
-				"url": "blink_btn2.svg",
+				"url": ".assets/themes/elementary/theme1/global/buttons/blink_btn2.svg",
 				"location": "content"
 			},
 			"peechey_jayein": {
-				"url": "peechey.svg",
+				"url": ".assets/themes/elementary/theme1/global/buttons/peechey.svg",
 				"location": "content"
 			},
 			"peechey_jayein_original": {
-				"url": "peechey.svg",
+				"url": ".assets/themes/elementary/theme1/global/buttons/peechey.svg",
 				"location": "content"
 			},
 			"peechey_jayein_hover": {
-				"url": "peecheyHover.svg",
+				"url": ".assets/themes/elementary/theme1/global/buttons/peecheyHover.svg",
 				"location": "content"
 			},
 			"uttar_dikhayein": {
-				"url": "uttarBtn.svg",
+				"url": ".assets/themes/elementary/theme1/global/buttons/uttarBtn.svg",
 				"location": "content"
 			},
 			"uttar_dikhayein_original": {
-				"url": "uttarBtn.svg",
+				"url": ".assets/themes/elementary/theme1/global/buttons/uttarBtn.svg",
 				"location": "content"
 			},
 			"uttar_dikhayein_hover": {
-				"url": "uttarBtnHover.svg",
+				"url": ".assets/themes/elementary/theme1/global/buttons/uttarBtnHover.svg",
 				"location": "content"
 			},
 			"submit_btn": {
-				"url": "submit_btn.png",
+				"url": ".assets/themes/elementary/theme1/global/buttons/submit_btn.png",
 				"location": "content"
 			},
 			"submit_btn_hover": {
-				"url": "submit_btn_hover.png",
+				"url": ".assets/themes/elementary/theme1/global/buttons/submit_btn_hover.png",
 				"location": "content"
 			},
 			"submit_btn_original": {
-				"url": "submit_btn.png",
+				"url": ".assets/themes/elementary/theme1/global/buttons/submit_btn.png",
 				"location": "content"
 			},
 			"replay_btn": {
-				"url": "video_btn.png",
+				"url": ".assets/themes/elementary/theme1/global/buttons/video_btn.png",
 				"location": "content"
 			},
 			"replay_btn_hover": {
-				"url": "video_stream_btn.png",
+				"url": ".assets/themes/elementary/theme1/global/buttons/video_stream_btn.png",
 				"location": "content"
 			},
 			"replay_btn_original": {
-				"url": "video_btn.png",
+				"url": ".assets/themes/elementary/theme1/global/buttons/video_btn.png",
 				"location": "content"
 			},
 			"quesTabs": [{
 				"ques_tab": {
-					"tabbody": {
-						"url": "tab1Body.png",
-						"location": "content"
-					},
 					"tabL": {
-						"url": "tab1L.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab1/tabL.png",
 						"location": "content"
 					},
 					"tabR": {
-						"url": "tab1R.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab1/tabR.png",
 						"location": "content"
 					},
+					"tabbody": {
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab1/tabBody.png",
+						"location": "content"
+					},					
 					"tabbodyAct": {
-						"url": "tab1BodyAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab1/tabBodyAct.png",
 						"location": "content"
 					},
 					"tabLAct": {
-						"url": "tab1LAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab1/tabLAct.png",
 						"location": "content"
 					},
 					"tabRAct": {
-						"url": "tab1RAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab1/tabRAct.png",
 						"location": "content"
 					},
 					"tabIdx": {
-						"url": "tab1Idx.svg",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab1/tabIdx.png",
 						"location": "content"
 					}
 				}
 			}, {
 				"ques_tab": {
-					"tabbody": {
-						"url": "tab2Body.png",
-						"location": "content"
-					},
 					"tabL": {
-						"url": "tab2L.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab2/tabL.png",
 						"location": "content"
 					},
 					"tabR": {
-						"url": "tab2R.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab2/tabR.png",
 						"location": "content"
 					},
+					"tabbody": {
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab2/tabBody.png",
+						"location": "content"
+					},	
 					"tabbodyAct": {
-						"url": "tab2BodyAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab2/tabBodyAct.png",
 						"location": "content"
 					},
 					"tabLAct": {
-						"url": "tab2LAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab2/tabLAct.png",
 						"location": "content"
 					},
 					"tabRAct": {
-						"url": "tab2RAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab2/tabRAct.png",
 						"location": "content"
 					},
 					"tabIdx": {
-						"url": "tab2Idx.svg",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab2/tabIdx.png",
 						"location": "content"
 					}
 				}
 			}, {
 				"ques_tab": {
-					"tabbody": {
-						"url": "tab3Body.png",
-						"location": "content"
-					},
+					
 					"tabL": {
-						"url": "tab3L.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab3/tabL.png",
 						"location": "content"
 					},
 					"tabR": {
-						"url": "tab3R.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab3/tabR.png",
 						"location": "content"
 					},
+					"tabbody": {
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab3/tabBody.png",
+						"location": "content"
+					},	
 					"tabbodyAct": {
-						"url": "tab3BodyAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab3/tabBodyAct.png",
 						"location": "content"
 					},
 					"tabLAct": {
-						"url": "tab3LAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab3/tabLAct.png",
 						"location": "content"
 					},
 					"tabRAct": {
-						"url": "tab3RAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab3/tabRAct.png",
 						"location": "content"
 					},
 					"tabIdx": {
-						"url": "tab3Idx.svg",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab3/tabIdx.png",
 						"location": "content"
 					}
 				}
 			}, {
 				"ques_tab": {
-					"tabbody": {
-						"url": "tab4Body.png",
-						"location": "content"
-					},
+					
 					"tabL": {
-						"url": "tab4L.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab4/tabL.png",
 						"location": "content"
 					},
 					"tabR": {
-						"url": "tab4R.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab4/tabR.png",
 						"location": "content"
 					},
+					"tabbody": {
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab4/tabBody.png",
+						"location": "content"
+					},	
 					"tabbodyAct": {
-						"url": "tab4BodyAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab4/tabBodyAct.png",
 						"location": "content"
 					},
 					"tabLAct": {
-						"url": "tab4LAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab4/tabLAct.png",
 						"location": "content"
 					},
 					"tabRAct": {
-						"url": "tab4RAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab4/tabRAct.png",
 						"location": "content"
 					},
 					"tabIdx": {
-						"url": "tab4Idx.svg",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab4/tabIdx.png",
 						"location": "content"
 					}
 				}
 			}, {
 				"ques_tab": {
-					"tabbody": {
-						"url": "tab5Body.png",
-						"location": "content"
-					},
+					
 					"tabL": {
-						"url": "tab5L.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab5/tabL.png",
 						"location": "content"
 					},
 					"tabR": {
-						"url": "tab5R.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab5/tabR.png",
 						"location": "content"
 					},
+					"tabbody": {
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab5/tabBody.png",
+						"location": "content"
+					},	
 					"tabbodyAct": {
-						"url": "tab5BodyAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab5/tabBodyAct.png",
 						"location": "content"
 					},
 					"tabLAct": {
-						"url": "tab5LAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab5/tabLAct.png",
 						"location": "content"
 					},
 					"tabRAct": {
-						"url": "tab5RAct.png",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab5/tabRAct.png",
 						"location": "content"
 					},
 					"tabIdx": {
-						"url": "tab5Idx.svg",
+						"url": "./assets/themes/elementary/theme1/global/tabs/tab5/tabIdx.png",
 						"location": "content"
 					}
 				}
