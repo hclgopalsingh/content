@@ -142,6 +142,7 @@
 		"submitRequired": true,
         "replayRequired": false,
 		"timegap":2000,
+		"timegapImage":5000,
 		"isNewQues": true,
 		"lang": "math"
 	},
@@ -482,10 +483,10 @@
         "urlglobal": "global/popups/ok_btn_normal.png",
         "location": "theme"
       },
-	  "partialCorrectAudio": {
-		"url": "partialFeedback.ogg",
+	  "info_sound": {
+		"url": "assets/popups/look_for_more_options/info_sound.ogg",
 		"location": "content"
-	 }
+	}
 	},
 	"replay_confirm": {
 		"style_header": {
