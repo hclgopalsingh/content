@@ -214,7 +214,6 @@
     },
     "feedback": {
         "correct_ans_index": "002",
-        "correct_ans_url": "assets/q1_opt2.png",
         "confirm_popup": {
             "style_header": {
                 "border": "solid .4vmin #057499",
