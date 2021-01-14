@@ -27,7 +27,7 @@
 				"url": "assets/question/subCategoryHeader.png",
 				"location": "content"
 			},
-			"UpperTitle": "Body Parts:",
+			"UpperTitle": "Object Name:",
 			"LowerTitle": "Its Use:"
 		},
 		"background": {
@@ -213,30 +213,30 @@
 		"strokeId": "#tank_Layer0_0_1_STROKES",
 		"onclickColor": "#1ABC9C",
 		"audio": "",
-		"textField": "31",
-		"subCategory": "Thirty one",
+		"textField": "Tank",
+		"subCategory": "Water storage",
 		"categoryTxtimg": {
-			"url": "assets/options/31Digit.png",
+			"url": "assets/options/tank.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/31NumName.png",
+			"url": "assets/options/tank_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/31Digit_correct.png",
+			"url": "assets/options/tank_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/31NumName_correct.png",
+			"url": "assets/options/tank_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/31Digit_wrong.png",
+			"url": "assets/options/tank_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/31NumName_wrong.png",
+			"url": "assets/options/tank_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -254,30 +254,30 @@
 		"strokeId": "#cube0_0_1_STROKES",
 		"onclickColor": "#27AE60",
 		"audio": "",
-		"textField": "239",
-		"subCategory": "Two hundred thirty nine",
+		"textField": "Butter",
+		"subCategory": "Use for breakfast",
 		"categoryTxtimg": {
-			"url": "assets/options/239Digit.png",
+			"url": "assets/options/butter.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/239NumName.png",
+			"url": "assets/options/butter_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/239Digit_correct.png",
+			"url": "assets/options/butter_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/239NumName_correct.png",
+			"url": "assets/options/butter_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/239Digit_wrong.png",
+			"url": "assets/options/butter_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/239NumName_wrong.png",
+			"url": "assets/options/butter_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -295,30 +295,30 @@
 		"strokeId": "#earth0_0_1_STROKES",
 		"onclickColor": "#E74C3C",
 		"audio": "",
-		"textField": "11",
-		"subCategory": "Eleven",
+		"textField": "Globe",
+		"subCategory": "Find the places",
 		"categoryTxtimg": {
-			"url": "assets/options/11Digit.png",
+			"url": "assets/options/globe.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/11NumName.png",
+			"url": "assets/options/globe_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/11Digit_correct.png",
+			"url": "assets/options/globe_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/11NumName_correct.png",
+			"url": "assets/options/globe_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/11Digit_wrong.png",
+			"url": "assets/options/globe_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/11NumName_wrong.png",
+			"url": "assets/options/globe_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -336,30 +336,30 @@
 		"strokeId": "#cylinder_gift_box_Layer0_0_1_STROKES",
 		"onclickColor": "#8FAEFF",
 		"audio": "",
-		"textField": "121",
-		"subCategory": "One hundred twenty one",
+		"textField": "Giftbox_1",
+		"subCategory": "Box use for packing",
 		"categoryTxtimg": {
-			"url": "assets/options/121Digit.png",
+			"url": "assets/options/giftpack1.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/121NumName.png",
+			"url": "assets/options/gift_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/121Digit_correct.png",
+			"url": "assets/options/giftpack1_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/121NumName_correct.png",
+			"url": "assets/options/gift_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/121Digit_wrong.png",
+			"url": "assets/options/giftpack1_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/121NumName_wrong.png",
+			"url": "assets/options/gift_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -377,30 +377,30 @@
 		"strokeId": "#godrej_almirah_Layer0_0_1_STROKES",
 		"onclickColor": "#6DCAD1",
 		"audio": "",
-		"textField": "874",
-		"subCategory": "Eight hundred seventy four",
+		"textField": "Cupboard",
+		"subCategory": "Store clothes",
 		"categoryTxtimg": {
-			"url": "assets/options/874Digit.png",
+			"url": "assets/options/cupboard.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/874NumName.png",
+			"url": "assets/options/cupboard_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/874Digit_correct.png",
+			"url": "assets/options/cupboard_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/874NumName_correct.png",
+			"url": "assets/options/cupboard_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/874Digit_wrong.png",
+			"url": "assets/options/cupboard_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/874NumName_wrong.png",
+			"url": "assets/options/cupboard_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -418,30 +418,30 @@
 		"strokeId": "#football_Layer0_0_1_STROKES",
 		"onclickColor": "#CCCCCC",
 		"audio": "",
-		"textField": "98",
-		"subCategory": "Ninty eight",
+		"textField": "Football",
+		"subCategory": "For playing",
 		"categoryTxtimg": {
-			"url": "assets/options/98Digit.png",
+			"url": "assets/options/football.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/98NumName.png",
+			"url": "assets/options/ball_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/98Digit_correct.png",
+			"url": "assets/options/football_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/98NumName_correct.png",
+			"url": "assets/options/ball_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/98Digit_wrong.png",
+			"url": "assets/options/football_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/98NumName_wrong.png",
+			"url": "assets/options/ball_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -459,30 +459,30 @@
 		"strokeId": "#gift_box_green_0_1_STROKES",
 		"onclickColor": "#33CCCC",
 		"audio": "",
-		"textField": "77",
-		"subCategory": "Seventy seven",
+		"textField": "Giftbox_2",
+		"subCategory": "Box use for packing",
 		"categoryTxtimg": {
-			"url": "assets/options/77Digit.png",
+			"url": "assets/options/giftpack2.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/77NumName.png",
+			"url": "assets/options/gift_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/77Digit_correct.png",
+			"url": "assets/options/giftpack2_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/77NumName_correct.png",
+			"url": "assets/options/gift_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/77Digit_wrong.png",
+			"url": "assets/options/giftpack2_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/77NumName_wrong.png",
+			"url": "assets/options/gift_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -500,30 +500,30 @@
 		"strokeId": "#ball_Layer0_0_1_STROKES",
 		"onclickColor": "#65C0B9",
 		"audio": "",
-		"textField": "83",
-		"subCategory": "Eighty three",
+		"textField": "Ball",
+		"subCategory": "For playing",
 		"categoryTxtimg": {
-			"url": "assets/options/83Digit.png",
+			"url": "assets/options/ball.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/83NumName.png",
+			"url": "assets/options/ball_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/83Digit_correct.png",
+			"url": "assets/options/ball_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/83NumName_correct.png",
+			"url": "assets/options/ball_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/83Digit_wrong.png",
+			"url": "assets/options/ball_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/83NumName_wrong.png",
+			"url": "assets/options/ball_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -541,30 +541,30 @@
 		"strokeId": "#daish_0_Layer0_0_1_STROKES",
 		"onclickColor": "#81ECEC",
 		"audio": "",
-		"textField": "43",
-		"subCategory": "Forty three",
+		"textField": "Dice",
+		"subCategory": "Playing ludo",
 		"categoryTxtimg": {
-			"url": "assets/options/43Digit.png",
+			"url": "assets/options/dice.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/43NumName.png",
+			"url": "assets/options/dice_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/43Digit_correct.png",
+			"url": "assets/options/dice_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/43NumName_correct.png",
+			"url": "assets/options/dice_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/43Digit_wrong.png",
+			"url": "assets/options/dice_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/43NumName_wrong.png",
+			"url": "assets/options/dice_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -582,30 +582,30 @@
 		"strokeId": "#cosco_ball_0_Layer0_0_1_STROKES",
 		"onclickColor": "#E67E22",
 		"audio": "",
-		"textField": "111",
-		"subCategory": "One hundred eleven",
+		"textField": "Tennisball",
+		"subCategory": "Playing tennis",
 		"categoryTxtimg": {
-			"url": "assets/options/111Digit.png",
+			"url": "assets/options/tennisball.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/111NumName.png",
+			"url": "assets/options/tennisball_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/111Digit_correct.png",
+			"url": "assets/options/tennisball_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/111NumName_correct.png",
+			"url": "assets/options/tennisball_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/111Digit_wrong.png",
+			"url": "assets/options/tennisball_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/111NumName_wrong.png",
+			"url": "assets/options/tennisball_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -623,30 +623,30 @@
 		"strokeId": "#yellow_gift_box_Layer0_0_1_STROKES",
 		"onclickColor": "#9B59B6",
 		"audio": "",
-		"textField": "34",
-		"subCategory": "Thirty four",
+		"textField": "Giftbox_3",
+		"subCategory": "Box use for packing",
 		"categoryTxtimg": {
-			"url": "assets/options/34Digit.png",
+			"url": "assets/options/giftpack3.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/34NumName.png",
+			"url": "assets/options/gift_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/34Digit_correct.png",
+			"url": "assets/options/giftpack3_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_correct.png",
+			"url": "assets/options/gift_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/34Digit_wrong.png",
+			"url": "assets/options/giftpack3_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_wrong.png",
+			"url": "assets/options/gift_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -664,30 +664,30 @@
 		"strokeId": "#paint_color_Layer0_0_1_STROKES",
 		"onclickColor": "#D39C8C",
 		"audio": "",
-		"textField": "34",
-		"subCategory": "Thirty four",
+		"textField": "Container",
+		"subCategory": "Store liquid",
 		"categoryTxtimg": {
-			"url": "assets/options/34Digit.png",
+			"url": "assets/options/container.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/34NumName.png",
+			"url": "assets/options/container_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/34Digit_correct.png",
+			"url": "assets/options/container_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_correct.png",
+			"url": "assets/options/container_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/34Digit_wrong.png",
+			"url": "assets/options/container_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_wrong.png",
+			"url": "assets/options/container_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -705,30 +705,30 @@
 		"strokeId": "#shose_box_Layer0_0_1_STROKES",
 		"onclickColor": "#FAB1A0",
 		"audio": "",
-		"textField": "34",
-		"subCategory": "Thirty four",
+		"textField": "Shoebox",
+		"subCategory": "Store footwears",
 		"categoryTxtimg": {
-			"url": "assets/options/34Digit.png",
+			"url": "assets/options/shoebox.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/34NumName.png",
+			"url": "assets/options/shoebox_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/34Digit_correct.png",
+			"url": "assets/options/shoebox_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_correct.png",
+			"url": "assets/options/shoebox_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/34Digit_wrong.png",
+			"url": "assets/options/shoebox_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_wrong.png",
+			"url": "assets/options/shoebox_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -746,30 +746,30 @@
 		"strokeId": "#matches_box_Layer0_0_1_STROKES",
 		"onclickColor": "#55EFC4",
 		"audio": "",
-		"textField": "34",
-		"subCategory": "Thirty four",
+		"textField": "Matchbox",
+		"subCategory": "Use for fire",
 		"categoryTxtimg": {
-			"url": "assets/options/34Digit.png",
+			"url": "assets/options/matchbox.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/34NumName.png",
+			"url": "assets/options/matchbox_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/34Digit_correct.png",
+			"url": "assets/options/matchbox_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_correct.png",
+			"url": "assets/options/matchbox_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/34Digit_wrong.png",
+			"url": "assets/options/matchbox_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_wrong.png",
+			"url": "assets/options/matchbox_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -787,30 +787,30 @@
 		"strokeId": "#cylinder_shape_Layer0_0_1_STROKES",
 		"onclickColor": "#FF8B6A",
 		"audio": "",
-		"textField": "34",
-		"subCategory": "Thirty four",
+		"textField": "Pipe",
+		"subCategory": "Transfer water",
 		"categoryTxtimg": {
-			"url": "assets/options/34Digit.png",
+			"url": "assets/options/pipe.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/34NumName.png",
+			"url": "assets/options/pipe_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/34Digit_correct.png",
+			"url": "assets/options/pipe_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_correct.png",
+			"url": "assets/options/pipe_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/34Digit_wrong.png",
+			"url": "assets/options/pipe_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_wrong.png",
+			"url": "assets/options/pipe_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -828,30 +828,30 @@
 		"strokeId": "#tiffin_box_Layer0_0_1_STROKES",
 		"onclickColor": "#0D7E84",
 		"audio": "",
-		"textField": "34",
-		"subCategory": "Thirty four",
+		"textField": "Tiffin",
+		"subCategory": "Store food",
 		"categoryTxtimg": {
-			"url": "assets/options/34Digit.png",
+			"url": "assets/options/tiffin.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/34NumName.png",
+			"url": "assets/options/tiffin_use.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/34Digit_correct.png",
+			"url": "assets/options/tiffin_correct.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_correct.png",
+			"url": "assets/options/tiffin_correctuse.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/34Digit_wrong.png",
+			"url": "assets/options/tiffin_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_wrong.png",
+			"url": "assets/options/tiffin_wronguse.png",
 			"location": "content"
 		},
 		"location": "content",
@@ -888,7 +888,7 @@
 		"Showans_feedback_next_timer": 30,
 		"feedback_next_timer": 150,
 		"close_feedback_timer": 150,
-		"correct_category": ["239", "121", "874", "111"],
+		"correct_category": ["Tiffin", "Tank", "Pipe", "Giftbox_1", "Container"],
 		"style_header": {
 			"border": "solid .4vmin #3C7132",
 			"border-top-left-radius": "20px",

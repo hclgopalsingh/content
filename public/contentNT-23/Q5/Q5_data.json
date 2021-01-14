@@ -27,8 +27,8 @@
 				"url": "assets/question/subCategoryHeader.png",
 				"location": "content"
 			},
-			"UpperTitle": "Body Parts:",
-			"LowerTitle": "Its Use:"
+			"UpperTitle": "Category:",
+			"LowerTitle": "Name:"
 		},
 		"background": {
 			"urlglobal": "global/tabs/bg/bg_5.svg",
@@ -85,9 +85,9 @@
 	},
 	"svgInfo": {
 		"svgId": "mainques",
-		"url": "assets/cylindricalObj.svg",
+		"url": "assets/beforeRenu.svg",
 		"location": "content",
-		"hoverColor": "#0080AA"
+		"hoverColor": "#03CEC2"
 	},
 	"info_popup": {
 		"style_header": {
@@ -209,75 +209,75 @@
 	},
 	"mySVGArr": [{
 		"tooltipID": "tooltip1",
-		"id": "#tank_0_Layer0_0_FILL",
-		"strokeId": "#tank_Layer0_0_1_STROKES",
-		"onclickColor": "#FEF7C1",
+		"id": "#umbrella_0_Layer0_0_FILL",
+		"strokeId": "",
+		"onclickColor": "#96B000",
 		"audio": "",
-		"textField": "31",
-		"subCategory": "Thirty one",
+		"textField": "Object_1",
+		"subCategory": "Umbrella",
 		"categoryTxtimg": {
-			"url": "assets/options/31Digit.png",
+			"url": "assets/options/category1.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/31NumName.png",
+			"url": "assets/options/umbrella.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/31Digit_correct.png",
+			"url": "assets/options/category1_right.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/31NumName_correct.png",
+			"url": "assets/options/umbrella_right.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/31Digit_wrong.png",
+			"url": "assets/options/category1_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/31NumName_wrong.png",
+			"url": "assets/options/umbrella_wrong.png",
 			"location": "content"
 		},
 		"location": "content",
-		"left": 40.4,
-		"top": 10.5,
-		"ddTooltipleft": 40.4,
-		"ddTooltiptop": 17.4,
+		"left": 41.9,
+		"top": 9.5,
+		"ddTooltipleft": 41.9,
+		"ddTooltiptop": 16.3,
 		"working": "true",
 		"clicked": false,
 		"optionSelected": ""
 	},
 	{
 		"tooltipID": "tooltip2",
-		"id": "#cube_0_Layer0_0_FILL",
-		"strokeId": "#cube0_0_1_STROKES",
-		"onclickColor": "#FED2A5",
+		"id": "#girl_1_0_Layer0_0_FILL_1",
+		"strokeId": "",
+		"onclickColor": "#A07F64",
 		"audio": "",
-		"textField": "239",
-		"subCategory": "Two hundred thirty nine",
+		"textField": "",
+		"subCategory": "",
 		"categoryTxtimg": {
-			"url": "assets/options/239Digit.png",
+			"url": "",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/239NumName.png",
+			"url": "",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/239Digit_correct.png",
+			"url": "",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/239NumName_correct.png",
+			"url": "",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/239Digit_wrong.png",
+			"url": "",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/239NumName_wrong.png",
+			"url": "",
 			"location": "content"
 		},
 		"location": "content",
@@ -291,157 +291,157 @@
 	},
 	{
 		"tooltipID": "tooltip3",
-		"id": "#earth_0_Layer0_0_FILL",
-		"strokeId": "#earth0_0_1_STROKES",
-		"onclickColor": "#C5E3CB",
+		"id": "#ball_0_Layer0_0_FILL",
+		"strokeId": "",
+		"onclickColor": "#92024A",
 		"audio": "",
-		"textField": "11",
-		"subCategory": "Eleven",
+		"textField": "Object_2",
+		"subCategory": "Ball",
 		"categoryTxtimg": {
-			"url": "assets/options/11Digit.png",
+			"url": "assets/options/category1.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/11NumName.png",
+			"url": "assets/options/ball.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/11Digit_correct.png",
+			"url": "assets/options/category1_right.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/11NumName_correct.png",
+			"url": "assets/options/ball_right.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/11Digit_wrong.png",
+			"url": "assets/options/category1_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/11NumName_wrong.png",
+			"url": "assets/options/ball_wrong.png",
 			"location": "content"
 		},
 		"location": "content",
-		"left": 57,
-		"top": 10.5,
-		"ddTooltipleft": 57,
-		"ddTooltiptop": 17.4,
+		"left": 64.5,
+		"top": 9.5,
+		"ddTooltipleft": 64.5,
+		"ddTooltiptop": 16.3,
 		"working": "true",
 		"clicked": false,
 		"optionSelected": ""
 	},
 	{
 		"tooltipID": "tooltip4",
-		"id": "#cylinder_gift_box_0_Layer0_0_FILL",
-		"strokeId": "#cylinder_gift_box_Layer0_0_1_STROKES",
-		"onclickColor": "#8FAEFF",
+		"id": "#apple_0_Layer0_0_FILL",
+		"strokeId": "",
+		"onclickColor": "#333333",
 		"audio": "",
-		"textField": "121",
-		"subCategory": "One hundred twenty one",
+		"textField": "Object_3",
+		"subCategory": "Apple",
 		"categoryTxtimg": {
-			"url": "assets/options/121Digit.png",
+			"url": "assets/options/category2.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/121NumName.png",
+			"url": "assets/options/apple.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/121Digit_correct.png",
+			"url": "assets/options/category2_right.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/121NumName_correct.png",
+			"url": "assets/options/apple_right.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/121Digit_wrong.png",
+			"url": "assets/options/category2_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/121NumName_wrong.png",
+			"url": "assets/options/apple_wrong.png",
 			"location": "content"
 		},
 		"location": "content",
-		"left": 65.8,
-		"top": 10.5,
-		"ddTooltipleft": 66,
-		"ddTooltiptop": 17.4,
+		"left": 41.9,
+		"top": 31.5,
+		"ddTooltipleft": 41.9,
+		"ddTooltiptop": 38.4,
 		"working": "true",
 		"clicked": false,
 		"optionSelected": ""
 	},
 	{
 		"tooltipID": "tooltip5",
-		"id": "#godrej_almirah_0_Layer0_0_FILL",
-		"strokeId": "#godrej_almirah_Layer0_0_1_STROKES",
-		"onclickColor": "#6DCAD1",
+		"id": "#cap_0_Layer0_0_FILL",
+		"strokeId": "",
+		"onclickColor": "#CB6095",
 		"audio": "",
-		"textField": "874",
-		"subCategory": "Eight hundred seventy four",
+		"textField": "Object_4",
+		"subCategory": "Hat",
 		"categoryTxtimg": {
-			"url": "assets/options/874Digit.png",
+			"url": "assets/options/category2.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/874NumName.png",
+			"url": "assets/options/hat.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/874Digit_correct.png",
+			"url": "assets/options/category2_right.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/874NumName_correct.png",
+			"url": "assets/options/hat_right.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/874Digit_wrong.png",
+			"url": "assets/options/category2_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/874NumName_wrong.png",
+			"url": "assets/options/hat_wrong.png",
 			"location": "content"
 		},
 		"location": "content",
-		"left": 40.4,
-		"top": 29,
-		"ddTooltipleft": 40.4,
-		"ddTooltiptop": 35.8,
+		"left": 53,
+		"top": 31.4,
+		"ddTooltipleft": 53,
+		"ddTooltiptop": 38.2,
 		"working": "true",
 		"clicked": false,
 		"optionSelected": ""
 	},
 	{
 		"tooltipID": "tooltip6",
-		"id": "#football_0_Layer0_0_FILL",
-		"strokeId": "#football_Layer0_0_1_STROKES",
-		"onclickColor": "#6DCAD1",
+		"id": "#girl_2_0_Layer0_0_FILL_1",
+		"strokeId": "",
+		"onclickColor": "#2F6E9A",
 		"audio": "",
-		"textField": "98",
-		"subCategory": "Ninty eight",
+		"textField": "girl",
+		"subCategory": "",
 		"categoryTxtimg": {
-			"url": "assets/options/98Digit.png",
+			"url": "",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/98NumName.png",
+			"url": "",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/98Digit_correct.png",
+			"url": "",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/98NumName_correct.png",
+			"url": "",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/98Digit_wrong.png",
+			"url": "",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/98NumName_wrong.png",
+			"url": "",
 			"location": "content"
 		},
 		"location": "content",
@@ -455,75 +455,75 @@
 	},
 	{
 		"tooltipID": "tooltip7",
-		"id": "#gift_box_green_0_Layer0_0_FILL",
-		"strokeId": "#gift_box_green_0_1_STROKES",
-		"onclickColor": "#FCDE5C",
+		"id": "#football_0_Layer0_0_FILL",
+		"strokeId": "",
+		"onclickColor": "#CFA718",
 		"audio": "",
-		"textField": "77",
-		"subCategory": "Seventy seven",
+		"textField": "Object_5",
+		"subCategory": "Football",
 		"categoryTxtimg": {
-			"url": "assets/options/77Digit.png",
+			"url": "assets/options/category3.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/77NumName.png",
+			"url": "assets/options/football.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/77Digit_correct.png",
+			"url": "assets/options/category3_right.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/77NumName_correct.png",
+			"url": "assets/options/football_right.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/77Digit_wrong.png",
+			"url": "assets/options/category3_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/77NumName_wrong.png",
+			"url": "assets/options/football_wrong.png",
 			"location": "content"
 		},
 		"location": "content",
-		"left": 57,
-		"top": 29,
-		"ddTooltipleft": 57,
-		"ddTooltiptop": 55.2,
+		"left": 41.9,
+		"top": 51,
+		"ddTooltipleft": 41.9,
+		"ddTooltiptop": 57.6,
 		"working": "true",
 		"clicked": false,
 		"optionSelected": ""
 	},
 	{
 		"tooltipID": "tooltip8",
-		"id": "#ball_0_Layer0_0_FILL",
-		"strokeId": "#ball_Layer0_0_1_STROKES",
-		"onclickColor": "#65C0B9",
+		"id": "#girl_3_0_Layer0_0_FILL_1",
+		"strokeId": "",
+		"onclickColor": "#244234",
 		"audio": "",
-		"textField": "83",
-		"subCategory": "Eighty three",
+		"textField": "girl",
+		"subCategory": "",
 		"categoryTxtimg": {
-			"url": "assets/options/83Digit.png",
+			"url": "",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/83NumName.png",
+			"url": "",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/83Digit_correct.png",
+			"url": "",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/83NumName_correct.png",
+			"url": "",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/83Digit_wrong.png",
+			"url": "",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/83NumName_wrong.png",
+			"url": "",
 			"location": "content"
 		},
 		"location": "content",
@@ -537,135 +537,135 @@
 	},
 	{
 		"tooltipID": "tooltip9",
-		"id": "#daish_0_Layer0_0_FILL",
-		"strokeId": "#daish_0_Layer0_0_1_STROKES",
-		"onclickColor": "#81ECEC",
+		"id": "#van_0_Layer0_0_FILL",
+		"strokeId": "",
+		"onclickColor": "#ED7A8B",
 		"audio": "",
-		"textField": "43",
-		"subCategory": "Forty three",
+		"textField": "Object_6",
+		"subCategory": "Van",
 		"categoryTxtimg": {
-			"url": "assets/options/43Digit.png",
+			"url": "assets/options/category3.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/43NumName.png",
+			"url": "assets/options/van.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/43Digit_correct.png",
+			"url": "assets/options/category3_right.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/43NumName_correct.png",
+			"url": "assets/options/van_right.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/43Digit_wrong.png",
+			"url": "assets/options/category3_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/43NumName_wrong.png",
+			"url": "assets/options/van_wrong.png",
 			"location": "content"
 		},
 		"location": "content",
-		"left": 40.4,
-		"top": 48.5,
-		"ddTooltipleft": 40.4,
-		"ddTooltiptop": 55,
+		"left": 64.5,
+		"top": 51,
+		"ddTooltipleft": 64.5,
+		"ddTooltiptop": 57.8,
 		"working": "true",
 		"clicked": false,
 		"optionSelected": ""
 	},
 	{
 		"tooltipID": "tooltip10",
-		"id": "#cosco_ball_0_Layer0_0_FILL",
-		"strokeId": "#cosco_ball_0_Layer0_0_1_STROKES",
-		"onclickColor": "#C5E3CB",
+		"id": "#cycle_0_Layer0_0_FILL",
+		"strokeId": "",
+		"onclickColor": "#BF4718",
 		"audio": "",
-		"textField": "111",
-		"subCategory": "One hundred eleven",
+		"textField": "Object_7",
+		"subCategory": "Cycle",
 		"categoryTxtimg": {
-			"url": "assets/options/111Digit.png",
+			"url": "assets/options/category4.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/111NumName.png",
+			"url": "assets/options/cycle.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/111Digit_correct.png",
+			"url": "assets/options/category4_right.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/111NumName_correct.png",
+			"url": "assets/options/cycle_right.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/111Digit_wrong.png",
+			"url": "assets/options/category4_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/111NumName_wrong.png",
+			"url": "assets/options/cycle_wrong.png",
 			"location": "content"
 		},
 		"location": "content",
-		"left": 49.1,
-		"top": 48.5,
-		"ddTooltipleft": 49.1,
-		"ddTooltiptop": 55,
+		"left": 42.1,
+		"top": 75.5,
+		"ddTooltipleft": 42.1,
+		"ddTooltiptop": 82.3,
 		"working": "true",
 		"clicked": false,
 		"optionSelected": ""
 	},
 	{
 		"tooltipID": "tooltip11",
-		"id": "#yellow_gift_box_0_Layer0_0_FILL",
-		"strokeId": "#yellow_gift_box_Layer0_0_1_STROKES",
-		"onclickColor": "#CFB5FF",
+		"id": "#chair_0_Layer0_0_FILL",
+		"strokeId": "",
+		"onclickColor": "#CFCCB9",
 		"audio": "",
-		"textField": "34",
-		"subCategory": "Thirty four",
+		"textField": "Object_8",
+		"subCategory": "Chair",
 		"categoryTxtimg": {
-			"url": "assets/options/34Digit.png",
+			"url": "assets/options/category4.png",
 			"location": "content"
 		},
 		"subCategoryTxtimg": {
-			"url": "assets/options/34NumName.png",
+			"url": "assets/options/chair.png",
 			"location": "content"
 		},
 		"correctCategoryTxtimg": {
-			"url": "assets/options/34Digit_correct.png",
+			"url": "assets/options/category4_right.png",
 			"location": "content"
 		},
 		"correctSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_correct.png",
+			"url": "assets/options/chair_right.png",
 			"location": "content"
 		},
 		"incorrectCategoryTxtimg": {
-			"url": "assets/options/34Digit_wrong.png",
+			"url": "assets/options/category4_wrong.png",
 			"location": "content"
 		},
 		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_wrong.png",
+			"url": "assets/options/chair_wrong.png",
 			"location": "content"
 		},
 		"location": "content",
-		"left": 57,
-		"top": 48.5,
-		"ddTooltipleft": 57,
-		"ddTooltiptop": 55,
+		"left": 52.8,
+		"top": 74.2,
+		"ddTooltipleft": 52.8,
+		"ddTooltiptop": 81,
 		"working": "true",
 		"clicked": false,
 		"optionSelected": ""
 	},
 	{
 		"tooltipID": "tooltip12",
-		"id": "#paint_color__0_Layer0_0_FILL",
-		"strokeId": "#paint_color_Layer0_0_1_STROKES",
-		"onclickColor": "#D39C8C",
+		"id": "#girl_4_1_0_Layer0_0_FILL_1",
+		"strokeId": "",
+		"onclickColor": "#FEEF84",
 		"audio": "",
-		"textField": "34",
-		"subCategory": "Thirty four",
+		"textField": "girl",
+		"subCategory": "",
 		"categoryTxtimg": {
 			"url": "assets/options/34Digit.png",
 			"location": "content"
@@ -701,12 +701,12 @@
 	},
 	{
 		"tooltipID": "tooltip13",
-		"id": "#shose_box_0_Layer0_0_FILL",
-		"strokeId": "#shose_box_Layer0_0_1_STROKES",
+		"id": "#Layer0_0_1_STROKES_1",
+		"strokeId": "",
 		"onclickColor": "#FAB1A0",
 		"audio": "",
-		"textField": "34",
-		"subCategory": "Thirty four",
+		"textField": "border",
+		"subCategory": "",
 		"categoryTxtimg": {
 			"url": "assets/options/34Digit.png",
 			"location": "content"
@@ -739,129 +739,6 @@
 		"working": "true",
 		"clicked": false,
 		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip14",
-		"id": "#matches_box_0_Layer0_0_FILL",
-		"strokeId": "#matches_box_Layer0_0_1_STROKES",
-		"onclickColor": "#55EFC4",
-		"audio": "",
-		"textField": "34",
-		"subCategory": "Thirty four",
-		"categoryTxtimg": {
-			"url": "assets/options/34Digit.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/34NumName.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/34Digit_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_correct.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/34Digit_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 49.1,
-		"top": 71.5,
-		"ddTooltipleft": 49.1,
-		"ddTooltiptop": 78.2,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip15",
-		"id": "#cylinder_shape_0_Layer0_0_FILL",
-		"strokeId": "#cylinder_shape_Layer0_0_1_STROKES",
-		"onclickColor": "#FF8B6A",
-		"audio": "",
-		"textField": "34",
-		"subCategory": "Thirty four",
-		"categoryTxtimg": {
-			"url": "assets/options/34Digit.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/34NumName.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/34Digit_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_correct.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/34Digit_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 57,
-		"top": 71.5,
-		"ddTooltipleft": 57,
-		"ddTooltiptop": 78.2,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip16",
-		"id": "#tiffin_box_0_Layer0_0_FILL",
-		"strokeId": "#tiffin_box_Layer0_0_1_STROKES",
-		"onclickColor": "#0D7E84",
-		"audio": "",
-		"textField": "34",
-		"subCategory": "Thirty four",
-		"categoryTxtimg": {
-			"url": "assets/options/34Digit.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/34NumName.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/34Digit_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_correct.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/34Digit_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 65.8,
-		"top": 71.5,
-		"ddTooltipleft": 65.8,
-		"ddTooltiptop": 78.2,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
 	}
 ],
 
@@ -888,7 +765,7 @@
 		"Showans_feedback_next_timer": 30,
 		"feedback_next_timer": 150,
 		"close_feedback_timer": 150,
-		"correct_category": ["239", "121", "874", "111"],
+		"correct_category": ["Object_1", "Object_4","Object_5","Object_8"],
 		"style_header": {
 			"border": "solid .4vmin #3C7132",
 			"border-top-left-radius": "20px",

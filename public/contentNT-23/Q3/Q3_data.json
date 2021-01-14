@@ -27,8 +27,8 @@
 				"url": "assets/question/subCategoryHeader.png",
 				"location": "content"
 			},
-			"UpperTitle": "Body Parts:",
-			"LowerTitle": "Its Use:"
+			"UpperTitle": "Digit:",
+			"LowerTitle": "Number Name:"
 		},
 		"background": {
 			"urlglobal": "global/tabs/bg/bg_3.svg",
