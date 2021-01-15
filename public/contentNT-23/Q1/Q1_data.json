@@ -79,9 +79,7 @@
 			"location": "content"
 		},
 		"isFirstQues": true,
-		"imgCount": 0,
-		"itemsperPage": 6,
-		"totalSVG": 60
+		"itemsperPage": 6
 	},
 	"svgInfo": {
 		"svgId": "mainques",
@@ -209,7 +207,7 @@
 	},
 	"mySVGArr": [{
 			"tooltipID": "tooltip1",
-			"id": "#Rajasthan_0_Layer1_0_",
+			"id": "#Rajasthan_0_Layer1_0_FILL",
 			"strokeId": "#Rajasthan_0_Layer1_0_1_STROKES",
 			"onclickColor": "#EE2A7B",
 			"audio": "Rajastahan.ogg",
@@ -240,13 +238,12 @@
 				"location": "content"
 			},
 			"location": "content",
-			"left": 40,
-			"top": 28,
-			"ddTooltipleft": 46.5,
-			"ddTooltiptop": 28,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"left": 43,
+			"top": 29,
+			"ddTooltipleft": 43,
+			"ddTooltiptop": 35.8,
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip2",
@@ -255,7 +252,7 @@
 			"onclickColor": "#21409A",
 			"audio": "J&K.ogg",
 			"textField": "J&K",
-			"subCategory": "Srinagar ",
+			"subCategory": "Srinagar(Summer), Jammu(Winter)",
 			"categoryTxtimg": {
 				"url": "assets/options/J&K.png",
 				"location": "content"
@@ -285,9 +282,8 @@
 			"top": 8,
 			"ddTooltipleft": 46.3,
 			"ddTooltiptop": 14,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip3",
@@ -326,9 +322,8 @@
 			"top": 14.4,
 			"ddTooltipleft": 47.2,
 			"ddTooltiptop": 21,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip4",
@@ -367,9 +362,8 @@
 			"top": 17,
 			"ddTooltipleft": 45.2,
 			"ddTooltiptop": 23.5,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip5",
@@ -378,7 +372,7 @@
 			"onclickColor": "#ED1C24",
 			"audio": "Uttrakhand.ogg",
 			"textField": "Uttrakhand",
-			"subCategory": "Dehradun",
+			"subCategory": "Dehradun, Gairsain (Summer)",
 			"categoryTxtimg": {
 				"url": "assets/options/Uttarakhand.png",
 				"location": "content"
@@ -408,9 +402,8 @@
 			"top": 20,
 			"ddTooltipleft": 49.5,
 			"ddTooltiptop": 26.5,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip6",
@@ -449,9 +442,8 @@
 			"top": 23,
 			"ddTooltipleft": 46.2,
 			"ddTooltiptop": 29.8,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip7",
@@ -490,9 +482,8 @@
 			"top": 30,
 			"ddTooltipleft": 50.7,
 			"ddTooltiptop": 37,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip8",
@@ -531,18 +522,17 @@
 			"top": 41,
 			"ddTooltipleft": 40.2,
 			"ddTooltiptop": 47.8,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip9",
-			"id": "#Madhya_pradesh_0_Layer1_0_",
-			"strokeId": "#Madhya_pradesh_0_Layer1_0_1_",
+			"id": "#Madhya_pradesh_0_Layer1_0_FILL",
+			"strokeId": "#Madhya_pradesh_0_Layer1_0_1_STROKES",
 			"onclickColor": "#00A14B",
 			"audio": "MadhhyaPradesh.ogg",
 			"textField": "MadhyaPradesh",
-			"subCategory": "",
+			"subCategory": "Bhopal",
 			"categoryTxtimg": {
 				"url": "assets/options/MP.png",
 				"location": "content"
@@ -568,13 +558,12 @@
 				"location": "content"
 			},
 			"location": "content",
-			"left": 46,
-			"top": 38,
-			"ddTooltipleft": 51.7,
-			"ddTooltiptop": 38,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"left": 48.5,
+			"top": 40,
+			"ddTooltipleft": 48.5,
+			"ddTooltiptop": 47,
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip10",
@@ -613,9 +602,8 @@
 			"top": 33,
 			"ddTooltipleft": 57,
 			"ddTooltiptop": 40,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip11",
@@ -654,18 +642,17 @@
 			"top": 39,
 			"ddTooltipleft": 56.7,
 			"ddTooltiptop": 46,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip12",
-			"id": "#Chhattisgarh_0_Layer1_0_",
-			"strokeId": "#Chhattisgarh_0_Layer1_0_1_",
+			"id": "#Chhattisgarh_0_Layer1_0_FILL",
+			"strokeId": "#Chhattisgarh_0_Layer1_0_1_STROKES",
 			"onclickColor": "#ED1C24",
 			"audio": "Chhattisgarh.ogg",
 			"textField": "Chhattisgarh",
-			"subCategory": "",
+			"subCategory": "Naya Raipur",
 			"categoryTxtimg": {
 				"url": "assets/options/Chhattisgarh.png",
 				"location": "content"
@@ -691,22 +678,21 @@
 				"location": "content"
 			},
 			"location": "content",
-			"left": 49,
+			"left": 52.5,
 			"top": 44,
-			"ddTooltipleft": 53.3,
-			"ddTooltiptop": 44,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"ddTooltipleft": 52.5,
+			"ddTooltiptop": 51,
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip13",
-			"id": "#Maharashtra_0_Layer1_0_",
-			"strokeId": "#Maharashtra_0_Layer1_0_1_",
+			"id": "#Maharashtra_0_Layer1_0_FILL",
+			"strokeId": "#Maharashtra_0_Layer1_0_1_STROKES",
 			"onclickColor": "#F26522",
 			"audio": "Maharashtra.ogg",
 			"textField": "Maharashtra",
-			"subCategory": "",
+			"subCategory": "Mumbai",
 			"categoryTxtimg": {
 				"url": "assets/options/Maharashtra.png",
 				"location": "content"
@@ -732,13 +718,12 @@
 				"location": "content"
 			},
 			"location": "content",
-			"left": 42,
+			"left": 45,
 			"top": 50,
-			"ddTooltipleft": 49.3,
-			"ddTooltiptop": 50,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"ddTooltipleft": 45,
+			"ddTooltiptop": 57,
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip14",
@@ -777,9 +762,8 @@
 			"top": 48,
 			"ddTooltipleft": 56,
 			"ddTooltiptop": 54.8,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip15",
@@ -818,9 +802,8 @@
 			"top": 53,
 			"ddTooltipleft": 0,
 			"ddTooltiptop": 0,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip16",
@@ -859,9 +842,8 @@
 			"top": 27,
 			"ddTooltipleft": 60,
 			"ddTooltiptop": 34,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip17",
@@ -900,9 +882,8 @@
 			"top": 60,
 			"ddTooltipleft": 49.2,
 			"ddTooltiptop": 66.8,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip18",
@@ -941,18 +922,17 @@
 			"top": 62,
 			"ddTooltipleft": 42.6,
 			"ddTooltiptop": 69,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip19",
-			"id": "#Karnataka_0_Layer1_0_",
-			"strokeId": "#Karnataka_0_Layer1_0_1_",
+			"id": "#Karnataka_0_Layer1_0_FILL",
+			"strokeId": "#Karnataka_0_Layer1_0_1_STROKES",
 			"onclickColor": "#27AAE1",
 			"audio": "Karnataka.ogg",
 			"textField": "Karnataka",
-			"subCategory": "",
+			"subCategory": "Bengaluru",
 			"categoryTxtimg": {
 				"url": "assets/options/Karnataka.png",
 				"location": "content"
@@ -978,13 +958,12 @@
 				"location": "content"
 			},
 			"location": "content",
-			"left": 42.5,
+			"left": 44.5,
 			"top": 65,
-			"ddTooltipleft": 45.7,
-			"ddTooltiptop": 60,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"ddTooltipleft": 44.5,
+			"ddTooltiptop": 72,
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip20",
@@ -1023,9 +1002,8 @@
 			"top": 77,
 			"ddTooltipleft": 48.2,
 			"ddTooltiptop": 83.8,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip21",
@@ -1064,9 +1042,8 @@
 			"top": 77,
 			"ddTooltipleft": 45.3,
 			"ddTooltiptop": 83.8,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip22",
@@ -1105,9 +1082,8 @@
 			"top": 30,
 			"ddTooltipleft": 63.6,
 			"ddTooltiptop": 39.3,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip23",
@@ -1146,9 +1122,8 @@
 			"top": 30,
 			"ddTooltipleft": 67.4,
 			"ddTooltiptop": 36.4,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip24",
@@ -1187,9 +1162,8 @@
 			"top": 34,
 			"ddTooltipleft": 64.7,
 			"ddTooltiptop": 36,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip25",
@@ -1228,9 +1202,8 @@
 			"top": 39,
 			"ddTooltipleft": 65.8,
 			"ddTooltiptop": 45.8,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip26",
@@ -1269,9 +1242,8 @@
 			"top": 38.3,
 			"ddTooltipleft": 64.2,
 			"ddTooltiptop": 44.9,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip27",
@@ -1310,9 +1282,8 @@
 			"top": 32.5,
 			"ddTooltipleft": 63.7,
 			"ddTooltiptop": 39,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		},
 		{
 			"tooltipID": "tooltip28",
@@ -1351,31 +1322,10 @@
 			"top": 24.5,
 			"ddTooltipleft": 66.7,
 			"ddTooltiptop": 31,
-			"working": "true",
-			"clicked": false,
-			"optionSelected": ""
+			"clicked": false
+
 		}
 	],
-
-	"quesObj": [{
-		"quesInstruction": {
-			"url": "",
-			"location": "content",
-			"autoPlay": true
-		},
-		"`quesImg": {
-			"url": "",
-			"location": ""
-		},
-		"quesImgHover": {
-			"url": "",
-			"location": ""
-		},
-		"quesImgOriginal": {
-			"url": "",
-			"location": ""
-		}
-	}],
 	"feedback": {
 		"Showans_feedback_next_timer": 30,
 		"feedback_next_timer": 150,

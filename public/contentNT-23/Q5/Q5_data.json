@@ -79,9 +79,7 @@
 			"location": "content"
 		},
 		"isFirstQues": false,
-		"imgCount": 0,
-		"itemsperPage":6,
-		"totalSVG":60
+		"itemsperPage": 6
 	},
 	"svgInfo": {
 		"svgId": "mainques",
@@ -208,564 +206,518 @@
 		}
 	},
 	"mySVGArr": [{
-		"tooltipID": "tooltip1",
-		"id": "#umbrella_0_Layer0_0_FILL",
-		"strokeId": "",
-		"onclickColor": "#96B000",
-		"audio": "",
-		"textField": "Object_1",
-		"subCategory": "Umbrella",
-		"categoryTxtimg": {
-			"url": "assets/options/category1.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/umbrella.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/category1_right.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/umbrella_right.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/category1_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/umbrella_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 41.9,
-		"top": 9.5,
-		"ddTooltipleft": 41.9,
-		"ddTooltiptop": 16.3,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip2",
-		"id": "#girl_1_0_Layer0_0_FILL_1",
-		"strokeId": "",
-		"onclickColor": "#A07F64",
-		"audio": "",
-		"textField": "",
-		"subCategory": "",
-		"categoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 49.1,
-		"top": 10.5,
-		"ddTooltipleft": 49.1,
-		"ddTooltiptop": 17.4,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip3",
-		"id": "#ball_0_Layer0_0_FILL",
-		"strokeId": "",
-		"onclickColor": "#92024A",
-		"audio": "",
-		"textField": "Object_2",
-		"subCategory": "Ball",
-		"categoryTxtimg": {
-			"url": "assets/options/category1.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/ball.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/category1_right.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/ball_right.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/category1_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/ball_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 64.5,
-		"top": 9.5,
-		"ddTooltipleft": 64.5,
-		"ddTooltiptop": 16.3,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip4",
-		"id": "#apple_0_Layer0_0_FILL",
-		"strokeId": "",
-		"onclickColor": "#333333",
-		"audio": "",
-		"textField": "Object_3",
-		"subCategory": "Apple",
-		"categoryTxtimg": {
-			"url": "assets/options/category2.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/apple.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/category2_right.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/apple_right.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/category2_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/apple_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 41.9,
-		"top": 31.5,
-		"ddTooltipleft": 41.9,
-		"ddTooltiptop": 38.4,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip5",
-		"id": "#cap_0_Layer0_0_FILL",
-		"strokeId": "",
-		"onclickColor": "#CB6095",
-		"audio": "",
-		"textField": "Object_4",
-		"subCategory": "Hat",
-		"categoryTxtimg": {
-			"url": "assets/options/category2.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/hat.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/category2_right.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/hat_right.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/category2_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/hat_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 53,
-		"top": 31.4,
-		"ddTooltipleft": 53,
-		"ddTooltiptop": 38.2,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip6",
-		"id": "#girl_2_0_Layer0_0_FILL_1",
-		"strokeId": "",
-		"onclickColor": "#2F6E9A",
-		"audio": "",
-		"textField": "girl",
-		"subCategory": "",
-		"categoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 49.1,
-		"top": 29,
-		"ddTooltipleft": 49.1,
-		"ddTooltiptop": 35.8,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip7",
-		"id": "#football_0_Layer0_0_FILL",
-		"strokeId": "",
-		"onclickColor": "#CFA718",
-		"audio": "",
-		"textField": "Object_5",
-		"subCategory": "Football",
-		"categoryTxtimg": {
-			"url": "assets/options/category3.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/football.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/category3_right.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/football_right.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/category3_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/football_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 41.9,
-		"top": 51,
-		"ddTooltipleft": 41.9,
-		"ddTooltiptop": 57.6,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip8",
-		"id": "#girl_3_0_Layer0_0_FILL_1",
-		"strokeId": "",
-		"onclickColor": "#244234",
-		"audio": "",
-		"textField": "girl",
-		"subCategory": "",
-		"categoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 65.8,
-		"top": 29,
-		"ddTooltipleft": 65.8,
-		"ddTooltiptop": 55.2,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip9",
-		"id": "#van_0_Layer0_0_FILL",
-		"strokeId": "",
-		"onclickColor": "#ED7A8B",
-		"audio": "",
-		"textField": "Object_6",
-		"subCategory": "Van",
-		"categoryTxtimg": {
-			"url": "assets/options/category3.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/van.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/category3_right.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/van_right.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/category3_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/van_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 64.5,
-		"top": 51,
-		"ddTooltipleft": 64.5,
-		"ddTooltiptop": 57.8,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip10",
-		"id": "#cycle_0_Layer0_0_FILL",
-		"strokeId": "",
-		"onclickColor": "#BF4718",
-		"audio": "",
-		"textField": "Object_7",
-		"subCategory": "Cycle",
-		"categoryTxtimg": {
-			"url": "assets/options/category4.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/cycle.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/category4_right.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/cycle_right.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/category4_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/cycle_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 42.1,
-		"top": 75.5,
-		"ddTooltipleft": 42.1,
-		"ddTooltiptop": 82.3,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip11",
-		"id": "#chair_0_Layer0_0_FILL",
-		"strokeId": "",
-		"onclickColor": "#CFCCB9",
-		"audio": "",
-		"textField": "Object_8",
-		"subCategory": "Chair",
-		"categoryTxtimg": {
-			"url": "assets/options/category4.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/chair.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/category4_right.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/chair_right.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/category4_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/chair_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 52.8,
-		"top": 74.2,
-		"ddTooltipleft": 52.8,
-		"ddTooltiptop": 81,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip12",
-		"id": "#girl_4_1_0_Layer0_0_FILL_1",
-		"strokeId": "",
-		"onclickColor": "#FEEF84",
-		"audio": "",
-		"textField": "girl",
-		"subCategory": "",
-		"categoryTxtimg": {
-			"url": "assets/options/34Digit.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/34NumName.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/34Digit_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_correct.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/34Digit_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 65.8,
-		"top": 48.5,
-		"ddTooltipleft": 65.8,
-		"ddTooltiptop": 55,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip13",
-		"id": "#Layer0_0_1_STROKES_1",
-		"strokeId": "",
-		"onclickColor": "#FAB1A0",
-		"audio": "",
-		"textField": "border",
-		"subCategory": "",
-		"categoryTxtimg": {
-			"url": "assets/options/34Digit.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/34NumName.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/34Digit_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_correct.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/34Digit_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/34NumName_wrong.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 40.4,
-		"top": 71.5,
-		"ddTooltipleft": 40.4,
-		"ddTooltiptop": 78.2,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	}
-],
-
-	"quesObj": [{
-		"quesInstruction": {
-			"url": "",
+			"tooltipID": "tooltip1",
+			"id": "#umbrella_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#96B000",
+			"audio": "",
+			"textField": "Object_1",
+			"subCategory": "Umbrella",
+			"categoryTxtimg": {
+				"url": "assets/options/category1.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/umbrella.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category1_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/umbrella_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category1_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/umbrella_wrong.png",
+				"location": "content"
+			},
 			"location": "content",
-			"autoPlay": true
+			"left": 41.9,
+			"top": 9.5,
+			"ddTooltipleft": 41.9,
+			"ddTooltiptop": 16.3,
+			"clicked": false
 		},
-		"`quesImg": {
-			"url": "",
-			"location": ""
+		{
+			"tooltipID": "tooltip2",
+			"id": "#girl_1_0_Layer0_0_FILL_1",
+			"strokeId": "",
+			"onclickColor": "#A07F64",
+			"audio": "",
+			"textField": "",
+			"subCategory": "",
+			"categoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 49.1,
+			"top": 10.5,
+			"ddTooltipleft": 49.1,
+			"ddTooltiptop": 17.4,
+			"clicked": false
 		},
-		"quesImgHover": {
-			"url": "",
-			"location": ""
+		{
+			"tooltipID": "tooltip3",
+			"id": "#ball_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#92024A",
+			"audio": "",
+			"textField": "Object_2",
+			"subCategory": "Ball",
+			"categoryTxtimg": {
+				"url": "assets/options/category1.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/ball.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category1_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/ball_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category1_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/ball_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 64.5,
+			"top": 9.5,
+			"ddTooltipleft": 64.5,
+			"ddTooltiptop": 16.3,
+			"clicked": false
 		},
-		"quesImgOriginal": {
-			"url": "",
-			"location": ""
+		{
+			"tooltipID": "tooltip4",
+			"id": "#apple_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#333333",
+			"audio": "",
+			"textField": "Object_3",
+			"subCategory": "Apple",
+			"categoryTxtimg": {
+				"url": "assets/options/category2.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/apple.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category2_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/apple_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category2_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/apple_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 41.9,
+			"top": 31.5,
+			"ddTooltipleft": 41.9,
+			"ddTooltiptop": 38.4,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip5",
+			"id": "#cap_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#CB6095",
+			"audio": "",
+			"textField": "Object_4",
+			"subCategory": "Hat",
+			"categoryTxtimg": {
+				"url": "assets/options/category2.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/hat.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category2_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/hat_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category2_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/hat_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 53,
+			"top": 31.4,
+			"ddTooltipleft": 53,
+			"ddTooltiptop": 38.2,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip6",
+			"id": "#girl_2_0_Layer0_0_FILL_1",
+			"strokeId": "",
+			"onclickColor": "#2F6E9A",
+			"audio": "",
+			"textField": "girl",
+			"subCategory": "",
+			"categoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 49.1,
+			"top": 29,
+			"ddTooltipleft": 49.1,
+			"ddTooltiptop": 35.8,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip7",
+			"id": "#football_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#CFA718",
+			"audio": "",
+			"textField": "Object_5",
+			"subCategory": "Football",
+			"categoryTxtimg": {
+				"url": "assets/options/category3.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/football.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category3_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/football_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category3_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/football_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 41.9,
+			"top": 51,
+			"ddTooltipleft": 41.9,
+			"ddTooltiptop": 57.6,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip8",
+			"id": "#girl_3_0_Layer0_0_FILL_1",
+			"strokeId": "",
+			"onclickColor": "#244234",
+			"audio": "",
+			"textField": "girl",
+			"subCategory": "",
+			"categoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 65.8,
+			"top": 29,
+			"ddTooltipleft": 65.8,
+			"ddTooltiptop": 55.2,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip9",
+			"id": "#van_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#ED7A8B",
+			"audio": "",
+			"textField": "Object_6",
+			"subCategory": "Van",
+			"categoryTxtimg": {
+				"url": "assets/options/category3.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/van.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category3_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/van_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category3_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/van_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 64.5,
+			"top": 51,
+			"ddTooltipleft": 64.5,
+			"ddTooltiptop": 57.8,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip10",
+			"id": "#cycle_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#BF4718",
+			"audio": "",
+			"textField": "Object_7",
+			"subCategory": "Cycle",
+			"categoryTxtimg": {
+				"url": "assets/options/category4.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/cycle.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category4_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/cycle_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category4_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/cycle_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 42.1,
+			"top": 75.5,
+			"ddTooltipleft": 42.1,
+			"ddTooltiptop": 82.3,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip11",
+			"id": "#chair_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#CFCCB9",
+			"audio": "",
+			"textField": "Object_8",
+			"subCategory": "Chair",
+			"categoryTxtimg": {
+				"url": "assets/options/category4.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/chair.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category4_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/chair_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category4_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/chair_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 52.8,
+			"top": 74.2,
+			"ddTooltipleft": 52.8,
+			"ddTooltiptop": 81,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip12",
+			"id": "#girl_4_1_0_Layer0_0_FILL_1",
+			"strokeId": "",
+			"onclickColor": "#FEEF84",
+			"audio": "",
+			"textField": "girl",
+			"subCategory": "",
+			"categoryTxtimg": {
+				"url": "assets/options/34Digit.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/34NumName.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/34Digit_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/34NumName_correct.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/34Digit_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/34NumName_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 65.8,
+			"top": 48.5,
+			"ddTooltipleft": 65.8,
+			"ddTooltiptop": 55,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip13",
+			"id": "#Layer0_0_1_STROKES_1",
+			"strokeId": "",
+			"onclickColor": "#FAB1A0",
+			"audio": "",
+			"textField": "border",
+			"subCategory": "",
+			"categoryTxtimg": {
+				"url": "assets/options/34Digit.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/34NumName.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/34Digit_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/34NumName_correct.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/34Digit_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/34NumName_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 40.4,
+			"top": 71.5,
+			"ddTooltipleft": 40.4,
+			"ddTooltiptop": 78.2,
+			"clicked": false
 		}
-	}],
+	],
 	"feedback": {
 		"Showans_feedback_next_timer": 30,
 		"feedback_next_timer": 150,
 		"close_feedback_timer": 150,
-		"correct_category": ["Object_1", "Object_4","Object_5","Object_8"],
+		"correct_category": ["Object_1", "Object_4", "Object_5", "Object_8"],
 		"style_header": {
 			"border": "solid .4vmin #3C7132",
 			"border-top-left-radius": "20px",

@@ -79,9 +79,7 @@
 			"location": "content"
 		},
 		"isFirstQues": false,
-		"imgCount": 0,
-		"itemsperPage":6,
-		"totalSVG":60
+		"itemsperPage": 6
 	},
 	"svgInfo": {
 		"svgId": "mainques",
@@ -208,682 +206,630 @@
 		}
 	},
 	"mySVGArr": [{
-		"tooltipID": "tooltip1",
-		"id": "#tank_0_Layer0_0_FILL",
-		"strokeId": "#tank_Layer0_0_1_STROKES",
-		"onclickColor": "#1ABC9C",
-		"audio": "",
-		"textField": "Tank",
-		"subCategory": "Water storage",
-		"categoryTxtimg": {
-			"url": "assets/options/tank.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/tank_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/tank_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/tank_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/tank_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/tank_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 40.4,
-		"top": 10.5,
-		"ddTooltipleft": 40.4,
-		"ddTooltiptop": 17.4,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip2",
-		"id": "#cube_0_Layer0_0_FILL",
-		"strokeId": "#cube0_0_1_STROKES",
-		"onclickColor": "#27AE60",
-		"audio": "",
-		"textField": "Butter",
-		"subCategory": "Use for breakfast",
-		"categoryTxtimg": {
-			"url": "assets/options/butter.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/butter_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/butter_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/butter_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/butter_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/butter_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 49.1,
-		"top": 10.5,
-		"ddTooltipleft": 49.1,
-		"ddTooltiptop": 17.4,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip3",
-		"id": "#earth_0_Layer0_0_FILL",
-		"strokeId": "#earth0_0_1_STROKES",
-		"onclickColor": "#E74C3C",
-		"audio": "",
-		"textField": "Globe",
-		"subCategory": "Find the places",
-		"categoryTxtimg": {
-			"url": "assets/options/globe.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/globe_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/globe_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/globe_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/globe_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/globe_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 57,
-		"top": 10.5,
-		"ddTooltipleft": 57,
-		"ddTooltiptop": 17.4,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip4",
-		"id": "#cylinder_gift_box_0_Layer0_0_FILL",
-		"strokeId": "#cylinder_gift_box_Layer0_0_1_STROKES",
-		"onclickColor": "#8FAEFF",
-		"audio": "",
-		"textField": "Giftbox_1",
-		"subCategory": "Box use for packing",
-		"categoryTxtimg": {
-			"url": "assets/options/giftpack1.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/gift_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/giftpack1_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/gift_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/giftpack1_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/gift_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 65.8,
-		"top": 10.5,
-		"ddTooltipleft": 66,
-		"ddTooltiptop": 17.4,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip5",
-		"id": "#godrej_almirah_0_Layer0_0_FILL",
-		"strokeId": "#godrej_almirah_Layer0_0_1_STROKES",
-		"onclickColor": "#6DCAD1",
-		"audio": "",
-		"textField": "Cupboard",
-		"subCategory": "Store clothes",
-		"categoryTxtimg": {
-			"url": "assets/options/cupboard.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/cupboard_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/cupboard_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/cupboard_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/cupboard_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/cupboard_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 40.4,
-		"top": 29,
-		"ddTooltipleft": 40.4,
-		"ddTooltiptop": 35.8,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip6",
-		"id": "#football_0_Layer0_0_FILL",
-		"strokeId": "#football_Layer0_0_1_STROKES",
-		"onclickColor": "#CCCCCC",
-		"audio": "",
-		"textField": "Football",
-		"subCategory": "For playing",
-		"categoryTxtimg": {
-			"url": "assets/options/football.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/ball_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/football_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/ball_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/football_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/ball_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 49.1,
-		"top": 29,
-		"ddTooltipleft": 49.1,
-		"ddTooltiptop": 35.8,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip7",
-		"id": "#gift_box_green_0_Layer0_0_FILL",
-		"strokeId": "#gift_box_green_0_1_STROKES",
-		"onclickColor": "#33CCCC",
-		"audio": "",
-		"textField": "Giftbox_2",
-		"subCategory": "Box use for packing",
-		"categoryTxtimg": {
-			"url": "assets/options/giftpack2.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/gift_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/giftpack2_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/gift_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/giftpack2_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/gift_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 57,
-		"top": 29,
-		"ddTooltipleft": 57,
-		"ddTooltiptop": 55.2,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip8",
-		"id": "#ball_0_Layer0_0_FILL",
-		"strokeId": "#ball_Layer0_0_1_STROKES",
-		"onclickColor": "#65C0B9",
-		"audio": "",
-		"textField": "Ball",
-		"subCategory": "For playing",
-		"categoryTxtimg": {
-			"url": "assets/options/ball.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/ball_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/ball_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/ball_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/ball_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/ball_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 65.8,
-		"top": 29,
-		"ddTooltipleft": 65.8,
-		"ddTooltiptop": 55.2,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip9",
-		"id": "#daish_0_Layer0_0_FILL",
-		"strokeId": "#daish_0_Layer0_0_1_STROKES",
-		"onclickColor": "#81ECEC",
-		"audio": "",
-		"textField": "Dice",
-		"subCategory": "Playing ludo",
-		"categoryTxtimg": {
-			"url": "assets/options/dice.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/dice_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/dice_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/dice_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/dice_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/dice_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 40.4,
-		"top": 48.5,
-		"ddTooltipleft": 40.4,
-		"ddTooltiptop": 55,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip10",
-		"id": "#cosco_ball_0_Layer0_0_FILL",
-		"strokeId": "#cosco_ball_0_Layer0_0_1_STROKES",
-		"onclickColor": "#E67E22",
-		"audio": "",
-		"textField": "Tennisball",
-		"subCategory": "Playing tennis",
-		"categoryTxtimg": {
-			"url": "assets/options/tennisball.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/tennisball_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/tennisball_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/tennisball_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/tennisball_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/tennisball_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 49.1,
-		"top": 48.5,
-		"ddTooltipleft": 49.1,
-		"ddTooltiptop": 55,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip11",
-		"id": "#yellow_gift_box_0_Layer0_0_FILL",
-		"strokeId": "#yellow_gift_box_Layer0_0_1_STROKES",
-		"onclickColor": "#9B59B6",
-		"audio": "",
-		"textField": "Giftbox_3",
-		"subCategory": "Box use for packing",
-		"categoryTxtimg": {
-			"url": "assets/options/giftpack3.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/gift_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/giftpack3_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/gift_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/giftpack3_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/gift_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 57,
-		"top": 48.5,
-		"ddTooltipleft": 57,
-		"ddTooltiptop": 55,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip12",
-		"id": "#paint_color__0_Layer0_0_FILL",
-		"strokeId": "#paint_color_Layer0_0_1_STROKES",
-		"onclickColor": "#D39C8C",
-		"audio": "",
-		"textField": "Container",
-		"subCategory": "Store liquid",
-		"categoryTxtimg": {
-			"url": "assets/options/container.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/container_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/container_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/container_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/container_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/container_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 65.8,
-		"top": 48.5,
-		"ddTooltipleft": 65.8,
-		"ddTooltiptop": 55,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip13",
-		"id": "#shose_box_0_Layer0_0_FILL",
-		"strokeId": "#shose_box_Layer0_0_1_STROKES",
-		"onclickColor": "#FAB1A0",
-		"audio": "",
-		"textField": "Shoebox",
-		"subCategory": "Store footwears",
-		"categoryTxtimg": {
-			"url": "assets/options/shoebox.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/shoebox_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/shoebox_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/shoebox_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/shoebox_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/shoebox_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 40.4,
-		"top": 71.5,
-		"ddTooltipleft": 40.4,
-		"ddTooltiptop": 78.2,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip14",
-		"id": "#matches_box_0_Layer0_0_FILL",
-		"strokeId": "#matches_box_Layer0_0_1_STROKES",
-		"onclickColor": "#55EFC4",
-		"audio": "",
-		"textField": "Matchbox",
-		"subCategory": "Use for fire",
-		"categoryTxtimg": {
-			"url": "assets/options/matchbox.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/matchbox_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/matchbox_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/matchbox_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/matchbox_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/matchbox_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 49.1,
-		"top": 71.5,
-		"ddTooltipleft": 49.1,
-		"ddTooltiptop": 78.2,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip15",
-		"id": "#cylinder_shape_0_Layer0_0_FILL",
-		"strokeId": "#cylinder_shape_Layer0_0_1_STROKES",
-		"onclickColor": "#FF8B6A",
-		"audio": "",
-		"textField": "Pipe",
-		"subCategory": "Transfer water",
-		"categoryTxtimg": {
-			"url": "assets/options/pipe.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/pipe_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/pipe_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/pipe_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/pipe_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/pipe_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 57,
-		"top": 71.5,
-		"ddTooltipleft": 57,
-		"ddTooltiptop": 78.2,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	},
-	{
-		"tooltipID": "tooltip16",
-		"id": "#tiffin_box_0_Layer0_0_FILL",
-		"strokeId": "#tiffin_box_Layer0_0_1_STROKES",
-		"onclickColor": "#0D7E84",
-		"audio": "",
-		"textField": "Tiffin",
-		"subCategory": "Store food",
-		"categoryTxtimg": {
-			"url": "assets/options/tiffin.png",
-			"location": "content"
-		},
-		"subCategoryTxtimg": {
-			"url": "assets/options/tiffin_use.png",
-			"location": "content"
-		},
-		"correctCategoryTxtimg": {
-			"url": "assets/options/tiffin_correct.png",
-			"location": "content"
-		},
-		"correctSubCategoryTxtimg": {
-			"url": "assets/options/tiffin_correctuse.png",
-			"location": "content"
-		},
-		"incorrectCategoryTxtimg": {
-			"url": "assets/options/tiffin_wrong.png",
-			"location": "content"
-		},
-		"incorrectSubCategoryTxtimg": {
-			"url": "assets/options/tiffin_wronguse.png",
-			"location": "content"
-		},
-		"location": "content",
-		"left": 65.8,
-		"top": 71.5,
-		"ddTooltipleft": 65.8,
-		"ddTooltiptop": 78.2,
-		"working": "true",
-		"clicked": false,
-		"optionSelected": ""
-	}
-],
-
-	"quesObj": [{
-		"quesInstruction": {
-			"url": "",
+			"tooltipID": "tooltip1",
+			"id": "#tank_0_Layer0_0_FILL",
+			"strokeId": "#tank_Layer0_0_1_STROKES",
+			"onclickColor": "#1ABC9C",
+			"audio": "",
+			"textField": "Tank",
+			"subCategory": "Water storage",
+			"categoryTxtimg": {
+				"url": "assets/options/tank.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/tank_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/tank_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/tank_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/tank_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/tank_wronguse.png",
+				"location": "content"
+			},
 			"location": "content",
-			"autoPlay": true
+			"left": 40.4,
+			"top": 10.5,
+			"ddTooltipleft": 40.4,
+			"ddTooltiptop": 17.4,
+			"clicked": false
 		},
-		"`quesImg": {
-			"url": "",
-			"location": ""
+		{
+			"tooltipID": "tooltip2",
+			"id": "#cube_0_Layer0_0_FILL",
+			"strokeId": "#cube0_0_1_STROKES",
+			"onclickColor": "#27AE60",
+			"audio": "",
+			"textField": "Butter",
+			"subCategory": "Use for breakfast",
+			"categoryTxtimg": {
+				"url": "assets/options/butter.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/butter_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/butter_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/butter_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/butter_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/butter_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 49.1,
+			"top": 10.5,
+			"ddTooltipleft": 49.1,
+			"ddTooltiptop": 17.4,
+			"clicked": false
 		},
-		"quesImgHover": {
-			"url": "",
-			"location": ""
+		{
+			"tooltipID": "tooltip3",
+			"id": "#earth_0_Layer0_0_FILL",
+			"strokeId": "#earth0_0_1_STROKES",
+			"onclickColor": "#E74C3C",
+			"audio": "",
+			"textField": "Globe",
+			"subCategory": "Find the places",
+			"categoryTxtimg": {
+				"url": "assets/options/globe.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/globe_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/globe_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/globe_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/globe_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/globe_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 57,
+			"top": 10.5,
+			"ddTooltipleft": 57,
+			"ddTooltiptop": 17.4,
+			"clicked": false
 		},
-		"quesImgOriginal": {
-			"url": "",
-			"location": ""
+		{
+			"tooltipID": "tooltip4",
+			"id": "#cylinder_gift_box_0_Layer0_0_FILL",
+			"strokeId": "#cylinder_gift_box_Layer0_0_1_STROKES",
+			"onclickColor": "#8FAEFF",
+			"audio": "",
+			"textField": "Giftbox_1",
+			"subCategory": "Box use for packing",
+			"categoryTxtimg": {
+				"url": "assets/options/giftpack1.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/gift_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/giftpack1_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/gift_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/giftpack1_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/gift_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 65.8,
+			"top": 10.5,
+			"ddTooltipleft": 66,
+			"ddTooltiptop": 17.4,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip5",
+			"id": "#godrej_almirah_0_Layer0_0_FILL",
+			"strokeId": "#godrej_almirah_Layer0_0_1_STROKES",
+			"onclickColor": "#6DCAD1",
+			"audio": "",
+			"textField": "Cupboard",
+			"subCategory": "Store clothes",
+			"categoryTxtimg": {
+				"url": "assets/options/cupboard.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/cupboard_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/cupboard_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/cupboard_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/cupboard_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/cupboard_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 40.4,
+			"top": 29,
+			"ddTooltipleft": 40.4,
+			"ddTooltiptop": 35.8,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip6",
+			"id": "#football_0_Layer0_0_FILL",
+			"strokeId": "#football_Layer0_0_1_STROKES",
+			"onclickColor": "#CCCCCC",
+			"audio": "",
+			"textField": "Football",
+			"subCategory": "For playing",
+			"categoryTxtimg": {
+				"url": "assets/options/football.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/ball_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/football_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/ball_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/football_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/ball_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 49.1,
+			"top": 29,
+			"ddTooltipleft": 49.1,
+			"ddTooltiptop": 35.8,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip7",
+			"id": "#gift_box_green_0_Layer0_0_FILL",
+			"strokeId": "#gift_box_green_0_1_STROKES",
+			"onclickColor": "#33CCCC",
+			"audio": "",
+			"textField": "Giftbox_2",
+			"subCategory": "Box use for packing",
+			"categoryTxtimg": {
+				"url": "assets/options/giftpack2.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/gift_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/giftpack2_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/gift_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/giftpack2_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/gift_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 57,
+			"top": 29,
+			"ddTooltipleft": 57,
+			"ddTooltiptop": 55.2,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip8",
+			"id": "#ball_0_Layer0_0_FILL",
+			"strokeId": "#ball_Layer0_0_1_STROKES",
+			"onclickColor": "#65C0B9",
+			"audio": "",
+			"textField": "Ball",
+			"subCategory": "For playing",
+			"categoryTxtimg": {
+				"url": "assets/options/ball.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/ball_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/ball_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/ball_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/ball_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/ball_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 65.8,
+			"top": 29,
+			"ddTooltipleft": 65.8,
+			"ddTooltiptop": 55.2,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip9",
+			"id": "#daish_0_Layer0_0_FILL",
+			"strokeId": "#daish_0_Layer0_0_1_STROKES",
+			"onclickColor": "#81ECEC",
+			"audio": "",
+			"textField": "Dice",
+			"subCategory": "Playing ludo",
+			"categoryTxtimg": {
+				"url": "assets/options/dice.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/dice_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/dice_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/dice_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/dice_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/dice_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 40.4,
+			"top": 48.5,
+			"ddTooltipleft": 40.4,
+			"ddTooltiptop": 55,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip10",
+			"id": "#cosco_ball_0_Layer0_0_FILL",
+			"strokeId": "#cosco_ball_0_Layer0_0_1_STROKES",
+			"onclickColor": "#E67E22",
+			"audio": "",
+			"textField": "Tennisball",
+			"subCategory": "Playing tennis",
+			"categoryTxtimg": {
+				"url": "assets/options/tennisball.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/tennisball_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/tennisball_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/tennisball_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/tennisball_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/tennisball_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 49.1,
+			"top": 48.5,
+			"ddTooltipleft": 49.1,
+			"ddTooltiptop": 55,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip11",
+			"id": "#yellow_gift_box_0_Layer0_0_FILL",
+			"strokeId": "#yellow_gift_box_Layer0_0_1_STROKES",
+			"onclickColor": "#9B59B6",
+			"audio": "",
+			"textField": "Giftbox_3",
+			"subCategory": "Box use for packing",
+			"categoryTxtimg": {
+				"url": "assets/options/giftpack3.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/gift_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/giftpack3_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/gift_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/giftpack3_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/gift_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 57,
+			"top": 48.5,
+			"ddTooltipleft": 57,
+			"ddTooltiptop": 55,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip12",
+			"id": "#paint_color__0_Layer0_0_FILL",
+			"strokeId": "#paint_color_Layer0_0_1_STROKES",
+			"onclickColor": "#D39C8C",
+			"audio": "",
+			"textField": "Container",
+			"subCategory": "Store liquid",
+			"categoryTxtimg": {
+				"url": "assets/options/container.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/container_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/container_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/container_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/container_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/container_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 65.8,
+			"top": 48.5,
+			"ddTooltipleft": 65.8,
+			"ddTooltiptop": 55,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip13",
+			"id": "#shose_box_0_Layer0_0_FILL",
+			"strokeId": "#shose_box_Layer0_0_1_STROKES",
+			"onclickColor": "#FAB1A0",
+			"audio": "",
+			"textField": "Shoebox",
+			"subCategory": "Store footwears",
+			"categoryTxtimg": {
+				"url": "assets/options/shoebox.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/shoebox_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/shoebox_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/shoebox_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/shoebox_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/shoebox_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 40.4,
+			"top": 71.5,
+			"ddTooltipleft": 40.4,
+			"ddTooltiptop": 78.2,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip14",
+			"id": "#matches_box_0_Layer0_0_FILL",
+			"strokeId": "#matches_box_Layer0_0_1_STROKES",
+			"onclickColor": "#55EFC4",
+			"audio": "",
+			"textField": "Matchbox",
+			"subCategory": "Use for fire",
+			"categoryTxtimg": {
+				"url": "assets/options/matchbox.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/matchbox_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/matchbox_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/matchbox_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/matchbox_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/matchbox_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 49.1,
+			"top": 71.5,
+			"ddTooltipleft": 49.1,
+			"ddTooltiptop": 78.2,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip15",
+			"id": "#cylinder_shape_0_Layer0_0_FILL",
+			"strokeId": "#cylinder_shape_Layer0_0_1_STROKES",
+			"onclickColor": "#FF8B6A",
+			"audio": "",
+			"textField": "Pipe",
+			"subCategory": "Transfer water",
+			"categoryTxtimg": {
+				"url": "assets/options/pipe.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/pipe_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/pipe_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/pipe_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/pipe_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/pipe_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 57,
+			"top": 71.5,
+			"ddTooltipleft": 57,
+			"ddTooltiptop": 78.2,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip16",
+			"id": "#tiffin_box_0_Layer0_0_FILL",
+			"strokeId": "#tiffin_box_Layer0_0_1_STROKES",
+			"onclickColor": "#0D7E84",
+			"audio": "",
+			"textField": "Tiffin",
+			"subCategory": "Store food",
+			"categoryTxtimg": {
+				"url": "assets/options/tiffin.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/tiffin_use.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/tiffin_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/tiffin_correctuse.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/tiffin_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/tiffin_wronguse.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 65.8,
+			"top": 71.5,
+			"ddTooltipleft": 65.8,
+			"ddTooltiptop": 78.2,
+			"clicked": false
 		}
-	}],
+	],
 	"feedback": {
 		"Showans_feedback_next_timer": 30,
 		"feedback_next_timer": 150,
