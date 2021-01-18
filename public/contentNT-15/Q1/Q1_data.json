@@ -42,7 +42,11 @@
         "imgsrc": {
             "url": "ansbase.svg",
             "location": "content"
-        }
+        },
+        "narrator_voice": {
+			"url": "Q1.ogg",
+			"location": "content"
+		}
     },
     "speaker": {
         "enabled": "",
@@ -332,34 +336,31 @@
 
 
     "feedback": {
-        "correct_ans_index": 2,
-        "correct_ans_url": "assets/feedback/correctAnsPopup1.png",
-        "style_header": {
-            "border": "solid .4vmin #3C7132",
-            "border-top-left-radius": "20px",
-            "border-top-right-radius": "20px",
-            "background": "#519843"
-        },
-        "style_body": {
-            "border": "solid .4vmin #3C7132",
-            "border-bottom-left-radius": "20px",
-            "border-bottom-right-radius": "20px",
-            "border-top": "none",
-            "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
-        },
-        "rightAnswerheaderTxt_img": {
-
-        },
-        "showAnswerheaderTxt_img": {
-
-        },
-        "rightAnswerpopupTxt": {
-
-        },
-        "showAnswerpopupTxt": {
-
-        },
-        "popup_commmon_imgs": {
+        "correct_ans_index": [
+            "2",
+            "5",
+            "1",
+            "4",
+            "3"
+        ],
+        "wrongFeedback": {
+            "style_header": {
+                "border": "solid .4vmin #b5282e",
+                "border-top-left-radius": "20px",
+                "border-top-right-radius": "20px",
+                "background": "#e2373d"
+            },
+            "style_body": {
+                "border": "solid .4vmin #b5282e",
+                "border-bottom-left-radius": "20px",
+                "border-bottom-right-radius": "20px",
+                "border-top": "none",
+                "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
+            },
+            "headerTxt_img": {
+                "url": "header_confirm_text_wrong.png",
+                "location": "content"
+            },
             "close_btn": {
                 "urlglobal": "global/popups/closeBtn.png",
                 "location": "theme"
@@ -371,10 +372,46 @@
             "close_btn_original": {
                 "urlglobal": "global/popups/closeBtn.png",
                 "location": "theme"
+            },
+            "feedbackVo": {
+                "url": "wrongFeedback.ogg",
+                "location": "content"
             }
         },
-        "right_ans_popup": {
-
+        "rightFeedback": {
+            "style_header": {
+                "border": "solid .4vmin #3C7132",
+                "border-top-left-radius": "20px",
+                "border-top-right-radius": "20px",
+                "background": "#519843"
+            },
+            "style_body": {
+                "border": "solid .4vmin #3C7132",
+                "border-bottom-left-radius": "20px",
+                "border-bottom-right-radius": "20px",
+                "border-top": "none",
+                "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+            },
+            "headerTxt_img": {
+                "url": "header_confirm_text.png",
+                "location": "content"
+            },
+            "close_btn": {
+                "urlglobal": "global/popups/closeBtn.png",
+                "location": "theme"
+            },
+            "close_btn_hover": {
+                "urlglobal": "global/popups/closeBtnHover.png",
+                "location": "theme"
+            },
+            "close_btn_original": {
+                "urlglobal": "global/popups/closeBtn.png",
+                "location": "theme"
+            },
+            "feedbackVo": {
+                "url": "rightFeedback.ogg",
+                "location": "content"
+            }
         },
         "submit_popup": {
             "style_header": {
@@ -438,7 +475,7 @@
                 "urlglobal": "global/popups/no_btn.png",
                 "location": "theme"
             }
-		},
+        },
         "replay_confirm": {
             "style_header": {
                 "border": "solid .4vmin #057499",
@@ -517,7 +554,7 @@
                 "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
             },
             "headerTxt_img": {
-                "url": "assets/popups/PopupConfirmHeader.png",
+                "url": "assets/popups/show_answer_confirmation/PopupConfirmHeader.png",
                 "location": "content"
             },
             "bg_img": {
@@ -563,6 +600,35 @@
             "decline_btn_original": {
                 "urlglobal": "global/popups/no_btn.png",
                 "location": "theme"
+            }
+        },
+        "write_ans_popup": {
+            "enabled": false,
+            "text": "",
+            "imgsrc": {
+                "url": "correctAnsPopup.svg",
+                "location": "content"
+            },
+            "sound": ""
+        },
+        "wrong_ans_popup": {
+            "enabled": false,
+            "text": "",
+            "imgsrc": "",
+            "sound": ""
+        },
+        "write_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "assets/sounds/clap.ogg",
+                "location": "assets"
+            }
+        },
+        "wrong_ans_sound": {
+            "enabled": true,
+            "path": {
+                "url": "assets/sounds/shake.ogg",
+                "location": "assets"
             }
         }
     }
