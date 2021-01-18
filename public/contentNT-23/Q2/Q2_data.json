@@ -210,7 +210,6 @@
 			"id": "#right_knee_0_Layer0_0_FILL_1",
 			"strokeId": "#right_knee_0_Layer0_0_1_STROKES",
 			"onclickColor": "#EE2A7B",
-			"audio": "",
 			"textField": "Right Knee",
 			"subCategory": "",
 			"categoryTxtimg": {
@@ -249,7 +248,6 @@
 			"id": "#right_thigh_0_Layer0_0_FILL",
 			"strokeId": "#right_thigh_0_Layer0_0_1_STROKES",
 			"onclickColor": "#679389",
-			"audio": "",
 			"textField": "Right Thigh",
 			"subCategory": "Flexion, extension, rotation of body",
 			"categoryTxtimg": {
@@ -288,7 +286,6 @@
 			"id": "#right_foot_0_Layer0_0_FILL",
 			"strokeId": "#right_foot_0_Layer0_0_1_STROKES",
 			"onclickColor": "#FF9966",
-			"audio": "",
 			"textField": "Right Foot",
 			"subCategory": "Walk, Balance and Stand",
 			"categoryTxtimg": {
@@ -327,7 +324,6 @@
 			"id": "#neck_0_Layer0_0_FILL",
 			"strokeId": "#neck_0_Layer0_0_1_STROKES",
 			"onclickColor": "#003926",
-			"audio": "",
 			"textField": "Neck",
 			"subCategory": "Supports weight of head",
 			"categoryTxtimg": {
@@ -366,7 +362,6 @@
 			"id": "#left_thigh_0_Layer0_0_FILL",
 			"strokeId": "#left_thigh_0_Layer0_0_1_STROKES",
 			"onclickColor": "#737AA4",
-			"audio": "",
 			"textField": "Left Thigh",
 			"subCategory": "Flexion, extension, rotation of body",
 			"categoryTxtimg": {
@@ -405,7 +400,6 @@
 			"id": "#left_knee_0_Layer0_0_FILL_1",
 			"strokeId": "#left_knee_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F7CA18",
-			"audio": "",
 			"textField": "Left Knee",
 			"subCategory": "",
 			"categoryTxtimg": {
@@ -444,7 +438,6 @@
 			"id": "#left_foot_0_Layer0_0_FILL",
 			"strokeId": "#left_foot_0_Layer0_0_1_STROKES",
 			"onclickColor": "#B0BF0E",
-			"audio": "",
 			"textField": "Left Foot",
 			"subCategory": "Walk, Balance and Stand",
 			"categoryTxtimg": {
@@ -483,7 +476,6 @@
 			"id": "#left_bicep_0_Layer0_0_FILL",
 			"strokeId": "#left_bicep_0_Layer0_0_1_STROKES",
 			"onclickColor": "#403465",
-			"audio": "",
 			"textField": "Left Biceps",
 			"subCategory": "Suspension of forearm",
 			"categoryTxtimg": {
@@ -522,7 +514,6 @@
 			"id": "#left_forearm_0_Layer0_0_FILL_1",
 			"strokeId": "#left_forearm_0_Layer0_0_1_STROKES",
 			"onclickColor": "#00A14B",
-			"audio": "",
 			"textField": "Left Forearm",
 			"subCategory": "",
 			"categoryTxtimg": {
@@ -561,7 +552,6 @@
 			"id": "#left_hand_0_Layer0_0_FILL",
 			"strokeId": "#Left_hand_0_Layer0_0_1_STROKES",
 			"onclickColor": "#FE9F9D",
-			"audio": "",
 			"textField": "Left Hand",
 			"subCategory": "Pick Things up, scratch and itch",
 			"categoryTxtimg": {
@@ -600,7 +590,6 @@
 			"id": "#right_bicep_0_Layer0_0_FILL",
 			"strokeId": "#right_bicep_0_Layer0_0_1_STROKES",
 			"onclickColor": "#84557E",
-			"audio": "",
 			"textField": "Right Biceps",
 			"subCategory": "Suspension of forearm",
 			"categoryTxtimg": {
@@ -639,7 +628,6 @@
 			"id": "#right_forearm_0_Layer0_0_FILL_1",
 			"strokeId": "#right_forearm_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F26522",
-			"audio": "",
 			"textField": "Right Forearm",
 			"subCategory": "",
 			"categoryTxtimg": {
@@ -678,7 +666,6 @@
 			"id": "#stomak_0_Layer0_0_FILL_1",
 			"strokeId": "#stomak_0_Layer0_0_1_STROKES",
 			"onclickColor": "#7F3F98",
-			"audio": "",
 			"textField": "Stomach",
 			"subCategory": "",
 			"categoryTxtimg": {
@@ -717,7 +704,6 @@
 			"id": "#chest_0_Layer0_0_FILL",
 			"strokeId": "#chest_0_Layer0_0_1_STROKES",
 			"onclickColor": "#EFDDE9",
-			"audio": "",
 			"textField": "Chest",
 			"subCategory": "Protection to organs (heart,lungs,liver)",
 			"categoryTxtimg": {
@@ -756,7 +742,6 @@
 			"id": "#FL_3dot_0_Layer0_0_FILL_1",
 			"strokeId": "#FL_3dott_0_Layer0_0_1_STROKES_1",
 			"onclickColor": "#ED1C24",
-			"audio": "",
 			"textField": "Vestigial",
 			"subCategory": "",
 			"categoryTxtimg": {
@@ -795,7 +780,6 @@
 			"id": "#hear_0_Layer0_0_FILL",
 			"strokeId": "#hear_0_Layer0_0_1_STROKES",
 			"onclickColor": "#999966",
-			"audio": "",
 			"textField": "Hair",
 			"subCategory": "Protection of head",
 			"categoryTxtimg": {
@@ -834,7 +818,6 @@
 			"id": "#right_ear_0_Layer0_0_MEMBER_0_FILL",
 			"strokeId": "#right_ear_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F17770",
-			"audio": "",
 			"textField": "Right Ear",
 			"subCategory": "Hearing and balance",
 			"categoryTxtimg": {
@@ -873,7 +856,6 @@
 			"id": "#left_ear_0_Layer0_0_MEMBER_0_FILL",
 			"strokeId": "#left_ear_0_Layer0_0_1_STROKES",
 			"onclickColor": "#E7A09C",
-			"audio": "",
 			"textField": "Left Ear",
 			"subCategory": "Hearing and balance",
 			"categoryTxtimg": {
@@ -912,7 +894,6 @@
 			"id": "#face_0_Layer0_0_FILL_1",
 			"strokeId": "#face_0_Layer0_0_1_STROKES_1",
 			"onclickColor": "#ED1C24",
-			"audio": "",
 			"textField": "Face",
 			"subCategory": "",
 			"categoryTxtimg": {
@@ -990,7 +971,6 @@
 			"id": "#mouth_0_Layer0_0_MEMBER_0_FILL",
 			"strokeId": "#mouth_0_Layer0_0_1_STROKES",
 			"onclickColor": "#2A203B",
-			"audio": "",
 			"textField": "Mouth",
 			"subCategory": "Eating and speaking",
 			"categoryTxtimg": {
@@ -1029,7 +1009,6 @@
 			"id": "#tung_0_Layer0_0_FILL",
 			"strokeId": "#tung_0_Layer0_0_1_STROKES",
 			"onclickColor": "#E94E76",
-			"audio": "",
 			"textField": "Tongue",
 			"subCategory": "Speech and taste",
 			"categoryTxtimg": {
@@ -1068,7 +1047,6 @@
 			"id": "#teeth_0_Layer0_0_FILL",
 			"strokeId": "#teeth_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F5EAD6",
-			"audio": "",
 			"textField": "Teeth",
 			"subCategory": "Eat,tear, cut and grind food",
 			"categoryTxtimg": {
@@ -1107,7 +1085,6 @@
 			"id": "#left_eye_0_Layer0_0_MEMBER_0_FILL",
 			"strokeId": "#left_eye_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F1B976",
-			"audio": "",
 			"textField": "Left Eye",
 			"subCategory": "Seeing things",
 			"categoryTxtimg": {
@@ -1146,7 +1123,6 @@
 			"id": "#right_eye_0_Layer0_0_MEMBER_0_FILL",
 			"strokeId": "#right_eye_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F1D3AF",
-			"audio": "",
 			"textField": "Right Eye",
 			"subCategory": "Seeing things",
 			"categoryTxtimg": {
@@ -1185,7 +1161,6 @@
 			"id": "#pelvis_0_Layer0_0_FILL_1",
 			"strokeId": "#pelvis_0_Layer0_0_1_STROKES",
 			"onclickColor": "#ED1C24",
-			"audio": "",
 			"textField": "Pelvis",
 			"subCategory": "Seeing things",
 			"categoryTxtimg": {
@@ -1224,7 +1199,6 @@
 			"id": "#right_hand_0_Layer0_0_FILL",
 			"strokeId": "#right_hand_0_Layer0_0_1_STROKES",
 			"onclickColor": "#B58483",
-			"audio": "",
 			"textField": "Right Hand",
 			"subCategory": "Pick Things up, scratch and itch",
 			"categoryTxtimg": {

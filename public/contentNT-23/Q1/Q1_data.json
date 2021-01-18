@@ -210,7 +210,6 @@
 			"id": "#Rajasthan_0_Layer1_0_FILL",
 			"strokeId": "#Rajasthan_0_Layer1_0_1_STROKES",
 			"onclickColor": "#EE2A7B",
-			"audio": "Rajastahan.ogg",
 			"textField": "Rajastahan",
 			"subCategory": "Jaipur",
 			"categoryTxtimg": {
@@ -250,7 +249,6 @@
 			"id": "#Jammu_and_Kashmir_0_Layer1_0_FILL",
 			"strokeId": "#Jammu_and_Kashmir_0_Layer1_0_1_STROKES",
 			"onclickColor": "#21409A",
-			"audio": "J&K.ogg",
 			"textField": "J&K",
 			"subCategory": "Srinagar(Summer), Jammu(Winter)",
 			"categoryTxtimg": {
@@ -290,7 +288,6 @@
 			"id": "#Himachal_pradesh_0_Layer1_0_FILL",
 			"strokeId": "#Himachal_pradesh_0_Layer1_0_1_STROKES",
 			"onclickColor": "#7F3F98",
-			"audio": "HimachalPradesh.ogg",
 			"textField": "HimachalPradesh",
 			"subCategory": "Shimla",
 			"categoryTxtimg": {
@@ -330,7 +327,6 @@
 			"id": "#Punjab_0_Layer1_0_FILL",
 			"strokeId": "#Punjab_0_Layer1_0_1_STROKES",
 			"onclickColor": "#00A14B",
-			"audio": "Punjab.ogg",
 			"textField": "Punjab",
 			"subCategory": "Chandigarh",
 			"categoryTxtimg": {
@@ -370,7 +366,6 @@
 			"id": "#Uttarakhand_0_Layer1_0_FILL",
 			"strokeId": "#Uttarakhand_0_Layer1_0_1_STROKES",
 			"onclickColor": "#ED1C24",
-			"audio": "Uttrakhand.ogg",
 			"textField": "Uttrakhand",
 			"subCategory": "Dehradun, Gairsain (Summer)",
 			"categoryTxtimg": {
@@ -410,7 +405,6 @@
 			"id": "#Haryana_0_Layer1_0_FILL",
 			"strokeId": "#Haryana_0_Layer1_0_1_STROKES",
 			"onclickColor": "#F7941E",
-			"audio": "Haryana.ogg",
 			"textField": "Haryana",
 			"subCategory": "Chandigarh",
 			"categoryTxtimg": {
@@ -450,7 +444,6 @@
 			"id": "#Uttar_pradesh_0_Layer0_0_FILL",
 			"strokeId": "#Uttar_pradesh_0_Layer0_0_1_STROKES",
 			"onclickColor": "#17C2C2",
-			"audio": "UttarPradesh.ogg",
 			"textField": "UttarPradesh",
 			"subCategory": "Lucknow",
 			"categoryTxtimg": {
@@ -490,7 +483,6 @@
 			"id": "#gujarat_0_Layer1_0_FILL",
 			"strokeId": "#gujarat_0_Layer1_0_1_STROKES",
 			"onclickColor": "#7F3F98",
-			"audio": "Gujarat.ogg",
 			"textField": "Gujarat",
 			"subCategory": "Gandhinagar",
 			"categoryTxtimg": {
@@ -530,7 +522,6 @@
 			"id": "#Madhya_pradesh_0_Layer1_0_FILL",
 			"strokeId": "#Madhya_pradesh_0_Layer1_0_1_STROKES",
 			"onclickColor": "#00A14B",
-			"audio": "MadhhyaPradesh.ogg",
 			"textField": "MadhyaPradesh",
 			"subCategory": "Bhopal",
 			"categoryTxtimg": {
@@ -570,7 +561,6 @@
 			"id": "#Bihar_0_Layer1_0_FILL",
 			"strokeId": "#Bihar_0_Layer1_0_1_STROKES",
 			"onclickColor": "#21409A",
-			"audio": "Bihar.ogg",
 			"textField": "Bihar",
 			"subCategory": "Patna",
 			"categoryTxtimg": {
@@ -610,7 +600,6 @@
 			"id": "#Jharkhand_0_Layer1_0_FILL",
 			"strokeId": "#Jharkhand_0_Layer1_0_1_STROKES",
 			"onclickColor": "#F7941E",
-			"audio": "Jharkhand.ogg",
 			"textField": "Jharkhand",
 			"subCategory": "Ranchi",
 			"categoryTxtimg": {
@@ -650,7 +639,6 @@
 			"id": "#Chhattisgarh_0_Layer1_0_FILL",
 			"strokeId": "#Chhattisgarh_0_Layer1_0_1_STROKES",
 			"onclickColor": "#ED1C24",
-			"audio": "Chhattisgarh.ogg",
 			"textField": "Chhattisgarh",
 			"subCategory": "Naya Raipur",
 			"categoryTxtimg": {
@@ -690,7 +678,6 @@
 			"id": "#Maharashtra_0_Layer1_0_FILL",
 			"strokeId": "#Maharashtra_0_Layer1_0_1_STROKES",
 			"onclickColor": "#F26522",
-			"audio": "Maharashtra.ogg",
 			"textField": "Maharashtra",
 			"subCategory": "Mumbai",
 			"categoryTxtimg": {
@@ -730,7 +717,6 @@
 			"id": "#Orissa_0_Layer1_0_FILL",
 			"strokeId": "#Orissa_0_Layer1_0_1_STROKES",
 			"onclickColor": "#7F3F98",
-			"audio": "Orissa.ogg",
 			"textField": "Odisha",
 			"subCategory": "Bhubaneswar",
 			"categoryTxtimg": {
@@ -770,7 +756,6 @@
 			"id": "#West_bengal_0_Layer1_0_FILL",
 			"strokeId": "#West_bengal_0_Layer1_0_1_STROKES",
 			"onclickColor": "#00A14B",
-			"audio": "WestBengal.ogg",
 			"textField": "WestBengal",
 			"subCategory": "",
 			"categoryTxtimg": {
@@ -810,7 +795,6 @@
 			"id": "#Sikkim_0_Layer1_0_FILL",
 			"strokeId": "#Sikkim_0_Layer1_0_1_STROKES",
 			"onclickColor": "#ED1C24",
-			"audio": "Sikkim.ogg",
 			"textField": "Sikkim",
 			"subCategory": "Gangtok",
 			"categoryTxtimg": {
@@ -850,7 +834,6 @@
 			"id": "#Andhra_pradesh_0_Layer1_0_FILL",
 			"strokeId": "#Andhra_pradesh_0_Layer1_0_1_STROKES",
 			"onclickColor": "#21409A",
-			"audio": "AndhraPradesh.ogg",
 			"textField": "AndhraPradesh",
 			"subCategory": "Hyderabad",
 			"categoryTxtimg": {
@@ -890,7 +873,6 @@
 			"id": "#Goa_0_Layer1_0_FILL",
 			"strokeId": "#Goa_0_Layer1_0_1_STROKES",
 			"onclickColor": "#ED1C24",
-			"audio": "Goa.ogg",
 			"textField": "Goa",
 			"subCategory": "Panaji",
 			"categoryTxtimg": {
@@ -930,7 +912,6 @@
 			"id": "#Karnataka_0_Layer1_0_FILL",
 			"strokeId": "#Karnataka_0_Layer1_0_1_STROKES",
 			"onclickColor": "#27AAE1",
-			"audio": "Karnataka.ogg",
 			"textField": "Karnataka",
 			"subCategory": "Bengaluru",
 			"categoryTxtimg": {
@@ -970,7 +951,6 @@
 			"id": "#Tamil_nadu_0_Layer1_0_FILL",
 			"strokeId": "#Tamil_nadu_0_Layer1_0_1_STROKES",
 			"onclickColor": "#00A14B",
-			"audio": "Tamilnadu.ogg",
 			"textField": "Tamilnadu",
 			"subCategory": "Chennai",
 			"categoryTxtimg": {
@@ -1010,7 +990,6 @@
 			"id": "#Kerala_0_Layer1_0_FILL",
 			"strokeId": "#Kerala_0_Layer1_0_1_STROKES",
 			"onclickColor": "#7F3F98",
-			"audio": "Kerala.ogg",
 			"textField": "Kerala",
 			"subCategory": "Thiruvananthapuram",
 			"categoryTxtimg": {
@@ -1050,7 +1029,6 @@
 			"id": "#Assam_0_Layer1_0_FILL",
 			"strokeId": "#Assam_0_Layer1_0_1_STROKES",
 			"onclickColor": "#27AAE1",
-			"audio": "Assam.ogg",
 			"textField": "Assam",
 			"subCategory": "Dispur",
 			"categoryTxtimg": {
@@ -1090,7 +1068,6 @@
 			"id": "#Nagaland_0_Layer1_0_FILL",
 			"strokeId": "#Nagaland_0_Layer1_0_1_STROKES",
 			"onclickColor": "#00A14B",
-			"audio": "Nagaland.ogg",
 			"textField": "Nagaland",
 			"subCategory": "Kohima",
 			"categoryTxtimg": {
@@ -1130,7 +1107,6 @@
 			"id": "#Manipur_0_Layer1_0_FILL",
 			"strokeId": "#Manipur_0_Layer1_0_1_STROKES",
 			"onclickColor": "#7F3F98",
-			"audio": "Manipur.ogg",
 			"textField": "Manipur",
 			"subCategory": "Imphal",
 			"categoryTxtimg": {
@@ -1170,7 +1146,6 @@
 			"id": "#Mizeram_0_Layer1_0_FILL",
 			"strokeId": "#Mizeram_0_Layer1_0_1_STROKES",
 			"onclickColor": "#21409A",
-			"audio": "Mizoram.ogg",
 			"textField": "Mizoram",
 			"subCategory": "Aizawl",
 			"categoryTxtimg": {
@@ -1210,7 +1185,6 @@
 			"id": "#Tripura_0_Layer1_0_FILL",
 			"strokeId": "#Tripura_0_Layer1_0_1_STROKES",
 			"onclickColor": "#F26522",
-			"audio": "Tripura.ogg",
 			"textField": "Tripura",
 			"subCategory": "Agartala",
 			"categoryTxtimg": {
@@ -1250,7 +1224,6 @@
 			"id": "#Meghalaya_0_Layer1_0_FILL",
 			"strokeId": "#Meghalaya_0_Layer1_0_1_STROKES",
 			"onclickColor": "#EE2A7B",
-			"audio": "Meghalaya.ogg",
 			"textField": "Meghalaya",
 			"subCategory": "Shillong",
 			"categoryTxtimg": {
@@ -1290,7 +1263,6 @@
 			"id": "#Arunchal_pradesh_0_Layer1_0_FILL",
 			"strokeId": "#Arunchal_pradesh_0_Layer1_0_1_STROKES",
 			"onclickColor": "#F7941E",
-			"audio": "Arunchal_pradesh.ogg",
 			"textField": "Arunchal Pradesh",
 			"subCategory": "Itanagar",
 			"categoryTxtimg": {

@@ -210,7 +210,6 @@
 			"id": "#umbrella_0_Layer0_0_FILL",
 			"strokeId": "",
 			"onclickColor": "#96B000",
-			"audio": "",
 			"textField": "Object_1",
 			"subCategory": "Umbrella",
 			"categoryTxtimg": {
@@ -249,7 +248,6 @@
 			"id": "#girl_1_0_Layer0_0_FILL_1",
 			"strokeId": "",
 			"onclickColor": "#A07F64",
-			"audio": "",
 			"textField": "",
 			"subCategory": "",
 			"categoryTxtimg": {
@@ -288,7 +286,6 @@
 			"id": "#ball_0_Layer0_0_FILL",
 			"strokeId": "",
 			"onclickColor": "#92024A",
-			"audio": "",
 			"textField": "Object_2",
 			"subCategory": "Ball",
 			"categoryTxtimg": {
@@ -327,7 +324,6 @@
 			"id": "#apple_0_Layer0_0_FILL",
 			"strokeId": "",
 			"onclickColor": "#333333",
-			"audio": "",
 			"textField": "Object_3",
 			"subCategory": "Apple",
 			"categoryTxtimg": {
@@ -366,7 +362,6 @@
 			"id": "#cap_0_Layer0_0_FILL",
 			"strokeId": "",
 			"onclickColor": "#CB6095",
-			"audio": "",
 			"textField": "Object_4",
 			"subCategory": "Hat",
 			"categoryTxtimg": {
@@ -405,7 +400,6 @@
 			"id": "#girl_2_0_Layer0_0_FILL_1",
 			"strokeId": "",
 			"onclickColor": "#2F6E9A",
-			"audio": "",
 			"textField": "girl",
 			"subCategory": "",
 			"categoryTxtimg": {
@@ -444,7 +438,6 @@
 			"id": "#football_0_Layer0_0_FILL",
 			"strokeId": "",
 			"onclickColor": "#CFA718",
-			"audio": "",
 			"textField": "Object_5",
 			"subCategory": "Football",
 			"categoryTxtimg": {
@@ -483,7 +476,6 @@
 			"id": "#girl_3_0_Layer0_0_FILL_1",
 			"strokeId": "",
 			"onclickColor": "#244234",
-			"audio": "",
 			"textField": "girl",
 			"subCategory": "",
 			"categoryTxtimg": {
@@ -522,7 +514,6 @@
 			"id": "#van_0_Layer0_0_FILL",
 			"strokeId": "",
 			"onclickColor": "#ED7A8B",
-			"audio": "",
 			"textField": "Object_6",
 			"subCategory": "Van",
 			"categoryTxtimg": {
@@ -561,7 +552,6 @@
 			"id": "#cycle_0_Layer0_0_FILL",
 			"strokeId": "",
 			"onclickColor": "#BF4718",
-			"audio": "",
 			"textField": "Object_7",
 			"subCategory": "Cycle",
 			"categoryTxtimg": {
@@ -600,7 +590,6 @@
 			"id": "#chair_0_Layer0_0_FILL",
 			"strokeId": "",
 			"onclickColor": "#CFCCB9",
-			"audio": "",
 			"textField": "Object_8",
 			"subCategory": "Chair",
 			"categoryTxtimg": {
@@ -639,7 +628,6 @@
 			"id": "#girl_4_1_0_Layer0_0_FILL_1",
 			"strokeId": "",
 			"onclickColor": "#FEEF84",
-			"audio": "",
 			"textField": "girl",
 			"subCategory": "",
 			"categoryTxtimg": {
@@ -678,7 +666,6 @@
 			"id": "#Layer0_0_1_STROKES_1",
 			"strokeId": "",
 			"onclickColor": "#FAB1A0",
-			"audio": "",
 			"textField": "border",
 			"subCategory": "",
 			"categoryTxtimg": {

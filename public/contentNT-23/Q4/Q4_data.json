@@ -210,7 +210,6 @@
 			"id": "#tank_0_Layer0_0_FILL",
 			"strokeId": "#tank_Layer0_0_1_STROKES",
 			"onclickColor": "#1ABC9C",
-			"audio": "",
 			"textField": "Tank",
 			"subCategory": "Water storage",
 			"categoryTxtimg": {
@@ -249,7 +248,6 @@
 			"id": "#cube_0_Layer0_0_FILL",
 			"strokeId": "#cube0_0_1_STROKES",
 			"onclickColor": "#27AE60",
-			"audio": "",
 			"textField": "Butter",
 			"subCategory": "Use for breakfast",
 			"categoryTxtimg": {
@@ -288,7 +286,6 @@
 			"id": "#earth_0_Layer0_0_FILL",
 			"strokeId": "#earth0_0_1_STROKES",
 			"onclickColor": "#E74C3C",
-			"audio": "",
 			"textField": "Globe",
 			"subCategory": "Find the places",
 			"categoryTxtimg": {
@@ -327,7 +324,6 @@
 			"id": "#cylinder_gift_box_0_Layer0_0_FILL",
 			"strokeId": "#cylinder_gift_box_Layer0_0_1_STROKES",
 			"onclickColor": "#8FAEFF",
-			"audio": "",
 			"textField": "Giftbox_1",
 			"subCategory": "Box use for packing",
 			"categoryTxtimg": {
@@ -366,7 +362,6 @@
 			"id": "#godrej_almirah_0_Layer0_0_FILL",
 			"strokeId": "#godrej_almirah_Layer0_0_1_STROKES",
 			"onclickColor": "#6DCAD1",
-			"audio": "",
 			"textField": "Cupboard",
 			"subCategory": "Store clothes",
 			"categoryTxtimg": {
@@ -405,7 +400,6 @@
 			"id": "#football_0_Layer0_0_FILL",
 			"strokeId": "#football_Layer0_0_1_STROKES",
 			"onclickColor": "#CCCCCC",
-			"audio": "",
 			"textField": "Football",
 			"subCategory": "For playing",
 			"categoryTxtimg": {
@@ -444,7 +438,6 @@
 			"id": "#gift_box_green_0_Layer0_0_FILL",
 			"strokeId": "#gift_box_green_0_1_STROKES",
 			"onclickColor": "#33CCCC",
-			"audio": "",
 			"textField": "Giftbox_2",
 			"subCategory": "Box use for packing",
 			"categoryTxtimg": {
@@ -483,7 +476,6 @@
 			"id": "#ball_0_Layer0_0_FILL",
 			"strokeId": "#ball_Layer0_0_1_STROKES",
 			"onclickColor": "#65C0B9",
-			"audio": "",
 			"textField": "Ball",
 			"subCategory": "For playing",
 			"categoryTxtimg": {
@@ -522,7 +514,6 @@
 			"id": "#daish_0_Layer0_0_FILL",
 			"strokeId": "#daish_0_Layer0_0_1_STROKES",
 			"onclickColor": "#81ECEC",
-			"audio": "",
 			"textField": "Dice",
 			"subCategory": "Playing ludo",
 			"categoryTxtimg": {
@@ -561,7 +552,6 @@
 			"id": "#cosco_ball_0_Layer0_0_FILL",
 			"strokeId": "#cosco_ball_0_Layer0_0_1_STROKES",
 			"onclickColor": "#E67E22",
-			"audio": "",
 			"textField": "Tennisball",
 			"subCategory": "Playing tennis",
 			"categoryTxtimg": {
@@ -600,7 +590,6 @@
 			"id": "#yellow_gift_box_0_Layer0_0_FILL",
 			"strokeId": "#yellow_gift_box_Layer0_0_1_STROKES",
 			"onclickColor": "#9B59B6",
-			"audio": "",
 			"textField": "Giftbox_3",
 			"subCategory": "Box use for packing",
 			"categoryTxtimg": {
@@ -639,7 +628,6 @@
 			"id": "#paint_color__0_Layer0_0_FILL",
 			"strokeId": "#paint_color_Layer0_0_1_STROKES",
 			"onclickColor": "#D39C8C",
-			"audio": "",
 			"textField": "Container",
 			"subCategory": "Store liquid",
 			"categoryTxtimg": {
@@ -678,7 +666,6 @@
 			"id": "#shose_box_0_Layer0_0_FILL",
 			"strokeId": "#shose_box_Layer0_0_1_STROKES",
 			"onclickColor": "#FAB1A0",
-			"audio": "",
 			"textField": "Shoebox",
 			"subCategory": "Store footwears",
 			"categoryTxtimg": {
@@ -717,7 +704,6 @@
 			"id": "#matches_box_0_Layer0_0_FILL",
 			"strokeId": "#matches_box_Layer0_0_1_STROKES",
 			"onclickColor": "#55EFC4",
-			"audio": "",
 			"textField": "Matchbox",
 			"subCategory": "Use for fire",
 			"categoryTxtimg": {
@@ -756,7 +742,6 @@
 			"id": "#cylinder_shape_0_Layer0_0_FILL",
 			"strokeId": "#cylinder_shape_Layer0_0_1_STROKES",
 			"onclickColor": "#FF8B6A",
-			"audio": "",
 			"textField": "Pipe",
 			"subCategory": "Transfer water",
 			"categoryTxtimg": {
@@ -795,7 +780,6 @@
 			"id": "#tiffin_box_0_Layer0_0_FILL",
 			"strokeId": "#tiffin_box_Layer0_0_1_STROKES",
 			"onclickColor": "#0D7E84",
-			"audio": "",
 			"textField": "Tiffin",
 			"subCategory": "Store food",
 			"categoryTxtimg": {
