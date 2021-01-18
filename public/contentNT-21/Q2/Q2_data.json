@@ -24,7 +24,7 @@
 			"urlOgv": "assets/video.ogv",
 			"urlMP4": "assets/video.mp4",
 			"location": "content",
-			"autoPlay": true
+			"autoPlay": false
 		},
 		"submitRequired":true,
         "replayRequired":true,
@@ -401,12 +401,17 @@
 			"url": "assets/options/plus_selected.png",
 			"location": "content"
 		},
+		"imgsrc_inactive": {
+        "url": "assets/options/multiply_inactive.png",
+        "location": "content"
+      },
 		"operator": {
 			"url": "assets/options/addition.png",
 			"location": "content"
 		},
 		"canUse":false,
-		"selected": false
+		"selected": false,
+		"disable":false
 	}, {
 		"imgsrc": {
 			"url": "assets/options/minus.png",
@@ -424,12 +429,17 @@
 			"url": "assets/options/minus_selected.png",
 			"location": "content"
 		},
+		"imgsrc_inactive": {
+        "url": "assets/options/multiply_inactive.png",
+        "location": "content"
+      },
 		"operator": {
 			"url": "assets/options/substraction.png",
 			"location": "content"
 		},
 		"canUse":true,
-		"selected": false
+		"selected": false,
+		"disable":false
 	}, {
 		"imgsrc": {
 			"url": "assets/options/multiply.png",
@@ -447,12 +457,17 @@
 			"url": "assets/options/multiply_selected.png",
 			"location": "content"
 		},
+		"imgsrc_inactive": {
+        "url": "assets/options/multiply_inactive.png",
+        "location": "content"
+      },
 		"operator": {
 			"url": "assets/options/multiplication.png",
 			"location": "content"
 		},
 		"canUse":false,
-		"selected": false
+		"selected": false,
+		"disable":false
 	}, {
 		"imgsrc": {
 			"url": "assets/options/divide.png",
@@ -470,12 +485,17 @@
 			"url": "assets/options/divide_selected.png",
 			"location": "content"
 		},
+		"imgsrc_inactive": {
+        "url": "assets/options/multiply_inactive.png",
+        "location": "content"
+      },
 		"operator": {
 			"url": "assets/options/division.png",
 			"location": "content"
 		},
 		"canUse":true,
-		"selected": false
+		"selected": false,
+		"disable":false
 	}],
 
 	"other_assets": {
