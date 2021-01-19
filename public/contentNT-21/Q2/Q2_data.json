@@ -153,7 +153,7 @@
 				"location": "content"
 			},
 			"imgsrc_selected": {
-				"url": "num_1_selected.png",
+				"url": "assets/options/num_1_selected.png",
 				"location": "content"
 			},
 			"selected": false
@@ -534,17 +534,18 @@
 
 	 "operator_modal": {
     "style_header": {
-      "border": "solid .4vmin #85d222",
-      "border-top-left-radius": "20px",
-      "border-top-right-radius": "20px",
-      "background": "#248446"
+       "border": "solid .4vmin #057499",
+       "border-top-left-radius": "20px",
+       "border-top-right-radius": "20px",
+       "background": "#129fc1"
     },
     "style_body": {
-      "border": "solid .4vmin #85d222",
-      "border-bottom-left-radius": "20px",
-      "border-bottom-right-radius": "20px",
-      "background": "#afdec0"
-    },
+       "border": "solid .4vmin #057499",
+       "border-bottom-left-radius": "20px",
+       "border-bottom-right-radius": "20px",
+       "border-top": "none",
+       "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+     },
     "headerTxt_img": {
       "url": "assets/popups/operator_popup/header_operator_text.png",
       "location": "content"
