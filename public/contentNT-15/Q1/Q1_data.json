@@ -14,25 +14,13 @@
             "urlglobal": "global/tabs/bg/bg_1.svg",
             "location": "theme"
         },
-        "right_sound": {
-            "url": "assets/feedback/correctans.ogg",
-            "location": "content"
-        },
-        "wrong_sound": {
-            "url": "assets/feedback/wrongans.ogg",
-            "location": "content"
-        },
-        "show_sound": {
-            "url": "assets/feedback/showans.ogg",
-            "location": "content"
-        },
         "isFirstQues": true,
         "imgCount": 1
     },
     "ques": {
         "text": "",
         "imgsrc": {
-            "url": "ansbase.svg",
+            "url": "assets/question/ansbase.svg",
             "location": "content"
         }
     },
@@ -365,7 +353,7 @@
                 "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
             },
             "headerTxt_img": {
-                "url": "header_confirm_text_wrong.png",
+                "url": "assets/popups/wrong_feedback/header_confirm_text_wrong.png",
                 "location": "content"
             },
             "close_btn": {
@@ -381,7 +369,7 @@
                 "location": "theme"
             },
             "feedbackVo": {
-                "url": "wrongFeedback.ogg",
+                "url": "assets/popups/wrong_feedback/wrongFeedback.ogg",
                 "location": "content"
             }
         },
@@ -400,7 +388,7 @@
                 "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
             },
             "headerTxt_img": {
-                "url": "header_confirm_text_right.png",
+                "url": "assets/popups/right_feedback/header_confirm_text_right.png",
                 "location": "content"
             },
             "close_btn": {
@@ -416,7 +404,7 @@
                 "location": "theme"
             },
             "feedbackVo": {
-                "url": "rightFeedback.ogg",
+                "url": "assets/popups/right_feedback/rightFeedback.ogg",
                 "location": "content"
             }
         },
@@ -613,7 +601,7 @@
             "enabled": false,
             "text": "",
             "imgsrc": {
-                "url": "correctAnsPopup.svg",
+                "url": "assets/popups/right_feedback/correctAnsPopup.svg",
                 "location": "content"
             },
             "sound": ""
