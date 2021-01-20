@@ -2087,6 +2087,7 @@
 		"submitRequired":true,
         "replayRequired":false,
 		"localMachineDate":true,
+		"displayHolidays":true,
 		"givenDate": {
 		  "year":"",
 		  "month":"",
