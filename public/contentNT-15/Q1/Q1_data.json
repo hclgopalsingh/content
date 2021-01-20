@@ -64,7 +64,7 @@
                 "location": "content"
             },
             "sound": {
-                "url": "assets/options/ki.ogg",
+                "url": "clap.ogg",
                 "location": "content"
             },
             "ansImg": {
