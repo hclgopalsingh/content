@@ -1,7 +1,7 @@
 {
     "id": "Q002",
     "imgCount": "5",
-    "instructiontext": "क से शुरू होने वाला चित्र पहचाने।",
+    "instructiontext": "क से शुरू होने वाला चित्र पहचानें।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
