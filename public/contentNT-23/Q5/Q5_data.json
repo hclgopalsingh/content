@@ -581,8 +581,8 @@
 			"location": "content",
 			"left": 42.1,
 			"top": 75.5,
-			"ddTooltipleft": 42.1,
-			"ddTooltiptop": 82.3,
+			"ddTooltipleft": 44.1,
+			"ddTooltiptop": 76,
 			"clicked": false
 		},
 		{
@@ -619,8 +619,8 @@
 			"location": "content",
 			"left": 52.8,
 			"top": 74.2,
-			"ddTooltipleft": 52.8,
-			"ddTooltiptop": 81,
+			"ddTooltipleft": 54.6,
+			"ddTooltiptop": 76,
 			"clicked": false
 		},
 		{

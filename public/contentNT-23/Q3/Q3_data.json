@@ -401,7 +401,7 @@
 			"strokeId": "#FL_98a_0_Layer0_0_1_STROKES",
 			"onclickColor": "#8BE65B",
 			"textField": "98",
-			"subCategory": "Ninty eight",
+			"subCategory": "Ninety eight",
 			"categoryTxtimg": {
 				"url": "assets/options/98Digit.png",
 				"location": "content"
@@ -581,8 +581,8 @@
 			"location": "content",
 			"left": 48,
 			"top": 68.5,
-			"ddTooltipleft": 48,
-			"ddTooltiptop": 75.2,
+			"ddTooltipleft": 49.5,
+			"ddTooltiptop": 73.2,
 			"clicked": false
 		},
 		{
@@ -619,8 +619,8 @@
 			"location": "content",
 			"left": 58.4,
 			"top": 68.5,
-			"ddTooltipleft": 58.4,
-			"ddTooltiptop": 75.2,
+			"ddTooltipleft": 60,
+			"ddTooltiptop": 73.2,
 			"clicked": false
 		}
 	],
