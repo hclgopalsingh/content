@@ -92,8 +92,8 @@
                 "location": "content"
             },
             "audio": {
-                "url": "assets/options/long_option_vo.ogg",
-                "location": "content"
+                "url": "",
+                "location": ""
             }
         },
         {
@@ -116,7 +116,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "assets/options/q1_opt2.ogg",
+                "url": "assets/options/aata.ogg",
                 "location": "content"
             }
         },
@@ -140,7 +140,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "assets/options/q1_opt3.ogg",
+                "url": "assets/options/pyaaz.ogg",
                 "location": "content"
             }
         }
