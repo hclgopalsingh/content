@@ -288,41 +288,11 @@
         ]
     },
     "answers": [{
-            "id": "002",
-            "custom_id": "2",
+            "id": "006",
+            "custom_id": "6",
             "text": "",
             "ansImg": {
-                "url": "assets/options/word1.png",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        {
-            "id": "005",
-            "custom_id": "5",
-            "text": "",
-            "ansImg": {
-                "url": "assets/options/word2.png",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        {
-            "id": "001",
-            "custom_id": "1",
-            "text": "",
-            "ansImg": {
-                "url": "assets/options/word3.png",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        {
-            "id": "004",
-            "custom_id": "4",
-            "text": "",
-            "ansImg": {
-                "url": "assets/options/word4.png",
+                "url": "assets/options/ans-6.png",
                 "location": "content"
             },
             "sound": ""
@@ -332,7 +302,67 @@
             "custom_id": "3",
             "text": "",
             "ansImg": {
-                "url": "assets/options/word5.png",
+                "url": "assets/options/ans-3.png",
+                "location": "content"
+            },
+            "sound": ""
+        },
+        {
+            "id": "005",
+            "custom_id": "5",
+            "text": "",
+            "ansImg": {
+                "url": "assets/options/ans-5.png",
+                "location": "content"
+            },
+            "sound": ""
+        },
+        {
+            "id": "004",
+            "custom_id": "4",
+            "text": "",
+            "ansImg": {
+                "url": "assets/options/ans-4.png",
+                "location": "content"
+            },
+            "sound": ""
+        },
+        {
+            "id": "007",
+            "custom_id": "7",
+            "text": "",
+            "ansImg": {
+                "url": "assets/options/ans-7.png",
+                "location": "content"
+            },
+            "sound": ""
+        },
+        {
+            "id": "001",
+            "custom_id": "1",
+            "text": "",
+            "ansImg": {
+                "url": "assets/options/ans-1.png",
+                "location": "content"
+            },
+            "sound": ""
+        },
+        {
+            "id": "008",
+            "custom_id": "8",
+            "text": "",
+            "ansImg": {
+                "url": "assets/options/ans-8.png",
+                "location": "content"
+            },
+            "sound": ""
+        },
+        {
+            "id": "002",
+            "custom_id": "2",
+            "text": "",
+            "ansImg": {
+                "url": "assets/options/ans-2.png",
                 "location": "content"
             },
             "sound": ""
@@ -409,11 +439,14 @@
 
     "feedback": {
         "correct_ans_index": [
-            "2",
+            "6",
+            "3",
             "5",
-            "1",
             "4",
-            "3"
+            "7",
+            "1",
+            "8",
+            "2"
         ],
         "wrongFeedback": {
             "style_header": {
@@ -688,20 +721,6 @@
             "text": "",
             "imgsrc": "",
             "sound": ""
-        },
-        "write_ans_sound": {
-            "enabled": true,
-            "path": {
-                "url": "assets/sounds/clap.ogg",
-                "location": "assets"
-            }
-        },
-        "wrong_ans_sound": {
-            "enabled": true,
-            "path": {
-                "url": "assets/sounds/shake.ogg",
-                "location": "assets"
-            }
         }
     }
 }
