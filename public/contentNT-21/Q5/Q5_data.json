@@ -514,7 +514,7 @@
 		"givenValue": {
 			"url": "assets/options/givenEmptyContainer.png",
 			"location": "content",
-			"value":10
+			"value":5
 		},
 		"refresh_btn":{
 			"refresh_normal":{
