@@ -817,7 +817,8 @@
 	"feedback": {
 		"Showans_feedback_next_timer": 30,
 		"feedback_next_timer": 150,
-		"close_feedback_timer": 150,
+		"close_feedback_timer": 900,
+		"Showans_feedback_close_timer": 900,
 		"correct_category": ["Tiffin", "Tank", "Pipe", "Giftbox_1", "Container"],
 		"style_header": {
 			"border": "solid .4vmin #3C7132",
