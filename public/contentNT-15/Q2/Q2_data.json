@@ -11,7 +11,7 @@
             "location": "content"
         },
         "background": {
-            "urlglobal": "global/tabs/bg/bg_1.svg",
+            "urlglobal": "global/tabs/bg/bg_2.svg",
             "location": "theme"
         },
         "isFirstQues": false,
@@ -166,153 +166,42 @@
             }
         ],
         "line2": [{
-                "id": "005",
-                "custom_id": "5",
-                "show": true,
-                "text": "",
-                "imgsrc": {
-                    "url": "assets/options/ques1opt5.png",
-                    "location": "content"
-                },
-                "image": {
-                    "url": "assets/options/opt5bg.png",
-                    "location": "content"
-                },
-                "imageorg": {
-                    "url": "assets/options/opt5bg.png",
-                    "location": "content"
-                },
-                "imagehover": {
-                    "url": "assets/options/opt5Hover.png",
-                    "location": "content"
-                },
-                "sound": {
-                    "url": "assets/options/amar.ogg",
-                    "location": "content"
-                },
-                "ansImg": {
-                    "url": "assets/options/ans-5.png",
-                    "location": "content"
-                }
-            },
-            {
-                "id": "006",
-                "custom_id": "6",
-                "show": true,
-                "text": "",
-                "imgsrc": {
-                    "url": "assets/options/ques1opt6.png",
-                    "location": "content"
-                },
-                "image": {
-                    "url": "assets/options/opt6bg.png",
-                    "location": "content"
-                },
-                "imageorg": {
-                    "url": "assets/options/opt6bg.png",
-                    "location": "content"
-                },
-                "imagehover": {
-                    "url": "assets/options/opt6Hover.png",
-                    "location": "content"
-                },
-                "sound": {
-                    "url": "assets/options/amar.ogg",
-                    "location": "content"
-                },
-                "ansImg": {
-                    "url": "assets/options/ans-6.png",
-                    "location": "content"
-                }
-            },
-            {
-                "id": "007",
-                "custom_id": "7",
-                "show": true,
-                "text": "",
-                "imgsrc": {
-                    "url": "assets/options/ques1opt7.png",
-                    "location": "content"
-                },
-                "image": {
-                    "url": "assets/options/opt7bg.png",
-                    "location": "content"
-                },
-                "imageorg": {
-                    "url": "assets/options/opt7bg.png",
-                    "location": "content"
-                },
-                "imagehover": {
-                    "url": "assets/options/opt7Hover.png",
-                    "location": "content"
-                },
-                "sound": {
-                    "url": "assets/options/amar.ogg",
-                    "location": "content"
-                },
-                "ansImg": {
-                    "url": "assets/options/ans-7.png",
-                    "location": "content"
-                }
-            },
-            {
-                "id": "008",
-                "custom_id": "8",
-                "show": true,
-                "text": "",
-                "imgsrc": {
-                    "url": "assets/options/ques1opt8.png",
-                    "location": "content"
-                },
-                "image": {
-                    "url": "assets/options/opt8bg.png",
-                    "location": "content"
-                },
-                "imageorg": {
-                    "url": "assets/options/opt8bg.png",
-                    "location": "content"
-                },
-                "imagehover": {
-                    "url": "assets/options/opt8Hover.png",
-                    "location": "content"
-                },
-                "sound": {
-                    "url": "assets/options/amar.ogg",
-                    "location": "content"
-                },
-                "ansImg": {
-                    "url": "assets/options/ans-8.png",
-                    "location": "content"
-                }
-            }
-        ]
-    },
-    "answers": [{
-            "id": "006",
-            "custom_id": "6",
+            "id": "005",
+            "custom_id": "5",
+            "show": true,
             "text": "",
-            "ansImg": {
-                "url": "assets/options/ans-6.png",
+            "imgsrc": {
+                "url": "assets/options/ques1opt7.png",
                 "location": "content"
             },
-            "sound": ""
-        },
-        {
+            "image": {
+                "url": "assets/options/opt7bg.png",
+                "location": "content"
+            },
+            "imageorg": {
+                "url": "assets/options/opt7bg.png",
+                "location": "content"
+            },
+            "imagehover": {
+                "url": "assets/options/opt7Hover.png",
+                "location": "content"
+            },
+            "sound": {
+                "url": "assets/options/amar.ogg",
+                "location": "content"
+            },
+            "ansImg": {
+                "url": "assets/options/ans-7.png",
+                "location": "content"
+            }
+        }]
+    },
+    "answers": [{
             "id": "003",
             "custom_id": "3",
             "text": "",
             "ansImg": {
                 "url": "assets/options/ans-3.png",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        {
-            "id": "005",
-            "custom_id": "5",
-            "text": "",
-            "ansImg": {
-                "url": "assets/options/ans-5.png",
                 "location": "content"
             },
             "sound": ""
@@ -328,8 +217,8 @@
             "sound": ""
         },
         {
-            "id": "007",
-            "custom_id": "7",
+            "id": "005",
+            "custom_id": "5",
             "text": "",
             "ansImg": {
                 "url": "assets/options/ans-7.png",
@@ -343,16 +232,6 @@
             "text": "",
             "ansImg": {
                 "url": "assets/options/ans-1.png",
-                "location": "content"
-            },
-            "sound": ""
-        },
-        {
-            "id": "008",
-            "custom_id": "8",
-            "text": "",
-            "ansImg": {
-                "url": "assets/options/ans-8.png",
                 "location": "content"
             },
             "sound": ""
@@ -439,13 +318,10 @@
 
     "feedback": {
         "correct_ans_index": [
-            "6",
             "3",
-            "5",
             "4",
-            "7",
+            "5",
             "1",
-            "8",
             "2"
         ],
         "wrongFeedback": {
