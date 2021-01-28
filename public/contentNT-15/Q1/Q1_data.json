@@ -96,7 +96,7 @@
                     "location": "content"
                 },
                 "sound": {
-                    "url": "assets/options/bhauri.ogg",
+                    "url": "assets/options/hai.ogg",
                     "location": "content"
                 },
                 "ansImg": {
@@ -126,7 +126,7 @@
                     "location": "content"
                 },
                 "sound": {
-                    "url": "assets/options/hai.ogg",
+                    "url": "assets/options/savere.ogg",
                     "location": "content"
                 },
                 "ansImg": {
@@ -156,7 +156,7 @@
                     "location": "content"
                 },
                 "sound": {
-                    "url": "assets/options/gharni.ogg",
+                    "url": "assets/options/uthna.ogg",
                     "location": "content"
                 },
                 "ansImg": {
@@ -187,7 +187,7 @@
                     "location": "content"
                 },
                 "sound": {
-                    "url": "assets/options/amar.ogg",
+                    "url": "assets/options/jaldi.ogg",
                     "location": "content"
                 },
                 "ansImg": {
@@ -217,7 +217,7 @@
                     "location": "content"
                 },
                 "sound": {
-                    "url": "assets/options/amar.ogg",
+                    "url": "assets/options/subah.ogg",
                     "location": "content"
                 },
                 "ansImg": {
@@ -247,7 +247,7 @@
                     "location": "content"
                 },
                 "sound": {
-                    "url": "assets/options/amar.ogg",
+                    "url": "assets/options/acchi.ogg",
                     "location": "content"
                 },
                 "ansImg": {
@@ -277,7 +277,7 @@
                     "location": "content"
                 },
                 "sound": {
-                    "url": "assets/options/amar.ogg",
+                    "url": "assets/options/hoti.ogg",
                     "location": "content"
                 },
                 "ansImg": {
@@ -466,6 +466,11 @@
                 "url": "assets/popups/wrong_feedback/header_confirm_text_wrong.png",
                 "location": "content"
             },
+            "popTitleTxt_img": {
+				"required": true,
+				"url": "assets/popups/wrong_feedback/WrongAnsTitleTxt.png",
+				"location": "content"
+			},
             "close_btn": {
                 "urlglobal": "global/popups/closeBtn.png",
                 "location": "theme"
@@ -501,6 +506,11 @@
                 "url": "assets/popups/right_feedback/header_confirm_text_right.png",
                 "location": "content"
             },
+            "popTitleTxt_img": {
+				"required": true,
+				"url": "assets/popups/right_feedback/RightAnsTitleTxt.png",
+				"location": "content"
+			},
             "close_btn": {
                 "urlglobal": "global/popups/closeBtn.png",
                 "location": "theme"
