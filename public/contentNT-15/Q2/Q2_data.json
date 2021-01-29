@@ -324,6 +324,51 @@
             "1",
             "2"
         ],
+        "showAnswer":{
+            "style_header": {
+                "border": "solid .4vmin #3C7132",
+                "border-top-left-radius": "20px",
+                "border-top-right-radius": "20px",
+                "background": "#519843"
+            },
+            "style_body": {
+                "border": "solid .4vmin #3C7132",
+                "border-bottom-left-radius": "20px",
+                "border-bottom-right-radius": "20px",
+                "border-top": "none",
+                "background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+            },
+            "headerTxt_img": {
+                "url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
+                "location": "content"
+            },
+            "popTitleTxt_img": {
+				"required": true,
+				"url": "assets/popups/show_answer/showAnswerpopupTxt.png",
+				"location": "content"
+            },
+            "ans_img": {
+				"required": true,
+				"url": "assets/popups/right_feedback/ansImg-green.png",
+				"location": "content"
+            },
+            "close_btn": {
+                "urlglobal": "global/popups/closeBtn.png",
+                "location": "theme"
+            },
+            "close_btn_hover": {
+                "urlglobal": "global/popups/closeBtnHover.png",
+                "location": "theme"
+            },
+            "close_btn_original": {
+                "urlglobal": "global/popups/closeBtn.png",
+                "location": "theme"
+            },
+            "feedbackVo": {
+                "url": "assets/popups/right_feedback/rightFeedback.ogg",
+                "location": "content"
+            }
+        },
         "wrongFeedback": {
             "style_header": {
                 "border": "solid .4vmin #b5282e",
@@ -346,7 +391,12 @@
 				"required": true,
 				"url": "assets/popups/wrong_feedback/WrongAnsTitleTxt.png",
 				"location": "content"
-			},
+            },
+            "ans_img": {
+				"required": true,
+				"url": "assets/popups/wrong_feedback/ansImg-red.png",
+				"location": "content"
+            },
             "close_btn": {
                 "urlglobal": "global/popups/closeBtn.png",
                 "location": "theme"
@@ -386,7 +436,12 @@
 				"required": true,
 				"url": "assets/popups/right_feedback/RightAnsTitleTxt.png",
 				"location": "content"
-			},
+            },
+            "ans_img": {
+				"required": true,
+				"url": "assets/popups/right_feedback/ansImg-green.png",
+				"location": "content"
+            },
             "close_btn": {
                 "urlglobal": "global/popups/closeBtn.png",
                 "location": "theme"
