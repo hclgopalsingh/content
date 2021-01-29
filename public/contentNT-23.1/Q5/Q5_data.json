@@ -1,0 +1,1003 @@
+{
+	"productType": "elementary",
+	"theme_name": "theme1",
+	"commonassets": {
+		"instruction_bg": {
+			"url": "assets/instruction_bar.png",
+			"location": "content"
+		},
+		"instruction": {
+			"url": "assets/Question.ogg",
+			"location": "content"
+		},
+		"listBg": {
+			"url": "assets/question/list_bg.png",
+			"location": "content"
+		},
+		"listBgFeedback": {
+			"url": "assets/popups/feedback/list_bg_feedback.png",
+			"location": "content"
+		},
+		"listHeader": {
+			"categoryHeader": {
+				"url": "assets/question/categoryHeader.png",
+				"location": "content"
+			},
+			"subCategoryHeader": {
+				"url": "assets/question/subCategoryHeader.png",
+				"location": "content"
+			},
+			"UpperTitle": "Category:",
+			"LowerTitle": "Name:"
+		},
+		"background": {
+			"urlglobal": "global/tabs/bg/bg_5.svg",
+			"location": "theme"
+		},
+		"basebox": {
+			"url": "assets/basebox.png",
+			"location": "content"
+		},
+		"tooltipImg": {
+			"url": "assets/Hotspot.png",
+			"location": "content"
+		},
+		"lineImg": {
+			"url": "assets/images/line.svg",
+			"location": "assets"
+		},
+		"QuestionAudio": {
+			"url": "assets/Question.ogg",
+			"location": "content"
+		},
+		"CorrectAudio": {
+			"url": "assets/popups/feedback/rightFeedback.ogg",
+			"location": "content"
+		},
+		"WrongAudio": {
+			"url": "assets/popups/feedback/wrongFeedback.ogg",
+			"location": "content"
+		},
+		"showAnsAudio": {
+			"url": "assets/popups/show_answer/showAnswerFeedback.ogg",
+			"location": "content"
+		},
+		"PartiallyCorrectAudio": {
+			"url": "assets/popups/look_for_more_options/lookformore_feedback.ogg",
+			"location": "content"
+		},
+		"moreOptCorrectAudio": {
+			"url": "assets/popups/feedback/partialCorrectFeedback.ogg",
+			"location": "content"
+		},
+		"outOfScopeAudio": {
+			"url": "assets/popups/feedback/outOfScope.ogg",
+			"location": "content"
+		},
+		"dropDownCloseBtn": {
+			"url": "assets/question/cross_icon.png",
+			"location": "content"
+		},
+		"isFirstQues": false,
+		"itemsperPage": 6
+	},
+	"svgInfo": {
+		"svgId": "mainques",
+		"url": "assets/beforeRenu.svg",
+		"location": "content",
+		"hoverColor": "#03CEC2"
+	},
+	"info_popup": {
+		"style_header": {
+			"border": "solid .4vmin #057499",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#129fc1"
+		},
+		"style_body": {
+			"border": "solid .4vmin #057499",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+		},
+		"headerTxt_img": {
+			"url": "assets/popups/look_for_more_options/PopupInfoHeader.png",
+			"location": "content"
+		},
+		"bg_img": {
+			"url": "",
+			"location": "content"
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"info_text": {
+			"url": "assets/popups/look_for_more_options/lookformore_popup_text.png",
+			"location": "content"
+		},
+		"partial_feedback": {
+			"url": "assets/popups/look_for_more_options/partialFeedback.ogg",
+			"location": "content"
+		},
+		"ok_btn": {
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
+		},
+		"ok_btn_hover": {
+			"urlglobal": "global/popups/ok_btn_Hover.png",
+			"location": "theme"
+		},
+		"ok_btn_original": {
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
+		}
+	},
+	"submit_confirm": {
+		"style_header": {
+			"border": "solid .4vmin #057499",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#129fc1"
+		},
+		"style_body": {
+			"border": "solid .4vmin #057499",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+		},
+		"headerTxt_img": {
+			"url": "assets/popups/submit_answer_confirmation/header_confirm_text.png",
+			"location": "content"
+		},
+		"bg_img": {
+			"url": "",
+			"location": ""
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"confirm_text": {
+			"url": "assets/popups/submit_answer_confirmation/submit_popup_text.png",
+			"location": "content"
+		},
+		"confirm_btn": {
+			"urlglobal": "global/popups/yes_btn.png",
+			"location": "theme"
+		},
+		"confirm_btn_hover": {
+			"urlglobal": "global/popups/yes_btn_Hover.png",
+			"location": "theme"
+		},
+		"confirm_btn_original": {
+			"urlglobal": "global/popups/yes_btn.png",
+			"location": "theme"
+		},
+		"decline_btn": {
+			"urlglobal": "global/popups/no_btn.png",
+			"location": "theme"
+		},
+		"decline_btn_hover": {
+			"urlglobal": "global/popups/no_btn_Hover.png",
+			"location": "theme"
+		},
+		"decline_btn_original": {
+			"urlglobal": "global/popups/no_btn.png",
+			"location": "theme"
+		}
+	},
+	"mySVGArr": [{
+			"tooltipID": "tooltip1",
+			"id": "#umbrella_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#96B000",
+			"textField": "Object_1",
+			"subCategory": "Umbrella",
+			"categoryTxtimg": {
+				"url": "assets/options/category1.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/umbrella.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category1_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/umbrella_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category1_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/umbrella_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 38.3,
+			"top": 9.5,
+			"ddTooltipleft": 38.3,
+			"ddTooltiptop": 16.3,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip2",
+			"id": "#girl_1_0_Layer0_0_FILL_1",
+			"strokeId": "",
+			"onclickColor": "#A07F64",
+			"textField": "",
+			"subCategory": "",
+			"categoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 49.1,
+			"top": 10.5,
+			"ddTooltipleft": 49.1,
+			"ddTooltiptop": 17.4,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip3",
+			"id": "#ball_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#92024A",
+			"textField": "Object_2",
+			"subCategory": "Ball",
+			"categoryTxtimg": {
+				"url": "assets/options/category1.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/ball.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category1_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/ball_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category1_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/ball_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 60.5,
+			"top": 9.5,
+			"ddTooltipleft": 60.5,
+			"ddTooltiptop": 16.3,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip4",
+			"id": "#apple_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#333333",
+			"textField": "Object_3",
+			"subCategory": "Apple",
+			"categoryTxtimg": {
+				"url": "assets/options/category2.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/apple.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category2_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/apple_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category2_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/apple_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 38.3,
+			"top": 31.5,
+			"ddTooltipleft": 38.3,
+			"ddTooltiptop": 38.4,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip5",
+			"id": "#cap_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#CB6095",
+			"textField": "Object_4",
+			"subCategory": "Hat",
+			"categoryTxtimg": {
+				"url": "assets/options/category2.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/hat.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category2_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/hat_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category2_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/hat_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 49.6,
+			"top": 31.4,
+			"ddTooltipleft": 49.6,
+			"ddTooltiptop": 38.2,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip6",
+			"id": "#girl_2_0_Layer0_0_FILL_1",
+			"strokeId": "",
+			"onclickColor": "#2F6E9A",
+			"textField": "girl",
+			"subCategory": "",
+			"categoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 49.1,
+			"top": 29,
+			"ddTooltipleft": 49.1,
+			"ddTooltiptop": 35.8,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip7",
+			"id": "#football_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#CFA718",
+			"textField": "Object_5",
+			"subCategory": "Football",
+			"categoryTxtimg": {
+				"url": "assets/options/category3.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/football.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category3_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/football_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category3_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/football_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 38.3,
+			"top": 51,
+			"ddTooltipleft": 38.3,
+			"ddTooltiptop": 57.6,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip8",
+			"id": "#girl_3_0_Layer0_0_FILL_1",
+			"strokeId": "",
+			"onclickColor": "#244234",
+			"textField": "girl",
+			"subCategory": "",
+			"categoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 65.8,
+			"top": 29,
+			"ddTooltipleft": 65.8,
+			"ddTooltiptop": 55.2,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip9",
+			"id": "#van_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#ED7A8B",
+			"textField": "Object_6",
+			"subCategory": "Van",
+			"categoryTxtimg": {
+				"url": "assets/options/category3.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/van.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category3_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/van_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category3_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/van_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 60.5,
+			"top": 51,
+			"ddTooltipleft": 60.5,
+			"ddTooltiptop": 57.8,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip10",
+			"id": "#cycle_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#BF4718",
+			"textField": "Object_7",
+			"subCategory": "Cycle",
+			"categoryTxtimg": {
+				"url": "assets/options/category4.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/cycle.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category4_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/cycle_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category4_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/cycle_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 38.3,
+			"top": 75.5,
+			"ddTooltipleft": 40.5,
+			"ddTooltiptop": 72,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip11",
+			"id": "#chair_0_Layer0_0_FILL",
+			"strokeId": "",
+			"onclickColor": "#CFCCB9",
+			"textField": "Object_8",
+			"subCategory": "Chair",
+			"categoryTxtimg": {
+				"url": "assets/options/category4.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/chair.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/category4_right.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/chair_right.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/category4_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/chair_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 49.6,
+			"top": 74.2,
+			"ddTooltipleft": 51.8,
+			"ddTooltiptop": 72,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip12",
+			"id": "#girl_4_1_0_Layer0_0_FILL_1",
+			"strokeId": "",
+			"onclickColor": "#FEEF84",
+			"textField": "girl",
+			"subCategory": "",
+			"categoryTxtimg": {
+				"url": "assets/options/34Digit.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/34NumName.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/34Digit_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/34NumName_correct.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/34Digit_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/34NumName_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 65.8,
+			"top": 48.5,
+			"ddTooltipleft": 65.8,
+			"ddTooltiptop": 55,
+			"clicked": false
+		},
+		{
+			"tooltipID": "tooltip13",
+			"id": "#Layer0_0_1_STROKES_1",
+			"strokeId": "",
+			"onclickColor": "#FAB1A0",
+			"textField": "border",
+			"subCategory": "",
+			"categoryTxtimg": {
+				"url": "assets/options/34Digit.png",
+				"location": "content"
+			},
+			"subCategoryTxtimg": {
+				"url": "assets/options/34NumName.png",
+				"location": "content"
+			},
+			"correctCategoryTxtimg": {
+				"url": "assets/options/34Digit_correct.png",
+				"location": "content"
+			},
+			"correctSubCategoryTxtimg": {
+				"url": "assets/options/34NumName_correct.png",
+				"location": "content"
+			},
+			"incorrectCategoryTxtimg": {
+				"url": "assets/options/34Digit_wrong.png",
+				"location": "content"
+			},
+			"incorrectSubCategoryTxtimg": {
+				"url": "assets/options/34NumName_wrong.png",
+				"location": "content"
+			},
+			"location": "content",
+			"left": 40.4,
+			"top": 71.5,
+			"ddTooltipleft": 40.4,
+			"ddTooltiptop": 78.2,
+			"clicked": false
+		}
+	],
+	"feedback": {
+		"Showans_feedback_next_timer": 30,
+		"feedback_next_timer": 150,
+		"close_feedback_timer": 900,
+		"Showans_feedback_close_timer": 900,
+		"correct_category": ["Object_1", "Object_4", "Object_5", "Object_8"],
+		"style_header": {
+			"border": "solid .4vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#519843"
+		},
+		"style_body": {
+			"border": "solid .4vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		},
+		"right_style_header": {
+			"border": "solid .4vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#519843"
+		},
+		"right_style_body": {
+			"border": "solid .4vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		},
+		"outofscope_style_header": {
+			"border": "solid .4vmin #a83901",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#cc4c0b"
+		},
+		"outofscope_style_body": {
+			"border": "solid .4vmin #a83901",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(197, 154, 129, 1) 100%)"
+		},
+		"wrong_style_header": {
+			"border": "solid .4vmin #b5282e",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#e2373d"
+		},
+		"wrong_style_body": {
+			"border": "solid .4vmin #b5282e",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
+		},
+		"partial_style_header": {
+			"border": "solid .4vmin #057499",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#129fc1"
+		},
+		"partial_style_body": {
+			"border": "solid .4vmin #057499",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+		},
+		"review_style_header": {
+			"border": "solid .4vmin #787976",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#787976"
+		},
+		"review_style_body": {
+			"border": "solid .4vmin #787976",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(228, 228, 226, 1) 0%, rgba(120, 121, 118, 1) 100%)"
+		},
+		"feedback_title": {
+			"url": "assets/popups/feedback/RightAnsTitleTxt.png",
+			"location": "content",
+			"required": true
+		},
+		"right_style_title": {
+			"required": true,
+			"url": "assets/popups/feedback/RightAnsTitleTxt.png",
+			"location": "content"
+		},
+		"correctVO_placeholder": {
+			"url": "assets/popups/feedback/correctVOPlaceholder.ogg",
+			"location": "content"
+		},
+		"incorrectVO_placeholder": {
+			"url": "assets/popups/feedback/incorrectVOPlaceholder.ogg",
+			"location": "content"
+		},
+		"wrong_style_title": {
+			"required": true,
+			"url": "assets/popups/feedback/WrongAnsTitleTxt.png",
+			"location": "content"
+		},
+		"outofscope_style_title": {
+			"required": true,
+			"url": "assets/popups/feedback/OutOfScopeTitleTxt.png",
+			"location": "content"
+		},
+		"review_style_title": {
+			"required": true,
+			"url": "assets/popups/feedback/ReviewTitleTxt.png",
+			"location": "content"
+		},
+		"partial_style_title": {
+			"required": true,
+			"url": "assets/popups/feedback/PartialAnsTitleTxt.png",
+			"location": "content"
+		},
+		"showAnswer_style_title": {
+			"url": "assets/popups/show_answer/showAnswerpopupTxt.png",
+			"location": "content",
+			"required": true
+		},
+		"rightAnswerheaderTxt_img": {
+			"url": "assets/popups/feedback/PopupHeaderTitle1.png",
+			"location": "content"
+		},
+		"reviewpopupheaderTxt_img": {
+			"url": "assets/popups/feedback/ReviewHeaderTitle.png",
+			"location": "content"
+		},
+		"showAnswerheaderTxt_img": {
+			"url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
+			"location": "content"
+		},
+		"ok_btn": {
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
+			"location": "content"
+		},
+		"ok_btn_hover": {
+			"url": "assets/popups/feedback/ok_btn_Hover.svg",
+			"location": "content"
+		},
+		"ok_btn_original": {
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
+			"location": "content"
+		},
+		"cancel_btn": {
+			"url": "assets/popups/feedback/cancel_btn.png",
+			"location": "content"
+		},
+		"cancel_btn_hover": {
+			"url": "assets/popups/feedback/cancel_btn_Hover.png",
+			"location": "content"
+		},
+		"cancel_btn_original": {
+			"url": "assets/popups/feedback/cancel_btn.png",
+			"location": "content"
+		},
+		"confirm_btn": {
+			"url": "assets/popups/feedback/confirm_btn.png",
+			"location": "content"
+		},
+		"confirm_btn_hover": {
+			"url": "assets/popups/feedback/confirm_btn_Hover.png",
+			"location": "content"
+		},
+		"confirm_btn_original": {
+			"url": "assets/popups/feedback/confirm_btn.png",
+			"location": "content"
+		},
+		"feedback_back_btn": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_hover": {
+			"urlglobal": "global/buttons/peecheyHover.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_original": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_hover": {
+			"urlglobal": "global/buttons/aageyHover.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_original": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
+			"location": "theme"
+		},
+		"popup_commmon_imgs": {
+			"close_btn": {
+				"urlglobal": "global/popups/closeBtn.png",
+				"location": "theme"
+			},
+			"close_btn_hover": {
+				"urlglobal": "global/popups/closeBtnHover.png",
+				"location": "theme"
+			},
+			"close_btn_original": {
+				"urlglobal": "global/popups/closeBtn.png",
+				"location": "theme"
+			}
+		},
+		"right_ans_popup": {
+			"rightfeedback_audio": {
+				"url": "assets/popups/feedback/rightFeedback.ogg",
+				"location": "content"
+			},
+			"showAnsfeedback_audio": {
+				"url": "assets/popups/show_answer/showAnswerFeedback.ogg",
+				"location": "content"
+			}
+		},
+		"wrong_ans_popup": {
+			"url": "assets/popups/feedback/wrongFeedback.ogg",
+			"location": "content"
+		},
+		"partial_correct_popup": {
+			"url": "assets/popups/feedback/partialCorrectFeedback.ogg",
+			"location": "content"
+		},
+		"confirm_popup": {
+			"style_header": {
+				"border": "solid .4vmin #057499",
+				"border-top-left-radius": "20px",
+				"border-top-right-radius": "20px",
+				"background": "#129fc1"
+			},
+			"style_body": {
+				"border": "solid .4vmin #057499",
+				"border-bottom-left-radius": "20px",
+				"border-bottom-right-radius": "20px",
+				"border-top": "none",
+				"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+			},
+			"headerTxt_img": {
+				"url": "assets/popups/show_answer_confirmation/PopupHeaderTitle3.png",
+				"location": "content"
+			},
+			"close_btn": {
+				"urlglobal": "global/popups/closeBtn.png",
+				"location": "theme"
+			},
+			"close_btn_hover": {
+				"urlglobal": "global/popups/closeBtnHover.png",
+				"location": "theme"
+			},
+			"close_btn_original": {
+				"urlglobal": "global/popups/closeBtn.png",
+				"location": "theme"
+			},
+			"confirm_text": {
+				"url": "assets/popups/show_answer_confirmation/confirmation_popup_text.png",
+				"location": "content"
+			},
+			"confirm_btn": {
+				"urlglobal": "global/popups/yes_btn.png",
+				"location": "theme"
+			},
+			"confirm_btn_hover": {
+				"urlglobal": "global/popups/yes_btn_Hover.png",
+				"location": "theme"
+			},
+			"confirm_btn_original": {
+				"urlglobal": "global/popups/yes_btn.png",
+				"location": "theme"
+			},
+			"decline_btn": {
+				"urlglobal": "global/popups/no_btn.png",
+				"location": "theme"
+			},
+			"decline_btn_hover": {
+				"urlglobal": "global/popups/no_btn_Hover.png",
+				"location": "theme"
+			},
+			"decline_btn_original": {
+				"urlglobal": "global/popups/no_btn.png",
+				"location": "theme"
+			}
+		}
+	}
+
+}
