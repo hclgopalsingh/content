@@ -37,10 +37,6 @@
         "sound": {
             "url": "assets/question/speaker/Q1.ogg",
             "location": "content"
-        },
-        "sprite": {
-            "url": "assets/question/speaker/speakerSpriteR.png",
-            "location": "content"
         }
     },
     "options": {
