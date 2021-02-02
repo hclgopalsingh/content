@@ -62,7 +62,7 @@
                     "location": "content"
                 },
                 "sound": {
-                    "url": "clap.ogg",
+                    "url": "assets/options/adat.ogg",
                     "location": "content"
                 },
                 "ansImg": {
