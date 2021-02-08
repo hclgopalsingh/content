@@ -26,6 +26,10 @@
         "stringsrc": {
             "url": "assets/question/optBase.png",
             "location": "content"
+        },
+        "styleArray": {
+            "left": "10%",
+            "margin": "0 1%"
         }
     },
     "speaker": {
