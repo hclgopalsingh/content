@@ -153,7 +153,7 @@
 		},
 		{
 			"id": "003",
-			"custom_id": "2",			
+			"custom_id": "2",
 			"imgsrc": {
 				"url": "assets/options/q1_opt3.png",
 				"location": "content"
@@ -364,6 +364,8 @@
 			"location": "content",
 			"autoPlay": true
 		},
+		"allCorrectBlackoutSec":5,
+		"WrongAnimationSec":5,
 		"quesPlayPause": {
 			"urlglobal": "global/buttons/commonvideo/pause.svg",
 			"location": "theme"
@@ -414,6 +416,16 @@
 		"autoFillTimer": 1
 	},
 	"feedback": {
+		"showAns": {
+			"feedbackVo": {
+				"url": "assets/popups/show_answer/showans.ogg",
+				"location": "content"
+			},
+			"imgsrc": {
+				"url": "assets/question/showans.png",
+				"location": "content"
+			}
+		},
 		"wrongFeedback": {
 			"style_header": {
 				"border": "solid .4vmin #b5282e",
