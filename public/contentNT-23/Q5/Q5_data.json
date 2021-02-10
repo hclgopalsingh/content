@@ -581,8 +581,8 @@
 			"location": "content",
 			"left": 42.1,
 			"top": 75.5,
-			"ddTooltipleft": 42.1,
-			"ddTooltiptop": 82.3,
+			"ddTooltipleft": 44.1,
+			"ddTooltiptop": 76,
 			"clicked": false
 		},
 		{
@@ -619,8 +619,8 @@
 			"location": "content",
 			"left": 52.8,
 			"top": 74.2,
-			"ddTooltipleft": 52.8,
-			"ddTooltiptop": 81,
+			"ddTooltipleft": 54.6,
+			"ddTooltiptop": 76,
 			"clicked": false
 		},
 		{
@@ -703,7 +703,8 @@
 	"feedback": {
 		"Showans_feedback_next_timer": 30,
 		"feedback_next_timer": 150,
-		"close_feedback_timer": 150,
+		"close_feedback_timer": 900,
+		"Showans_feedback_close_timer": 900,
 		"correct_category": ["Object_1", "Object_4", "Object_5", "Object_8"],
 		"style_header": {
 			"border": "solid .4vmin #3C7132",

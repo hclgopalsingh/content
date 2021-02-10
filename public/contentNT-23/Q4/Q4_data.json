@@ -401,7 +401,7 @@
 			"strokeId": "#football_Layer0_0_1_STROKES",
 			"onclickColor": "#CCCCCC",
 			"textField": "Football",
-			"subCategory": "For playing",
+			"subCategory": "For Playing",
 			"categoryTxtimg": {
 				"url": "assets/options/football.png",
 				"location": "content"
@@ -695,8 +695,8 @@
 			"location": "content",
 			"left": 40.4,
 			"top": 71.5,
-			"ddTooltipleft": 40.4,
-			"ddTooltiptop": 78.2,
+			"ddTooltipleft": 42,
+			"ddTooltiptop": 76,
 			"clicked": false
 		},
 		{
@@ -733,8 +733,8 @@
 			"location": "content",
 			"left": 49.1,
 			"top": 71.5,
-			"ddTooltipleft": 49.1,
-			"ddTooltiptop": 78.2,
+			"ddTooltipleft": 50.5,
+			"ddTooltiptop": 76.2,
 			"clicked": false
 		},
 		{
@@ -771,8 +771,8 @@
 			"location": "content",
 			"left": 57,
 			"top": 71.5,
-			"ddTooltipleft": 57,
-			"ddTooltiptop": 78.2,
+			"ddTooltipleft": 58.5,
+			"ddTooltiptop": 76.2,
 			"clicked": false
 		},
 		{
@@ -809,15 +809,16 @@
 			"location": "content",
 			"left": 65.8,
 			"top": 71.5,
-			"ddTooltipleft": 65.8,
-			"ddTooltiptop": 78.2,
+			"ddTooltipleft": 67.5,
+			"ddTooltiptop": 76.2,
 			"clicked": false
 		}
 	],
 	"feedback": {
 		"Showans_feedback_next_timer": 30,
 		"feedback_next_timer": 150,
-		"close_feedback_timer": 150,
+		"close_feedback_timer": 900,
+		"Showans_feedback_close_timer": 900,
 		"correct_category": ["Tiffin", "Tank", "Pipe", "Giftbox_1", "Container"],
 		"style_header": {
 			"border": "solid .4vmin #3C7132",

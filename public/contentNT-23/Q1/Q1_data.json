@@ -260,19 +260,19 @@
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/jammu & Kashmir_Right.png",
+				"url": "assets/options/jammu&Kashmir_Right.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/jammu & Kashmir_Right Capital.png",
+				"url": "assets/options/jammu&Kashmir_RightCapital.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "assets/options/Jammu & Kashmir_Wrong.png",
+				"url": "assets/options/Jammu&Kashmir_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/Jammu & Kashmir_Wrong Capital.png",
+				"url": "assets/options/Jammu&Kashmir_WrongCapital.png",
 				"location": "content"
 			},
 			"location": "content",
@@ -753,11 +753,11 @@
 		},
 		{
 			"tooltipID": "tooltip15",
-			"id": "#West_bengal_0_Layer1_0_FILL",
-			"strokeId": "#West_bengal_0_Layer1_0_1_STROKES",
+			"id": "#West_bengal_0_Layer1_11_FILL",
+			"strokeId": "#West_bengal_0_Layer1_11_1_STROKES",
 			"onclickColor": "#00A14B",
-			"textField": "WestBengal",
-			"subCategory": "",
+			"textField": "West Bengal",
+			"subCategory": "Kolkata",
 			"categoryTxtimg": {
 				"url": "assets/options/WB.png",
 				"location": "content"
@@ -767,26 +767,26 @@
 				"location": "content"
 			},
 			"correctCategoryTxtimg": {
-				"url": "assets/options/West Bengal_Right.png",
+				"url": "assets/options/WestBengal_Right.png",
 				"location": "content"
 			},
 			"correctSubCategoryTxtimg": {
-				"url": "assets/options/West Bengal_Right Capital.png",
+				"url": "assets/options/WestBengal_RightCapital.png",
 				"location": "content"
 			},
 			"incorrectCategoryTxtimg": {
-				"url": "assets/options/West Bengal_Wrong.png",
+				"url": "assets/options/WestBengal_Wrong.png",
 				"location": "content"
 			},
 			"incorrectSubCategoryTxtimg": {
-				"url": "assets/options/West Bengal_Wrong Capital.png",
+				"url": "assets/options/WestBengal_WrongCapital.png",
 				"location": "content"
 			},
 			"location": "content",
-			"left": 36,
-			"top": 53,
-			"ddTooltipleft": 0,
-			"ddTooltiptop": 0,
+			"left": 59.3,
+			"top": 40,
+			"ddTooltipleft": 59.3,
+			"ddTooltiptop": 46.8,
 			"clicked": false
 
 		},
@@ -980,8 +980,8 @@
 			"location": "content",
 			"left": 48,
 			"top": 77,
-			"ddTooltipleft": 48.2,
-			"ddTooltiptop": 83.8,
+			"ddTooltipleft": 50.1,
+			"ddTooltiptop": 72,
 			"clicked": false
 
 		},
@@ -1019,8 +1019,8 @@
 			"location": "content",
 			"left": 45.3,
 			"top": 77,
-			"ddTooltipleft": 45.3,
-			"ddTooltiptop": 83.8,
+			"ddTooltipleft": 47.3,
+			"ddTooltiptop": 72,
 			"clicked": false
 
 		},
@@ -1295,13 +1295,13 @@
 			"ddTooltipleft": 66.7,
 			"ddTooltiptop": 31,
 			"clicked": false
-
 		}
 	],
 	"feedback": {
 		"Showans_feedback_next_timer": 30,
 		"feedback_next_timer": 150,
-		"close_feedback_timer": 150,
+		"close_feedback_timer": 900,
+		"Showans_feedback_close_timer": 900,
 		"correct_category": ["Kerala", "Assam"],
 		"style_header": {
 			"border": "solid .4vmin #3C7132",

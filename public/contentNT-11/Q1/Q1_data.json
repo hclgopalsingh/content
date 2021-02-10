@@ -42,16 +42,16 @@
     "ques": {
         "text": "",
         "styleArray": [{
-                "left": "30%",
-                "top": "-102%"
+                "left": "-4%",
+                "top": "-126%"
             },
             {
-                "left": "-89%",
-                "top": "-102%"
+                "left": "-122%",
+                "top": "-126%"
             },
             {
-                "left": "-208%",
-                "top": "-102%"
+                "left": "-243%",
+                "top": "-126%"
             }
         ],
         "image": {
@@ -92,7 +92,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "assets/options/long_option_vo.ogg",
+                "url": "assets/options/dhaniya.ogg",
                 "location": "content"
             }
         },
@@ -116,7 +116,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "assets/options/q1_opt2.ogg",
+                "url": "assets/options/gajar.ogg",
                 "location": "content"
             }
         },
@@ -140,8 +140,8 @@
                 "location": "content"
             },
             "audio": {
-                "url": "assets/options/q1_opt3.ogg",
-                "location": "content"
+                "url": "",
+                "location": ""
             }
         }
     ],

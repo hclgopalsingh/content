@@ -249,7 +249,7 @@
 			"strokeId": "#right_thigh_0_Layer0_0_1_STROKES",
 			"onclickColor": "#679389",
 			"textField": "Right Thigh",
-			"subCategory": "Flexion, extension, rotation of body",
+			"subCategory": "Thigh allow flexion, extension, rotation",
 			"categoryTxtimg": {
 				"url": "assets/options/Right_Thigh.png",
 				"location": "content"
@@ -277,8 +277,8 @@
 			"location": "content",
 			"left": 50.4,
 			"top": 69,
-			"ddTooltipleft": 50.4,
-			"ddTooltiptop": 76,
+			"ddTooltipleft": 52,
+			"ddTooltiptop": 73,
 			"clicked": false
 		},
 		{
@@ -287,7 +287,7 @@
 			"strokeId": "#right_foot_0_Layer0_0_1_STROKES",
 			"onclickColor": "#FF9966",
 			"textField": "Right Foot",
-			"subCategory": "Walk, Balance and Stand",
+			"subCategory": "It is used walking, balance and stand",
 			"categoryTxtimg": {
 				"url": "assets/options/Right_Foot.png",
 				"location": "content"
@@ -315,8 +315,8 @@
 			"location": "content",
 			"left": 49.5,
 			"top": 81.2,
-			"ddTooltipleft": 49.5,
-			"ddTooltiptop": 88,
+			"ddTooltipleft": 51.5,
+			"ddTooltiptop": 72,
 			"clicked": false
 		},
 		{
@@ -325,7 +325,7 @@
 			"strokeId": "#neck_0_Layer0_0_1_STROKES",
 			"onclickColor": "#003926",
 			"textField": "Neck",
-			"subCategory": "Supports weight of head",
+			"subCategory": "Supports the weight of the head",
 			"categoryTxtimg": {
 				"url": "assets/options/Neck.png",
 				"location": "content"
@@ -363,7 +363,7 @@
 			"strokeId": "#left_thigh_0_Layer0_0_1_STROKES",
 			"onclickColor": "#737AA4",
 			"textField": "Left Thigh",
-			"subCategory": "Flexion, extension, rotation of body",
+			"subCategory": "Thigh allow flexion, extension, rotation",
 			"categoryTxtimg": {
 				"url": "assets/options/Left_Thigh.png",
 				"location": "content"
@@ -391,8 +391,8 @@
 			"location": "content",
 			"left": 54.6,
 			"top": 69,
-			"ddTooltipleft": 54.6,
-			"ddTooltiptop": 75.5,
+			"ddTooltipleft": 56.3,
+			"ddTooltiptop": 72.5,
 			"clicked": false
 		},
 		{
@@ -439,7 +439,7 @@
 			"strokeId": "#left_foot_0_Layer0_0_1_STROKES",
 			"onclickColor": "#B0BF0E",
 			"textField": "Left Foot",
-			"subCategory": "Walk, Balance and Stand",
+			"subCategory": "It is used walking, balance and stand",
 			"categoryTxtimg": {
 				"url": "assets/options/Left_Foot.png",
 				"location": "content"
@@ -467,8 +467,8 @@
 			"location": "content",
 			"left": 55.3,
 			"top": 81.2,
-			"ddTooltipleft": 55.3,
-			"ddTooltiptop": 88,
+			"ddTooltipleft": 57.3,
+			"ddTooltiptop": 72,
 			"clicked": false
 		},
 		{
@@ -477,7 +477,7 @@
 			"strokeId": "#left_bicep_0_Layer0_0_1_STROKES",
 			"onclickColor": "#403465",
 			"textField": "Left Biceps",
-			"subCategory": "Suspension of forearm",
+			"subCategory": "Elbow & supination of the forearm",
 			"categoryTxtimg": {
 				"url": "assets/options/Left_Biceps.png",
 				"location": "content"
@@ -553,7 +553,7 @@
 			"strokeId": "#Left_hand_0_Layer0_0_1_STROKES",
 			"onclickColor": "#FE9F9D",
 			"textField": "Left Hand",
-			"subCategory": "Pick Things up, scratch and itch",
+			"subCategory": "Pick things up, scratch and itch",
 			"categoryTxtimg": {
 				"url": "assets/options/Left_Hand.png",
 				"location": "content"
@@ -591,7 +591,7 @@
 			"strokeId": "#right_bicep_0_Layer0_0_1_STROKES",
 			"onclickColor": "#84557E",
 			"textField": "Right Biceps",
-			"subCategory": "Suspension of forearm",
+			"subCategory": "Elbow & supination of the forearm",
 			"categoryTxtimg": {
 				"url": "assets/options/Right_Biceps.png",
 				"location": "content"
@@ -781,7 +781,7 @@
 			"strokeId": "#hear_0_Layer0_0_1_STROKES",
 			"onclickColor": "#999966",
 			"textField": "Hair",
-			"subCategory": "Protection of head",
+			"subCategory": "The functions of hair include protection",
 			"categoryTxtimg": {
 				"url": "assets/options/Hair.png",
 				"location": "content"
@@ -934,7 +934,7 @@
 			"onclickColor": "#CD0039",
 			"audio": "Nose.ogg",
 			"textField": "Nose",
-			"subCategory": "Smell",
+			"subCategory": "Primary organ of smell",
 			"categoryTxtimg": {
 				"url": "assets/options/Nose.png",
 				"location": "content"
@@ -1048,7 +1048,7 @@
 			"strokeId": "#teeth_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F5EAD6",
 			"textField": "Teeth",
-			"subCategory": "Eat,tear, cut and grind food",
+			"subCategory": "Eat, our teeth tear, cut and grind food",
 			"categoryTxtimg": {
 				"url": "assets/options/Teeth.png",
 				"location": "content"
@@ -1086,7 +1086,7 @@
 			"strokeId": "#left_eye_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F1B976",
 			"textField": "Left Eye",
-			"subCategory": "Seeing things",
+			"subCategory": "Part of our face that can see things",
 			"categoryTxtimg": {
 				"url": "assets/options/Left_Eye.png",
 				"location": "content"
@@ -1124,7 +1124,7 @@
 			"strokeId": "#right_eye_0_Layer0_0_1_STROKES",
 			"onclickColor": "#F1D3AF",
 			"textField": "Right Eye",
-			"subCategory": "Seeing things",
+			"subCategory": "Part of our face that can see things",
 			"categoryTxtimg": {
 				"url": "assets/options/Right_Eye.png",
 				"location": "content"
@@ -1162,7 +1162,7 @@
 			"strokeId": "#pelvis_0_Layer0_0_1_STROKES",
 			"onclickColor": "#ED1C24",
 			"textField": "Pelvis",
-			"subCategory": "Seeing things",
+			"subCategory": "",
 			"categoryTxtimg": {
 				"url": "assets/options/Right_Eye.png",
 				"location": "content"
@@ -1200,7 +1200,7 @@
 			"strokeId": "#right_hand_0_Layer0_0_1_STROKES",
 			"onclickColor": "#B58483",
 			"textField": "Right Hand",
-			"subCategory": "Pick Things up, scratch and itch",
+			"subCategory": "Pick things up, scratch and itch",
 			"categoryTxtimg": {
 				"url": "assets/options/Right_Hand.png",
 				"location": "content"
@@ -1236,7 +1236,8 @@
 	"feedback": {
 		"Showans_feedback_next_timer": 30,
 		"feedback_next_timer": 150,
-		"close_feedback_timer": 150,
+		"close_feedback_timer": 900,
+		"Showans_feedback_close_timer": 900,
 		"correct_category": ["Neck", "Nose", "Tongue", "Mouth", "Chest"],
 		"style_header": {
 			"border": "solid .4vmin #3C7132",
