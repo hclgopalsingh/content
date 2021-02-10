@@ -30,7 +30,9 @@
         "styleArray": {
             "left": "10%",
             "margin": "0 1%"
-        }
+        },
+        "RightAnimationSec":2,
+		"WrongAnimationSec":2
     },
     "speaker": {
         "enabled": "",
