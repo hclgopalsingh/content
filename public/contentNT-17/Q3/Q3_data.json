@@ -549,6 +549,60 @@
 			"url": "no_btn.png",
 			"location": "content"
 		}
+	},
+	"submit_confirm_popup": {
+		"style_header": {
+			"border": "0.8vmin solid rgb(168, 57, 1)",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#CC4C0B"
+		},
+		"style_body": {
+			"border-top": "none",
+			"border-right": "0.8vmin solid rgb(168, 57, 1)",
+			"border-bottom": "0.8vmin solid rgb(168, 57, 1)",
+			"border-left": "0.8vmin solid rgb(168, 57, 1)",
+			"border-image": "initial",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"background": "linear-gradient(rgb(245, 238, 234) 0%, rgb(197, 155, 130) 100%)"
+		},
+		"oops_img": {
+			"url": "assets/popups/submit_confirm_onemptytext/oops_img.png",
+			"location": "content"
+		},
+		"headerTxt_img": {
+			"url": "assets/popups/submit_confirm_onemptytext/header_confirm_text.png",
+			"location": "content"
+		},
+		"submit_text": {
+			"url": "assets/popups/submit_confirm_onemptytext/popup-text.png",
+			"location": "content"
+		},
+		"ok_btn": {
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
+		},
+		"ok_btn_hover": {
+			"urlglobal": "global/popups/ok_btn_Hover.png",
+			"location": "theme"
+		},
+		"ok_btn_original": {
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		}
 	}
 
 }
