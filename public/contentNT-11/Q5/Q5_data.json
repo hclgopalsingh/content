@@ -37,7 +37,8 @@
             "url": "assets/images/quesBasetemp15.svg",
             "location": "assets"
         },
-        "isFirstQues": false
+        "isFirstQues": false,
+        "isLastQues":true
     },
     "ques": {
         "text": "",
