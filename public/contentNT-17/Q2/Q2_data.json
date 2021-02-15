@@ -577,6 +577,10 @@
 			"url": "assets/popups/submit_confirm_onemptytext/header_confirm_text.png",
 			"location": "content"
 		},
+		"submit_text": {
+			"url": "assets/popups/submit_confirm_onemptytext/popup-text.png",
+			"location": "content"
+		},
 		"ok_btn": {
 			"urlglobal": "global/popups/ok_btn_normal.png",
 			"location": "theme"
