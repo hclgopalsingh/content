@@ -34,6 +34,7 @@
 			"location": "content"
 		},
 		"isFirstQues": false,
+		"isLastQues":false,
 		"imgCount": 14
 	},
 	"options_assts": {
