@@ -15,6 +15,7 @@
             "location": "theme"
         },
         "isFirstQues": false,
+        "isLastQues":false,
         "imgCount": 1
     },
     "ques": {
@@ -28,9 +29,11 @@
             "location": "content"
         },
         "styleArray": {
-            "left": "10%",
-            "margin": "0 1%"
-        }
+            "left": "3%",
+            "margin": "0 0.8%"
+        },
+        "RightAnimationSec":2,
+		"WrongAnimationSec":2
     },
     "speaker": {
         "enabled": "",
