@@ -40,6 +40,7 @@
 			"location": "theme"
 		},
 		"isFirstQues": false,
+		"isLastQues":false,
 		"imgCount": "15",
 		"formatTimeout": "6000"
 	},
