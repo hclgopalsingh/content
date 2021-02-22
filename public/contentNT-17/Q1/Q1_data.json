@@ -3216,7 +3216,8 @@
 			"urlglobal": "global/buttons/peechey.svg",
 			"location": "theme"
 		},
-		"feedbackNextBlinkDelayInSec":150
+		"feedbackNextBlinkDelayInSec":150,
+		"feedbackCloseInSec": 900
 
 	},
 	"partialIncorrect_sound": {
