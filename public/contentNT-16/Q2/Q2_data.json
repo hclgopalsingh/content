@@ -23,6 +23,10 @@
 			"url": "assets/instructionBar.png",
 			"location": "content"
 		},
+		"autoPlaced_sound": {
+			"url": "assets/popups/feedback/bell.ogg",
+			"location": "content"
+		},
 		"right_sound": {
 			"url": "assets/popups/feedback/clap.ogg",
 			"location": "content"
