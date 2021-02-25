@@ -127,7 +127,6 @@
     }
   ],
   "number_options": [{
-      "value": 0,
       "imgsrc": {
         "url": "assets/options/num_0.png",
         "location": "content"
@@ -147,7 +146,6 @@
       "selected": false
     },
     {
-      "value": 1,
       "imgsrc": {
         "url": "assets/options/num_1.png",
         "location": "content"
@@ -167,7 +165,6 @@
       "selected": false
     },
     {
-      "value": 2,
       "imgsrc": {
         "url": "assets/options/num_2.png",
         "location": "content"
@@ -187,7 +184,6 @@
       "selected": false
     },
     {
-      "value": 3,
       "imgsrc": {
         "url": "assets/options/num_3.png",
         "location": "content"
@@ -207,7 +203,6 @@
       "selected": false
     },
     {
-      "value": 4,
       "imgsrc": {
         "url": "assets/options/num_4.png",
         "location": "content"
@@ -227,7 +222,6 @@
       "selected": false
     },
     {
-      "value": 5,
       "imgsrc": {
         "url": "assets/options/num_5.png",
         "location": "content"
@@ -247,7 +241,6 @@
       "selected": false
     },
     {
-      "value": 6,
       "imgsrc": {
         "url": "assets/options/num_6.png",
         "location": "content"
@@ -267,7 +260,6 @@
       "selected": false
     },
     {
-      "value": 7,
       "imgsrc": {
         "url": "assets/options/num_7.png",
         "location": "content"
@@ -287,7 +279,6 @@
       "selected": false
     },
     {
-      "value": 8,
       "imgsrc": {
         "url": "assets/options/num_8.png",
         "location": "content"
@@ -307,7 +298,6 @@
       "selected": false
     },
     {
-      "value": 9,
       "imgsrc": {
         "url": "assets/options/num_9.png",
         "location": "content"
