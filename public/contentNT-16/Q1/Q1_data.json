@@ -369,7 +369,7 @@
 			"location": "content",
 			"autoPlay": true
 		},
-		"allCorrectBlackoutSec":5,
+		"allCorrectBlackoutSec":2,
 		"WrongAnimationSec":5,
 		"quesPlayPause": {
 			"urlglobal": "global/buttons/commonvideo/pause.svg",
