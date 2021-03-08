@@ -43,6 +43,7 @@
 			"location": "content"
 		},
 		"isFirstQues": false,
+		"isLastQues":true,
 		"imgCount": 0,
          "backgroundMonths": {
 			 "url":"baseMonths.png",
@@ -79,44 +80,44 @@
 			"location": "content"
 		},
 		"close_btn": {
-			"url": "closeBtn.png",
-			"location": "content"
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
 		},
 		"close_btn_hover": {
-			"url": "closeBtnHover.png",
-			"location": "content"
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
 		},
 		"close_btn_original": {
-			"url": "closeBtn.png",
-			"location": "content"
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
 		},
 		"confirm_text": {
 			"url": "submit_popup_text.png",
 			"location": "content"
 		},
 		"confirm_btn": {
-			"url": "yes_btn.png",
-			"location": "content"
+			"urlglobal": "global/popups/yes_btn.png",
+			"location": "theme"
 		},
 		"confirm_btn_hover": {
-			"url": "yes_btn_Hover.png",
-			"location": "content"
+			"urlglobal": "global/popups/yes_btn_Hover.png",
+			"location": "theme"
 		},
 		"confirm_btn_original": {
-			"url": "yes_btn.png",
-			"location": "content"
+			"urlglobal": "global/popups/yes_btn.png",
+			"location": "theme"
 		},
 		"decline_btn": {
-			"url": "no_btn.png",
-			"location": "content"
+			"urlglobal": "global/popups/no_btn.png",
+			"location": "theme"
 		},
 		"decline_btn_hover": {
-			"url": "no_btn_Hover.png",
-			"location": "content"
+			"urlglobal": "global/popups/no_btn_Hover.png",
+			"location": "theme"
 		},
 		"decline_btn_original": {
-			"url": "no_btn.png",
-			"location": "content"
+			"urlglobal": "global/popups/no_btn.png",
+			"location": "theme"
 		}
 	},
 	
@@ -2139,6 +2140,7 @@
 
 
 	"feedback": {
+		"close_feedback_timer": 900,
 		"correct_date": "4",
 		"correct_year":"",
 		"correct_month":"August",
