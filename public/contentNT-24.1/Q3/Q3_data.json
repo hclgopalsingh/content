@@ -50,6 +50,10 @@
 					"location": "content",
 					"style_class": "option1"
 				},
+				"mouse_over_audio": {
+					"url": "assets/options/option1.ogg",
+					"location": "content"
+				},
 				"imgsrc_active": {
 					"url": "option1Active.png",
 					"location": "content",
