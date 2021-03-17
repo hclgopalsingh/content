@@ -74,12 +74,17 @@
 			"url": "assets/popups/feedback/outOfScope.ogg",
 			"location": "content"
 		},
+		"reviewPopupAudio": {
+			"url": "assets/popups/feedback/reviewpopup.ogg",
+			"location": "content"
+		},
 		"dropDownCloseBtn": {
 			"url": "assets/question/cross_icon.png",
 			"location": "content"
 		},
 		"isFirstQues": false,
 		"isLastQues":true,
+		"isCategoryBased": true,
 		"itemsperPage": 6
 	},
 	"svgInfo": {
@@ -212,6 +217,7 @@
 			"strokeId": "",
 			"onclickColor": "#96B000",
 			"textField": "Object_1",
+			"categoryName": "Category-1",
 			"subCategory": "Umbrella",
 			"categoryTxtimg": {
 				"url": "assets/options/category1.png",
@@ -288,6 +294,7 @@
 			"strokeId": "",
 			"onclickColor": "#92024A",
 			"textField": "Object_2",
+			"categoryName": "Category-1",
 			"subCategory": "Ball",
 			"categoryTxtimg": {
 				"url": "assets/options/category1.png",
@@ -326,6 +333,7 @@
 			"strokeId": "",
 			"onclickColor": "#333333",
 			"textField": "Object_3",
+			"categoryName": "Category-2",
 			"subCategory": "Apple",
 			"categoryTxtimg": {
 				"url": "assets/options/category2.png",
@@ -364,6 +372,7 @@
 			"strokeId": "",
 			"onclickColor": "#CB6095",
 			"textField": "Object_4",
+			"categoryName": "Category-2",
 			"subCategory": "Hat",
 			"categoryTxtimg": {
 				"url": "assets/options/category2.png",
@@ -440,6 +449,7 @@
 			"strokeId": "",
 			"onclickColor": "#CFA718",
 			"textField": "Object_5",
+			"categoryName": "Category-3",
 			"subCategory": "Football",
 			"categoryTxtimg": {
 				"url": "assets/options/category3.png",
@@ -516,6 +526,7 @@
 			"strokeId": "",
 			"onclickColor": "#ED7A8B",
 			"textField": "Object_6",
+			"categoryName": "Category-3",
 			"subCategory": "Van",
 			"categoryTxtimg": {
 				"url": "assets/options/category3.png",
@@ -554,6 +565,7 @@
 			"strokeId": "",
 			"onclickColor": "#BF4718",
 			"textField": "Object_7",
+			"categoryName": "Category-4",
 			"subCategory": "Cycle",
 			"categoryTxtimg": {
 				"url": "assets/options/category4.png",
@@ -592,6 +604,7 @@
 			"strokeId": "",
 			"onclickColor": "#CFCCB9",
 			"textField": "Object_8",
+			"categoryName": "Category-4",
 			"subCategory": "Chair",
 			"categoryTxtimg": {
 				"url": "assets/options/category4.png",

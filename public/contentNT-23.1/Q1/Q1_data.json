@@ -74,6 +74,10 @@
 			"url": "assets/popups/feedback/outOfScope.ogg",
 			"location": "content"
 		},
+		"reviewPopupAudio": {
+			"url": "assets/popups/feedback/reviewpopup.ogg",
+			"location": "content"
+		},
 		"dropDownCloseBtn": {
 			"url": "assets/question/cross_icon.png",
 			"location": "content"

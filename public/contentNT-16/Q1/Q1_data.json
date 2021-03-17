@@ -23,6 +23,10 @@
 			"url": "assets/instructionBar.png",
 			"location": "content"
 		},
+		"autoPlaced_sound": {
+			"url": "assets/popups/feedback/bell.ogg",
+			"location": "content"
+		},
 		"right_sound": {
 			"url": "assets/popups/feedback/clap.ogg",
 			"location": "content"
@@ -365,7 +369,7 @@
 			"location": "content",
 			"autoPlay": true
 		},
-		"allCorrectBlackoutSec":5,
+		"allCorrectBlackoutSec":2,
 		"WrongAnimationSec":5,
 		"quesPlayPause": {
 			"urlglobal": "global/buttons/commonvideo/pause.svg",
