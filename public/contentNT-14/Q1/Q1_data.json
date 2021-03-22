@@ -115,6 +115,14 @@
 			"url": "assets/images/content13/recordBtnInactive.svg",
 			"location": "assets"
 		},
+		"pause": {
+			"url": "assets/images/content13/recordBtnActive.svg",
+			"location": "assets"
+		},
+		"resume": {
+			"url": "assets/images/content13/recordBtnInactive.svg",
+			"location": "assets"
+		},
 		"recordActive": {
 			"url": "assets/images/content13/recordBtnActive.svg",
 			"location": "assets"
