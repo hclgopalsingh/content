@@ -15,6 +15,7 @@
 			"location": "theme"
 		},
 		"isFirstQues": true,
+		"isLastQues": false,
 		"imgCount": 5
 	},
 
@@ -49,6 +50,14 @@
 					"url": "assets/options/option1.png",
 					"location": "content",
 					"style_class": "option1"
+				},
+				"imgsrc_original": {
+					"url": "assets/options/option1.png",
+					"location": "content"
+				},
+				"imgsrc_hover": {
+					"url": "assets/options/option1_hover.png",
+					"location": "content"
 				},
 				"mouse_over_audio": {
 					"url": "assets/options/option1.ogg",
@@ -86,6 +95,14 @@
 					"location": "content",
 					"style_class": "option1"
 				},
+				"imgsrc_original": {
+					"url": "assets/options/option2.png",
+					"location": "content"
+				},
+				"imgsrc_hover": {
+					"url": "assets/options/option2_hover.png",
+					"location": "content"
+				},
 				"mouse_over_audio": {
 					"url": "assets/options/option2.ogg",
 					"location": "content"
@@ -121,6 +138,14 @@
 					"url": "assets/options/option3.png",
 					"location": "content",
 					"style_class": "option1"
+				},
+				"imgsrc_original": {
+					"url": "assets/options/option3.png",
+					"location": "content"
+				},
+				"imgsrc_hover": {
+					"url": "assets/options/option3_hover.png",
+					"location": "content"
 				},
 				"mouse_over_audio": {
 					"url": "assets/options/option3.ogg",
@@ -158,6 +183,14 @@
 					"location": "content",
 					"style_class": "option1"
 				},
+				"imgsrc_original": {
+					"url": "assets/options/option4.png",
+					"location": "content"
+				},
+				"imgsrc_hover": {
+					"url": "assets/options/option4_hover.png",
+					"location": "content"
+				},
 				"mouse_over_audio": {
 					"url": "assets/options/option4.ogg",
 					"location": "content"
@@ -193,6 +226,14 @@
 					"url": "assets/options/option5.png",
 					"location": "content",
 					"style_class": "option1"
+				},
+				"imgsrc_original": {
+					"url": "assets/options/option5.png",
+					"location": "content"
+				},
+				"imgsrc_hover": {
+					"url": "assets/options/option5_hover.png",
+					"location": "content"
 				},
 				"mouse_over_audio": {
 					"url": "assets/options/option5.ogg",
