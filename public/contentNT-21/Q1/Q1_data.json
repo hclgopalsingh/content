@@ -606,8 +606,16 @@
       "urlglobal": "global/popups/closeBtn.png",
       "location": "theme"
     },
-    "info_text": {
+    "wrong_digit_text": {
       "url": "assets/popups/digit_popup/wrong_digit_text.png",
+      "location": "content"
+    },
+    "negative_result_text": {
+      "url": "assets/popups/digit_popup/negative_result_text.png",
+      "location": "content"
+    },
+    "decimal_result_text": {
+      "url": "assets/popups/digit_popup/decimal_result_text.png",
       "location": "content"
     },
     "ok_btn": {
@@ -624,6 +632,14 @@
     },
     "wrong_digit_vo": {
       "url": "assets/popups/digit_popup/wrong_digit.ogg",
+      "location": "content"
+    },
+    "negative_result_vo": {
+      "url": "assets/popups/digit_popup/negative_vo.ogg",
+      "location": "content"
+    },
+    "decimal_result_vo": {
+      "url": "assets/popups/digit_popup/decimal_vo.ogg",
       "location": "content"
     }
   },
