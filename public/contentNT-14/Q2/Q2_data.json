@@ -32,7 +32,7 @@
 		},
 		"isFirstQues": false
 	},
-	"autoStop": "60000",
+	"autoStop": "300000",
 	"quesObj": {
 		"quesVideo": {
 			"urlOgv": "video.ogg",
@@ -115,11 +115,15 @@
 			"location": "assets"
 		},
 		"pause": {
-			"url": "assets/images/content13/recordBtnActive.svg",
+			"url": "assets/images/content13/pauseBtnInActive.svg",
+			"location": "assets"
+		},
+		"pause_original": {
+			"url": "assets/images/content13/pauseBtnInActive.svg",
 			"location": "assets"
 		},
 		"resume": {
-			"url": "assets/images/content13/recordBtnInactive.svg",
+			"url": "assets/images/content13/resumeActive.svg",
 			"location": "assets"
 		},
 		"recordActive": {
