@@ -1,0 +1,34 @@
+{
+	"titleScreen":true,
+	"imgCount":"1",
+	"templateType":"EVA",
+	"titleText": {
+		"url":"",
+		"location":""
+	},
+	"narrator": {
+		"url": "narrator.ogg",
+		"location": "content"
+	},
+	"background": {
+		"url": "titleBg.png",
+		"location": "content"
+	},
+	"krikalapText": {
+		"url": "",
+		"location": ""
+	},
+	"jariRakheinBtn": {
+		"url": "",
+		"location": ""
+	},
+	"jariRakheinBtn_original": {
+		"url": "",
+		"location": ""
+	},
+	"jariRakheinBtn_hover": {
+		"url": "",
+		"location": ""
+	}
+	
+}
