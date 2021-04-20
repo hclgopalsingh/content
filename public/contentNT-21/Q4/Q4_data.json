@@ -331,6 +331,7 @@
 	],
 
 	"digits": [{
+		"id": 1,
 		"imgsrc": {
 			"url": "assets/options/digit1.png",
 			"location": "content"
@@ -347,8 +348,13 @@
 			"url": "assets/options/digit1_selected.png",
 			"location": "content"
 		},
+		"imgsrc_disabled": {
+			"url": "assets/options/digit1_disabled.png",
+			"location": "content"
+		},
 		"selected": false
 	}, {
+		"id": 2,
 		"imgsrc": {
 			"url": "assets/options/digit2.png",
 			"location": "content"
@@ -365,8 +371,13 @@
 			"url": "assets/options/digit2_selected.png",
 			"location": "content"
 		},
+		"imgsrc_disabled": {
+			"url": "assets/options/digit2_disabled.png",
+			"location": "content"
+		},
 		"selected": false
 	}, {
+		"id": 3,
 		"imgsrc": {
 			"url": "assets/options/digit3.png",
 			"location": "content"
@@ -381,6 +392,10 @@
 		},
 		"imgsrc_selected": {
 			"url": "assets/options/digit3_selected.png",
+			"location": "content"
+		},
+		"imgsrc_disabled": {
+			"url": "assets/options/digit3_disabled.png",
 			"location": "content"
 		},
 		"selected": false
@@ -412,7 +427,8 @@
 		},
 		"canUse": false,
 		"selected": false,
-		"disable": false
+		"disable": false,
+		"allowedDigits": []
 	}, {
 		"imgsrc": {
 			"url": "assets/options/minus.png",
@@ -440,7 +456,8 @@
 		},
 		"canUse": true,
 		"selected": false,
-		"disable": false
+		"disable": false,
+		"allowedDigits": [1,2,3]
 	}, {
 		"imgsrc": {
 			"url": "assets/options/multiply.png",
@@ -468,7 +485,8 @@
 		},
 		"canUse": false,
 		"selected": false,
-		"disable": false
+		"disable": false,
+		"allowedDigits": []
 	}, {
 		"imgsrc": {
 			"url": "assets/options/divide.png",
@@ -496,7 +514,8 @@
 		},
 		"canUse": true,
 		"selected": false,
-		"disable": false
+		"disable": false,
+		"allowedDigits": [1,2,3]
 	}],
 
 	"other_assets": {
