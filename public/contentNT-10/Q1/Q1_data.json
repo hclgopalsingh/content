@@ -98,6 +98,7 @@
 		"imgCount": "15",
 		"maxNosOpt": "7",
 		"isFirstQues": true,
+		"isLastQues":false,
 		"noOfQues": "7",
 		"textRemoveTime": "4000"
 
