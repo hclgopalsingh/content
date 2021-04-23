@@ -58,6 +58,284 @@
 			"location":"content"
 		 }
 	},
+	"dateFormat":["year","week", "date", "month"],
+	"newFeedback_vo":{
+		"start":{
+			"url":"assets/feedback_vo/Aapne.ogg",
+			"location":"content"
+		},
+		"end_Iscorrect":{
+			"url":"assets/feedback_vo/sahi_hai.ogg",
+			"location":"content"
+		},
+		"end_Iswrong":{
+			"url":"assets/feedback_vo/try_again.ogg",
+			"location":"content"
+		},
+		"partialCorrect":{
+			"url":"assets/feedback_vo/sahi_hai_partial.ogg",
+			"location":"content"
+		},
+		"partialIncorrect":{
+			"url":"assets/feedback_vo/try_again.ogg",
+			"location":"content"
+		},
+		"year":{
+			"url":"assets/feedback_vo/saal.ogg",
+			"location":"content"
+		},
+		"month":{
+			"url":"assets/feedback_vo/mahina.ogg",
+			"location":"content"
+		},
+		"date":{
+			"url":"assets/feedback_vo/taarik.ogg",
+			"location":"content"
+		},
+		"week":{
+			"url":"assets/feedback_vo/dinn.ogg",
+			"location":"content"
+		}
+	},	
+	"common_vos": {
+		"year": {
+			"2018": {
+				"url": "assets/calendar/year/2018.ogg",
+				"location": "assets"
+			},
+			"2019": {
+				"url": "assets/calendar/year/2019.ogg",
+				"location": "assets"
+			},
+			"2020": {
+				"url": "assets/calendar/year/2020.ogg",
+				"location": "assets"
+			},
+			"2021": {
+				"url": "assets/calendar/year/2021.ogg",
+				"location": "assets"
+			},
+			"2022": {
+				"url": "assets/calendar/year/2022.ogg",
+				"location": "assets"
+			},
+			"2023": {
+				"url": "assets/calendar/year/2023.ogg",
+				"location": "assets"
+			},
+			"2024": {
+				"url": "assets/calendar/year/2024.ogg",
+				"location": "assets"
+			}
+
+		},
+		"month": {
+			"January": {
+				"url": "assets/calendar/months/january.ogg",
+				"location": "assets"
+			},
+			"February": {
+				"url": "assets/calendar/months/february.ogg",
+				"location": "assets"
+			},
+			"March": {
+				"url": "assets/calendar/months/march.ogg",
+				"location": "assets"
+			},
+			"April": {
+				"url": "assets/calendar/months/april.ogg",
+				"location": "assets"
+			},
+			"May": {
+				"url": "assets/calendar/months/may.ogg",
+				"location": "assets"
+			},
+			"June": {
+				"url": "assets/calendar/months/june.ogg",
+				"location": "assets"
+			},
+			"July": {
+				"url": "assets/calendar/months/july.ogg",
+				"location": "assets"
+			},
+			"August": {
+				"url": "assets/calendar//months/august.ogg",
+				"location": "assets"
+			},
+			"September": {
+				"url": "assets/calendar//months/september.ogg",
+				"location": "assets"
+			},
+			"October": {
+				"url": "assets/calendar//months/october.ogg",
+				"location": "assets"
+			},
+			"November": {
+				"url": "assets/calendar//months/november.ogg",
+				"location": "assets"
+			},
+			"December": {
+				"url": "assets/calendar//months/december.ogg",
+				"location": "assets"
+			}
+		},
+		"week": {
+			"Monday": {
+				"url": "assets/calendar/week/monday.ogg",
+				"location": "assets"
+			},
+			"Tuesday": {
+				"url": "assets/calendar/week/tuesday.ogg",
+				"location": "assets"
+			},
+			"Wednesday": {
+				"url": "assets/calendar/week/wednesday.ogg",
+				"location": "assets"
+			},
+			"Thursday": {
+				"url": "assets/calendar/week/Thursday.ogg",
+				"location": "assets"
+			},
+			"Friday": {
+				"url": "assets/calendar/week/friday.ogg",
+				"location": "assets"
+			},
+			"Saturday": {
+				"url": "assets/calendar/week/saturday.ogg",
+				"location": "assets"
+			},
+			"Sunday": {
+				"url": "assets/calendar/week/sunday.ogg",
+				"location": "assets"
+			}
+		},
+		"date": {
+			"1": {
+				"url": "assets/calendar/date/1st.ogg",
+				"location": "assets"
+			},
+			"2": {
+				"url": "assets/calendar/date/2nd.ogg",
+				"location": "assets"
+			},
+			"3": {
+				"url": "assets/calendar/date/3rd.ogg",
+				"location": "assets"
+			},
+			"4": {
+				"url": "assets/calendar/date/4th.ogg",
+				"location": "assets"
+			},
+			"5": {
+				"url": "assets/calendar/date/5th.ogg",
+				"location": "assets"
+			},
+			"6": {
+				"url": "assets/calendar/date/6th.ogg",
+				"location": "assets"
+			},
+			"7": {
+				"url": "assets/calendar/date/7th.ogg",
+				"location": "assets"
+			},
+			"8": {
+				"url": "assets/calendar/date/8th.ogg",
+				"location": "assets"
+			},
+			"9": {
+				"url": "assets/calendar/date/9th.ogg",
+				"location": "assets"
+			},
+			"10": {
+				"url": "assets/calendar/date/10th.ogg",
+				"location": "assets"
+			},
+			"11": {
+				"url": "assets/calendar/date/11th.ogg",
+				"location": "assets"
+			},
+			"12": {
+				"url": "assets/calendar/date/12th.ogg",
+				"location": "assets"
+			},
+			"13": {
+				"url": "assets/calendar/date/13th.ogg",
+				"location": "assets"
+			},
+			"14": {
+				"url": "assets/calendar/date/14th.ogg",
+				"location": "assets"
+			},
+			"15": {
+				"url": "assets/calendar/date/15th.ogg",
+				"location": "assets"
+			},
+			"16": {
+				"url": "assets/calendar/date/16th.ogg",
+				"location": "assets"
+			},
+			"17": {
+				"url": "assets/calendar/date/17th.ogg",
+				"location": "assets"
+			},
+			"18": {
+				"url": "assets/calendar/date/18th.ogg",
+				"location": "assets"
+			},
+			"19": {
+				"url": "assets/calendar/date/19th.ogg",
+				"location": "assets"
+			},
+			"20": {
+				"url": "assets/calendar/date/20th.ogg",
+				"location": "assets"
+			},
+			"21": {
+				"url": "assets/calendar/date/21st.ogg",
+				"location": "assets"
+			},
+			"22": {
+				"url": "assets/calendar/date/22nd.ogg",
+				"location": "assets"
+			},
+			"23": {
+				"url": "assets/calendar/date/23rd.ogg",
+				"location": "assets"
+			},
+			"24": {
+				"url": "assets/calendar/date/24th.ogg",
+				"location": "assets"
+			},
+			"25": {
+				"url": "assets/calendar/date/25th.ogg",
+				"location": "assets"
+			},
+			"26": {
+				"url": "assets/calendar/date/26th.ogg",
+				"location": "assets"
+			},
+			"27": {
+				"url": "assets/calendar/date/27th.ogg",
+				"location": "assets"
+			},
+			"28": {
+				"url": "assets/calendar/date/28th.ogg",
+				"location": "assets"
+			},
+			"29": {
+				"url": "assets/calendar/date/29th.ogg",
+				"location": "assets"
+			},
+			"30": {
+				"url": "assets/calendar/date/30th.ogg",
+				"location": "assets"
+			},
+			"31": {
+				"url": "assets/calendar/date/31st.ogg",
+				"location": "assets"
+			}
+		}
+	},
 	"submit_confirm": {
 		"style_header": {
 			"border": "solid .4vmin #85d222",
@@ -2208,6 +2486,10 @@
           "url": "assets/popups/partial_feedback/PopupHeaderTitle.png",
           "location": "content"
         },
+		"partialCorrectheaderTxt_img": {
+			"url": "assets/popups/partial_feedback/PopupHeaderTitle.png",
+			"location": "content"
+		},
         "rightAnswerheaderTxt_img": {
           "url": "assets/popups/right_feedback/PopupHeaderTitle1.png",
           "location": "content"

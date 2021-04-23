@@ -427,37 +427,27 @@
             "questionText": [
                 {
                     "id":"#Blank_P1_0_Layer0_0_1_STROKES",
-                    "symbolFillId":"#Symbol_1_0_Layer1_0_FILL",
-                    "symbol2FillId":"#Symbol_1_0_Layer2_0_FILL",
-                    "symbolStrokeId":"#Symbol_1_0_Layer1_0_1_STROKES",
+                    "symbolFillId":"#Symbol_1_0",
                     "correctAnsId": "1"
                 },
                 {
                     "id":"#Blank_P2_0_Layer0_0_1_STROKES",
-                    "symbolFillId":"#Symbol_1_2_Layer1_0_FILL",
-                    "symbol2FillId":"#Symbol_1_2_Layer2_0_FILL",
-                    "symbolStrokeId":"#Symbol_1_2_Layer1_0_1_STROKES",
+                    "symbolFillId":"#Symbol_1_2",
                     "correctAnsId": "3"
                 },
                 {
                     "id":"#Blank_P3_0_Layer0_0_1_STROKES",
-                    "symbolFillId":"#Symbol_1_3_Layer1_0_FILL",
-                    "symbol2FillId":"#Symbol_1_3_Layer2_0_FILL",
-                    "symbolStrokeId":"#Symbol_1_3_Layer1_0_1_STROKES",
+                    "symbolFillId":"#Symbol_1_3",
                     "correctAnsId": "5"
                 },
                 {
                     "id":"#Blank_P4_0_Layer0_0_1_STROKES",
-                    "symbolFillId":"#Symbol_1_4_Layer1_0_FILL",
-                    "symbol2FillId":"#Symbol_1_4_Layer2_0_FILL",
-                    "symbolStrokeId":"#Symbol_1_4_Layer1_0_1_STROKES",
+                    "symbolFillId":"#Symbol_1_4",
                     "correctAnsId": "2"
                 },
                 {
                     "id":"#Blank_P5_0_Layer0_0_1_STROKES",
-                    "symbolFillId":"#Symbol_1_5_Layer1_0_FILL",
-                    "symbol2FillId":"#Symbol_1_5_Layer2_0_FILL",
-                    "symbolStrokeId":"#Symbol_1_5_Layer1_0_1_STROKES",
+                    "symbolFillId":"#Symbol_1_5",
                     "correctAnsId": "4"
                 }
 
