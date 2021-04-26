@@ -31,6 +31,7 @@
                 "location": "theme"
         },
         "isFirstQues": false,
+        "isLastQues":false,
         "imgCount": 17
     },
     "option_common_assets": {
