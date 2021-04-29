@@ -1,6 +1,6 @@
 {
     "id": "Q001",
-    "instructiontext": "अंकजाल से संख्‍या ग्‍यारह, बाइस, और तैंतीस  बनाइए।",
+    "instructiontext": "अंकजाल से संख्‍या ग्‍यारह] बाइस और तैंतीस  बनाइए।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -120,7 +120,7 @@
                 "location": "assets"
             },
             "peechey_jayein": {
-                "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+                "url": "assets/images/EVAGlobal/prevBtn.svg",
                 "location": "assets"
             },
             "peechey_jayein_disabled": {
@@ -187,7 +187,7 @@
                 }
             }
         },
-        "isFirstQues": true
+        "isFirstQues": false
     },
     "ques": {
         "text": "",

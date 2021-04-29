@@ -1,6 +1,6 @@
 {
     "id": "Q001",
-    "instructiontext": "अंकजाल से संख्‍या उनत्‍तीस, सैंतीस और छब्‍बीस बनाइए।",
+    "instructiontext": "अंकजाल से संख्‍या उनत्‍तीस] सैंतीस और छब्‍बीस बनाइए।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -98,7 +98,7 @@
             "location": "assets"
         },
         "ques_control": {
-            "isLastQues": false,
+            "isLastQues": true,
             "footer": {
                 "url": "assets/images/EVAGlobal/footerBg.svg",
                 "location": "assets"
@@ -111,6 +111,10 @@
                 "url": "assets/images/EVAGlobal/nextBtn.svg",
                 "location": "assets"
             },
+			"aagey_badhein_disabled": {
+                "url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
+                "location": "assets"
+            },
             "aagey_badhein_hover": {
                 "url": "assets/images/EVAGlobal/nextBtnHover.svg",
                 "location": "assets"
@@ -120,7 +124,7 @@
                 "location": "assets"
             },
             "peechey_jayein": {
-                "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+                "url": "assets/images/EVAGlobal/prevBtn.svg",
                 "location": "assets"
             },
             "peechey_jayein_disabled": {
@@ -187,7 +191,7 @@
                 }
             }
         },
-        "isFirstQues": true
+        "isFirstQues": false
     },
     "ques": {
         "text": "",
