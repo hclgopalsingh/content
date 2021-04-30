@@ -206,6 +206,10 @@
 			"border-top": "none",
 			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
 		},
+		"showAnswer_style_title": {
+			"url": "assets/popups/show_answer/ShowAnsTitleTxt.png",
+			"location": "content"
+		},
 		"headerTxt_img": {
             "url": "assets/popups/show_answer/header_popup_text.png",
             "location": "content"
