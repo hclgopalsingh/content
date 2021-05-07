@@ -1,7 +1,7 @@
 {
     "id": "Q003",
     "imgCount": "11",
-    "instructiontext": "लोहा शब्‍द पूरा करें।",
+    "instructiontext": "शब्‍द पूरा करें।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -253,8 +253,7 @@
             {
                 "url": "",
                 "location": "content",
-                "isBlank": true,
-                "addMatra": true,
+                "aksharForMatra": true,
                 "hasmatra": false,
                 "matravalue": "",
                 "matra": {
@@ -265,7 +264,6 @@
             {
                 "url": "question/aa.png",
                 "location": "content",
-                "isBlank": false,
                 "addMatra": false,
                 "hasmatra": false,
                 "matravalue": "",

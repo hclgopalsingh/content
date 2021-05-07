@@ -1,7 +1,7 @@
 {
     "id": "Q005",
     "imgCount": "11",
-    "instructiontext": "थाली शब्‍द पूरा करें।",
+    "instructiontext": "शब्‍द पूरा करें।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -254,8 +254,7 @@
             {
                 "url": "",
                 "location": "content",
-                "isBlank": true,
-                "addMatra": true,
+                "aksharForMatra": true,
                 "hasmatra": false,
                 "matravalue": "",
                 "matra": {
@@ -266,7 +265,6 @@
             {
                 "url": "",
                 "location": "content",
-                "isBlank": false,
                 "addMatra": false,
                 "hasmatra": true,
                 "matravalue": "ee",
