@@ -24,15 +24,15 @@
             "url": "speaker.ogg",
             "location": "content"
         },
-        "wave1":{
+        "wave1": {
             "url": "assets/images/EVAGlobal/speakerWave1.svg",
             "location": "assets"
         },
-        "wave2":{
+        "wave2": {
             "url": "assets/images/EVAGlobal/speakerWave2.svg",
             "location": "assets"
         },
-        "wave3":{
+        "wave3": {
             "url": "assets/images/EVAGlobal/speakerWave3.svg",
             "location": "assets"
         }
@@ -99,15 +99,15 @@
             "location": "assets"
         },
         "ques_control": {
-            "isLastQues" : false,
+            "isLastQues": false,
             "footer": {
                 "url": "assets/images/EVAGlobal/footerBg.svg",
                 "location": "assets"
             },
-			"aagey_badhein_disabled": {
-				"url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
-				"location": "assets"
-			},
+            "aagey_badhein_disabled": {
+                "url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
+                "location": "assets"
+            },
             "aagey_badhein": {
                 "url": "assets/images/EVAGlobal/nextBtn.svg",
                 "location": "assets"
@@ -164,7 +164,7 @@
                 "url": "assets/images/EVAGlobal/submitBtnDisabled.svg",
                 "location": "assets"
             },
-            
+
             "rightTick_img": {
                 "url": "assets/images/EVAGlobal/right.svg",
                 "location": "assets"
@@ -173,7 +173,7 @@
                 "url": "assets/images/EVAGlobal/wrong.svg",
                 "location": "assets"
             },
-            
+
             "quesTabs": {
                 "quesID": 3,
                 "tabCircleDisabled": {
@@ -193,93 +193,103 @@
                     "location": "assets"
                 }
             }
-        },        
+        },
         "isFirstQues": false
     },
-    
+
     "options": {
         "opts": [{
             "id": "001",
-            "url": "options/dha.png",
+            "url": "options/anda.png",
             "location": "content",
             "audio": {
                 "url": "",
                 "location": "content"
             },
-            "isMatra":  false
-        }, {
-            "id": "002",
-            "url": "options/ha.png",
-            "location": "content",
-            "audio": {
-                "url": "",
-                "location": "content"
-            },
-            "isMatra":  false,
+            "isMatra": false,
             "isCorrect": true
         }, {
-            "id": "003",
-            "url": "options/na.png",
+            "id": "002",
+            "url": "options/da.png",
             "location": "content",
             "audio": {
                 "url": "",
                 "location": "content"
             },
-            "isMatra":  false
+            "isMatra": false
+            
+        }, {
+            "id": "003",
+            "url": "options/la.png",
+            "location": "content",
+            "audio": {
+                "url": "",
+                "location": "content"
+            },
+            "isMatra": false
         }]
-    },   
+    },
     "quesObj": {
         "quesInstruction": {
             "url": "Instruction.ogg",
             "location": "content",
             "autoPlay": true
         },
-		"background":{
-			"url":"questionBase.png",
-			"location":"content"
-		 },
-        "questionText": [
-            {
+        "background": {
+            "url": "questionBase.png",
+            "location": "content"
+        },
+        "questionText": [{
                 "url": "",
-                "location": "",            
-                "hasmatra":false,
-                "isBlank": "true",
-                "matravalue":"",
-                "matra":{
+                "location": "",
+                "hasmatra": false,
+                "aksharForMatra": "true",
+                "matravalue": "",
+                "matra": {
                     "url": "",
                     "location": "content"
-                } 
+                }
             },
             {
                 "url": "",
                 "location": "",
-               
-                "hasmatra":true,
-                "matravalue":"o",
-                "matra":{
-                    "url": "question/o.png",
+                "hasmatra": true,
+                "matravalue": "aa",
+                "matra": {
+                    "url": "question/aa.png",
                     "location": "content"
-                } 
-            
-        },
-          {
-            "url": "question/la.png",
-            "location": "content",
-            "hasmatra":true,
-             "matravalue":"ee",
-             "matra":{
-                "url":"question/ee.png",
-                "location":"content"
-             }
-        }]
+                }
+
+            },
+            {
+                "url": "question/ka.png",
+                "location": "content",
+                "hasmatra": true,
+                "matravalue": "i",
+                "matra": {
+                    "url": "question/i.png",
+                    "location": "content"
+                }
+            },
+            {
+                "url": "question/ya.png",
+                "location": "content",
+                "hasmatra": true,
+                "matravalue": "aa",
+                "matra": {
+                    "url": "question/aa.png",
+                    "location": "content"
+                }
+            }
+        ]
     },
 
     "feedback": {
         "correct_ans_index": "003",
-        "popupassets":{
+        "popupassets": {
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",
-                 "location": "assets"
+                "location": "assets"
             },
             "close_button": {
                 "url": "assets/images/EVAGlobal/popupCloseBtn.svg",
@@ -305,10 +315,10 @@
         },
         "show_ans_popup": {
             "video": {
-				"url":"video.mp4",
-				"location": "content"
-			 }
-         },
+                "url": "video.ogv",
+                "location": "content"
+            }
+        },
         "right_ans_sound": {
             "enabled": true,
             "path": {
@@ -316,9 +326,9 @@
                 "location": "content"
             }
         },
-        "right_ans_clap_sound": {        
-                "url": "assets/images/EVAGlobal/clap.ogg",
-                "location": "assets"
+        "right_ans_clap_sound": {
+            "url": "assets/images/EVAGlobal/clap.ogg",
+            "location": "assets"
         },
         "wrong_ans_sound": {
             "enabled": true,

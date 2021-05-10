@@ -200,32 +200,32 @@
     "options": {
         "opts": [{
             "id": "001",
-            "url": "options/aa.png",
+            "url": "options/la.png",
             "location": "content",
             "audio": {
                 "url": "",
                 "location": "content"
             },
-            "isMatra":true,            
+            "isMatra":false,            
             "isCorrect": true
         }, {
             "id": "002",
-            "url": "options/i.png",
+            "url": "options/tha.png",
             "location": "content",
             "audio": {
                 "url": "",
                 "location": "content"
             },
-            "isMatra":true
+            "isMatra":false
         }, {
             "id": "003",
-            "url": "options/o.png",
+            "url": "options/da.png",
             "location": "content",
             "audio": {
                 "url": "",
                 "location": "content"
             },
-            "isMatra":true
+            "isMatra":false
         }]
     },   
     "quesObj": {
@@ -239,51 +239,43 @@
 			"location":"content"
 		 },
         "questionText": [{
-            "url": "question/aa.png",
-            "location": "content",            
+            "url": "",
+            "location": "",            
+            "hasmatra":true,
+            "matravalue":"i",
+            "matra":{
+                "url": "question/i.png",
+                "location": "content"
+            } 
+        }, 
+        {
+            "url": "",
+            "location": "",            
             "hasmatra":false,
+            "aksharForMatra": "true",
             "matravalue":"",
             "matra":{
                 "url": "",
                 "location": "content"
             } 
-        }, {
-            "url": "question/pa.png",
-            "location": "content",
-            "hasmatra":false,
-            "matravalue":"",
-            "matra":{
-                "url": "",
-                "location": "content"
-            }
-        }, {
-            "url": "question/na.png",
-            "location": "content",
-            "addMatra":true,
-            "hasmatra":false,
-            "matravalue":"",
-            "matra":{
-                "url": "",
-                "location": "content"
-            }
         },
         {
             "url": "question/pa.png",
             "location": "content",
-            "hasmatra":false,
-            "matravalue":"",
+            "hasmatra":true,
+            "matravalue":"aa",
             "matra":{
-                "url": "",
+                "url": "question/aa.png",
                 "location": "content"
             }
-        },{
-            "url": "question/na.png",
+        }, {
+            "url": "question/badi_ee.png",
             "location": "content",
             "hasmatra":false,
             "matravalue":"",
             "matra":{
                 "url": "",
-                "location": "content"
+                "location": ""
             }
         }]
     },
@@ -319,7 +311,7 @@
         },
         "show_ans_popup": {
             "video": {
-				"url":"video.mp4",
+				"url":"video.ogv",
 				"location": "content"
 			 }
          },

@@ -198,34 +198,34 @@
         "opts": [
             {
                 "id": "001",
-                "url": "options/na.png",
+                "url": "options/aa.png",
                 "location": "content",
                 "audio": {
                     "url": "",
                     "location": "content"
                 },
-                "isMatra": false
+                "isMatra": true,
+                "isCorrect": true
             },
             {
                 "id": "002",
-                "url": "options/pa.png",
+                "url": "options/choti_ee.png",
                 "location": "content",
                 "audio": {
                     "url": "",
                     "location": "content"
                 },
-                "isMatra": false
+                "isMatra": true
             },
             {
                 "id": "003",
-                "url": "options/la.png",
+                "url": "options/badi_ee.png",
                 "location": "content",
                 "audio": {
                     "url": "",
                     "location": "content"
                 },
-                "isMatra": false,
-                "isCorrect": true
+                "isMatra": true                
             }
         ]
     },
@@ -241,19 +241,10 @@
         },
         "questionText": [
             {
-                "url": "question/ma.png",
-                "location": "content",
-                "hasmatra": false,
-                "matravalue": "",
-                "matra": {
-                    "url": "",
-                    "location": "content"
-                }
-            },
-            {
                 "url": "question/ha.png",
                 "location": "content",
                 "hasmatra": false,
+                "addMatra": true,
                 "matravalue": "",
                 "matra": {
                     "url": "",
@@ -261,14 +252,12 @@
                 }
             },
             {
-                "url": "",
-                "location": "",
-                "isBlank": "true",
-                "addMatra": false,
-                "hasmatra": false,
-                "matravalue": "",
+                "url": "question/tha.png",
+                "location": "content",
+                "hasmatra": true,
+                "matravalue": "ee",
                 "matra": {
-                    "url": "",
+                    "url": "question/ee.png",
                     "location": "content"
                 }
             }
@@ -304,7 +293,7 @@
         },
         "show_ans_popup": {
             "video": {
-                "url": "video.mp4",
+                "url": "video.ogv",
                 "location": "content"
             }
         },
