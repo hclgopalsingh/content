@@ -33,6 +33,7 @@
 		"isFirstQues": false
 	},
 	"autoStop": "300000",
+	"replayTime": "120000",
 	"quesObj": {
 		"quesVideo": {
 			"urlOgv": "video.ogg",

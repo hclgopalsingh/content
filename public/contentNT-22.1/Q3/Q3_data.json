@@ -60,25 +60,41 @@
 	},
 	"dateFormat":["year","week", "date", "month"],
 	"newFeedback_vo":{
-		"start":{
-			"url":"assets/feedback_vo/Aapne.ogg",
-			"location":"content"
+		"start_right": {
+			"url": "assets/feedback_vo/Aapne.ogg",
+			"location": "content"
 		},
-		"end_Iscorrect":{
-			"url":"assets/feedback_vo/sahi_hai.ogg",
-			"location":"content"
+		"start_wrong": {
+			"url": "assets/feedback_vo/Aapne.ogg",
+			"location": "content"
 		},
-		"end_Iswrong":{
-			"url":"assets/feedback_vo/try_again.ogg",
-			"location":"content"
+		"start_partial": {
+			"url": "assets/feedback_vo/Aapne.ogg",
+			"location": "content"
 		},
-		"partialCorrect":{
-			"url":"assets/feedback_vo/sahi_hai_partial.ogg",
-			"location":"content"
+		"start_Showans": {
+			"url": "assets/options/showAnswerSound.ogg",
+			"location": "content"
 		},
-		"partialIncorrect":{
-			"url":"assets/feedback_vo/try_again.ogg",
-			"location":"content"
+		"end_Iscorrect": {
+			"url": "assets/feedback_vo/sahi_hai.ogg",
+			"location": "content"
+		},
+		"end_Partial": {
+			"url": "assets/feedback_vo/try_again.ogg",
+			"location": "content"
+		},
+		"end_Iswrong": {
+			"url": "assets/feedback_vo/try_again.ogg",
+			"location": "content"
+		},
+		"end_Showans": {
+			"url": "assets/feedback_vo/Thankyou.ogg",
+			"location": "content"
+		},
+		"partialCorrect": {
+			"url": "assets/feedback_vo/sahi_hai_partial.ogg",
+			"location": "content"
 		},
 		"year":{
 			"url":"assets/feedback_vo/saal.ogg",

@@ -418,7 +418,7 @@
 			"location": "content"
 		},
 		"imgsrc_inactive": {
-			"url": "assets/options/multiply_inactive.png",
+			"url": "assets/options/plus_inactive.png",
 			"location": "content"
 		},
 		"operator": {
@@ -447,7 +447,7 @@
 			"location": "content"
 		},
 		"imgsrc_inactive": {
-			"url": "assets/options/multiply_inactive.png",
+			"url": "assets/options/minus_inactive.png",
 			"location": "content"
 		},
 		"operator": {
@@ -457,7 +457,7 @@
 		"canUse": true,
 		"selected": false,
 		"disable": false,
-		"allowedDigits": [1,2,3]
+		"allowedDigits": [2,3]
 	}, {
 		"imgsrc": {
 			"url": "assets/options/multiply.png",
@@ -505,7 +505,7 @@
 			"location": "content"
 		},
 		"imgsrc_inactive": {
-			"url": "assets/options/multiply_inactive.png",
+			"url": "assets/options/divide_inactive.png",
 			"location": "content"
 		},
 		"operator": {
@@ -515,7 +515,7 @@
 		"canUse": true,
 		"selected": false,
 		"disable": false,
-		"allowedDigits": [1,2,3]
+		"allowedDigits": [2,3]
 	}],
 
 	"other_assets": {
