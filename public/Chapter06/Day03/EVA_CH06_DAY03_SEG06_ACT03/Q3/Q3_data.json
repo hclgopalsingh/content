@@ -1,6 +1,6 @@
 {
-    "id": "Q001",
-    "instructiontext": "अंकजाल से संख्‍या उनत्‍तीस] सैंतीस और छब्‍बीस बनाइए।",
+    "id": "Q003",
+    "instructiontext": "अंकजाल से संख्या तेरह] तेईस और तैंतीस बनाइए।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -98,7 +98,7 @@
             "location": "assets"
         },
         "ques_control": {
-            "isLastQues": true,
+            "isLastQues": false,
             "footer": {
                 "url": "assets/images/EVAGlobal/footerBg.svg",
                 "location": "assets"
@@ -120,7 +120,7 @@
                 "location": "assets"
             },
             "peechey_jayein": {
-                "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+                "url": "assets/images/EVAGlobal/prevBtn.svg",
                 "location": "assets"
             },
             "peechey_jayein_disabled": {
@@ -168,7 +168,7 @@
                 "location": "assets"
             },
             "quesTabs": {
-                "quesID": 0,
+                "quesID": 2,
                 "tabCircleDisabled": {
                     "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
                     "location": "assets"
@@ -211,22 +211,8 @@
         "optionsArr": [
             {
                 "id": "1",
-		"highlightWord": {
-                    "highlightWord_bg": {
-                        "url": "../commonassets/2HGreen.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_original": {
-                        "url": "../commonassets/2HGreen.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_border": {
-                        "url": "../commonassets/2HGreen_border.png",
-                        "location": "content"
-                    }
-                },
                  "image": {
-                    "url": "No-2.png",
+                    "url": "No-0.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -256,8 +242,22 @@
             },
             {
                 "id": "2",
+                "highlightWord": {
+                    "highlightWord_bg": {
+                        "url": "../commonassets/2HOrange.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_original": {
+                        "url": "../commonassets/2HOrange.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_border": {
+                        "url": "../commonassets/2HOrange_border.png",
+                        "location": "content"
+                    }
+                },
                 "image": {
-                    "url": "No-9.png",
+                    "url": "No-1.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -288,7 +288,7 @@
             {
                 "id": "3",
                  "image": {
-                    "url": "No-2.png",
+                    "url": "No-3.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -319,7 +319,7 @@
             {
                 "id": "4",
 		 "image": {
-                    "url": "No-0.png",
+                    "url": "No-4.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -350,7 +350,7 @@
             {
                 "id": "5",
                 "image": {
-                    "url": "No-4.png",
+                    "url": "No-5.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -381,7 +381,7 @@
             {
                 "id": "6",
 		 "image": {
-                    "url": "No-2.png",
+                    "url": "No-8.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -411,22 +411,8 @@
             },
             {
                 "id": "7",
-            "highlightWord": {
-                    "highlightWord_bg": {
-                        "url": "../commonassets/2VOrange.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_original": {
-                        "url": "../commonassets/2VOrange.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_border": {
-                        "url": "../commonassets/2VOrange_border.png",
-                        "location": "content"
-                    }
-                },
                 "image": {
-                    "url": "No-3.png",
+                    "url": "No-7.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -487,8 +473,22 @@
             },
             {
                 "id": "9",
+                "highlightWord": {
+                    "highlightWord_bg": {
+                        "url": "../commonassets/2HGreen.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_original": {
+                        "url": "../commonassets/2HGreen.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_border": {
+                        "url": "../commonassets/2HGreen_border.png",
+                        "location": "content"
+                    }
+                },
                 "image": {
-                    "url": "No-8.png",
+                    "url": "No-3.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -519,7 +519,7 @@
             {
                 "id": "10",
                 "image": {
-                    "url": "No-4.png",
+                    "url": "No-3.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -550,7 +550,7 @@
             {
                 "id": "11",
                 "image": {
-                    "url": "No-7.png",
+                    "url": "No-1.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -581,7 +581,7 @@
             {
                 "id": "12",
                 "image": {
-                    "url": "No-1.png",
+                    "url": "No-7.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -613,7 +613,7 @@
                 "id": "13",
                 
                 "image": {
-                    "url": "No-0.png",
+                    "url": "No-5.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -643,22 +643,8 @@
             },
             {
                 "id": "14",
-		"highlightWord": {
-                    "highlightWord_bg": {
-                        "url": "../commonassets/2HBlue.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_original": {
-                        "url": "../commonassets/2HBlue.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_border": {
-                        "url": "../commonassets/2HBlue_border.png",
-                        "location": "content"
-                    }
-                },
                 "image": {
-                    "url": "No-2.png",
+                    "url": "No-5.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -688,8 +674,22 @@
             },
             {
                 "id": "15",
-		 "image": {
-                    "url": "No-6.png",
+                "highlightWord": {
+                    "highlightWord_bg": {
+                        "url": "../commonassets/2HPink.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_original": {
+                        "url": "../commonassets/2HPink.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_border": {
+                        "url": "../commonassets/2HPink_border.png",
+                        "location": "content"
+                    }
+                },
+		        "image": {
+                    "url": "No-2.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -720,7 +720,7 @@
             {
                 "id": "16",
                 "image": {
-                    "url": "No-5.png",
+                    "url": "No-3.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -827,8 +827,8 @@
                     "location": "content"
                 },
                 "correct_index": [
-                    "1",
-                    "2"
+                    "2",
+                    "3"
                     
                 ],
                 "correct_word_audio": {
@@ -842,8 +842,8 @@
                     "location": "content"
                 },
                 "correct_index": [
-                    "7",
-                    "11"
+                    "15",
+                    "16"
                     
                 ],
                 "correct_word_audio": {
@@ -857,8 +857,8 @@
                     "location": "content"
                 },
                 "correct_index": [
-                    "14",
-                    "15"
+                    "9",
+                    "10"
                     
                 ],
                 "correct_word_audio": {

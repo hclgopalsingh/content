@@ -1,6 +1,6 @@
 {
     "id": "Q001",
-    "instructiontext": "अंकजाल से संख्‍या चौबीस] पैंतीस और चालीस बनाइए।",
+    "instructiontext": "अंकजाल से संख्या इक्कीस] पच्चीस और अठारह बनाइए।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -212,7 +212,7 @@
             {
                 "id": "1",
                  "image": {
-                    "url": "No-4.png",
+                    "url": "No-0.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -243,7 +243,7 @@
             {
                 "id": "2",
                 "image": {
-                    "url": "No-8.png",
+                    "url": "No-1.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -273,6 +273,20 @@
             },
             {
                 "id": "3",
+                "highlightWord": {
+                    "highlightWord_bg": {
+                        "url": "../commonassets/2HBlue.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_original": {
+                        "url": "../commonassets/2HBlue.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_border": {
+                        "url": "../commonassets/2HBlue_border.png",
+                        "location": "content"
+                    }
+                },
                  "image": {
                     "url": "No-2.png",
                     "location": "content"
@@ -304,22 +318,8 @@
             },
             {
                 "id": "4",
-		"highlightWord": {
-                    "highlightWord_bg": {
-                        "url": "../commonassets/2VPink.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_original": {
-                        "url": "../commonassets/2VPink.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_border": {
-                        "url": "../commonassets/2VPink_border.png",
-                        "location": "content"
-                    }
-                },
                 "image": {
-                    "url": "No-4.png",
+                    "url": "No-1.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -380,22 +380,8 @@
             },
             {
                 "id": "6",
-		"highlightWord": {
-                    "highlightWord_bg": {
-                        "url": "../commonassets/2VBlue.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_original": {
-                        "url": "../commonassets/2VBlue.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_border": {
-                        "url": "../commonassets/2VBlue_border.png",
-                        "location": "content"
-                    }
-                },
                 "image": {
-                    "url": "No-2.png",
+                    "url": "No-7.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -457,7 +443,7 @@
             {
                 "id": "8",
                 "image": {
-                    "url": "No-0.png",
+                    "url": "No-4.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -487,8 +473,22 @@
             },
             {
                 "id": "9",
+                "highlightWord": {
+                    "highlightWord_bg": {
+                        "url": "../commonassets/2VGreen.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_original": {
+                        "url": "../commonassets/2VGreen.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_border": {
+                        "url": "../commonassets/2VGreen_border.png",
+                        "location": "content"
+                    }
+                },
                 "image": {
-                    "url": "No-8.png",
+                    "url": "No-2.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -550,7 +550,7 @@
             {
                 "id": "11",
                 "image": {
-                    "url": "No-0.png",
+                    "url": "No-9.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -580,6 +580,20 @@
             },
             {
                 "id": "12",
+                "highlightWord": {
+                    "highlightWord_bg": {
+                        "url": "../commonassets/2VPink.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_original": {
+                        "url": "../commonassets/2VPink.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_border": {
+                        "url": "../commonassets/2VPink_border.png",
+                        "location": "content"
+                    }
+                },
                 "image": {
                     "url": "No-1.png",
                     "location": "content"
@@ -613,7 +627,7 @@
                 "id": "13",
                 
                 "image": {
-                    "url": "No-7.png",
+                    "url": "No-5.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -674,20 +688,6 @@
             },
             {
                 "id": "15",
-		"highlightWord": {
-                    "highlightWord_bg": {
-                        "url": "../commonassets/2HPink.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_original": {
-                        "url": "../commonassets/2HPink.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_border": {
-                        "url": "../commonassets/2HPink_border.png",
-                        "location": "content"
-                    }
-                },
                 "image": {
                     "url": "No-3.png",
                     "location": "content"
@@ -720,7 +720,7 @@
             {
                 "id": "16",
                 "image": {
-                    "url": "No-5.png",
+                    "url": "No-8.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -827,8 +827,8 @@
                     "location": "content"
                 },
                 "correct_index": [
-                    "6",
-                    "10"
+                    "3",
+                    "4"
                     
                 ],
                 "correct_word_audio": {
@@ -842,8 +842,8 @@
                     "location": "content"
                 },
                 "correct_index": [
-                    "15",
-                    "16"
+                    "9",
+                    "13"
                     
                 ],
                 "correct_word_audio": {
@@ -857,8 +857,8 @@
                     "location": "content"
                 },
                 "correct_index": [
-                    "4",
-                    "8"
+                    "12",
+                    "16"
                     
                 ],
                 "correct_word_audio": {

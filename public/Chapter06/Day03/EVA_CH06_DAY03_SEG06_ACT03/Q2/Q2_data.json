@@ -1,6 +1,6 @@
 {
-    "id": "Q001",
-    "instructiontext": "अंकजाल से संख्‍या ग्‍यारह, बाइस] और तैंतीस  बनाइए।",
+    "id": "Q002",
+    "instructiontext": "अंकजाल से संख्या ग्यारह] उन्नीस और चौतीस बनाइए।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -120,7 +120,7 @@
                 "location": "assets"
             },
             "peechey_jayein": {
-                "url": "assets/images/EVAGlobal/prevBtnDisabled.svg",
+                "url": "assets/images/EVAGlobal/prevBtn.svg",
                 "location": "assets"
             },
             "peechey_jayein_disabled": {
@@ -168,7 +168,7 @@
                 "location": "assets"
             },
             "quesTabs": {
-                "quesID": 0,
+                "quesID": 1,
                 "tabCircleDisabled": {
                     "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
                     "location": "assets"
@@ -242,7 +242,7 @@
             },
             {
                 "id": "2",
-		"highlightWord": {
+                "highlightWord": {
                     "highlightWord_bg": {
                         "url": "../commonassets/2VOrange.png",
                         "location": "content"
@@ -256,7 +256,6 @@
                         "location": "content"
                     }
                 },
-
                 "image": {
                     "url": "No-1.png",
                     "location": "content"
@@ -289,7 +288,7 @@
             {
                 "id": "3",
                  "image": {
-                    "url": "No-2.png",
+                    "url": "No-3.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -319,22 +318,8 @@
             },
             {
                 "id": "4",
-		"highlightWord": {
-                    "highlightWord_bg": {
-                        "url": "../commonassets/2VPink.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_original": {
-                        "url": "../commonassets/2VPink.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_border": {
-                        "url": "../commonassets/2VPink_border.png",
-                        "location": "content"
-                    }
-                },
-		 "image": {
-                    "url": "No-3.png",
+                "image": {
+                    "url": "No-8.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -361,11 +346,10 @@
                     "url": "",
                     "location": "content"
                 }
-            },
-            {
-                "id": "5",
-                "image": {
-                    "url": "No-4.png",
+                }, {
+                    "id": "5",
+                    "image": {
+                    "url": "No-5.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -395,7 +379,7 @@
             },
             {
                 "id": "6",
-		"image": {
+		        "image": {
                     "url": "No-1.png",
                     "location": "content"
                 },
@@ -427,7 +411,7 @@
             {
                 "id": "7",
                 "image": {
-                    "url": "No-6.png",
+                    "url": "No-7.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -458,7 +442,7 @@
             {
                 "id": "8",
                 "image": {
-                    "url": "No-3.png",
+                    "url": "No-4.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -488,8 +472,22 @@
             },
             {
                 "id": "9",
+                "highlightWord": {
+                    "highlightWord_bg": {
+                        "url": "../commonassets/2HGreen.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_original": {
+                        "url": "../commonassets/2HGreen.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_border": {
+                        "url": "../commonassets/2HGreen_border.png",
+                        "location": "content"
+                    }
+                },
                 "image": {
-                    "url": "No-8.png",
+                    "url": "No-3.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -520,7 +518,7 @@
             {
                 "id": "10",
                 "image": {
-                    "url": "No-9.png",
+                    "url": "No-4.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -550,8 +548,22 @@
             },
             {
                 "id": "11",
+                "highlightWord": {
+                    "highlightWord_bg": {
+                        "url": "../commonassets/2VBlue.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_original": {
+                        "url": "../commonassets/2VBlue.png",
+                        "location": "content"
+                    },
+                    "highlightWord_bg_border": {
+                        "url": "../commonassets/2VBlue_border.png",
+                        "location": "content"
+                    }
+                },
                 "image": {
-                    "url": "No-7.png",
+                    "url": "No-1.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -614,7 +626,7 @@
                 "id": "13",
                 
                 "image": {
-                    "url": "No-7.png",
+                    "url": "No-5.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -644,20 +656,6 @@
             },
             {
                 "id": "14",
-		"highlightWord": {
-                    "highlightWord_bg": {
-                        "url": "../commonassets/2HBlue.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_original": {
-                        "url": "../commonassets/2HBlue.png",
-                        "location": "content"
-                    },
-                    "highlightWord_bg_border": {
-                        "url": "../commonassets/2HBlue_border.png",
-                        "location": "content"
-                    }
-                },
                 "image": {
                     "url": "No-2.png",
                     "location": "content"
@@ -690,7 +688,7 @@
             {
                 "id": "15",
 		"image": {
-                    "url": "No-2.png",
+                    "url": "No-9.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -721,7 +719,7 @@
             {
                 "id": "16",
                 "image": {
-                    "url": "No-7.png",
+                    "url": "No-8.png",
                     "location": "content"
                 },
                 "image_bg": {
@@ -843,7 +841,7 @@
                     "location": "content"
                 },
                 "correct_index": [
-                    "14",
+                    "11",
                     "15"
                     
                 ],
@@ -858,8 +856,8 @@
                     "location": "content"
                 },
                 "correct_index": [
-                    "4",
-                    "8"
+                    "9",
+                    "10"
                     
                 ],
                 "correct_word_audio": {
