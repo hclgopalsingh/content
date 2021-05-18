@@ -56,6 +56,18 @@
 		"backgroundDaysWeeks": {
 			"url": "baseDaysWeeks.png",
 			"location": "content"
+		},
+		"backgroundPopupMonths": {
+			"url": "baseMonths-popup.png",
+			"location": "content"
+		},
+		"backgroundPopupYears": {
+			"url": "baseYears-popup.png",
+			"location": "content"
+		},
+		"backgroundPopupDaysWeeks": {
+			"url": "baseDaysWeeks-popup.png",
+			"location": "content"
 		}
 	},
 	"dateFormat":["year","week", "date", "month"],
@@ -1325,8 +1337,8 @@
 				"location": "assets"
 			},
 			"disablemonthImg": {
-				"url": "Months Disabled_00012.png",
-				"location": "assets/images/Template-22/English/Images English/Months/Months Disabled"
+				"url": "assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00012.png",
+				"location": "assets"
 			},
 			"rightmonthImg": {
 				"url": "assets/images/Template-22/English/Images English/Months/Months Right/Month (12).png",

@@ -56,10 +56,22 @@
 		"backgroundDaysWeeks": {
 			"url": "baseDaysWeeks.png",
 			"location": "content"
+		},
+		"backgroundPopupMonths": {
+			"url": "baseMonths-popup.png",
+			"location": "content"
+		},
+		"backgroundPopupYears": {
+			"url": "baseYears-popup.png",
+			"location": "content"
+		},
+		"backgroundPopupDaysWeeks": {
+			"url": "baseDaysWeeks-popup.png",
+			"location": "content"
 		}
 	},
-	"dateFormat":["year","week", "date", "month"],
-	"newFeedback_vo":{
+	"dateFormat": ["year", "week", "date", "month"],
+	"newFeedback_vo": {
 		"start_right": {
 			"url": "assets/feedback_vo/Aapne.ogg",
 			"location": "content"
@@ -96,23 +108,23 @@
 			"url": "assets/feedback_vo/sahi_hai_partial.ogg",
 			"location": "content"
 		},
-		"year":{
-			"url":"assets/feedback_vo/saal.ogg",
-			"location":"content"
+		"year": {
+			"url": "assets/feedback_vo/saal.ogg",
+			"location": "content"
 		},
-		"month":{
-			"url":"assets/feedback_vo/mahina.ogg",
-			"location":"content"
+		"month": {
+			"url": "assets/feedback_vo/mahina.ogg",
+			"location": "content"
 		},
-		"date":{
-			"url":"assets/feedback_vo/taarik.ogg",
-			"location":"content"
+		"date": {
+			"url": "assets/feedback_vo/taarik.ogg",
+			"location": "content"
 		},
-		"week":{
-			"url":"assets/feedback_vo/dinn.ogg",
-			"location":"content"
+		"week": {
+			"url": "assets/feedback_vo/dinn.ogg",
+			"location": "content"
 		}
-	},	
+	},
 	"common_vos": {
 		"year": {
 			"2018": {
@@ -1319,8 +1331,8 @@
 				"location": "assets"
 			},
 			"disablemonthImg": {
-				"url": "Months Disabled_00012.png",
-				"location": "assets/images/Template-22/English/Images English/Months/Months Disabled"
+				"url": "assets/images/Template-22/English/Images English/Months/Months Disabled/Months Disabled_00012.png",
+				"location": "assets"
 			},
 			"rightmonthImg": {
 				"url": "assets/images/Template-22/English/Images English/Months/Months Right/Month (12).png",
