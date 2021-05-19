@@ -11,6 +11,7 @@
 			"location": "theme"
 		},		
 		"isFirstQues": true,
+		"isLastQues":false,
 		"imgCount": 2
 	},
 

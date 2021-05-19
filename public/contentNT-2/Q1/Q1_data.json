@@ -15,6 +15,7 @@
 			"location": "theme"
 		},	
 		"isFirstQues": true,
+		"isLastQues":false,
 		"imgCount": 9
 	},
 	"option_common_assets": {

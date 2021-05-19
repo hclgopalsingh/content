@@ -19,6 +19,7 @@
 			"location": "theme"
 		},
     "isFirstQues": true,
+    "isLastQues":false,
     "imgCount": 9
   },
   "optionObj": [
