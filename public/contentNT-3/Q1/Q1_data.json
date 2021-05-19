@@ -392,6 +392,22 @@
       "url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
       "location": "content"
     },
+    "showAnswer_style_title": {
+      "url":"assets/popups/show_answer/showAnswerpopupTxt.png",
+      "location":"content"
+    },
+    "wrongAnswer_style_title": {
+      "url": "assets/popups/wrong_feedback/wrongAnswerpopupTxt.png",
+      "location": "content"
+    },
+    "rightAnswer_style_title": {
+      "url": "assets/popups/right_feedback/rightAnswerpopupTxt.png",
+      "location": "content"
+    },
+    "partialAnswer_style_title": {
+      "url": "assets/popups/partial_feedback/partialAnswerpopupTxt.png",
+      "location": "content"
+    },
     "popup_instruction_bg": {
       "url": "instructionBase.svg",
       "location": "content"

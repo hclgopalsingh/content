@@ -280,6 +280,18 @@
       "url": "assets/popups/show_answer/ConfirmHeaderTitle.png",
       "location": "content"
     },
+    "showAnswer_style_title": {
+			"url": "assets/popups/show_answer/ShowAnsTitleTxt.png",
+			"location": "content"
+    },
+    "wrongAnswer_style_title": {
+      "url": "assets/popups/wrong_feedback/wrongAnswerpopupTxt.png",
+      "location": "content"
+    },
+    "rightAnswer_style_title": {
+      "url": "assets/popups/right_feedback/rightAnswerpopupTxt.png",
+      "location": "content"
+    },
     "popup_instruction_bg": {
       "url": "instructionBase.svg",
       "location": "content"
