@@ -30,7 +30,8 @@
             "url":"assets/options/showAnsSound.ogg",
             "location": "content"
         },
-		"isFirstQues": false,
+    "isFirstQues": false,
+    "isLastQues":false,
 		"imgCount": 7
 	},
 

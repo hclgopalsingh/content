@@ -15,6 +15,7 @@
 			"location": "theme"
 		},	
 		"isFirstQues": false,
+		"isLastQues":false,
 		"imgCount": 9
 	},
 	"option_common_assets": {
@@ -165,7 +166,11 @@
 		"headerTxt_img": {
             "url": "assets/popups/show_answer/header_popup_text.png",
             "location": "content"
-        },
+		},
+		"showAnswer_style_title": {
+			"url": "assets/popups/show_answer/ShowAnsTitleTxt.png",
+			"location": "content"
+		},
 		"popup_commmon_imgs": {
 			"bg_img": {
 				"url": "assets/popups/show_answer/popupBase.png",
