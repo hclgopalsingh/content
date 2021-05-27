@@ -72,7 +72,11 @@
 		"skip_hover":{
 			"url":"question/skip_hover.svg",
 			"location":"theme"
-		},	
+        },
+        "skip_original":{
+			"url":"question/skip.svg",
+			"location":"theme"
+		},
 		"imgCount": "4",
 		"maxNosOpt": "7",
         "isFirstQues": false,
