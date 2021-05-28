@@ -209,7 +209,7 @@
             },
             {
                 "id": "002",
-                "url": "options/choti_ee.png",
+                "url": "options/i.png",
                 "location": "content",
                 "audio": {
                     "url": "",
@@ -219,7 +219,7 @@
             },
             {
                 "id": "003",
-                "url": "options/badi_ee.png",
+                "url": "options/ee.png",
                 "location": "content",
                 "audio": {
                     "url": "",
