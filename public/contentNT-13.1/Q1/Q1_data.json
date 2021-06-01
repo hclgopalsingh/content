@@ -144,6 +144,93 @@
             "url": "",
             "location": "content"
           }
+        },
+        {
+            "id": "004",
+            "custom_id": "3",
+            "showWave": true,
+            "imgsrc": {
+                "url": "assets/options/opt4.png",
+                "location": "content"
+            },
+            "imgsrc_hover": {
+                "url": "assets/options/opt4_hover.png",
+                "location": "content"
+            },
+            "imgsrc_original": {
+                "url": "assets/options/opt4.png",
+                "location": "content"
+            },
+            "sound": {
+                "url": "assets/options/option4.ogg",
+                "location": "content"
+            },
+            "imgrightfeedback_audio": {
+              "url": "",
+              "location": "content"
+            },
+            "imgwrongfeedback_audio": {
+              "url": "assets/options/WrongAnswerFeedback.ogg",
+              "location": "content"
+            }
+        },
+        {
+            "id": "005",
+            "custom_id": "4",
+            "showWave": true,
+            "imgsrc": {
+                "url": "assets/options/opt5.png",
+                "location": "content"
+            },
+            "imgsrc_hover": {
+                "url": "assets/options/opt5_hover.png",
+                "location": "content"
+            },
+            "imgsrc_original": {
+                "url": "assets/options/opt5.png",
+                "location": "content"
+            },
+            "sound": {
+                "url": "assets/options/option5.ogg",
+                "location": "content"
+            },
+            "imgrightfeedback_audio": {
+              "url": "",
+              "location": "content"
+            },
+            "imgwrongfeedback_audio": {
+              "url": "assets/options/WrongAnswerFeedback.ogg",
+              "location": "content"
+            }
+        },
+        {
+            "id": "006",
+            "custom_id": "5",
+            "showWave": true,
+            "imgsrc": {
+                "url": "assets/options/opt6.png",
+                "location": "content"
+            },
+            "imgsrc_hover": {
+                "url": "assets/options/opt6_hover.png",
+                "location": "content"
+            },
+            "imgsrc_original": {
+                "url": "assets/options/opt6.png",
+                "location": "content"
+            },
+            "sound": {
+                "url": "assets/options/option6.ogg",
+                "location": "content"
+            },
+            "imgrightfeedback_audio": {
+              "url": "",
+              "location": "content"
+            },
+            "imgwrongfeedback_audio": {
+              "url": "assets/options/WrongAnswerFeedback.ogg",
+              "location": "content"
+            }
         }
     ],
     "quesObj": {

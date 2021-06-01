@@ -115,35 +115,6 @@
             "url": "",
             "location": "content"
           }
-        },
-        {
-            "id": "003",
-            "custom_id": "2",
-            "showWave": true,
-            "imgsrc": {
-                "url": "assets/options/opt3.png",
-                "location": "content"
-            },
-            "imgsrc_hover": {
-                "url": "assets/options/opt3_hover.png",
-                "location": "content"
-            },
-            "imgsrc_original": {
-                "url": "assets/options/opt3.png",
-                "location": "content"
-            },
-            "sound": {
-                "url": "assets/options/option3.ogg",
-                "location": "content"
-            },
-            "imgrightfeedback_audio": {
-            "url": "",
-            "location": "content"
-          },
-          "imgwrongfeedback_audio": {
-            "url": "assets/options/WrongAnswerFeedback.ogg",
-            "location": "content"
-          }
         }
     ],
    "quesObj":{
