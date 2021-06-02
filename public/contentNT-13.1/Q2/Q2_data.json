@@ -42,6 +42,10 @@
             "url": "assets/sounds/shake.ogg",
             "location": "assets"
         },
+        "speaker_wave": {
+          "url": "assets/options/waves.gif",
+          "location": "content"
+      },
          "ok_btn": {
             "urlglobal": "global/popups/ok_btn_normal.png",
             "location": "theme"

@@ -42,6 +42,10 @@
             "url": "assets/sounds/shake.ogg",
             "location": "assets"
         },
+        "speaker_wave": {
+          "url": "assets/options/waves.gif",
+          "location": "content"
+      },
          "ok_btn": {
             "urlglobal": "global/popups/ok_btn_normal.png",
             "location": "theme"
@@ -107,11 +111,11 @@
 	      "location": "content"
 	    },
 	    "imgrightfeedback_audio": {
-	      "url": "",
+	      "url": "assets/options/RightAnswerFeedback.ogg",
 	      "location": "content"
 	    },
 	    "imgwrongfeedback_audio": {
-	      "url": "assets/options/WrongAnswerFeedback.ogg",
+	      "url": "",
 	      "location": "content"
 	    }
 	  },
@@ -136,11 +140,11 @@
 	      "location": "content"
 	    },
 	    "imgrightfeedback_audio": {
-	      "url": "assets/options/RightAnswerFeedback.ogg",
+	      "url": "",
 	      "location": "content"
 	    },
 	    "imgwrongfeedback_audio": {
-	      "url": "",
+	      "url": "assets/options/WrongAnswerFeedback.ogg",
 	      "location": "content"
 	    }
 	  },
@@ -165,11 +169,11 @@
 	      "location": "content"
 	    },
 	    "imgrightfeedback_audio": {
-	      "url": "assets/options/RightAnswerFeedback.ogg",
+	      "url": "",
 	      "location": "content"
 	    },
 	    "imgwrongfeedback_audio": {
-	      "url": "",
+	      "url": "assets/options/WrongAnswerFeedback.ogg",
 	      "location": "content"
 	    }
 	  }
