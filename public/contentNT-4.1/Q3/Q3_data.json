@@ -1,0 +1,1054 @@
+{	
+	"productType": "elementary",
+    "theme_name": "theme1",
+	"commonassets": {
+		"instruction_img": {
+			"url": "assets/instructionBar.png",
+			"location": "content"
+		},
+		"instruction_vo": {
+			"url": "assets/ques_vo.ogg",
+			"location": "content"
+		},
+		"play_graphic" :{
+			"url": "",
+			"location": ""
+		},
+		"background": {
+			"urlglobal": "global/tabs/bg/bg_3.svg",
+			"location": "theme"
+		},			
+		"isFirstQues": false,
+		"isLastQues":false,
+		"imgCount": 14
+	},
+
+	"options": [{
+		"index": 0,
+		"imgsrc": {
+			"url": "assets/options/option1.png",
+			"location": "content",
+			"style_class": "option1"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Duck.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "assets/options/Duck_correct.ogg",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "assets/options/Duck_correct.ogg",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Duck_incorrect.ogg",
+			"location": "content"
+		},
+		"category": "A"
+	}, {
+		"index": 1,
+		"imgsrc": {
+			"url": "assets/options/option2.png",
+			"location": "content",
+			"style_class": "option2"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Monkey.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "assets/options/Monkey_correct.ogg",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "assets/options/Monkey_correct.ogg",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Monkey_incorrect.ogg",
+			"location": "content"
+		},
+		"category": "B"
+	}, {
+		"index": 2,
+		"imgsrc": {
+			"url": "assets/options/option3.png",
+			"location": "content",
+			"style_class": "option3"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Peacock.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "assets/options/Peacock_correct.ogg",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "assets/options/Peacock_correct.ogg",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Peacock_incorrect.ogg",
+			"location": "content"
+		},
+		"category": "A"
+	}, {
+		"index": 3,
+		"imgsrc": {
+			"url": "assets/options/option4.png",
+			"location": "content",
+			"style_class": "option4"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Cow.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "assets/options/Cow_correct.ogg",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "assets/options/Cow_correct.ogg",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Cow_incorrect.ogg",
+			"location": "content"
+		},
+		"category": "B"
+	}, {
+		"index": 4,
+		"imgsrc": {
+			"url": "assets/options/option5.png",
+			"location": "content",
+			"style_class": "option5"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Parrot.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "assets/options/Parrot_correct.ogg",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "assets/options/Parrot_correct.ogg",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Parrot_incorrect.ogg",
+			"location": "content"
+		},
+		"category": "A"
+	}, {
+		"index": 5,
+		"imgsrc": {
+			"url": "assets/options/option6.png",
+			"location": "content",
+			"style_class": "option6"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Horse.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "assets/options/Horse_correct.ogg",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "assets/options/Horse_correct.ogg",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Horse_incorrect.ogg",
+			"location": "content"
+		},
+		"category": "B"
+	}, {
+		"index": 6,
+		"imgsrc": {
+			"url": "assets/options/option7.png",
+			"location": "content",
+			"style_class": "option7"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Crow.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "assets/options/Crow_correct.ogg",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "assets/options/Crow_correct.ogg",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Crow_incorrect.ogg",
+			"location": "content"
+		},
+		"category": "A"
+	}, {
+		"index": 7,
+		"imgsrc": {
+			"url": "assets/options/option8.png",
+			"location": "content",
+			"style_class": "option8"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Goat.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "assets/options/Goat_correct.ogg",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "assets/options/Goat_correct.ogg",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Goat_incorrect.ogg",
+			"location": "content"
+		},
+		"category": "B"
+	}, {
+		"index": 8,
+		"imgsrc": {
+			"url": "assets/options/option9.png",
+			"location": "content",
+			"style_class": "option9"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Cat.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "assets/options/Cat_correct.ogg",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "assets/options/Cat_correct.ogg",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Cat_incorrect.ogg",
+			"location": "content"
+		},
+		"category": "B"
+	}, {
+		"index": 9,
+		"imgsrc": {
+			"url": "assets/options/option10.png",
+			"location": "content",
+			"style_class": "option10"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Grapes.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Grapes_incorrect.ogg",
+			"location": "content"
+		},
+		"category": ""
+	}, {
+		"index": 10,
+		"imgsrc": {
+			"url": "assets/options/option11.png",
+			"location": "content",
+			"style_class": "option11"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Hen.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "assets/options/Hen_correct.ogg",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "assets/options/Hen_correct.ogg",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Hen_incorrect.ogg",
+			"location": "content"
+		},
+		"category": "A"
+	}],
+
+	"option_holder": {
+		"leftHolder": {
+			"url": "assets/question/left_holder.png",
+			"location": "content"
+		},
+		"leftHolder_blink": {
+			"url": "assets/question/left_holder_blink.png",
+			"location": "content"
+		},
+		"leftHolder_original": {
+			"url": "assets/question/left_holder.png",
+			"location": "content"
+		},
+		"left_random_index": [0, 2, 4, 6, 10],
+
+		"rightHolder": {
+			"url": "assets/question/right_holder.png",
+			"location": "content"
+		},
+		"rightHolder_blink": {
+			"url": "assets/question/right_holder_blink.png",
+			"location": "content"
+		},
+		"rightHolder_original": {
+			"url": "assets/question/right_holder.png",
+			"location": "content"
+		},
+		"right_random_index": [1, 3, 5, 7, 8]
+	},
+
+	"quesObj": {
+		"quesVideo": {
+			"urlOgv": "assets/video.ogv",
+      		"urlMP4": "assets/video.mp4",
+			"location": "content",
+			"autoPlay":true
+		},
+		"quesPlayPause": {
+			"urlglobal": "global/buttons/commonvideo/pause.svg",
+			"location": "theme"
+		  },
+		  "quesPlayOriginal": {
+			"urlglobal": "global/buttons/commonvideo/play.svg",
+			"location": "theme"
+		  },
+		  "quesPlay": {
+			"urlglobal": "global/buttons/commonvideo/play.svg",
+			"location": "theme"
+		  },
+		  "quesPlayHover": {
+			"urlglobal": "global/buttons/commonvideo/PlayHover.svg",
+			"location": "theme"
+		  },
+		  "quesPause": {
+			"urlglobal": "global/buttons/commonvideo/pause.svg",
+			"location": "theme"
+		  },
+		  "quesPauseOriginal": {
+			"urlglobal": "global/buttons/commonvideo/pause.svg",
+			"location": "theme"
+		  },
+		  "quesPauseHover": {
+			"urlglobal": "global/buttons/commonvideo/PauseHover.svg",
+			"location": "theme"
+		  },
+		  "quesSkip": {
+			"urlglobal": "global/buttons/commonvideo/SkipButton.svg",
+			"location": "theme"
+		  },
+		  "quesSkipOrigenal": {
+			"urlglobal": "global/buttons/commonvideo/SkipButton.svg",
+			"location": "theme"
+		  },
+		  "quesSkipHover": {
+			"urlglobal": "global/buttons/commonvideo/SkipButtonHover.svg",
+			"location": "theme"
+		  },
+		  "quesInstruction": {
+			"url": "assets/ques_vo.ogg",
+			"location": "content",
+			"autoPlay": true
+		},		 		 
+		"noOfOptions": 10,
+		"submitRequired": true,
+        "replayRequired": true
+	},
+	"Showans_feedback_next_timer":30,
+	"feedback_next_timer":150,
+	"close_feedback_timer":150,
+
+
+	"show_answer_confirm": {
+		"style_header": {
+			"border": "solid .4vmin #057499",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#129fc1"
+		},
+		"style_body": {
+			"border": "solid .4vmin #057499",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+		},
+		"headerTxt_img": {
+			"url": "assets/popups/show_answer_confirmation/header_confirm_text.png",
+			"location": "content"
+		},
+		"bg_img": {
+			"url": "",
+			"location": ""
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"confirm_text": {
+			"url": "assets/popups/show_answer_confirmation/confirmation_popup_text.png",
+			"location": "content"
+		},
+		"confirm_btn": {
+			"urlglobal": "global/popups/yes_btn.png",
+			"location": "theme"
+		},
+		"confirm_btn_hover": {
+			"urlglobal": "global/popups/yes_btn_Hover.png",
+			"location": "theme"
+		},
+		"confirm_btn_original": {
+			"urlglobal": "global/popups/yes_btn.png",
+			"location": "theme"
+		},
+		"decline_btn": {
+			"urlglobal": "global/popups/no_btn.png",
+			"location": "theme"
+		},
+		"decline_btn_hover": {
+			"urlglobal": "global/popups/no_btn_Hover.png",
+			"location": "theme"
+		},
+		"decline_btn_original": {
+			"urlglobal": "global/popups/no_btn.png",
+			"location": "theme"
+		}
+	},
+
+	"submit_confirm": {
+		"style_header": {
+			"border": "solid .4vmin #057499",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#129fc1"
+		  },
+		"style_body": {
+			"border": "solid .4vmin #057499",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+		},
+		"headerTxt_img": {
+			"url": "assets/popups/submit_answer_confirmation/header_confirm_text.png",
+			"location": "content"
+		},
+		"bg_img": {
+			"url": "",
+			"location": ""
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"confirm_text": {
+			"url": "assets/popups/submit_answer_confirmation/submit_popup_text.png",
+			"location": "content"
+		},
+		"confirm_btn": {
+			"urlglobal": "global/popups/yes_btn.png",
+			"location": "theme"
+		},
+		"confirm_btn_hover": {
+			"urlglobal": "global/popups/yes_btn_Hover.png",
+			"location": "theme"
+		},
+		"confirm_btn_original": {
+			"urlglobal": "global/popups/yes_btn.png",
+			"location": "theme"
+		},
+		"decline_btn": {
+			"urlglobal": "global/popups/no_btn.png",
+			"location": "theme"
+		},
+		"decline_btn_hover": {
+			"urlglobal": "global/popups/no_btn_Hover.png",
+			"location": "theme"
+		},
+		"decline_btn_original": {
+			"urlglobal": "global/popups/no_btn.png",
+			"location": "theme"
+		}
+	},
+	"replay_confirm": {
+		"style_header": {
+			"border": "solid .4vmin #057499",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#129fc1"
+		},
+		"style_body": {
+			"border": "solid .4vmin #057499",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+		},
+		"headerTxt_img": {
+			"url": "assets/popups/video_replay_confirmation/header_confirm_text.png",
+			"location": "content"
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"confirm_text": {
+			"url": "assets/popups/video_replay_confirmation/replay_popup_text.png",
+			"location": "content"
+		},
+		"confirm_btn": {
+			"urlglobal": "global/popups/yes_btn.png",
+			"location": "theme"
+		},
+		"confirm_btn_hover": {
+			"urlglobal": "global/popups/yes_btn_Hover.png",
+			"location": "theme"
+		},
+		"confirm_btn_original": {
+			"urlglobal": "global/popups/yes_btn.png",
+			"location": "theme"
+		},
+		"decline_btn": {
+			"urlglobal": "global/popups/no_btn.png",
+			"location": "theme"
+		},
+		"decline_btn_hover": {
+			"urlglobal": "global/popups/no_btn_Hover.png",
+			"location": "theme"
+		},
+		"decline_btn_original": {
+			"urlglobal": "global/popups/no_btn.png",
+			"location": "theme"
+		}
+	},
+	"info_popup": {
+		"style_header": {
+			"border": "solid .4vmin #057499",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#129fc1"
+		  },
+		  "style_body": {
+			"border": "solid .4vmin #057499",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+		  },
+		"headerTxt_img": {
+			"url": "assets/popups/look_for_more_options/PopupInfoHeader.png",
+			"location": "content"
+		},
+		"bg_img": {
+			"url": "",
+			"location": "content"
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"info_text": {
+			"url": "assets/popups/look_for_more_options/lookformore_popup_text.png",
+			"location": "content"
+		},
+		"partial_feedback": {
+			"url":"assets/popups/look_for_more_options/partialFeedback.ogg",
+			"location":"content"
+		},
+		"ok_btn": {
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
+		},
+		"ok_btn_hover": {
+			"urlglobal": "global/popups/ok_btn_Hover.png",
+			"location": "theme"
+		},
+		"ok_btn_original": {
+			"urlglobal": "global/popups/ok_btn_normal.png",
+			"location": "theme"
+		}
+	},
+
+	"category_1": {
+		"style_header": {
+			"border": "solid .4vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#519843"
+		  },
+		  "style_body": {
+			"border": "solid .4vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		  },
+		  "right_style_header": {
+			"border": "solid .4vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#519843"
+		  },
+		  "right_style_body": {
+			"border": "solid .4vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		  },
+		  "wrong_style_header": {
+			"border": "solid .4vmin #b5282e",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#e2373d"
+		  },
+		  "wrong_style_body": {
+			"border": "solid .4vmin #b5282e",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
+		  },
+		  "partial_style_header": {
+			"border": "solid .4vmin #057499",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#129fc1"
+		  },
+		  "partial_style_body": {
+			"border": "solid .4vmin #057499",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+		  },
+		  "right_style_title": {
+			"required":true,
+			"url": "assets/popups/feedback/RightAnsTitleTxt.png",
+			"location": "content"
+		  },
+		  "wrong_style_title": {
+			"required":true,
+			"url": "assets/popups/feedback/WrongAnsTitleTxt.png",
+			"location": "content"
+		  },
+		  "partial_style_title": {
+			"required":true,
+			"url": "assets/popups/feedback/PartialAnsTitleTxt.png",
+			"location": "content"
+		  },
+		"headerTxt_img": {
+			"url": "assets/popups/feedback/category1.png",
+			"location": "content"
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"rightAttempt_placeholder": {
+			"url": "assets/popups/feedback/category_right_placeholder.png",
+			"location": "content"
+		},
+		"wrongAttempt_placeHolder": {
+			"url": "assets/popups/feedback/category_wrong_placeholder.png",
+			"location": "content"
+		},
+		"feedback_next_btn": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_hover": {
+			"urlglobal": "global/buttons/aageyHover.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_original": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_hover": {
+			"urlglobal": "global/buttons/peecheyHover.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_original": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"ok_btn": {
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
+			"location": "content"
+		},
+		"ok_btn_hover": {
+			"url": "assets/popups/feedback/ok_btn_Hover.svg",
+			"location": "content"
+		},
+		"ok_btn_original": {
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
+			"location": "content"
+		}
+	},
+	"category_2": {
+		"style_header": {
+			"border": "solid .4vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#519843"
+		  },
+		  "style_body": {
+			"border": "solid .4vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		  },
+		  "right_style_header": {
+			"border": "solid .4vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#519843"
+		  },
+		  "right_style_body": {
+			"border": "solid .4vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		  },
+		  "wrong_style_header": {
+			"border": "solid .4vmin #b5282e",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#e2373d"
+		  },
+		  "wrong_style_body": {
+			"border": "solid .4vmin #b5282e",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(188,90,92,1) 100%)"
+		  },
+		  "partial_style_header": {
+			"border": "solid .4vmin #057499",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#129fc1"
+		  },
+		  "partial_style_body": {
+			"border": "solid .4vmin #057499",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(89,180,197,1) 100%)"
+		  },
+		  "right_style_title": {
+			"required":true,
+			"url": "assets/popups/feedback/RightAnsTitleTxt.png",
+			"location": "content"
+		  },
+		  "wrong_style_title": {
+			"required":true,
+			"url": "assets/popups/feedback/WrongAnsTitleTxt.png",
+			"location": "content"
+		  },
+		  "partial_style_title": {
+			"required":true,
+			"url": "assets/popups/feedback/PartialAnsTitleTxt.png",
+			"location": "content"
+		  },
+		"headerTxt_img": {
+			"url": "assets/popups/feedback/category2.png",
+			"location": "content"
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"rightAttempt_placeholder": {
+			"url": "assets/popups/feedback/category_right_placeholder.png",
+			"location": "content"
+		},
+		"wrongAttempt_placeHolder": {
+			"url": "assets/popups/feedback/category_wrong_placeholder.png",
+			"location": "content"
+		},
+		"feedback_next_btn": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_hover": {
+			"urlglobal": "global/buttons/aageyHover.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_original": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_hover": {
+			"urlglobal": "global/buttons/peecheyHover.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_original": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"ok_btn": {
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
+			"location": "content"
+		},
+		"ok_btn_hover": {
+			"url": "assets/popups/feedback/ok_btn_Hover.svg",
+			"location": "content"
+		},
+		"ok_btn_original": {
+			"url": "assets/popups/feedback/ok_btn_normal.svg",
+			"location": "content"
+		}
+	},
+	"showans_2": {
+		"style_header": {
+			"border": "solid .4vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#519843"
+		  },
+		  "style_body": {
+			"border": "solid .4vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		  },
+		  "popTitleTxt_img": {
+			"required":true,
+			"url": "assets/popups/show_answer_confirmation/ShowAnsTitleTxt.png",
+			"location": "content"
+		  },
+		"headerTxt_img": {
+			"url": "assets/popups/feedback/category2.png",
+			"location": "content"
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"rightAttempt_placeholder": {
+			"url": "assets/popups/feedback/category_right_placeholder.png",
+			"location": "content"
+		},
+		"wrongAttempt_placeHolder": {
+			"url": "assets/popups/feedback/category_wrong_placeholder.png",
+			"location": "content"
+		},
+		"feedback_next_btn": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_hover": {
+			"urlglobal": "global/buttons/aageyHover.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_original": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_hover": {
+			"urlglobal": "global/buttons/peecheyHover.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_original": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		}
+	},
+	"showans_1": {
+		"style_header": {
+			"border": "solid .4vmin #3C7132",
+			"border-top-left-radius": "20px",
+			"border-top-right-radius": "20px",
+			"background": "#519843"
+		  },
+		  "style_body": {
+			"border": "solid .4vmin #3C7132",
+			"border-bottom-left-radius": "20px",
+			"border-bottom-right-radius": "20px",
+			"border-top": "none",
+			"background": "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(83,153,68,1) 100%)"
+		  },
+		  "popTitleTxt_img": {
+			"required":true,
+			"url": "assets/popups/show_answer_confirmation/ShowAnsTitleTxt.png",
+			"location": "content"
+		  },
+		"headerTxt_img": {
+			"url": "assets/popups/feedback/category1.png",
+			"location": "content"
+		},
+		"close_btn": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"close_btn_hover": {
+			"urlglobal": "global/popups/closeBtnHover.png",
+			"location": "theme"
+		},
+		"close_btn_original": {
+			"urlglobal": "global/popups/closeBtn.png",
+			"location": "theme"
+		},
+		"rightAttempt_placeholder": {
+			"url": "assets/popups/feedback/category_right_placeholder.png",
+			"location": "content"
+		},
+		"wrongAttempt_placeHolder": {
+			"url": "assets/popups/feedback/category_wrong_placeholder.png",
+			"location": "content"
+		},
+		"feedback_next_btn": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_hover": {
+			"urlglobal": "global/buttons/aageyHover.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_original": {
+			"urlglobal": "global/buttons/aagey.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink1": {
+			"urlglobal": "global/buttons/blink_btn2.svg",
+			"location": "theme"
+		},
+		"feedback_next_btn_blink2": {
+			"urlglobal": "global/buttons/blink_btn1.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_hover": {
+			"urlglobal": "global/buttons/peecheyHover.svg",
+			"location": "theme"
+		},
+		"feedback_back_btn_original": {
+			"urlglobal": "global/buttons/peechey.svg",
+			"location": "theme"
+		}
+	},
+	"feedback": {
+
+	}
+}
