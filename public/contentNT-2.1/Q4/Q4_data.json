@@ -75,6 +75,28 @@
 				"url": "",
 				"location": "content"
 			}
+		},{
+			"id": "005",
+			"matchingId": "012",
+			"imgsrc": {
+				"url": "assets/options/left_opt5.png",
+				"location": "content"
+			},
+			"imgsrc_audio": {
+				"url": "",
+				"location": "content"
+			}
+		},{
+			"id": "006",
+			"matchingId": "011",
+			"imgsrc": {
+				"url": "assets/options/left_opt6.png",
+				"location": "content"
+			},
+			"imgsrc_audio": {
+				"url": "",
+				"location": "content"
+			}
 		}],
 		"centralImg": {
 			"url": "assets/question/central_holder.png",
@@ -124,6 +146,28 @@
 				"url": "assets/options/right-opt4-vo.ogg",
 				"location": "content"
 			}
+		},{
+			"id": "011",
+			"matchingId": "006",
+			"imgsrc": {
+				"url": "assets/options/right_opt5.png",
+				"location": "content"
+			},
+			"imgsrc_audio": {
+				"url": "assets/options/right-opt5-vo.ogg",
+				"location": "content"
+			}
+		},{
+			"id": "012",
+			"matchingId": "005",
+			"imgsrc": {
+				"url": "assets/options/right_opt6.png",
+				"location": "content"
+			},
+			"imgsrc_audio": {
+				"url": "assets/options/right-opt6-vo.ogg",
+				"location": "content"
+			}
 		}]
 	},
 
@@ -151,7 +195,7 @@
 
 
 	"feedback": {
-		"noOfSubQues": 4,
+		"noOfSubQues": 6,
 		"style_header": {
 			"border": "solid .4vmin #3C7132",
 			"border-top-left-radius": "20px",
@@ -250,6 +294,34 @@
 			"url": "assets/feedback/correct_Elephant.ogg",
 			"location": "content"
 		}
+	},
+	{
+		"imgLeft": {
+			"url": "assets/options/left_opt5.png",
+			"location": "content"
+		},
+		"imgRight": {
+			"url": "assets/options/right_opt6.png",
+			"location": "content"
+		},
+		"feedbackAudio": {
+			"url": "assets/feedback/correct_honeybee.ogg",
+			"location": "content"
+		}
+	},
+	{
+		"imgLeft": {
+			"url": "assets/options/left_opt6.png",
+			"location": "content"
+		},
+		"imgRight": {
+			"url": "assets/options/right_opt5.png",
+			"location": "content"
+		},
+		"feedbackAudio": {
+			"url": "assets/feedback/correct_Apple.ogg",
+			"location": "content"
+		}
 	}],
 		"wrong_ans_popup": {
 
@@ -270,6 +342,14 @@
 			{
 				"url": "assets/feedback/single_correct/singleCorrect_Peas.ogg",
 				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Elephant.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_honeybee.ogg",
+				"location": "content"
 			}
 		],
 		"single_right_ans":[
@@ -287,6 +367,14 @@
 			},
 			{
 				"url": "assets/feedback/single_correct/singleCorrect_Elephant.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_Elephant.ogg",
+				"location": "content"
+			},
+			{
+				"url": "assets/feedback/single_correct/singleCorrect_honeybee.ogg",
 				"location": "content"
 			}
 		],
