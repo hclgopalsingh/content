@@ -447,7 +447,7 @@
 			"location": "content",
 			"autoPlay": true
 		},		 		 
-		"noOfOptions": 8,
+		"noOfOptions": 9,
 		"submitRequired": true,
         "replayRequired": true
 	},
