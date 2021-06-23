@@ -348,19 +348,19 @@
 			"style_class": "option12"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/Brinjal.ogg",
+			"url": "assets/options/orange.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/Brinjal_correct.ogg",
+			"url": "assets/options/Orange-correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/Brinjal_correct.ogg",
+			"url": "assets/options/Orange-correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/Brinjal_incorrect.ogg",
+			"url": "assets/options/Orange-incorrect.ogg",
 			"location": "content"
 		},
 		"mouse_over_img": {
