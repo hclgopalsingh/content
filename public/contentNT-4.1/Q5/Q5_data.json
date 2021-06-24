@@ -332,6 +332,34 @@
 			"location": "content"
 		},
 		"category": "B"
+	},{
+		"index": 11,
+		"imgsrc": {
+			"url": "assets/options/option12.png",			
+			"location": "content",
+			"style_class": "option12"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Horse.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "assets/options/Horse_correct.ogg",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "assets/options/Horse_correct.ogg",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Horse_incorrect.ogg",
+			"location": "content"
+		},
+		"mouse_over_img": {
+		    "url": "assets/options/option12_hover.png",			
+			"location": "content"
+		},
+		"category": ""
 	}],
 
 	"option_holder": {
