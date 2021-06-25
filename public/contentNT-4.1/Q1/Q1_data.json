@@ -17,16 +17,20 @@
 		"background": {
 			"urlglobal": "global/tabs/bg/bg_1.svg",
 			"location": "theme"
-		},			
+		},
+        "border_img": {
+		   "url":  "assets/options/option-box.png",
+		   "location": "content"
+         },		   
 		"isFirstQues": true,
-		"isLastQues":false,
+		"isLastQues":false,		
 		"imgCount": 14
 	},
 
 	"options": [{
 		"index": 0,
 		"imgsrc": {
-			"url": "assets/options/option1.png",
+			"url": "assets/options/option1.png",			
 			"location": "content",
 			"style_class": "option1"
 		},
@@ -44,6 +48,10 @@
 		},
 		"incorrect_vo": {
 			"url": "assets/options/Apple_incorrect.ogg",
+			"location": "content"
+		},
+		"mouse_over_img": {
+		    "url": "assets/options/option1_hover.png",			
 			"location": "content"
 		},
 		"category": "A"
@@ -70,6 +78,10 @@
 			"url": "assets/options/Banana_incorrect.ogg",
 			"location": "content"
 		},
+		"mouse_over_img": {
+		    "url": "assets/options/option2_hover.png",			
+			"location": "content"
+		},
 		"category": "A"
 	}, {
 		"index": 2,
@@ -92,6 +104,10 @@
 		},
 		"incorrect_vo": {
 			"url": "assets/options/Tomato_incorrect.ogg",
+			"location": "content"
+		},
+		"mouse_over_img": {
+		    "url": "assets/options/option3_hover.png",			
 			"location": "content"
 		},
 		"category": "B"
@@ -118,6 +134,10 @@
 			"url": "assets/options/Mango_incorrect.ogg",
 			"location": "content"
 		},
+		"mouse_over_img": {
+		    "url": "assets/options/option4_hover.png",			
+			"location": "content"
+		},
 		"category": "A"
 	}, {
 		"index": 4,
@@ -140,6 +160,10 @@
 		},
 		"incorrect_vo": {
 			"url": "assets/options/papad_incorrect.ogg",
+			"location": "content"
+		},
+		"mouse_over_img": {
+		    "url": "assets/options/option5_hover.png",			
 			"location": "content"
 		},
 		"category": ""
@@ -166,6 +190,10 @@
 			"url": "assets/options/Grapes_incorrect.ogg",
 			"location": "content"
 		},
+		"mouse_over_img": {
+		    "url": "assets/options/option6_hover.png",			
+			"location": "content"
+		},
 		"category": "A"
 	}, {
 		"index": 6,
@@ -188,6 +216,10 @@
 		},
 		"incorrect_vo": {
 			"url": "assets/options/genda_incorrect.ogg",
+			"location": "content"
+		},
+		"mouse_over_img": {
+		    "url": "assets/options/option7_hover.png",			
 			"location": "content"
 		},
 		"category": ""
@@ -214,6 +246,10 @@
 			"url": "assets/options/Peas_incorrect.ogg",
 			"location": "content"
 		},
+		"mouse_over_img": {
+		    "url": "assets/options/option8_hover.png",			
+			"location": "content"
+		},
 		"category": "B"
 	}, {
 		"index": 8,
@@ -236,6 +272,10 @@
 		},
 		"incorrect_vo": {
 			"url": "assets/options/Potato_incorrect.ogg",
+			"location": "content"
+		},
+		"mouse_over_img": {
+		    "url": "assets/options/option9_hover.png",			
 			"location": "content"
 		},
 		"category": "B"
@@ -262,6 +302,10 @@
 			"url": "assets/options/chilli_incorrect.ogg",
 			"location": "content"
 		},
+		"mouse_over_img": {
+		    "url": "assets/options/option10_hover.png",			
+			"location": "content"
+		},
 		"category": ""
 	}, {
 		"index": 10,
@@ -286,7 +330,39 @@
 			"url": "assets/options/Brinjal_incorrect.ogg",
 			"location": "content"
 		},
+		"mouse_over_img": {
+		    "url": "assets/options/option11_hover.png",			
+			"location": "content"
+		},
 		"category": "B"
+	},{
+		"index": 11,
+		"imgsrc": {
+			"url": "assets/options/option12.png",
+			"location": "content",
+			"style_class": "option12"
+		},
+		"mouse_over_audio": {
+			"url": "assets/options/Orange.ogg",
+			"location": "content"
+		},
+		"correct_vo": {
+			"url": "assets/options/Orange-correct.ogg",
+			"location": "content"
+		},
+		"showAns_vo": {
+			"url": "assets/options/Orange-correct.ogg",
+			"location": "content"
+		},
+		"incorrect_vo": {
+			"url": "assets/options/Orange-incorrect.ogg",
+			"location": "content"
+		},
+		"mouse_over_img": {
+		    "url": "assets/options/option12_hover.png",			
+			"location": "content"
+		},
+		"category": "A"
 	}],
 
 	"option_holder": {
@@ -302,7 +378,7 @@
 			"url": "assets/question/left_holder.png",
 			"location": "content"
 		},
-		"left_random_index": [0, 1, 3, 5],
+		"left_random_index": [0, 1, 3, 5, 11],
 
 		"rightHolder": {
 			"url": "assets/question/right_holder.png",
