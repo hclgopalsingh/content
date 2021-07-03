@@ -1,7 +1,7 @@
 ﻿{
 	"id": "Q002",
     "imgCount": "12",
-    "instructiontext": "ड लिखने का सही तरीका पहचानिए।",
+    "instructiontext": "सत्‍ताइस लिखने का सही तरीका पहचानिए।",
 	"commonassets": {
 		"header_bar": {
 		  "url": "assets/images/EVAGlobal/headerBar.svg",
@@ -63,7 +63,9 @@
 		  "url": "assets/images/EVAGlobal/footerBg.svg",
 		  "location": "assets"
 		},
-		"ques_control": {
+	
+	"ques_control": {
+          "isLastQues": true,
 		  "footer": {
 			"url": "assets/images/EVAGlobal/footerBg.svg",
 			"location": "assets"
@@ -81,6 +83,10 @@
 			"location": "assets"
 		  },
 		  "blinkingStatus":false,
+		  "aagey_badhein_disabled": {
+                "url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
+                "location": "assets"
+            },
 		  "aagey_badhein_blink": {
 			"url": "assets/images/EVAGlobal/nextBtnBlink.svg",
 			"location": "assets"
@@ -162,7 +168,7 @@
 			"location": "content"
 		  },
 		  "quesTabs": {
-			"quesID": 1,
+			"quesID": 4,
 			"tabCircleDisabled": {
 				"url": "assets/images/EVAGlobal/quesBulletDisabled.png",
 				"location": "assets"
@@ -181,26 +187,8 @@
 			}
 		}
 		},
-		"animation": {
-		  "img": {
-			"url": "happyFixedAnimation.webp"
-		  },
-		  "audio": {
-			"url": "clap.ogg"
-		  },
-		  "location": "content",
-		  "timeout": 5000
-		},
-		"wrongAnimationAssts": {
-		  "img": {
-			"url": "sadFixedAnimation.gif"
-		  },
-		  "audio": {
-			"url": "shake.ogg"
-		  },
-		  "location": "content",
-		  "timeout": 5000
-		},
+		
+		
 		"animationBox" : {
 			"url":"Main Animation Box.svg",
 			"location":"content"
@@ -254,7 +242,7 @@
 				"location": "content"
 			},
 			"imgsrc_letter": {
-				"url": "dda.png",
+				"url": "27.svg",
 				"location": "content"
 			},
 			"imgsrc_hover": {
@@ -282,11 +270,11 @@
 				"location": "content"
 			},
 			"videosrc":{
-				"url": "Main Animation Box_Without Shadow Animation Dda_01.ogv",
+				"url": "Q5_Writing 27.ogv",
 				"location": "content"
 			},
 			"Popupvideosrc":{
-				"url": "dda_animation.ogv",
+				"url": "Writing 27.ogv",
 				"location": "content"
 			},
 			"audio": {
@@ -302,7 +290,7 @@
 				"style_class": "option1"
 			},
 			"imgsrc_letter": {
-				"url": "dda.png",
+				"url": "27.svg",
 				"location": "content"
 			},
 			"imgsrc_hover": {
@@ -331,11 +319,11 @@
 				"location": "content"
 			},
 			"videosrc":{
-				"url": "Main Animation Box_Without Shadow Animation Dda_02.ogv",
+				"url": "Q5_Writing 27_w1.ogv",
 				"location": "content"
 			},
 			"Popupvideosrc":{
-				"url": "dda_animationWrong1.ogv",
+				"url": "Writing 27_w1.ogv",
 				"location": "content"
 			},
 			"audio": {
@@ -351,7 +339,7 @@
 				"style_class": "option1"
 			},
 			"imgsrc_letter": {
-				"url": "dda.png",
+				"url": "27.svg",
 				"location": "content"
 			},
 			"imgsrc_hover": {
@@ -380,11 +368,11 @@
 				"location": "content"
 			},
 			"videosrc":{
-				"url": "Main Animation Box_Without Shadow Animation Dda_03.ogv",
+				"url": "Q5_Writing 27_w2.ogv",
 				"location": "content"
 			},
 			"Popupvideosrc":{
-				"url": "dda_animationWrong2.ogv",
+				"url": "Writing 27_w2.ogv",
 				"location": "content"
 			},
 			"audio": {

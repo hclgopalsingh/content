@@ -99,7 +99,7 @@
             "location": "assets"
         },
         "ques_control": {
-            "isLastQues" : false,
+            "isLastQues" : true,
             "footer": {
                 "url": "assets/images/EVAGlobal/footerBg.svg",
                 "location": "assets"
@@ -175,7 +175,7 @@
             },
             
             "quesTabs": {
-                "quesID": 3,
+                "quesID": 4,
                 "tabCircleDisabled": {
                     "url": "assets/images/EVAGlobal/quesBulletDisabled.png",
                     "location": "assets"
@@ -305,7 +305,7 @@
         },
         "show_ans_popup": {
             "video": {
-				"url":"video.mp4",
+				"url":"video.ogv",
 				"location": "content"
 			 }
          },

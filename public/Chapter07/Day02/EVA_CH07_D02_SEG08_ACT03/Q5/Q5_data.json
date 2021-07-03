@@ -1,6 +1,6 @@
 {
     "id": "Q005",
-    "instructiontext": "",
+    "instructiontext": "अंकजाल में से सही क्रम में अंक चुन कर साठ बनाएं।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -42,7 +42,7 @@
             "location": "assets"
         },
         "instruction_bg": {
-            "url": "assets/images/EVAGlobal/instructionBase_Transparent.svg",
+            "url": "assets/images/EVAGlobal/instructionBase.svg",
             "location": "assets"
         },
         "instruction": {
@@ -111,6 +111,10 @@
                 "url": "assets/images/EVAGlobal/nextBtn.svg",
                 "location": "assets"
             },
+			 "aagey_badhein_disabled": {
+				"url": "assets/images/EVAGlobal/nextBtnDisabled.svg",
+				"location": "assets"
+			},
             "aagey_badhein_hover": {
                 "url": "assets/images/EVAGlobal/nextBtnHover.svg",
                 "location": "assets"
@@ -829,7 +833,7 @@
 
         ],
         "right_ans_sound_akshar": {
-            "url": "../commonassets/rightFeedback_akshar.ogg",
+            "url": "../commonassets/rightFeedback_no.ogg",
             "location": "content"
         },
         "right_ans_sound_matra": {

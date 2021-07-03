@@ -1,6 +1,6 @@
 {
     "id": "Q001",
-    "instructiontext": "",
+    "instructiontext": "अंकजाल में से सही क्रम में अंक चुन कर पैंतालीस बनाएं।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -42,7 +42,7 @@
             "location": "assets"
         },
         "instruction_bg": {
-            "url": "assets/images/EVAGlobal/instructionBase_Transparent.svg",
+            "url": "assets/images/EVAGlobal/instructionBase.svg",
             "location": "assets"
         },
         "instruction": {
@@ -828,7 +828,7 @@
 
         ],
         "right_ans_sound_akshar": {
-            "url": "../commonassets/rightFeedback_akshar.ogg",
+            "url": "../commonassets/rightFeedback_no.ogg",
             "location": "content"
         },
         "right_ans_sound_matra": {

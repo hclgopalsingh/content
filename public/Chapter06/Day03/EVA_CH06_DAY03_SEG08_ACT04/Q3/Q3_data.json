@@ -1,7 +1,7 @@
 ﻿{
 	"id": "Q003",
     "imgCount": "12",
-    "instructiontext": "द लिखने का सही तरीका पहचानिए।",
+    "instructiontext": "अट्ठाइस लिखने का सही तरीका पहचानिए।",
 	"commonassets": {
 		"header_bar": {
 		  "url": "assets/images/EVAGlobal/headerBar.svg",
@@ -259,7 +259,7 @@
 				"location": "content"
 			},
 			"imgsrc_letter": {
-				"url": "da.png",
+				"url": "28.svg",
 				"location": "content"
 			},
 			"imgsrc_hover": {
@@ -287,11 +287,11 @@
 				"location": "content"
 			},
 			"videosrc":{
-				"url": "Main Animation Box_Without Shadow Animation Da_01.ogv",
+				"url": "Q3_Writing 28_w2.ogv",
 				"location": "content"
 			},
 			"Popupvideosrc":{
-				"url": "da_animationWrong1.ogv",
+				"url": "Writing 28_w2.ogv",
 				"location": "content"
 			},
 			"audio": {
@@ -307,7 +307,7 @@
 				"style_class": "option1"
 			},
 			"imgsrc_letter": {
-				"url": "da.png",
+				"url": "28.svg",
 				"location": "content"
 			},
 			"imgsrc_hover": {
@@ -336,11 +336,11 @@
 				"location": "content"
 			},
 			"videosrc":{
-				"url": "Main Animation Box_Without Shadow Animation Da_02.ogv",
+				"url": "Q3_Writing 28_w1.ogv",
 				"location": "content"
 			},
 			"Popupvideosrc":{
-				"url": "da_animation.ogv",
+				"url": "Writing 28_w1.ogv",
 				"location": "content"
 			},
 			"audio": {
@@ -356,7 +356,7 @@
 				"style_class": "option1"
 			},
 			"imgsrc_letter": {
-				"url": "da.png",
+				"url": "28.svg",
 				"location": "content"
 			},
 			"imgsrc_hover": {
@@ -385,11 +385,11 @@
 				"location": "content"
 			},
 			"videosrc":{
-				"url": "Main Animation Box_Without Shadow Animation Da_03.ogv",
+				"url": "Q3_Writing 28_1.ogv",
 				"location": "content"
 			},
 			"Popupvideosrc":{
-				"url": "da_animationWrong2.ogv",
+				"url": "Writing 28.ogv",
 				"location": "content"
 			},
 			"audio": {
@@ -693,7 +693,7 @@
 		}
 	},
 	"feedback": {
-		"correct_answer": 2,
+		"correct_answer": 3,
 		"popupassets":{
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",

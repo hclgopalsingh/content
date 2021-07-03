@@ -99,7 +99,7 @@
             "location": "assets"
         },
         "ques_control": {
-            "isLastQues": false,
+            "isLastQues": true,
             "footer": {
                 "url": "assets/images/EVAGlobal/footerBg.svg",
                 "location": "assets"
@@ -305,7 +305,7 @@
         },
         "show_ans_popup": {
             "video": {
-                "url": "video.mp4",
+                "url": "video.ogv",
                 "location": "content"
             }
         },

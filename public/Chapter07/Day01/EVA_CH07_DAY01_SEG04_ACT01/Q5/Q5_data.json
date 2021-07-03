@@ -1,7 +1,7 @@
 {
     "id": "Q005",
     "imgCount": "6",
-    "instructiontext": "",
+    "instructiontext": "छोटे उ की मात्रा वाला च‍ित्र चुन‍िए।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -45,7 +45,7 @@
             "location": "assets"
         },
           "instruction_bg": {
-              "url": "assets/images/EVAGlobal/instructionBase_Transparent.svg",
+              "url": "assets/images/EVAGlobal/instructionBase.svg",
             "location": "assets"
         },
         "instruction": {
@@ -239,7 +239,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "",
+                "url": "114_gulab.ogg",
                 "location": "content"
             }
         },
@@ -263,7 +263,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "",
+                "url": "unn.ogg",
                 "location": "content"
             }
         },
@@ -287,7 +287,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "",
+                "url": "110_Joota.ogg",
                 "location": "content"
             }
         }

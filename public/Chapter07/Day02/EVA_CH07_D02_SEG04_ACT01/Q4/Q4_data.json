@@ -45,7 +45,7 @@
             "location": "assets"
         },
         "instruction_bg": {
-            "url": "instructionBase.svg",
+            "url": "instructionBase_Transparent.svg",
             "location": "content"
         },
         "instruction": {

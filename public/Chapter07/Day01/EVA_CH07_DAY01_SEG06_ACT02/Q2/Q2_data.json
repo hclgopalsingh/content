@@ -1,7 +1,7 @@
 {
     "id": "Q002",
     "imgCount": "17",
-    "instructiontext": "ऊ वाले शब्‍द चुनें।",
+    "instructiontext": "",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -45,7 +45,7 @@
             "location": "assets"
         },
         "instruction_bg": {
-            "url": "assets/images/EVAGlobal/instructionBase.svg",
+            "url": "assets/images/EVAGlobal/instructionBase_Transparent.svg",
             "location": "assets"
         },
         "instruction": {

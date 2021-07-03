@@ -1,7 +1,7 @@
 {
     "id": "Q001",
     "imgCount": "6",
-    "instructiontext": "",
+    "instructiontext": "उ आवाज वाला च‍ित्र चुन‍िए।",
     "speaker": {
         "enabled": "",
         "imgsrc": {
@@ -46,7 +46,7 @@
             "location": "assets"
         },
         "instruction_bg": {
-            "url": "assets/images/EVAGlobal/instructionBase_Transparent.svg",
+            "url": "assets/images/EVAGlobal/instructionBase.svg",
             "location": "assets"
         },
         "instruction": {
@@ -224,7 +224,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "",
+                "url": "unn.ogg",
                 "location": "content"
             }
         },
@@ -248,7 +248,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "",
+                "url": "ullu.ogg",
                 "location": "content"
             }
         },
@@ -272,7 +272,7 @@
                 "location": "content"
             },
             "audio": {
-                "url": "",
+                "url": "unt.ogg",
                 "location": "content"
             }
         }

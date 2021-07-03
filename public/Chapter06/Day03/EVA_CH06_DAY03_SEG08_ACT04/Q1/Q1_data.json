@@ -1,7 +1,7 @@
 ﻿{
 	"id": "Q001",
     "imgCount": "12",
-    "instructiontext": "ह लिखने का सही तरीका पहचानिए।",
+    "instructiontext": "सात लिखने का सही तरीका पहचानिए।",
 	"commonassets": {
 		"header_bar": {
 		  "url": "assets/images/EVAGlobal/headerBar.svg",
@@ -250,155 +250,7 @@
             "location": "content"
         }
     },
-	"optionArray": [
-            {
-                "id": 1,
-                "imgsrc": {
-                    "url": "Akshar Animation Box Option_01.svg",
-                    "location": "content"
-				},
-				"imgsrc_letter": {
-                    "url": "ha.png",
-                    "location": "content"
-				},
-                "imgsrc_hover": {
-                    "url": "Akshar Animation Box Option_01_Hover.svg",
-                    "location": "content"
-				},
-				"image_original": {
-					"url": "Akshar Animation Box Option_01.svg",
-                    "location": "content"
-				},
-				"play_button_normal":{
-					"url": "Akshar Animation Box Option_Play Button_Normal.png",
-					"location": "content"
-				},
-				"play_button_hover":{
-					"url": "Akshar Animation Box Option_Play Button_Hover.png",
-					"location": "content"
-				},
-				"play_button_selected":{
-					"url": "Akshar Animation Box Option_Play Button_Selected.png",
-					"location": "content"
-				},
-				"play_button_original":{
-					"url": "Akshar Animation Box Option_Play Button_Normal.png",
-					"location": "content"
-				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation ha_01.ogv",
-					"location": "content"
-				},
-				"Popupvideosrc":{
-					"url": "ha_animationWrong1.ogv",
-					"location": "content"
-				},
-				"audio": {
-					"url": "",
-					"location": ""
-				}
-            },
-            {
-                "id": 2,
-                "imgsrc": {
-                    "url": "Akshar Animation Box Option_02.svg",
-                    "location": "content",
-                    "style_class": "option1"
-				},
-				"imgsrc_letter": {
-                    "url": "ha.png",
-                    "location": "content"
-				},
-                "imgsrc_hover": {
-                    "url": "Akshar Animation Box Option_02_Hover.svg",
-                    "location": "content",
-                    "style_class": "option1"
-				},
-				"image_original": {
-					"url": "Akshar Animation Box Option_02.svg",
-                    "location": "content"
-				},
-				"play_button_normal":{
-					"url": "Akshar Animation Box Option_Play Button_Normal.png",
-					"location": "content"
-				},
-				"play_button_hover":{
-					"url": "Akshar Animation Box Option_Play Button_Hover.png",
-					"location": "content"
-				},
-				"play_button_selected":{
-					"url": "Akshar Animation Box Option_Play Button_Selected.png",
-					"location": "content"
-				},
-				"play_button_original":{
-					"url": "Akshar Animation Box Option_Play Button_Normal.png",
-					"location": "content"
-				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation ha_02.ogv",
-					"location": "content"
-				},
-				"Popupvideosrc":{
-					"url": "ha_animation.ogv",
-					"location": "content"
-				},
-				"audio": {
-					"url": "",
-					"location": ""
-				}
-            },
-            {
-                "id": 3,
-                "imgsrc": {
-                    "url": "Akshar Animation Box Option_03.svg",
-                    "location": "content",
-                    "style_class": "option1"
-				},
-				"imgsrc_letter": {
-                    "url": "ha.png",
-                    "location": "content"
-				},
-                "imgsrc_hover": {
-                    "url": "Akshar Animation Box Option_03_Hover.svg",
-                    "location": "content",
-                    "style_class": "option1"
-				},
-				"image_original": {
-					"url": "Akshar Animation Box Option_03.svg",
-                    "location": "content"
-				},
-				"play_button_normal":{
-					"url": "Akshar Animation Box Option_Play Button_Normal.png",
-					"location": "content"
-				},
-				"play_button_hover":{
-					"url": "Akshar Animation Box Option_Play Button_Hover.png",
-					"location": "content"
-				},
-				"play_button_selected":{
-					"url": "Akshar Animation Box Option_Play Button_Selected.png",
-					"location": "content"
-				},
-				"play_button_original":{
-					"url": "Akshar Animation Box Option_Play Button_Normal.png",
-					"location": "content"
-				},
-				"videosrc":{
-					"url": "Main Animation Box_Without Shadow Animation ha_03.ogv",
-					"location": "content"
-				},
-				"Popupvideosrc":{
-					"url": "ha_animationWrong2.ogv",
-					"location": "content"
-				},
-				"audio": {
-					"url": "",
-					"location": "content"
-				}
-            }
-        ],
-
-	"quesObj": {
+		"quesObj": {
 		"quesVideo": {
 			"urlOgv": "video.ogg",
 			"urlMP4": "video.mp4",
@@ -436,8 +288,157 @@
 		}
 	},
 
+
+	"optionArray": [
+            {
+                "id": 1,
+                "imgsrc": {
+                    "url": "Akshar Animation Box Option_01.svg",
+                    "location": "content"
+				},
+				"imgsrc_letter": {
+                    "url": "7.svg",
+                    "location": "content"
+				},
+                "imgsrc_hover": {
+                    "url": "Akshar Animation Box Option_01_Hover.svg",
+                    "location": "content"
+				},
+				"image_original": {
+					"url": "Akshar Animation Box Option_01.svg",
+                    "location": "content"
+				},
+				"play_button_normal":{
+					"url": "Akshar Animation Box Option_Play Button_Normal.png",
+					"location": "content"
+				},
+				"play_button_hover":{
+					"url": "Akshar Animation Box Option_Play Button_Hover.png",
+					"location": "content"
+				},
+				"play_button_selected":{
+					"url": "Akshar Animation Box Option_Play Button_Selected.png",
+					"location": "content"
+				},
+				"play_button_original":{
+					"url": "Akshar Animation Box Option_Play Button_Normal.png",
+					"location": "content"
+				},
+				"videosrc":{
+					"url": "Q1_Writing 7_w1.ogv",
+					"location": "content"
+				},
+				"Popupvideosrc":{
+					"url": "Writing 7_w1.ogv",
+					"location": "content"
+				},
+				"audio": {
+					"url": "",
+					"location": ""
+				}
+            },
+            {
+                "id": 2,
+                "imgsrc": {
+                    "url": "Akshar Animation Box Option_02.svg",
+                    "location": "content",
+                    "style_class": "option1"
+				},
+				"imgsrc_letter": {
+                    "url": "7.svg",
+                    "location": "content"
+				},
+                "imgsrc_hover": {
+                    "url": "Akshar Animation Box Option_02_Hover.svg",
+                    "location": "content",
+                    "style_class": "option1"
+				},
+				"image_original": {
+					"url": "Akshar Animation Box Option_02.svg",
+                    "location": "content"
+				},
+				"play_button_normal":{
+					"url": "Akshar Animation Box Option_Play Button_Normal.png",
+					"location": "content"
+				},
+				"play_button_hover":{
+					"url": "Akshar Animation Box Option_Play Button_Hover.png",
+					"location": "content"
+				},
+				"play_button_selected":{
+					"url": "Akshar Animation Box Option_Play Button_Selected.png",
+					"location": "content"
+				},
+				"play_button_original":{
+					"url": "Akshar Animation Box Option_Play Button_Normal.png",
+					"location": "content"
+				},
+				"videosrc":{
+					"url": "Q1_Writing 7_w2.ogv",
+					"location": "content"
+				},
+				"Popupvideosrc":{
+					"url": "Writing 7_w2.ogv",
+					"location": "content"
+				},
+				"audio": {
+					"url": "",
+					"location": ""
+				}
+            },
+            {
+                "id": 3,
+                "imgsrc": {
+                    "url": "Akshar Animation Box Option_03.svg",
+                    "location": "content",
+                    "style_class": "option1"
+				},
+				"imgsrc_letter": {
+                    "url": "7.svg",
+                    "location": "content"
+				},
+                "imgsrc_hover": {
+                    "url": "Akshar Animation Box Option_03_Hover.svg",
+                    "location": "content",
+                    "style_class": "option1"
+				},
+				"image_original": {
+					"url": "Akshar Animation Box Option_03.svg",
+                    "location": "content"
+				},
+				"play_button_normal":{
+					"url": "Akshar Animation Box Option_Play Button_Normal.png",
+					"location": "content"
+				},
+				"play_button_hover":{
+					"url": "Akshar Animation Box Option_Play Button_Hover.png",
+					"location": "content"
+				},
+				"play_button_selected":{
+					"url": "Akshar Animation Box Option_Play Button_Selected.png",
+					"location": "content"
+				},
+				"play_button_original":{
+					"url": "Akshar Animation Box Option_Play Button_Normal.png",
+					"location": "content"
+				},
+				"videosrc":{
+					"url": "Q1_Writing 7.ogv",
+					"location": "content"
+				},
+				"Popupvideosrc":{
+					"url": "Writing 7.ogv",
+					"location": "content"
+				},
+				"audio": {
+					"url": "",
+					"location": "content"
+				}
+            }
+        ],
+
 	"feedback": {
-		"correct_answer": 2,
+		"correct_answer": 3,
 		"popupassets":{
             "pop_up_base": {
                 "url": "assets/images/EVAGlobal/popupBase.svg",
