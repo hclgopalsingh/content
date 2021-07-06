@@ -1,6 +1,7 @@
 {	
 	"productType": "elementary",
     "theme_name": "theme1",
+	"optionCount": "12",
 	"commonassets": {
 		"instruction_img": {
 			"url": "assets/instructionBar.png",
@@ -20,7 +21,7 @@
 		},		 
 		"isFirstQues": false,
 		"isLastQues":false,
-		"imgCount": 14
+		"imgCount": 6
 	},
 
 	"options": [{
@@ -28,7 +29,8 @@
 		"imgsrc": {
 			"url": "assets/options/option1.png",			
 			"location": "content",
-			"style_class": "option1"
+			"style_class": "option1",
+			"style_class_min":"option1min"
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Duck.ogg",
@@ -56,7 +58,8 @@
 		"imgsrc": {
 			"url": "assets/options/option2.png",			
 			"location": "content",
-			"style_class": "option2"
+			"style_class": "option2",
+			"style_class_min":"option2min"
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Monkey.ogg",
@@ -84,7 +87,8 @@
 		"imgsrc": {
 			"url": "assets/options/option3.png",			
 			"location": "content",
-			"style_class": "option3"
+			"style_class": "option3",
+			"style_class_min":"option3min"
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Peacock.ogg",
@@ -112,7 +116,8 @@
 		"imgsrc": {
 			"url": "assets/options/option4.png",			
 			"location": "content",
-			"style_class": "option4"
+			"style_class": "option4",
+			"style_class_min":"option4min"
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Cow.ogg",
@@ -140,7 +145,8 @@
 		"imgsrc": {
 			"url": "assets/options/option5.png",			
 			"location": "content",
-			"style_class": "option5"
+			"style_class": "option5",
+			"style_class_min":"option5min"
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Parrot.ogg",
@@ -168,7 +174,8 @@
 		"imgsrc": {
 			"url": "assets/options/option6.png",			
 			"location": "content",
-			"style_class": "option6"
+			"style_class": "option6",
+			"style_class_min":"option6min"
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Horse.ogg",
@@ -191,7 +198,7 @@
 			"location": "content"
 		},
 		"category": "B"
-	}, {
+	},{
 		"index": 6,
 		"imgsrc": {
 			"url": "assets/options/option7.png",			
@@ -331,7 +338,7 @@
 			"location": "content"
 		},
 		"category": "A"
-	},{
+	   },{
 		"index": 11,
 		"imgsrc": {
 			"url": "assets/options/option12.png",			

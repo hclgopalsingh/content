@@ -1,6 +1,7 @@
 {	
 	"productType": "elementary",
-    "theme_name": "theme1",
+	"theme_name": "theme1",
+	"optionCount": "12",
 	"commonassets": {
 		"instruction_img": {
 			"url": "assets/instructionBar.png",
@@ -444,7 +445,7 @@
 			"location": "content",
 			"autoPlay": true
 		},		 		 
-		"noOfOptions": 8,
+		"noOfOptions": 11,
 		"submitRequired": true,
         "replayRequired": true
 	},
