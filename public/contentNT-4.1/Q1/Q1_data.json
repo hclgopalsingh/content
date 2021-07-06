@@ -1,6 +1,7 @@
 {	
 	"productType": "elementary",
     "theme_name": "theme1",
+	"optionCount": "12",
 	"commonassets": {
 		"instruction_img": {
 			"url": "assets/instructionBar.png",

@@ -1,6 +1,7 @@
 {	
 	"productType": "elementary",
     "theme_name": "theme1",
+	"optionCount": "6",
 	"commonassets": {
 		"instruction_img": {
 			"url": "assets/instructionBar.png",
@@ -20,7 +21,7 @@
 		},
 		"isFirstQues": false,
 		"isLastQues":false,
-		"imgCount": 14
+		"imgCount": 7
 	},
 
 	"options": [{
@@ -28,7 +29,8 @@
 		"imgsrc": {
 			"url": "assets/options/option1.png",			
 			"location": "content",
-			"style_class": "option1"
+			"style_class": "option1",
+			"style_class_min":"option1min"			
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Apple.ogg",
@@ -56,7 +58,8 @@
 		"imgsrc": {
 			"url": "assets/options/option2.png",			
 			"location": "content",
-			"style_class": "option2"
+			"style_class": "option2",
+			"style_class_min":"option2min"
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Banana.ogg",
@@ -85,7 +88,8 @@
 		"imgsrc": {
 			"url": "assets/options/option3.png",			
 			"location": "content",
-			"style_class": "option3"
+			"style_class": "option3",
+			"style_class_min":"option3min"
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Tomato.ogg",
@@ -114,7 +118,8 @@
 		"imgsrc": {
 			"url": "assets/options/option4.png",			
 			"location": "content",
-			"style_class": "option4"
+			"style_class": "option4",
+			"style_class_min":"option4min"
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Mango.ogg",
@@ -143,7 +148,8 @@
 			"url": "assets/options/option5.png",
 			"border_img_url": "assets/options/option5_hover.png",
 			"location": "content",
-			"style_class": "option5"
+			"style_class": "option5",
+			"style_class_min":"option5min"
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/papad.ogg",
@@ -173,7 +179,8 @@
 			"url": "assets/options/option6.png",
 			"border_img_url": "assets/options/option6_hover.png",
 			"location": "content",
-			"style_class": "option6"
+			"style_class": "option6",
+			"style_class_min":"option6min"			
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Grapes.ogg",
@@ -196,178 +203,6 @@
 			"location": "content"
 		},
 		"category": "A"
-	}, {
-		"index": 6,
-		"imgsrc": {
-			"url": "assets/options/option7.png",			
-			"location": "content",
-			"style_class": "option7"
-		},
-		"mouse_over_audio": {
-			"url": "assets/options/genda.ogg",
-			"location": "content"
-		},
-		"correct_vo": {
-			"url": "",
-			"location": "content"
-		},
-		"showAns_vo": {
-			"url": "",
-			"location": "content"
-		},
-		"incorrect_vo": {
-			"url": "assets/options/genda_incorrect.ogg",
-			"location": "content"
-		},
-		"mouse_over_img": {
-		    "url": "assets/options/option7_hover.png",			
-			"location": "content"
-		},
-		"category": ""
-	}, {
-		"index": 7,
-		"imgsrc": {
-			"url": "assets/options/option8.png",			
-			"location": "content",
-			"style_class": "option8"
-		},
-		"mouse_over_audio": {
-			"url": "assets/options/Peas.ogg",
-			"location": "content"
-		},
-		"correct_vo": {
-			"url": "assets/options/Peas_correct.ogg",
-			"location": "content"
-		},
-		"showAns_vo": {
-			"url": "assets/options/Peas_correct.ogg",
-			"location": "content"
-		},
-		"incorrect_vo": {
-			"url": "assets/options/Peas_incorrect.ogg",
-			"location": "content"
-		},
-		"mouse_over_img": {
-		    "url": "assets/options/option8_hover.png",			
-			"location": "content"
-		},	
-
-		"category": "B"
-	}, {
-		"index": 8,
-		"imgsrc": {
-			"url": "assets/options/option9.png",
-			"border_img_url": "assets/options/option9_hover.png",
-			"location": "content",
-			"style_class": "option9"
-		},
-		"mouse_over_audio": {
-			"url": "assets/options/Potato.ogg",
-			"location": "content"
-		},
-		"correct_vo": {
-			"url": "assets/options/Potato_correct.ogg",
-			"location": "content"
-		},
-		"showAns_vo": {
-			"url": "assets/options/Potato_correct.ogg",
-			"location": "content"
-		},
-		"incorrect_vo": {
-			"url": "assets/options/Potato_incorrect.ogg",
-			"location": "content"
-		},
-		"mouse_over_img": {
-		    "url": "assets/options/option9_hover.png",			
-			"location": "content"
-		},
-		"category": "B"
-	}, {
-		"index": 9,
-		"imgsrc": {
-			"url": "assets/options/option10.png",			
-			"location": "content",
-			"style_class": "option10"
-		},
-		"mouse_over_audio": {
-			"url": "assets/options/chilli.ogg",
-			"location": "content"
-		},
-		"correct_vo": {
-			"url": "",
-			"location": "content"
-		},
-		"showAns_vo": {
-			"url": "",
-			"location": "content"
-		},
-		"incorrect_vo": {
-			"url": "assets/options/chilli_incorrect.ogg",
-			"location": "content"
-		},
-		"mouse_over_img": {
-		    "url": "assets/options/option10_hover.png",			
-			"location": "content"
-		},	
-
-		"category": ""
-	}, {
-		"index": 10,
-		"imgsrc": {
-			"url": "assets/options/option11.png",
-			"border_img_url": "assets/options/option11_hover.png",
-			"location": "content",
-			"style_class": "option11"
-		},
-		"mouse_over_audio": {
-			"url": "assets/options/Brinjal.ogg",
-			"location": "content"
-		},
-		"correct_vo": {
-			"url": "assets/options/Brinjal_correct.ogg",
-			"location": "content"
-		},
-		"showAns_vo": {
-			"url": "assets/options/Brinjal_correct.ogg",
-			"location": "content"
-		},
-		"incorrect_vo": {
-			"url": "assets/options/Brinjal_incorrect.ogg",
-			"location": "content"
-		},
-		"mouse_over_img": {
-		    "url": "assets/options/option11_hover.png",			
-			"location": "content"
-		},
-		"category": "B"
-	},{
-		"index": 11,
-		"imgsrc": {
-			"url": "assets/options/option12.png",			
-			"location": "content",
-			"style_class": "option12"
-		},
-		"mouse_over_audio": {
-			"url": "assets/options/orange.ogg",
-			"location": "content"
-		},
-		"correct_vo": {
-			"url": "assets/options/Orange-correct.ogg",
-			"location": "content"
-		},
-		"showAns_vo": {
-			"url": "assets/options/Orange-correct.ogg",
-			"location": "content"
-		},
-		"incorrect_vo": {
-			"url": "assets/options/Orange-incorrect.ogg",
-			"location": "content"
-		},
-		"mouse_over_img": {
-		    "url": "assets/options/option12_hover.png",			
-			"location": "content"
-		},
-		"category": "A"
 	}],
 
 	"option_holder": {
@@ -383,7 +218,7 @@
 			"url": "assets/question/left_holder.png",
 			"location": "content"
 		},
-		"left_random_index": [0, 1, 3, 5, 11],
+		"left_random_index": [0, 1, 3, 5],
 
 		"rightHolder": {
 			"url": "assets/question/right_holder.png",
@@ -397,7 +232,7 @@
 			"url": "assets/question/right_holder.png",
 			"location": "content"
 		},
-		"right_random_index": [2, 7, 8, 10]
+		"right_random_index": [2]
 	},
 
 	"quesObj": {
@@ -452,7 +287,7 @@
 			"location": "content",
 			"autoPlay": true
 		},		 		 
-		"noOfOptions": 8,
+		"noOfOptions": 5,
 		"submitRequired": true,
         "replayRequired": true
 	},
