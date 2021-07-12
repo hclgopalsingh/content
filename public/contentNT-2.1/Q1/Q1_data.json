@@ -89,6 +89,7 @@
 		}],
 		"centralImg": {
 			"url": "assets/question/central_holder.png",
+			"urlpopup": "assets/question/central_holder_popup.png",
 			"location": "content"
 		},
 		"rightOptions": [{
