@@ -520,6 +520,14 @@
 			"url": "assets/popups/look_for_more_options/lookformore_popup_text.png",
 			"location": "content"
 		},
+		"empty_catea_text": {
+           "url": "assets/popups/look_for_more_options/fruits-popup.png",
+		   "location": "content"
+        },	
+        "empty_cateb_text": {
+           "url": "assets/popups/look_for_more_options/vegetable-popup.png",
+		   "location": "content"
+        },
 		"partial_feedback": {
 			"url":"assets/popups/look_for_more_options/partialFeedback.ogg",
 			"location":"content"
