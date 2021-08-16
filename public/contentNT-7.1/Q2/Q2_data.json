@@ -41,6 +41,26 @@
         },
         "opts": [
             {
+                "url": "assets/options/ga_select.png",
+                "location": "content",
+                "placedImage": {
+                    "url": "assets/images/letters/hindi/akshar/ga.png",
+                    "location": "assets"
+                },
+                "popupImage":{
+                    "url": "assets/options/ga_wrong.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "assets/options/m.ogg",
+                    "location": "content"
+                },
+                "baseImg": {
+                    "url": "options/option_base2.png",
+                    "location": "theme"
+                }
+            },
+            {
                 "url": "assets/options/ja_select.png",
                 "location": "content",
                 "placedImage": {
@@ -60,26 +80,6 @@
                     "location": "theme"
                 },
                 "isCorrect": true
-            },
-            {
-                "url": "assets/options/ga_select.png",
-                "location": "content",
-                "placedImage": {
-                    "url": "assets/images/letters/hindi/akshar/ga.png",
-                    "location": "assets"
-                },
-                "popupImage":{
-                    "url": "assets/options/ga_wrong.png",
-                    "location": "content"
-                },
-                "audio": {
-                    "url": "assets/options/m.ogg",
-                    "location": "content"
-                },
-                "baseImg": {
-                    "url": "options/option_base2.png",
-                    "location": "theme"
-                }
             },
             {
                 "url": "assets/options/ha_select.png",

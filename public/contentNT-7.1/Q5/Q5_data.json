@@ -30,8 +30,8 @@
             "url": "assets/options/showAnsSound.ogg",
             "location": "content"
         },
-        "isFirstQues": true,
-        "isLastQues": false,
+        "isFirstQues": false,
+        "isLastQues":true,
         "imgCount": 7
     },
     "options": {
@@ -40,27 +40,7 @@
             "location": "content"
         },
         "opts": [
-            {
-                "url": "assets/options/ja_select.png",
-                "location": "content",
-                "placedImage": {
-                    "url": "assets/images/letters/hindi/akshar/ja.png",
-                    "location": "assets"
-                },
-                "popupImage":{
-                    "url": "assets/options/ja_right.png",
-                    "location": "content"
-                },
-                "audio": {
-                    "url": "assets/options/p.ogg",
-                    "location": "content"
-                },
-                "baseImg": {
-                    "url": "options/option_base1.png",
-                    "location": "theme"
-                },
-                "isCorrect": true
-            },
+            
             {
                 "url": "assets/options/ga_select.png",
                 "location": "content",
@@ -180,6 +160,27 @@
                     "url": "options/option_base7.png",
                     "location": "theme"
                 }
+            },
+            {
+                "url": "assets/options/ja_select.png",
+                "location": "content",
+                "placedImage": {
+                    "url": "assets/images/letters/hindi/akshar/ja.png",
+                    "location": "assets"
+                },
+                "popupImage":{
+                    "url": "assets/options/ja_right.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "assets/options/p.ogg",
+                    "location": "content"
+                },
+                "baseImg": {
+                    "url": "options/option_base1.png",
+                    "location": "theme"
+                },
+                "isCorrect": true
             },
             {
                 "url": "assets/options/cha_select.png",
