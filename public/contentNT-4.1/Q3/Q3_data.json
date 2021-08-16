@@ -448,7 +448,7 @@
 			"location": "content",
 			"autoPlay": true
 		},		 		 
-		"noOfOptions": 10,
+		"noOfOptions": 8,
 		"submitRequired": true,
         "replayRequired": true
 	},
@@ -679,8 +679,16 @@
 		},
 		"info_text": {
 			"url": "assets/popups/look_for_more_options/lookformore_popup_text.png",
-			"location": "content"
+			"location":"content"
 		},
+		"empty_catea_text": {
+           "url": "assets/popups/look_for_more_options/birds.png",
+		   "location": "content"
+        },	
+        "empty_cateb_text": {
+           "url": "assets/popups/look_for_more_options/animals.png",
+		   "location": "content"
+        },
 		"partial_feedback": {
 			"url":"assets/popups/look_for_more_options/partialFeedback.ogg",
 			"location":"content"

@@ -44,7 +44,7 @@
                 "url": "assets/options/a_select.png",
                 "location": "content",
                 "placedImage": {
-                    "url": "assets/images/letters/english/small/a.png",
+                    "url": "assets/images/letters/english/small_centre/a.png",
                     "location": "assets"
                 },
                 "popupImage":{
@@ -64,7 +64,7 @@
                 "url": "assets/options/b_select.png",
                 "location": "content",
                 "placedImage": {
-                    "url": "assets/images/letters/english/small/b.png",
+                    "url": "assets/images/letters/english/small_centre/b.png",
                     "location": "assets"
                 },
                 "popupImage":{
@@ -84,7 +84,7 @@
                 "url": "assets/options/c_select.png",
                 "location": "content",
                 "placedImage": {
-                    "url": "assets/images/letters/english/small/c.png",
+                    "url": "assets/images/letters/english/small_centre/c.png",
                     "location": "assets"
                 },
                 "popupImage":{
@@ -104,7 +104,7 @@
                 "url": "assets/options/k_select.png",
                 "location": "content",
                 "placedImage": {
-                    "url": "assets/images/letters/english/small/k.png",
+                    "url": "assets/images/letters/english/small_centre/k.png",
                     "location": "assets"
                 },
                 "popupImage":{
@@ -124,7 +124,7 @@
                 "url": "assets/options/l_select.png",
                 "location": "content",
                 "placedImage": {
-                    "url": "assets/images/letters/english/small/l.png",
+                    "url": "assets/images/letters/english/small_centre/l.png",
                     "location": "assets"
                 },
                 "popupImage":{
@@ -145,7 +145,7 @@
                 "url": "assets/options/o_select.png",
                 "location": "content",
                 "placedImage": {
-                    "url": "assets/images/letters/english/small/o.png",
+                    "url": "assets/images/letters/english/small_centre/o.png",
                     "location": "assets"
                 },
                 "popupImage":{
@@ -165,7 +165,7 @@
                 "url": "assets/options/m_select.png",
                 "location": "content",
                 "placedImage": {
-                    "url": "assets/images/letters/english/small/m.png",
+                    "url": "assets/images/letters/english/small_centre/m.png",
                     "location": "assets"
                 },
                 "popupImage":{
@@ -185,7 +185,7 @@
                 "url": "assets/options/q_select.png",
                 "location": "content",
                 "placedImage": {
-                    "url": "assets/images/letters/english/small/q.png",
+                    "url": "assets/images/letters/english/small_centre/q.png",
                     "location": "assets"
                 },
                 "popupImage":{

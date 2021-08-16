@@ -41,27 +41,6 @@
         },
         "opts": [
             {
-                "url": "assets/options/la_select.png",
-                "location": "content",
-                "placedImage": {
-                    "url": "assets/images/letters/hindi/akshar/la.png",
-                    "location": "assets"
-                },
-                 "popupImage":{
-                    "url": "assets/options/la_right.png",
-                    "location": "content"
-                },
-                "audio": {
-                    "url": "assets/options/p.ogg",
-                    "location": "content"
-                },
-                "baseImg": {
-                    "url": "options/option_base1.png",
-                    "location": "theme"
-                },
-                "isCorrect": true
-            },
-            {
                 "url": "assets/options/ga_select.png",
                 "location": "content",
                 "placedImage": {
@@ -100,6 +79,27 @@
                     "url": "options/option_base3.png",
                     "location": "theme"
                 }
+            },
+            {
+                "url": "assets/options/la_select.png",
+                "location": "content",
+                "placedImage": {
+                    "url": "assets/images/letters/hindi/akshar/la.png",
+                    "location": "assets"
+                },
+                 "popupImage":{
+                    "url": "assets/options/la_right.png",
+                    "location": "content"
+                },
+                "audio": {
+                    "url": "assets/options/p.ogg",
+                    "location": "content"
+                },
+                "baseImg": {
+                    "url": "options/option_base1.png",
+                    "location": "theme"
+                },
+                "isCorrect": true
             },
             {
                 "url": "assets/options/pa_select.png",
@@ -145,7 +145,7 @@
                 "url": "assets/options/th_select.png",
                 "location": "content",
                 "placedImage": {
-                    "url": "assets/images/letters/hindi/akshar/th.png",
+                    "url": "assets/images/letters/hindi/akshar/tha.png",
                     "location": "assets"
                 },
                  "popupImage":{
@@ -293,9 +293,9 @@
                 "url": "assets/options/3.png",
                 "location": "content"
                
-            }         
+            }        
         ],
-        "isEnglish": true
+        "isEnglish": false
     },
     "feedback": {
         "style_header": {
