@@ -1,7 +1,7 @@
 {	
 	"productType": "elementary",
     "theme_name": "theme1",
-	"optionCount": "12",
+	"optionCount": "10",
 	"commonassets": {
 		"instruction_img": {
 			"url": "assets/instructionBar.png",
@@ -254,35 +254,37 @@
 			"location": "content"
 		},
 		"category": "B"
-	}, {
+	},
+	{
 		"index": 8,
 		"imgsrc": {
-			"url": "assets/options/option9.png",			
+			"url": "assets/options/option11.png",			
 			"location": "content",
 			"style_class": "option9"
 		},
 		"mouse_over_audio": {
-			"url": "assets/options/Cat.ogg",
+			"url": "assets/options/Hen.ogg",
 			"location": "content"
 		},
 		"correct_vo": {
-			"url": "assets/options/Cat_correct.ogg",
+			"url": "assets/options/Hen_correct.ogg",
 			"location": "content"
 		},
 		"showAns_vo": {
-			"url": "assets/options/Cat_correct.ogg",
+			"url": "assets/options/Hen_correct.ogg",
 			"location": "content"
 		},
 		"incorrect_vo": {
-			"url": "assets/options/Cat_incorrect.ogg",
+			"url": "assets/options/Hen_incorrect.ogg",
 			"location": "content"
 		},
 		"mouse_over_img": {
-		    "url": "assets/options/option9_hover.png",			
+		    "url": "assets/options/option11_hover.png",			
 			"location": "content"
 		},
-		"category": "B"
-	}, {
+		"category": "A"
+	   },
+	   {
 		"index": 9,
 		"imgsrc": {
 			"url": "assets/options/option10.png",			
@@ -310,62 +312,6 @@
 			"location": "content"
 		},
 		"category": ""
-	}, {
-		"index": 10,
-		"imgsrc": {
-			"url": "assets/options/option11.png",			
-			"location": "content",
-			"style_class": "option11"
-		},
-		"mouse_over_audio": {
-			"url": "assets/options/Hen.ogg",
-			"location": "content"
-		},
-		"correct_vo": {
-			"url": "assets/options/Hen_correct.ogg",
-			"location": "content"
-		},
-		"showAns_vo": {
-			"url": "assets/options/Hen_correct.ogg",
-			"location": "content"
-		},
-		"incorrect_vo": {
-			"url": "assets/options/Hen_incorrect.ogg",
-			"location": "content"
-		},
-		"mouse_over_img": {
-		    "url": "assets/options/option11_hover.png",			
-			"location": "content"
-		},
-		"category": "A"
-	   },{
-		"index": 11,
-		"imgsrc": {
-			"url": "assets/options/option12.png",			
-			"location": "content",
-			"style_class": "option12"
-		},
-		"mouse_over_audio": {
-			"url": "assets/options/Rose.ogg",
-			"location": "content"
-		},
-		"correct_vo": {
-			"url": "",
-			"location": "content"
-		},
-		"showAns_vo": {
-			"url": "",
-			"location": "content"
-		},
-		"incorrect_vo": {
-			"url": "assets/options/Rose_incorrect.ogg",
-			"location": "content"
-		},
-		"mouse_over_img": {
-		    "url": "assets/options/option12_hover.png",			
-			"location": "content"
-		},
-		"category": ""
 	}],
 
 	"option_holder": {
@@ -381,7 +327,7 @@
 			"url": "assets/question/left_holder.png",
 			"location": "content"
 		},
-		"left_random_index": [0, 2, 4, 6, 10],
+		"left_random_index": [0, 2, 4, 6, 8],
 
 		"rightHolder": {
 			"url": "assets/question/right_holder.png",
@@ -395,7 +341,7 @@
 			"url": "assets/question/right_holder.png",
 			"location": "content"
 		},
-		"right_random_index": [1, 3, 5, 7, 8]
+		"right_random_index": [1, 3, 5, 7]
 	},
 
 	"quesObj": {
@@ -450,7 +396,7 @@
 			"location": "content",
 			"autoPlay": true
 		},		 		 
-		"noOfOptions": 10,
+		"noOfOptions": 9,
 		"submitRequired": true,
         "replayRequired": true
 	},

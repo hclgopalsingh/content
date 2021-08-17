@@ -1,7 +1,7 @@
 {	
 	"productType": "elementary",
 	"theme_name": "theme1",
-	"optionCount": "12",
+	"optionCount": "8",
 	"commonassets": {
 		"instruction_img": {
 			"url": "assets/instructionBar.png",
@@ -21,7 +21,7 @@
 		},
 		"isFirstQues": false,
 		"isLastQues":true,
-		"imgCount": 14
+		"imgCount": 12
 	},
 
 	"options": [{
@@ -165,8 +165,9 @@
 			"location": "content"
 		},
 		"category": ""
-	}, {
-		"index": 5,
+	},
+	{
+		"index": 5,	
 		"imgsrc": {
 			"url": "assets/options/option6.png",			
 			"location": "content",
@@ -193,40 +194,13 @@
 			"location": "content"
 		},
 		"category": "A"
-	}, {
+	},
+	{
 		"index": 6,
-		"imgsrc": {
-			"url": "assets/options/option7.png",			
-			"location": "content",
-			"style_class": "option7"
-		},
-		"mouse_over_audio": {
-			"url": "assets/options/Hen.ogg",
-			"location": "content"
-		},
-		"correct_vo": {
-			"url": "",
-			"location": "content"
-		},
-		"showAns_vo": {
-			"url": "",
-			"location": "content"
-		},
-		"incorrect_vo": {
-			"url": "assets/options/Hen_incorrect.ogg",
-			"location": "content"
-		},
-		"mouse_over_img": {
-		    "url": "assets/options/option7_hover.png",			
-			"location": "content"
-		},
-		"category": ""
-	}, {
-		"index": 7,
 		"imgsrc": {
 			"url": "assets/options/option8.png",			
 			"location": "content",
-			"style_class": "option8"
+			"style_class": "option7"
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Peas.ogg",
@@ -249,12 +223,13 @@
 			"location": "content"
 		},
 		"category": "B"
-	}, {
-		"index": 8,
+	 }, 
+	 {
+		"index": 7,
 		"imgsrc": {
 			"url": "assets/options/option9.png",			
 			"location": "content",
-			"style_class": "option9"
+			"style_class": "option8"
 		},
 		"mouse_over_audio": {
 			"url": "assets/options/Potato.ogg",
@@ -277,90 +252,6 @@
 			"location": "content"
 		},
 		"category": "B"
-	}, {
-		"index": 9,
-		"imgsrc": {
-			"url": "assets/options/option10.png",			
-			"location": "content",
-			"style_class": "option10"
-		},
-		"mouse_over_audio": {
-			"url": "assets/options/Rose.ogg",
-			"location": "content"
-		},
-		"correct_vo": {
-			"url": "",
-			"location": "content"
-		},
-		"showAns_vo": {
-			"url": "",
-			"location": "content"
-		},
-		"incorrect_vo": {
-			"url": "assets/options/Rose_incorrect.ogg",
-			"location": "content"
-		},
-		"mouse_over_img": {
-		    "url": "assets/options/option10_hover.png",			
-			"location": "content"
-		},
-		"category": ""
-	}, {
-		"index": 10,
-		"imgsrc": {
-			"url": "assets/options/option11.png",			
-			"location": "content",
-			"style_class": "option11"
-		},
-		"mouse_over_audio": {
-			"url": "assets/options/Brinjal.ogg",
-			"location": "content"
-		},
-		"correct_vo": {
-			"url": "assets/options/Brinjal_correct.ogg",
-			"location": "content"
-		},
-		"showAns_vo": {
-			"url": "assets/options/Brinjal_correct.ogg",
-			"location": "content"
-		},
-		"incorrect_vo": {
-			"url": "assets/options/Brinjal_incorrect.ogg",
-			"location": "content"
-		},
-		"mouse_over_img": {
-		    "url": "assets/options/option11_hover.png",			
-			"location": "content"
-		},
-		"category": "B"
-	},{
-		"index": 11,
-		"imgsrc": {
-			"url": "assets/options/option12.png",			
-			"location": "content",
-			"style_class": "option12"
-		},
-		"mouse_over_audio": {
-			"url": "assets/options/Horse.ogg",
-			"location": "content"
-		},
-		"correct_vo": {
-			"url": "assets/options/Horse_correct.ogg",
-			"location": "content"
-		},
-		"showAns_vo": {
-			"url": "assets/options/Horse_correct.ogg",
-			"location": "content"
-		},
-		"incorrect_vo": {
-			"url": "assets/options/Horse_incorrect.ogg",
-			"location": "content"
-		},
-		"mouse_over_img": {
-		    "url": "assets/options/option12_hover.png",			
-			"location": "content"
-		},
-		"category": ""
 	}],
 
 	"option_holder": {
@@ -390,7 +281,7 @@
 			"url": "assets/question/right_holder.png",
 			"location": "content"
 		},
-		"right_random_index": [2, 7, 8, 10]
+		"right_random_index": [2, 6, 7]
 	},
 
 	"quesObj": {
@@ -445,7 +336,7 @@
 			"location": "content",
 			"autoPlay": true
 		},		 		 
-		"noOfOptions": 11,
+		"noOfOptions": 7,
 		"submitRequired": true,
         "replayRequired": true
 	},
