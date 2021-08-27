@@ -31,6 +31,7 @@
             "location": "content"
         },
     "isFirstQues": false,
+	"isSecondQues": false,
     "isLastQues":false,
 		"imgCount": 7
 	},
