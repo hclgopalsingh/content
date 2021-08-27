@@ -32,8 +32,9 @@
         },
 		 
     "isFirstQues": false,
+	"isSecondQues": true, 
     "isLastQues":false,
-		"imgCount": 7
+	"imgCount": 7
 	},
 
 	"options": {
