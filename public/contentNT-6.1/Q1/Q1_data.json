@@ -145,7 +145,7 @@
             "letterConfig": [
               {
                 "Lid": "L1",
-                "style": { "left": "-1" }
+                "style": { "left": "2" }
               },
               {
                 "Lid": "L2",
