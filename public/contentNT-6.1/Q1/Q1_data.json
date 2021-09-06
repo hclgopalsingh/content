@@ -145,7 +145,7 @@
             "letterConfig": [
               {
                 "Lid": "L1",
-                "style": { "left": "2" }
+                "style": { "left": "0" }
               },
               {
                 "Lid": "L2",
@@ -182,7 +182,7 @@
             "letterConfig": [
               {
                 "Lid": "L1",
-                "style": { "left": "3.9" }
+                "style": { "left": "1.8" }
               },
               {
                 "Lid": "L2",
@@ -196,6 +196,7 @@
                 "Lid": "L4",
                 "style": { "left": "3" }
               }
+
             ]
         },
         {
@@ -219,7 +220,7 @@
             "letterConfig": [
               {
                 "Lid": "L1",
-                "style": { "left": "3.7" }
+                "style": { "left": "1.0" }
               },
               {
                 "Lid": "L2",
@@ -298,7 +299,7 @@
             "autoPlay": true
         },
     "submitRequired":false,
-    "replayRequired":true,
+    "replayRequired":false,
         "quesInstruction": {
            "url": "assets/instructionAudio.ogg",
             "location": "content",
@@ -347,7 +348,7 @@
     },
   
     "feedback": {
-        "correct_ans_array": [ "L1", "L2", "L3", "M5", "L4"],
+        "correct_ans_array": [ "L1", "L2", "L3", "M5", "L4","L5"],
         "correct_option_number": 3,
         "correct_matra_number": 1,
         "style_header": {
