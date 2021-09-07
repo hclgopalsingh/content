@@ -351,7 +351,7 @@
         },
 
          "submitRequired":false,
-         "replayRequired":false,
+         "replayRequired":true,
         "quesPlayPause": {
       "urlglobal": "global/buttons/commonvideo/pause.svg",
       "location": "theme"
