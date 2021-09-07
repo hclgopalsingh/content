@@ -299,7 +299,7 @@
             "autoPlay": true
         },
     "submitRequired":false,
-    "replayRequired":false,
+    "replayRequired":true,
         "quesInstruction": {
            "url": "assets/instructionAudio.ogg",
             "location": "content",
