@@ -32,6 +32,7 @@
         },
 		  
     "isFirstQues": true,
+	"isSecondQues": false, 
     "isLastQues":false,
 		"imgCount": 7
 	},
